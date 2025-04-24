@@ -100,7 +100,7 @@
 # text = тикы' пуд <b_p> яхам' <s_p> таркахаюта нямна <s_p> ӈохолырць <s_p> мадав <s_p>
 # text_ru = После я переплыл реку там, где находится его развилка.
 # text_en = Then I crossed the river by swimming along where it forks.
-1	тикы	тикы	DEM	_	_	2	comp	_	AlignBegin=19885.2282639|AlignEnd=20134.6823599|Gloss=that
+1	тикы	тикы	DET	_	_	2	comp	_	AlignBegin=19885.2282639|AlignEnd=20134.6823599|Gloss=that
 2	-'	X	ADP	_	_	3	comp	_	AlignBegin=19885.2282639|AlignEnd=20134.6823599|Gloss=-gen
 3	пуд	пуд	ADP	_	_	16	mod	_	AlignBegin=20134.6823599|AlignEnd=20652.628525|Gloss=after.abl
 4	<b_p>	<b_p>	X	_	_	3	disfluency	_	AlignBegin=20652.628525|AlignEnd=21543.9814893|Gloss=PAUSE
@@ -112,7 +112,7 @@
 10	-та	X	ADP	_	_	11	comp	_	AlignBegin=25217.3576132|AlignEnd=26000.5024092|Gloss=-poss.gen.3sg
 11	нямна	нямна	ADP	_	_	16	mod	_	AlignBegin=26000.5024092|AlignEnd=26635.3728789|Gloss=at.prol
 12	<s_p>	<s_p>	X	_	_	11	disfluency	_	AlignBegin=26635.3728789|AlignEnd=27149.3460496|Gloss=PAUSE
-13	ӈохолыр	ӈохолыр-	V	_	_	14	comp	_	AlignBegin=27149.3460496|AlignEnd=28605.2209462|Gloss=swim
+13	ӈохолыр	ӈохолыр-	VERB	_	_	14	comp	_	AlignBegin=27149.3460496|AlignEnd=28605.2209462|Gloss=swim
 14	-ць	X	ADV	_	_	16	mod	_	AlignBegin=27149.3460496|AlignEnd=28605.2209462|Gloss=-cvb
 15	<s_p>	<s_p>	X	_	_	14	punct	_	AlignBegin=28605.2209462|AlignEnd=29210.9750403|Gloss=SIL
 16	мада	мада-	VERB	_	_	0	root	_	AlignBegin=29210.9750403|AlignEnd=29756.3256595|Gloss=pass.across
@@ -147,7 +147,7 @@
 7	-хада	X	ADP	_	_	18	mod	_	AlignBegin=33085.6141428|AlignEnd=34024.1519907|Gloss=-abl
 8	-ни	X	X	_	_	6	det:poss	_	AlignBegin=33085.6141428|AlignEnd=34024.1519907|Gloss=-poss.1sg
 9	<b_p>	<b_p>	PUNCT	_	_	7	punct	_	AlignBegin=34024.1519907|AlignEnd=34219.50376|Gloss=SIL
-10	ӈани'	ӈани'	CNJ	_	_	18	conj	_	AlignBegin=34219.50376|AlignEnd=34567.7395226|Gloss=again
+10	ӈани'	ӈани'	CCONJ	_	_	18	conj	_	AlignBegin=34219.50376|AlignEnd=34567.7395226|Gloss=again
 11	ӈохолыр	ӈохолыр-	VERB	_	_	12	comp	_	AlignBegin=34567.7395226|AlignEnd=35141.0544975|Gloss=swim
 12	-ць	X	ADV	_	_	18	mod	_	AlignBegin=34567.7395226|AlignEnd=35141.0544975|Gloss=-cvb
 13	яха	яха	NOUN	_	_	14	comp	_	AlignBegin=35141.0544975|AlignEnd=35451.0692618|Gloss=river
@@ -326,7 +326,7 @@
 2	хэву	хэв	NOUN	_	_	3	comp	_	AlignBegin=71663.4963372|AlignEnd=72357.4367523|Gloss=side
 3	-вна	X	ADP	_	_	11	mod	_	AlignBegin=71663.4963372|AlignEnd=72357.4367523|Gloss=-prol
 4	-нда	X	DET	_	_	2	det:poss	_	AlignBegin=71663.4963372|AlignEnd=72357.4367523|Gloss=-poss.3sg
-5	ӈани'	ӈани'	CNJ	_	_	11	conj	_	AlignBegin=72357.4367523|AlignEnd=72575.5323113|Gloss=again
+5	ӈани'	ӈани'	CCONJ	_	_	11	conj	_	AlignBegin=72357.4367523|AlignEnd=72575.5323113|Gloss=again
 6	несэй	несэй	ADJ	_	_	7	mod	_	AlignBegin=72575.5323113|AlignEnd=72825.8465324|Gloss=new (other)
 7	нё	нё	NOUN	_	_	8	comp	_	AlignBegin=72825.8465324|AlignEnd=72986.9398431|Gloss=door
 8	-'	X	ADP	_	_	9	mod:poss	_	AlignBegin=72825.8465324|AlignEnd=72986.9398431|Gloss=-gen
