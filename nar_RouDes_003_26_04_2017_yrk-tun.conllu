@@ -31,7 +31,7 @@
 4	-'	X	ADP	_	_	5	mod:poss	_	AlignBegin=7524.70119689|AlignEnd=7897.64855121|Gloss=-gen
 5	пыя	пыя	NOUN	_	_	6	comp	_	AlignBegin=7897.64855121|AlignEnd=8284.12392244|Gloss=end
 6	-хад	X	ADP	_	_	11	mod	_	AlignBegin=7897.64855121|AlignEnd=8284.12392244|Gloss=-abl
-7	<s_p>	<s_p>	X	_	_	6	disfluency	_	AlignBegin=8284.12392244|AlignEnd=9057.45650322|Gloss=PAUSE
+7	<s_p>	<s_p>	X	_	_	6	discourse	_	AlignBegin=8284.12392244|AlignEnd=9057.45650322|Gloss=PAUSE
 8	тодо'	тодо'	X	_	_	9	mod	_	AlignBegin=9057.45650322|AlignEnd=9281.76532837|Gloss=?around?
 9	яха	яха	NOUN	_	_	10	comp	_	AlignBegin=9281.76532837|AlignEnd=9456.29697149|Gloss=river
 10	-"	X	ADP	_	_	11	mod	_	AlignBegin=9281.76532837|AlignEnd=9456.29697149|Gloss=-gen
@@ -109,7 +109,7 @@
 1	нер	нер-	ADP	_	_	2	comp	_	AlignBegin=28079.0309466|AlignEnd=28575.0894168|Gloss=in.front.of
 2	-ни	X	ADP	_	_	3	comp	_	AlignBegin=28079.0309466|AlignEnd=28575.0894168|Gloss=-poss.gen.1sg
 3	няна	няна	ADP	_	_	11	mod	_	AlignBegin=28575.0894168|AlignEnd=29147.7866932|Gloss=at.loc
-4	<s_p>	<s_p>	X	_	_	3	disfluency	_	AlignBegin=29147.7866932|AlignEnd=29690.5203274|Gloss=PAUSE
+4	<s_p>	<s_p>	X	_	_	3	discourse	_	AlignBegin=29147.7866932|AlignEnd=29690.5203274|Gloss=PAUSE
 5	пирця	пирця	ADJ	_	_	6	mod	_	AlignBegin=29690.5203274|AlignEnd=30023.3881469|Gloss=tall
 6	махалэй	махалэй	ADJ	_	_	9	mod	_	AlignBegin=30023.3881469|AlignEnd=30663.7782393|Gloss=roof.adj
 7	-та	X	DET	_	_	6	det	_	AlignBegin=30023.3881469|AlignEnd=30663.7782393|Gloss=-predest
@@ -166,7 +166,7 @@
 1	махалэя	махалы	NOUN	_	_	2	comp	_	AlignBegin=39723.278794|AlignEnd=40354.6904688|Gloss=roof
 2	-нда	X	ADP	_	_	3	comp	_	AlignBegin=39723.278794|AlignEnd=40354.6904688|Gloss=-poss.gen.3sg
 3	 нид	нид	ADP	_	_	6	mod	_	AlignBegin=40354.6904688|AlignEnd=40517.9775053|Gloss=at.abl
-4	<b_p>	<b_p>	X	_	_	3	disfluency	_	AlignBegin=40517.9775053|AlignEnd=41033.396586|Gloss=PAUSE
+4	<b_p>	<b_p>	X	_	_	3	discourse	_	AlignBegin=40517.9775053|AlignEnd=41033.396586|Gloss=PAUSE
 5	я"амна	я"амна	ADP	_	_	6	mod	_	AlignBegin=41033.396586|AlignEnd=41445.1252477|Gloss=around.prol
 6	сыр-ӈа	сыр-	VERB	_	_	0	root	_	AlignBegin=41445.1252477|AlignEnd=42004.5994819|Gloss=look-co
 7	-дм'	X	PRON	_	_	6	subj	_	AlignBegin=41445.1252477|AlignEnd=42004.5994819|Gloss=-1sg
@@ -178,7 +178,7 @@
 # text_ru = Затем я спустился.
 # text_en = Then I went down.
 1	тадтикахад	тадтикахад	ADV	_	_	4	mod	_	AlignBegin=44528.3289662|AlignEnd=45176.2415286|Gloss=afterwards
-2	<s_p>	<s_p>	X	_	_	1	disfluency	_	AlignBegin=44528.3289662|AlignEnd=45176.2415286|Gloss=PAUSE
+2	<s_p>	<s_p>	X	_	_	1	discourse	_	AlignBegin=44528.3289662|AlignEnd=45176.2415286|Gloss=PAUSE
 3	таси'	таси'	ADV	_	_	4	mod	_	AlignBegin=45176.2415286|AlignEnd=45431.1859317|Gloss=downward.dat
 4	ха"мы	ха"ма-	VERB	_	_	0	root	_	AlignBegin=45732.2631316|AlignEnd=46177.8088267|Gloss=go.down
 5	-в"	X	PRON	_	_	4	subj	_	AlignBegin=45732.2631316|AlignEnd=46177.8088267|Gloss=-1sg.refl
@@ -213,7 +213,7 @@
 3	<s_p>	<s_p>	PUNCT	_	_	2	punct	_	AlignBegin=51829.4716627|AlignEnd=52061.0748695|Gloss=SIL
 4	яха	яха	NOUN	_	_	5	comp	_	AlignBegin=52061.0748695|AlignEnd=52437.1984775|Gloss=river
 5	-м'	X	ADP	_	_	10	comp:obj	_	AlignBegin=52061.0748695|AlignEnd=52437.1984775|Gloss=-acc
-6	<s_p>	<s_p>	X	_	_	5	disfluency	_	AlignBegin=52437.1984775|AlignEnd=52805.9107828|Gloss=PAUSE
+6	<s_p>	<s_p>	X	_	_	5	discourse	_	AlignBegin=52437.1984775|AlignEnd=52805.9107828|Gloss=PAUSE
 7	пул	пул	NOUN	_	_	8	comp	_	AlignBegin=52805.9107828|AlignEnd=53072.717677|Gloss=bridge
 8	-'	X	ADP	_	_	9	comp	_	AlignBegin=52805.9107828|AlignEnd=53072.717677|Gloss=-gen
 9	ӈыламна	ӈыламна	ADP	_	_	10	mod	_	AlignBegin=53072.717677|AlignEnd=53469.2223672|Gloss=under.prol
@@ -244,7 +244,7 @@
 6	-'	X	ADP	_	_	7	mod:poss	_	AlignBegin=58981.3998959|AlignEnd=59250.8721919|Gloss=-gen
 7	вару	вар	NOUN	_	_	8	comp	_	AlignBegin=59250.8721919|AlignEnd=59843.6957575|Gloss=shore
 8	-вна	X	ADP	_	_	18	mod	_	AlignBegin=59250.8721919|AlignEnd=59843.6957575|Gloss=-prol
-9	<s_p>	<s_p>	X	_	_	8	disfluency	_	AlignBegin=59843.6957575|AlignEnd=60077.538703|Gloss=PAUSE
+9	<s_p>	<s_p>	X	_	_	8	discourse	_	AlignBegin=59843.6957575|AlignEnd=60077.538703|Gloss=PAUSE
 10	яха	яха	NOUN	_	_	11	comp	_	AlignBegin=60077.538703|AlignEnd=60272.679267|Gloss=river
 11	-'	X	ADP	_	_	12	mod:poss	_	AlignBegin=60077.538703|AlignEnd=60272.679267|Gloss=-gen
 12	лаӈг	лаӈг	NOUN	_	_	13	comp	_	AlignBegin=60272.679267|AlignEnd=60517.5542162|Gloss=steep.riverbank
@@ -263,9 +263,9 @@
 # text_ru = Там не оказалось лодки, лодка оказалась на другом берегу реки.
 # text_en = There was no boat; the boat was on the other side of the river.
 1	таняна	таняна	ADV	_	_	5	mod	_	AlignBegin=63077.3578044|AlignEnd=63584.8899994|Gloss=there
-2	<b_p>	<b_p>	X	_	_	1	disfluency	_	AlignBegin=63584.8899994|AlignEnd=63964.8051229|Gloss=PAUSE
+2	<b_p>	<b_p>	X	_	_	1	discourse	_	AlignBegin=63584.8899994|AlignEnd=63964.8051229|Gloss=PAUSE
 3	ӈано	ӈано	NOUN	_	_	5	subj	_	AlignBegin=63964.8051229|AlignEnd=64495.0463743|Gloss=boat
-4	<s_p>	<s_p>	X	_	_	3	disfluency	_	AlignBegin=64495.0463743|AlignEnd=65126.4161119|Gloss=PAUSE
+4	<s_p>	<s_p>	X	_	_	3	discourse	_	AlignBegin=64495.0463743|AlignEnd=65126.4161119|Gloss=PAUSE
 5	яӈго	X	VERB	_	_	0	root	_	AlignBegin=65126.4161119|AlignEnd=65653.924161|Gloss=not.exist
 6	-вы	X	AUX	_	_	5	aux	_	AlignBegin=65126.4161119|AlignEnd=65653.924161|Gloss=-infr.3sg
 7	<s_p>	<s_p>	PUNCT	_	_	5	punct	_	AlignBegin=65653.924161|AlignEnd=65834.3155146|Gloss=SIL
@@ -284,7 +284,7 @@
 # text_en = I swam across the river to the side of the boat.
 1	яха	яха	NOUN	_	_	2	comp	_	AlignBegin=67942.4445949|AlignEnd=68469.3078828|Gloss=river
 2	-м'	X	ADP	_	_	4	comp:obj	_	AlignBegin=67942.4445949|AlignEnd=68469.3078828|Gloss=-acc
-3	<b_p>	<b_p>	X	_	_	2	disfluency	_	AlignBegin=68469.3078828|AlignEnd=68910.9639857|Gloss=PAUSE
+3	<b_p>	<b_p>	X	_	_	2	discourse	_	AlignBegin=68469.3078828|AlignEnd=68910.9639857|Gloss=PAUSE
 4	ӈохолыр	ӈохолыр-	VERB	_	_	5	comp	_	AlignBegin=68910.9639857|AlignEnd=69904.0933848|Gloss=swim
 5	-ць	X	ADV	_	_	10	mod	_	AlignBegin=68910.9639857|AlignEnd=69904.0933848|Gloss=-cvb
 6	<s_p>	<s_p>	PUNCT	_	_	5	punct	_	AlignBegin=69904.0933848|AlignEnd=70293.2282214|Gloss=SIL
