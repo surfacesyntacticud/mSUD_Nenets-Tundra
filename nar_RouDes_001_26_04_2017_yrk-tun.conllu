@@ -168,13 +168,13 @@
 1	яха	яха	NOUN	_	_	2	comp	_	AlignBegin=37398.4418421|AlignEnd=37600.8987442|Gloss=river
 2	-'	X	ADP	_	_	3	mod:poss	_	AlignBegin=37398.4418421|AlignEnd=37600.8987442|Gloss=-gen
 3	и	и"	NOUN	_	_	4	comp	_	AlignBegin=37600.8987442|AlignEnd=37971.2933848|Gloss=water
-4	-каня	X	ADP	_	_	7	mod	_	AlignBegin=37600.8987442|AlignEnd=37971.2933848|Gloss=-loc
-5	халя	халя	NOUN	_	_	7	subj	_	AlignBegin=37971.2933848|AlignEnd=38377.1749371|Gloss=fish
+4	-каня	X	ADP	_	_	8	mod	_	AlignBegin=37600.8987442|AlignEnd=37971.2933848|Gloss=-loc
+5	халя	халя	NOUN	_	_	8	subj	_	AlignBegin=37971.2933848|AlignEnd=38377.1749371|Gloss=fish
 6	-"	X	NUM	_	_	5	mod	_	AlignBegin=37971.2933848|AlignEnd=38377.1749371|Gloss=-pl
-7	таня	таня-	VERB	_	_	0	root	_	AlignBegin=38377.1749371|AlignEnd=38922.7862041|Gloss=exist
-8	-вы	X	AUX	_	_	7	aux	_	AlignBegin=38377.1749371|AlignEnd=38922.7862041|Gloss=-infr.3sg
-9	-"	X	PRON	_	_	7	subj	_	AlignBegin=38377.1749371|AlignEnd=38922.7862041|Gloss=-3pl
-10	<b_p>	<b_p>	PUNCT	_	_	7	punct	_	AlignBegin=38922.7862041|AlignEnd=40110.4887792|Gloss=SIL
+7	таня	таня-	VERB	_	_	8	aux	_	AlignBegin=38377.1749371|AlignEnd=38922.7862041|Gloss=exist
+8	-вы	X	AUX	_	_	0	root	_	AlignBegin=38377.1749371|AlignEnd=38922.7862041|Gloss=-infr.3sg
+9	-"	X	PRON	_	_	8	subj	_	AlignBegin=38377.1749371|AlignEnd=38922.7862041|Gloss=-3pl
+10	<b_p>	<b_p>	PUNCT	_	_	8	punct	_	AlignBegin=38922.7862041|AlignEnd=40110.4887792|Gloss=SIL
 
 # doc_title = Route description 001
 # sent_id = 11
@@ -398,12 +398,11 @@
 # text_en = Two deer appeared to be behind the fence.
 1	маря	мар"	NOUN	_	_	2	comp	_	AlignBegin=86338.7574292|AlignEnd=86736.2373378|Gloss=fence
 2	-д'	X	ADP	_	_	3	comp	_	AlignBegin=86338.7574292|AlignEnd=86736.2373378|Gloss=-poss.gen.2sg
-3	тяхана	тяхана	ADP	_	_	7	mod	_	AlignBegin=86736.2373378|AlignEnd=87183.7502707|Gloss=behind.loc
-4	<s_p>	<s_p>	X	_	_	3	discourse	_	AlignBegin=87183.7502707|AlignEnd=87492.4775472|Gloss=PAUSE
+3	тяхана	тяхана	ADP	_	_	8	mod	_	AlignBegin=86736.2373378|AlignEnd=87183.7502707|Gloss=behind.loc
+4	<s_p>	<s_p>	X	_	_	3	disfluency	_	AlignBegin=87183.7502707|AlignEnd=87492.4775472|Gloss=PAUSE
 5	тэ	ты	NOUN	_	_	7	subj	_	AlignBegin=87492.4775472|AlignEnd=87855.0196701|Gloss=reindeer
 6	-хэ'	X	NUM	_	_	5	mod	_	AlignBegin=87492.4775472|AlignEnd=87855.0196701|Gloss=-du
-7	таня	таня-	VERB	_	_	0	root	_	AlignBegin=87855.0196701|AlignEnd=88429.9888181|Gloss=exist
-8	-вэ	X	AUX	_	_	7	aux	_	AlignBegin=87855.0196701|AlignEnd=88429.9888181|Gloss=-infr.3sg
-9	-хэ"	X	PRON	_	_	7	subj	_	AlignBegin=87855.0196701|AlignEnd=88429.9888181|Gloss=-3du
-10	<s_p>	<s_p>	PUNCT	_	_	7	punct	_	AlignBegin=88429.9888181|AlignEnd=89268.707483|Gloss=SIL
-
+7	таня	таня-	VERB	_	_	8	aux	_	AlignBegin=87855.0196701|AlignEnd=88429.9888181|Gloss=exist
+8	-вэ	X	AUX	_	_	0	root	_	AlignBegin=87855.0196701|AlignEnd=88429.9888181|Gloss=-infr.3sg
+9	-хэ"	X	PRON	_	_	8	subj	_	AlignBegin=87855.0196701|AlignEnd=88429.9888181|Gloss=-3du
+10	<s_p>	<s_p>	PUNCT	_	_	8	punct	_	AlignBegin=88429.9888181|AlignEnd=89268.707483|Gloss=SIL
