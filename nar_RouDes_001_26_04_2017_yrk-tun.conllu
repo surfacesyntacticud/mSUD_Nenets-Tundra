@@ -346,7 +346,7 @@
 2	сер'	сер'	ADP	_	_	3	mod	_	AlignBegin=74593.3610876|AlignEnd=74909.5454341|Gloss=when
 3	ха"мы	ха"ма-	VERB	_	_	0	root	_	AlignBegin=74909.5454341|AlignEnd=75539.0428681|Gloss=go.down
 4	-в'	X	PRON	_	_	3	subj	_	AlignBegin=74909.5454341|AlignEnd=75539.0428681|Gloss=-1sg.refl
-5	<s_p>	<s_p>	PUNCT	_	_	3	conj	_	AlignBegin=75539.0428681|AlignEnd=76514.9480759|Gloss=SIL
+5	<s_p>	<s_p>	PUNCT	_	_	3	punct	_	AlignBegin=75539.0428681|AlignEnd=76514.9480759|Gloss=SIL
 6	тамна	тамна	ADV	_	_	7	mod	_	AlignBegin=76514.9480759|AlignEnd=76730.496334|Gloss=even
 7	тяха'	тяха"	ADV	_	_	8	mod	_	AlignBegin=76730.496334|AlignEnd=76860.0911208|Gloss=further
 8	ядал-ъя	ядал-	VERB	_	_	3	parataxis	_	AlignBegin=76860.0911208|AlignEnd=77465.0598865|Gloss=go.forth-co.refl
@@ -399,11 +399,11 @@
 1	маря	мар"	NOUN	_	_	2	comp	_	AlignBegin=86338.7574292|AlignEnd=86736.2373378|Gloss=fence
 2	-д'	X	ADP	_	_	3	comp	_	AlignBegin=86338.7574292|AlignEnd=86736.2373378|Gloss=-poss.gen.2sg
 3	тяхана	тяхана	ADP	_	_	7	mod	_	AlignBegin=86736.2373378|AlignEnd=87183.7502707|Gloss=behind.loc
-4	<s_p> 	<s_p>	X	_	_	3	discourse	_	AlignBegin=87183.7502707|AlignEnd=87492.4775472|Gloss=PAUSE
+4	<s_p>	<s_p>	X	_	_	3	discourse	_	AlignBegin=87183.7502707|AlignEnd=87492.4775472|Gloss=PAUSE
 5	тэ	ты	NOUN	_	_	7	subj	_	AlignBegin=87492.4775472|AlignEnd=87855.0196701|Gloss=reindeer
 6	-хэ'	X	NUM	_	_	5	mod	_	AlignBegin=87492.4775472|AlignEnd=87855.0196701|Gloss=-du
 7	таня	таня-	VERB	_	_	0	root	_	AlignBegin=87855.0196701|AlignEnd=88429.9888181|Gloss=exist
 8	-вэ	X	AUX	_	_	7	aux	_	AlignBegin=87855.0196701|AlignEnd=88429.9888181|Gloss=-infr.3sg
 9	-хэ"	X	PRON	_	_	7	subj	_	AlignBegin=87855.0196701|AlignEnd=88429.9888181|Gloss=-3du
-10	<s_p> 	<s_p>	PUNCT	_	_	7	punct	_	AlignBegin=88429.9888181|AlignEnd=89268.707483|Gloss=SIL
+10	<s_p>	<s_p>	PUNCT	_	_	7	punct	_	AlignBegin=88429.9888181|AlignEnd=89268.707483|Gloss=SIL
 
