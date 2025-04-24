@@ -165,7 +165,7 @@
 # text_en = I looked around from its roof.
 1	махалэя	махалы	NOUN	_	_	2	comp	_	AlignBegin=39723.278794|AlignEnd=40354.6904688|Gloss=roof
 2	-нда	X	ADP	_	_	3	comp	_	AlignBegin=39723.278794|AlignEnd=40354.6904688|Gloss=-poss.gen.3sg
-3	 нид	нид	ADP	_	_	6	mod	_	AlignBegin=40354.6904688|AlignEnd=40517.9775053|Gloss=at.abl
+3	нид	нид	ADP	_	_	6	mod	_	AlignBegin=40354.6904688|AlignEnd=40517.9775053|Gloss=at.abl
 4	<b_p>	<b_p>	X	_	_	3	discourse	_	AlignBegin=40517.9775053|AlignEnd=41033.396586|Gloss=PAUSE
 5	я"амна	я"амна	ADP	_	_	6	mod	_	AlignBegin=41033.396586|AlignEnd=41445.1252477|Gloss=around.prol
 6	сыр-ӈа	сыр-	VERB	_	_	0	root	_	AlignBegin=41445.1252477|AlignEnd=42004.5994819|Gloss=look-co
@@ -311,4 +311,3 @@
 9	ядалъ-я	ядалъ-	VERB	_	_	3	parataxis	_	AlignBegin=75478.9135828|AlignEnd=75950.7105396|Gloss=go.forth-co.refl
 10	-в'	X	PRON	_	_	9	subj	_	AlignBegin=75478.9135828|AlignEnd=75950.7105396|Gloss=1sg.refl
 11	<s_p>	<s_p>	PUNCT	_	_	3	punct	_	AlignBegin=75950.7105396|AlignEnd=76474.9206349|Gloss=SIL
-
