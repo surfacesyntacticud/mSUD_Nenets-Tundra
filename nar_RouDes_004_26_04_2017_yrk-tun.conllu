@@ -83,7 +83,7 @@
 # text_ru=На веслах мы переплыли реку на другую сторону.
 # text_en=We paddled across the river to the other bank.
 1	лабята	лабята	ADV	_	_	6	mod	_	AlignBegin=12051.421855|AlignEnd=12625.7681317|Gloss=row.cvb
-2	<s_p>	<s_p>	X	_	_	1	disfluency	_	AlignBegin=12625.7681317|AlignEnd=13010.6235836|Gloss=PAUSE
+2	<s_p>	<s_p>	X	_	_	1	discourse	_	AlignBegin=12625.7681317|AlignEnd=13010.6235836|Gloss=PAUSE
 3	яха	яха	NOUN	_	_	4	comp	_	AlignBegin=13010.6235836|AlignEnd=13479.9198941|Gloss=river
 4	-м'	X	ADP	_	_	6	comp:obj	_	AlignBegin=13010.6235836|AlignEnd=13479.9198941|Gloss=-acc
 5	тяханяю'	тяханяю'	ADV	_	_	6	mod	_	AlignBegin=13479.9198941|AlignEnd=13883.0459705|Gloss=there.pol
@@ -119,7 +119,7 @@
 6	тир	тир	NOUN	_	_	7	comp	_	AlignBegin=19436.9822842|AlignEnd=20169.443982|Gloss=edge
 7	-мана-	X	ADP	_	_	11	mod	_	AlignBegin=19436.9822842|AlignEnd=20169.443982|Gloss=-prol
 8	-нда	X	DET	_	_	6	det:poss	_	AlignBegin=19436.9822842|AlignEnd=20169.443982|Gloss=poss.3sg
-9	<b_p>	<b_p>	X	_	_	8	disfluency	_	AlignBegin=20169.443982|AlignEnd=20482.3949484|Gloss=PAUSE
+9	<b_p>	<b_p>	X	_	_	8	discourse	_	AlignBegin=20169.443982|AlignEnd=20482.3949484|Gloss=PAUSE
 10	таси' 	таси'	ADV	_	_	11	mod	_	AlignBegin=20482.3949484|AlignEnd=21013.2525137|Gloss=downward
 11	ха"авра-	ха"авра-	VERB	_	_	0	root	_	AlignBegin=21013.2525137|AlignEnd=21912.4589634|Gloss=go.down
 12	-ва"	X	PRON	_	_	11	subj	_	AlignBegin=21013.2525137|AlignEnd=21912.4589634|Gloss=-1pl
@@ -152,7 +152,7 @@
 8	пул	пул	NOUN	_	_	9	comp	_	AlignBegin=26855.8225609|AlignEnd=27098.7685973|Gloss=bridge
 9	-'	X	ADP	_	_	10	comp	_	AlignBegin=26855.8225609|AlignEnd=27098.7685973|Gloss=-gen
 10	ӈыламна	ӈыламна	ADP	_	_	13	mod	_	AlignBegin=27098.7685973|AlignEnd=27576.0825389|Gloss=under.prol
-11	<b_p>	<b_p>	X	_	_	10	disfluency	_	AlignBegin=27576.0825389|AlignEnd=27860.5807046|Gloss=PAUSE
+11	<b_p>	<b_p>	X	_	_	10	discourse	_	AlignBegin=27576.0825389|AlignEnd=27860.5807046|Gloss=PAUSE
 12	ӈохолё	ӈохолё	ADV	_	_	13	mod	_	AlignBegin=27860.5807046|AlignEnd=28201.1539735|Gloss=swim.cvb
 13	хэ-	хэ-	VERB	_	_	14	comp	_	AlignBegin=28201.1539735|AlignEnd=28516.3436309|Gloss=go
 14	-сь	cvb	ADV	_	_	15	comp	_	AlignBegin=28201.1539735|AlignEnd=28516.3436309|Gloss=-cvb
@@ -187,7 +187,7 @@
 8	-хада-	X	ADP	_	_	16	mod	_	AlignBegin=32639.9456464|AlignEnd=33774.7064265|Gloss=-abl
 9	-на"	X	DET	_	_	7	det:poss	_	AlignBegin=32639.9456464|AlignEnd=33774.7064265|Gloss=-poss.1pl
 10	пирця	пирця	ADJ	_	_	12	mod	_	AlignBegin=33774.7064265|AlignEnd=34528.0065835|Gloss=tall
-11	<b_p>	<b_p>	X	_	_	10	disfluency	_	AlignBegin=34528.0065835|AlignEnd=35218.5317274|Gloss=PAUSE
+11	<b_p>	<b_p>	X	_	_	10	discourse	_	AlignBegin=34528.0065835|AlignEnd=35218.5317274|Gloss=PAUSE
 12	махалэй	махалы	NOUN	_	_	14	mod	_	AlignBegin=35218.5317274|AlignEnd=35837.4745422|Gloss=roof
 13	саблюй 	саблюй 	ADJ	_	_	14	mod	_	AlignBegin=35837.4745422|AlignEnd=36360.8994966|Gloss=peak
 14	харад	харад	NOUN	_	_	15	comp	_	AlignBegin=36360.8994966|AlignEnd=36801.1602731|Gloss=house-acc
@@ -275,7 +275,7 @@
 # text_ru=Затем мы обошли дом с левой стороны, пошли по высокому ровному месту пешком.
 # text_en=Next, we walked around the left side of the house and returned to the high, flat ground.
 1	Тадтикахавахад	тадтикахавахад	ADV	_	_	12	mod	_	AlignBegin=50606.7418763|AlignEnd=51728.6156375|Gloss=afterwards
-2	<b_p>	<b_p>	X	_	_	1	disfluency	_	AlignBegin=51728.6156375|AlignEnd=54649.3234326|Gloss=PAUSE
+2	<b_p>	<b_p>	X	_	_	1	discourse	_	AlignBegin=51728.6156375|AlignEnd=54649.3234326|Gloss=PAUSE
 3	маха<a>	маха	NOUN	_	_	12	mod	_	AlignBegin=54649.3234326|AlignEnd=55244.2816745|Gloss=back
 4	харад	харад	NOUN	_	_	5	comp	_	AlignBegin=55244.2816745|AlignEnd=55683.5491889|Gloss=house
 5	-м'	X	ADP	_	_	12	comp:obj	_	AlignBegin=55244.2816745|AlignEnd=55683.5491889|Gloss=-acc
@@ -319,7 +319,7 @@
 # text_ru=Потом мы дошли до развилки реки.
 # text_en=We came to a fork in the river.
 1	тадтикахад	тадтикахад	ADV	_	_	7	mod	_	AlignBegin=63715.9792598|AlignEnd=64377.3617698|Gloss=afterwards
-2	<b_p>	<b_p>	X	_	_	1	disfluency	_	AlignBegin=64377.3617698|AlignEnd=64696.0075272|Gloss=PAUSE
+2	<b_p>	<b_p>	X	_	_	1	discourse	_	AlignBegin=64377.3617698|AlignEnd=64696.0075272|Gloss=PAUSE
 3	яха	яха	NOUN	_	_	4	comp	_	AlignBegin=64696.0075272|AlignEnd=65020.1002207|Gloss=river
 4	-'	X	ADP	_	_	5	mod:poss	_	AlignBegin=64696.0075272|AlignEnd=65020.1002207|Gloss=-gen
 5	тарка	тарка	NOUN	_	_	6	comp	_	AlignBegin=65020.1002207|AlignEnd=65397.3005403|Gloss=fork
@@ -336,7 +336,7 @@
 1	яха	яха	NOUN	_	_	2	mod:poss	_	AlignBegin=66257.9164322|AlignEnd=66612.4739254|Gloss=river
 2	тарка	тарка	NOUN	_	_	3	comp	_	AlignBegin=66612.4739254|AlignEnd=66973.9606716|Gloss=fork
 3	-м'	X	ADP	_	_	11	comp:obj	_	AlignBegin=66612.4739254|AlignEnd=66973.9606716|Gloss=-acc
-4	<b_p>	<b_p>	X	_	_	3	disfluency	_	AlignBegin=66973.9606716|AlignEnd=67441.7794502|Gloss=PAUSE
+4	<b_p>	<b_p>	X	_	_	3	discourse	_	AlignBegin=66973.9606716|AlignEnd=67441.7794502|Gloss=PAUSE
 5	тарка	тарка	NOUN	_	_	6	comp	_	AlignBegin=67441.7794502|AlignEnd=67796.7266731|Gloss=fork
 6	-нда	X	ADP	_	_	7	mod:poss	_	AlignBegin=67441.7794502|AlignEnd=67796.7266731|Gloss=-poss.gen.3sg
 7	пыя	пыя	NOUN	_	_	8	comp	_	AlignBegin=67796.7266731|AlignEnd=68055.9139045|Gloss=end
@@ -354,7 +354,7 @@
 # text_en=We crossed the river by swimming.
 1	ид	и"	NOUN	_	_	2	comp	_	AlignBegin=71024.8716256|AlignEnd=71512.1025702|Gloss=water
 2	-м'	X	ADP	_	_	5	comp:obj	_	AlignBegin=71024.8716256|AlignEnd=71512.1025702|Gloss=-acc
-3	<b_p>	<b_p>	X	_	_	2	disfluency	_	AlignBegin=71512.1025702|AlignEnd=71770.9475013|Gloss=PAUSE
+3	<b_p>	<b_p>	X	_	_	2	discourse	_	AlignBegin=71512.1025702|AlignEnd=71770.9475013|Gloss=PAUSE
 4	ӈохолё	ӈохолё	VERB	_	_	5	mod	_	AlignBegin=71770.9475013|AlignEnd=72144.2163765|Gloss=swim.cvb
 5	мада-	мада-	VERB	_	_	0	root	_	AlignBegin=72144.2163765|AlignEnd=72646.4871968|Gloss=pass.across
 6	-ва"	X	PRON	_	_	5	subj	_	AlignBegin=72144.2163765|AlignEnd=72646.4871968|Gloss=-1pl
@@ -369,7 +369,7 @@
 2	-'	X	ADP	_	_	3	mod:poss	_	AlignBegin=72954.4366767|AlignEnd=73278.7530354|Gloss=-gen
 3	пыя	пыя	NOUN	_	_	4	comp	_	AlignBegin=73278.7530354|AlignEnd=73566.4915143|Gloss=end
 4	-н'	X	ADP	_	_	6	mod	_	AlignBegin=73278.7530354|AlignEnd=73566.4915143|Gloss=-dat
-5	<s_p>	<s_p>	X	_	_	4	disfluency	_	AlignBegin=73566.4915143|AlignEnd=73843.4043952|Gloss=PAUSE
+5	<s_p>	<s_p>	X	_	_	4	discourse	_	AlignBegin=73566.4915143|AlignEnd=73843.4043952|Gloss=PAUSE
 6	нулта-	нулта-	VERB	_	_	0	root	_	AlignBegin=73843.4043952|AlignEnd=74723.8067613|Gloss=stop
 7	-ва"	X	PRON	_	_	6	subj	_	AlignBegin=73843.4043952|AlignEnd=74723.8067613|Gloss=-1pl
 8	<s_p>	<s_p>	PUNCT	_	_	6	punct	_	AlignBegin=74723.8067613|AlignEnd=75447.3796963|Gloss=SIL
