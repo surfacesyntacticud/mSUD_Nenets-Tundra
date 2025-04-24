@@ -201,33 +201,33 @@
 # text=харад' ня' хаява" <b_p> нянда тэв"махадана" <b_p> ядувнанда харданда пя <e_r>ядувна махалэянда ни' танэйна" <s_p>
 # text_ru=Мы пошли к башне, после того как мы дошли до нее, по боку ее, по ее стене мы поднялись на ее крышу.
 # text_en=We went to the tower and when we got there we climbed up to the roof by walking along the side and the wall.
-1	харад	харад	NOUN	_	_	2	comp	_	AlignBegin=37648.0161231|AlignEnd=38071.6177381|Gloss=house
-2	-'	X	ADP	_	_	3	comp	_	AlignBegin=37648.0161231|AlignEnd=38071.6177381|Gloss=-gen
-3	ня'	ня'	ADP	_	_	4	mod	_	AlignBegin=38071.6177381|AlignEnd=38265.3825956|Gloss=to.dat
-4	хая-	хэ-	VERB	_	_	0	root	_	AlignBegin=38265.3825956|AlignEnd=38881.7467364|Gloss=go
-5	-ва"	X	PRON	_	_	4	subj	_	AlignBegin=38265.3825956|AlignEnd=38881.7467364|Gloss=-1pl
-6	<b_p>	<b_p>	PUNCT	_	_	4	punct	_	AlignBegin=38881.7467364|AlignEnd=39501.0558582|Gloss=SIL
-7	ня-	ня-	ADP	_	_	8	comp	_	AlignBegin=39501.0558582|AlignEnd=39760.4877599|Gloss=at
-8	-нда	-нда	ADP	_	_	9	mod	_	AlignBegin=39501.0558582|AlignEnd=39760.4877599|Gloss=poss.dat.3sg
-9	тэв-	тэва-	VERB	_	_	10	comp	_	AlignBegin=39760.4877599|AlignEnd=40457.0363818|Gloss=arrive-
-10	-"ма-	X	NOUN	_	_	11	comp	_	AlignBegin=39760.4877599|AlignEnd=40457.0363818|Gloss=-pfv.an
-11	-хада-	X	ADP	_	_	25	mod	_	AlignBegin=39760.4877599|AlignEnd=40457.0363818|Gloss=-abl
-12	-на"	X	DET	_	_	10	det:poss	_	AlignBegin=39760.4877599|AlignEnd=40457.0363818|Gloss=-poss.1pl
-13	<b_p>	<b_p>	PUNCT	_	_	11	punct	_	AlignBegin=40457.0363818|AlignEnd=41138.6920594|Gloss=SIL
-14	яду	яд	NOUN	_	_	15	comp	_	AlignBegin=41138.6920594|AlignEnd=41821.1848601|Gloss=wall
-15	-вна-	X	ADP	_	_	16	comp	_	AlignBegin=41138.6920594|AlignEnd=41821.1848601|Gloss=-prol
-16	-нда	X	ADP	_	_	24	comp	_	AlignBegin=41138.6920594|AlignEnd=41821.1848601|Gloss=-poss.gen.3sg
-17	харда	харад	NOUN	_	_	18	comp	_	AlignBegin=41821.1848601|AlignEnd=42343.9903341|Gloss=house
-18	-нда	X	ADP	_	_	20	mod:poss	_	AlignBegin=41821.1848601|AlignEnd=42343.9903341|Gloss=-poss.gen.3sg
-19	пя	пя	NOUN	_	_	20	mod	_	AlignBegin=42343.9903341|AlignEnd=42511.8986615|Gloss=tree
-20	<e_r>яду	яд	NOUN	_	_	21	comp	_	AlignBegin=42511.8986615|AlignEnd=43006.083398|Gloss=wall
-21	-вна	X	ADP	_	_	15	reparandum	_	AlignBegin=42511.8986615|AlignEnd=43006.083398|Gloss=-prol
-22	махалэя	махалы	NOUN	_	_	23	comp	_	AlignBegin=43006.083398|AlignEnd=43521.2566753|Gloss=roof
-23	-нда	X	X	_	_	16	parataxis	_	AlignBegin=43006.083398|AlignEnd=43521.2566753|Gloss=-poss.gen.3sg
-24	ни'	ни'	ADP	_	_	_	_	_	AlignBegin=43521.2566753|AlignEnd=43713.969642|Gloss=on.dat
-25	танэй-	танэй-	VERB	_	_	4	parataxis	_	AlignBegin=43713.969642|AlignEnd=44293.4277872|Gloss=go.up
-26	-на"	X	PRON	_	_	25	subj	_	AlignBegin=43713.969642|AlignEnd=44293.4277872|Gloss=-1pl.refl
-27	<s_p>	<s_p>	PUNCT	_	_	4	punct	_	AlignBegin=44293.4277872|AlignEnd=44688.7685248|Gloss=SIL
+1	харад 	харад 	NOUN 	_ 	_ 	2 	comp 	_ 	AlignBegin=37648.0161231|AlignEnd=38071.6177381|Gloss= house
+2	-' 	X 	ADP 	_ 	_ 	3 	comp 	_ 	AlignBegin=37648.0161231|AlignEnd=38071.6177381|Gloss= -gen
+3	ня' 	ня' 	ADP 	_ 	_ 	4 	mod 	_ 	AlignBegin=38071.6177381|AlignEnd=38265.3825956|Gloss= to.dat
+4	хая- 	хэ- 	VERB 	_ 	_ 	0 	root 	_ 	AlignBegin=38265.3825956|AlignEnd=38881.7467364|Gloss= go
+5	-ва" 	X 	PRON 	_ 	_ 	4 	subj 	_ 	AlignBegin=38265.3825956|AlignEnd=38881.7467364|Gloss= -1pl
+6	<b_p> 	<b_p> 	PUNCT 	_ 	_ 	4 	punct 	_ 	AlignBegin=38881.7467364|AlignEnd=39501.0558582|Gloss=SIL
+7	ня- 	ня- 	ADP 	_ 	_ 	8 	comp 	_ 	AlignBegin=39501.0558582|AlignEnd=39760.4877599|Gloss= at
+8	-нда 	-нда 	ADP 	_ 	_ 	9 	mod 	_ 	AlignBegin=39501.0558582|AlignEnd=39760.4877599|Gloss= poss.dat.3sg
+9	тэв- 	тэва- 	VERB 	_ 	_ 	10 	comp 	_ 	AlignBegin=39760.4877599|AlignEnd=40457.0363818|Gloss= arrive-
+10	-"ма- 	X 	NOUN 	_ 	_ 	11 	comp 	_ 	AlignBegin=39760.4877599|AlignEnd=40457.0363818|Gloss= -pfv.an
+11	-хада- 	X 	ADP 	_ 	_ 	25 	mod 	_ 	AlignBegin=39760.4877599|AlignEnd=40457.0363818|Gloss= -abl
+12	-на" 	X 	DET 	_ 	_ 	10 	det:poss 	_ 	AlignBegin=39760.4877599|AlignEnd=40457.0363818|Gloss= -poss.1pl
+13	<b_p> 	<b_p> 	PUNCT 	_ 	_ 	11 	punct 	_ 	AlignBegin=40457.0363818|AlignEnd=41138.6920594|Gloss=SIL
+14	яду 	яд 	NOUN 	_ 	_ 	15 	comp 	_ 	AlignBegin=41138.6920594|AlignEnd=41821.1848601|Gloss= wall
+15	-вна- 	X 	ADP 	_ 	_ 	16 	comp 	_ 	AlignBegin=41138.6920594|AlignEnd=41821.1848601|Gloss= -prol
+16	-нда 	X 	ADP 	_ 	_ 	24 	comp 	_ 	AlignBegin=41138.6920594|AlignEnd=41821.1848601|Gloss= -poss.gen.3sg
+17	харда 	харад 	NOUN 	_ 	_ 	18 	comp 	_ 	AlignBegin=41821.1848601|AlignEnd=42343.9903341|Gloss= house
+18	-нда 	X 	ADP 	_ 	_ 	20 	mod:poss 	_ 	AlignBegin=41821.1848601|AlignEnd=42343.9903341|Gloss= -poss.gen.3sg
+19	пя 	пя 	NOUN 	_ 	_ 	20 	mod 	_ 	AlignBegin=42343.9903341|AlignEnd=42511.8986615|Gloss= tree
+20	<e_r>яду 	яд 	NOUN 	_ 	_ 	21 	comp 	_ 	AlignBegin=42511.8986615|AlignEnd=43006.083398|Gloss= wall
+21	-вна 	X 	ADP 	_ 	_ 	15 	reparandum 	_ 	AlignBegin=42511.8986615|AlignEnd=43006.083398|Gloss= -prol
+22	махалэя 	махалы 	NOUN 	_ 	_ 	23 	comp 	_ 	AlignBegin=43006.083398|AlignEnd=43521.2566753|Gloss= roof
+23	-нда 	X 	X 	_ 	_ 	16 	parataxis 	_ 	AlignBegin=43006.083398|AlignEnd=43521.2566753|Gloss= -poss.gen.3sg
+24	ни' 	ни' 	ADP 	_ 	_ 	25 	mod 	_ 	AlignBegin=43521.2566753|AlignEnd=43713.969642|Gloss= on.dat
+25	танэй- 	танэй- 	VERB 	_ 	_ 	4 	parataxis 	_ 	AlignBegin=43713.969642|AlignEnd=44293.4277872|Gloss= go.up
+26	-на" 	X 	PRON 	_ 	_ 	25 	subj 	_ 	AlignBegin=43713.969642|AlignEnd=44293.4277872|Gloss= -1pl.refl
+27	<s_p> 	<s_p> 	PUNCT 	_ 	_ 	4 	punct 	_ 	AlignBegin=44293.4277872|AlignEnd=44688.7685248|Gloss=SIL 
 
 # doc_title=Route description 004
 # sent_id=15
