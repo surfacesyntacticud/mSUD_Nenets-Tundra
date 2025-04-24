@@ -399,7 +399,7 @@
 1	маря	мар"	NOUN	_	_	2	comp	_	AlignBegin=86338.7574292|AlignEnd=86736.2373378|Gloss=fence
 2	-д'	X	ADP	_	_	3	comp	_	AlignBegin=86338.7574292|AlignEnd=86736.2373378|Gloss=-poss.gen.2sg
 3	тяхана	тяхана	ADP	_	_	8	mod	_	AlignBegin=86736.2373378|AlignEnd=87183.7502707|Gloss=behind.loc
-4	<s_p>	<s_p>	X	_	_	3	disfluency	_	AlignBegin=87183.7502707|AlignEnd=87492.4775472|Gloss=PAUSE
+4	<s_p>	<s_p>	X	_	_	3	discourse	_	AlignBegin=87183.7502707|AlignEnd=87492.4775472|Gloss=PAUSE
 5	тэ	ты	NOUN	_	_	7	subj	_	AlignBegin=87492.4775472|AlignEnd=87855.0196701|Gloss=reindeer
 6	-хэ'	X	NUM	_	_	5	mod	_	AlignBegin=87492.4775472|AlignEnd=87855.0196701|Gloss=-du
 7	таня	таня-	VERB	_	_	8	aux	_	AlignBegin=87855.0196701|AlignEnd=88429.9888181|Gloss=exist
