@@ -114,7 +114,7 @@
 12	<s_p>	<s_p>	X	_	_	11	disfluency	_	AlignBegin=26635.3728789|AlignEnd=27149.3460496|Gloss=PAUSE
 13	ӈохолыр	ӈохолыр-	VERB	_	_	14	comp	_	AlignBegin=27149.3460496|AlignEnd=28605.2209462|Gloss=swim
 14	-ць	X	ADV	_	_	16	mod	_	AlignBegin=27149.3460496|AlignEnd=28605.2209462|Gloss=-cvb
-15	<s_p>	<s_p>	X	_	_	14	punct	_	AlignBegin=28605.2209462|AlignEnd=29210.9750403|Gloss=SIL
+15	<s_p>	<s_p>	PUNCT	_	_	14	punct	_	AlignBegin=28605.2209462|AlignEnd=29210.9750403|Gloss=SIL
 16	мада	мада-	VERB	_	_	0	root	_	AlignBegin=29210.9750403|AlignEnd=29756.3256595|Gloss=pass.across
 17	-в	X	PRON	_	_	16	subj:obj	_	AlignBegin=29210.9750403|AlignEnd=29756.3256595|Gloss=-1sg.sg
 18	<s_p>	<s_p>	PUNCT	_	_	16	punct	_	AlignBegin=29756.3256595|AlignEnd=30472.4180002|Gloss=SIL

@@ -83,7 +83,7 @@
 # text_ru=На веслах мы переплыли реку на другую сторону.
 # text_en=We paddled across the river to the other bank.
 1	лабята	лабята	ADV	_	_	6	mod	_	AlignBegin=12051.421855|AlignEnd=12625.7681317|Gloss=row.cvb
-2	<s_p>	<s_p>	X	_	_	1	punct	_	AlignBegin=12625.7681317|AlignEnd=13010.6235836|Gloss=PUNCT
+2	<s_p>	<s_p>	X	_	_	1	disfluency	_	AlignBegin=12625.7681317|AlignEnd=13010.6235836|Gloss=PAUSE
 3	яха	яха	NOUN	_	_	4	comp	_	AlignBegin=13010.6235836|AlignEnd=13479.9198941|Gloss=river
 4	-м'	X	ADP	_	_	6	comp:obj	_	AlignBegin=13010.6235836|AlignEnd=13479.9198941|Gloss=-acc
 5	тяханяю'	тяханяю'	ADV	_	_	6	mod	_	AlignBegin=13479.9198941|AlignEnd=13883.0459705|Gloss=there.pol

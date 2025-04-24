@@ -37,7 +37,7 @@
 10	-"	X	ADP	_	_	11	mod	_	AlignBegin=9281.76532837|AlignEnd=9456.29697149|Gloss=-gen
 11	сыр-ӈа	сыр-	VERB	_	_	0	root	_	AlignBegin=9456.29697149|AlignEnd=9945.35687374|Gloss=look-co
 12	-дм'	X	PRON	_	_	11	subj	_	AlignBegin=9456.29697149|AlignEnd=9945.35687374|Gloss=-1sg
-13	<s_p>	<s_p>	X	_	_	11	punct	_	AlignBegin=9945.35687374|AlignEnd=10384.5334011|Gloss=SIL
+13	<s_p>	<s_p>	PUNCT	_	_	11	punct	_	AlignBegin=9945.35687374|AlignEnd=10384.5334011|Gloss=SIL
 14	сятаня'	сятаня'	ADV	_	_	15	mod	_	AlignBegin=10384.5334011|AlignEnd=10834.9569297|Gloss=to.the.left
 15	сыр-ӈа	сыр-	VERB	_	_	11	parataxis	_	AlignBegin=10834.9569297|AlignEnd=11387.0015614|Gloss=look-co
 16	-дм'	X	PRON	_	_	15	subj	_	AlignBegin=10834.9569297|AlignEnd=11387.0015614|Gloss=-1sg
@@ -210,7 +210,7 @@
 # text_en = I crossed the river by swimming under the bridge.
 1	ӈохолыр	ӈохолыр-	VERB	_	_	2	comp	_	AlignBegin=50875.8382132|AlignEnd=51829.4716627|Gloss=swim
 2	-ць	X	ADV	_	_	10	mod	_	AlignBegin=50875.8382132|AlignEnd=51829.4716627|Gloss=-cvb
-3	<s_p>	<s_p>	X	_	_	2	punct	_	AlignBegin=51829.4716627|AlignEnd=52061.0748695|Gloss=SIL
+3	<s_p>	<s_p>	PUNCT	_	_	2	punct	_	AlignBegin=51829.4716627|AlignEnd=52061.0748695|Gloss=SIL
 4	яха	яха	NOUN	_	_	5	comp	_	AlignBegin=52061.0748695|AlignEnd=52437.1984775|Gloss=river
 5	-м'	X	ADP	_	_	10	comp:obj	_	AlignBegin=52061.0748695|AlignEnd=52437.1984775|Gloss=-acc
 6	<s_p>	<s_p>	X	_	_	5	disfluency	_	AlignBegin=52437.1984775|AlignEnd=52805.9107828|Gloss=PAUSE
