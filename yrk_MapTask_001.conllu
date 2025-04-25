@@ -113,7 +113,7 @@
 11	нямна	нямна	ADP	_	_	16	comp:obl	_	AlignBegin=26000.5024092|AlignEnd=26635.3728789|Gloss=at.prol
 12	<s_p>	<s_p>	X	_	_	11	discourse	_	AlignBegin=26635.3728789|AlignEnd=27149.3460496|Gloss=PAUSE
 13	ӈохолыр	ӈохолыр-	VERB	_	_	14	comp:obj	_	AlignBegin=27149.3460496|AlignEnd=28605.2209462|Gloss=swim
-14	-ць	X	SCONJ	_	_	16	comp:obl	_	AlignBegin=27149.3460496|AlignEnd=28605.2209462|Gloss=-cvb|DerPos=ADV
+14	-ць	X	SCONJ	_	_	16	comp:obj	_	AlignBegin=27149.3460496|AlignEnd=28605.2209462|Gloss=-cvb|DerPos=ADV
 15	<s_p>	<s_p>	PUNCT	_	_	14	punct	_	AlignBegin=28605.2209462|AlignEnd=29210.9750403|Gloss=SIL
 16	мада	мада-	VERB	_	_	0	root	_	AlignBegin=29210.9750403|AlignEnd=29756.3256595|Gloss=pass.across
 17	-в	X	PRON	_	_	16	subj:obj	_	AlignBegin=29210.9750403|AlignEnd=29756.3256595|Gloss=-1sg.sg
@@ -149,7 +149,7 @@
 9	<b_p>	<b_p>	PUNCT	_	_	7	punct	_	AlignBegin=34024.1519907|AlignEnd=34219.50376|Gloss=SIL
 10	ӈани'	ӈани'	ADV	_	_	18	comp:obl	_	AlignBegin=34219.50376|AlignEnd=34567.7395226|Gloss=again
 11	ӈохолыр	ӈохолыр-	VERB	_	_	12	comp:obj	_	AlignBegin=34567.7395226|AlignEnd=35141.0544975|Gloss=swim
-12	-ць	X	SCONJ	_	_	18	comp:obl	_	AlignBegin=34567.7395226|AlignEnd=35141.0544975|Gloss=-cvb|DerPos=ADV
+12	-ць	X	SCONJ	_	_	18	comp:obj	_	AlignBegin=34567.7395226|AlignEnd=35141.0544975|Gloss=-cvb|DerPos=ADV
 13	яха	яха	NOUN	_	_	14	comp:obj	_	AlignBegin=35141.0544975|AlignEnd=35451.0692618|Gloss=river
 14	-'	X	ADP	_	_	16	mod:poss	_	AlignBegin=35141.0544975|AlignEnd=35451.0692618|Gloss=-gen
 15	няби	няби	DET	_	_	16	det	_	AlignBegin=35451.0692618|AlignEnd=35693.1355845|Gloss=other
@@ -186,7 +186,7 @@
 2	<s_p>	<s_p>	X	_	_	1	discourse	_	AlignBegin=40745.9218029|AlignEnd=40972.1843671|Gloss=PAUSE
 3	маха'няку'	маха'няку'	ADV	_	_	5	comp:obl	_	AlignBegin=40972.1843671|AlignEnd=41566.4275574|Gloss=to.the.right.adv
 4	мэ	мэ-	VERB	_	_	5	comp:obj	_	AlignBegin=41566.4275574|AlignEnd=42256.3025503|Gloss=take
-5	-хэя	X	SCONJ	_	_	9	comp:obl	_	AlignBegin=41566.4275574|AlignEnd=42256.3025503|Gloss=-intens.cvb|DerPos=ADV
+5	-хэя	X	SCONJ	_	_	9	comp:obj	_	AlignBegin=41566.4275574|AlignEnd=42256.3025503|Gloss=-intens.cvb|DerPos=ADV
 6	тамна	тамна	ADV	_	_	7	comp:obl	_	AlignBegin=42256.3025503|AlignEnd=42766.565119|Gloss=even
 7	тяха'	тяха"	ADV	_	_	9	comp:obl	_	AlignBegin=42766.565119|AlignEnd=42933.9312415|Gloss=further
 8	яда	яда	ADV	_	_	9	comp:obl	_	AlignBegin=42933.9312415|AlignEnd=43489.0969162|Gloss=on.foot
@@ -380,7 +380,7 @@
 # text_ru = Увидел еще один незнакомый забор.
 # text_en = I saw another unfamiliar fence.
 1	ехэра	ехэра-	VERB	_	_	2	comp:obj	_	AlignBegin=83119.6188647|AlignEnd=83892.8338419|Gloss=not.know
-2	-на	X	SCONJ	_	_	5	comp:obl	_	AlignBegin=83119.6188647|AlignEnd=83892.8338419|Gloss=-ptcp.cont|DerPos=ADJ
+2	-на	X	SCONJ	_	_	5	comp:obj	_	AlignBegin=83119.6188647|AlignEnd=83892.8338419|Gloss=-ptcp.cont|DerPos=ADJ
 3	ӈани	ӈани'	DET	_	_	5	det	_	AlignBegin=83892.8338419|AlignEnd=84156.7517054|Gloss=other
 4	ӈопой	ӈопой	NUM	_	_	5	mod	_	AlignBegin=84156.7517054|AlignEnd=84462.4783394|Gloss=one
 5	маря	мар"	NOUN	_	_	7	comp:obj	_	AlignBegin=84462.4783394|AlignEnd=85298.6537487|Gloss=fence
