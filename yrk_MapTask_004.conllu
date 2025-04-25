@@ -306,7 +306,7 @@
 2	-'	X	ADP	_	_	3	mod	_	AlignBegin=60789.1369941|AlignEnd=61400.2402374|Gloss=-gen
 3	мэ-	мэ-	VERB	_	_	0	root	_	AlignBegin=61400.2402374|AlignEnd=61723.6880008|Gloss=take
 4	ва"	X	PRON	_	_	3	subj	_	AlignBegin=61400.2402374|AlignEnd=61723.6880008|Gloss=-1pl
-5	ӈоб'	ӈоб'	ADV	_	_	6	conj	_	AlignBegin=61723.6880008|AlignEnd=62105.6863329|Gloss=once, and
+5	ӈоб'	ӈоб'	ADV	_	_	6	mod	_	AlignBegin=61723.6880008|AlignEnd=62105.6863329|Gloss=once, and
 6	яда-	яда-	VERB	_	_	3	parataxis	_	AlignBegin=62105.6863329|AlignEnd=62594.4069228|Gloss=walk-
 7	-ва"	X	PRON	_	_	6	subj	_	AlignBegin=62105.6863329|AlignEnd=62594.4069228|Gloss=-1pl
 8	яда-	яда-	VERB	_	_	3	parataxis	_	AlignBegin=62594.4069228|AlignEnd=63116.2611121|Gloss=walk-
