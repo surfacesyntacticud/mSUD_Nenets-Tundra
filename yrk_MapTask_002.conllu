@@ -162,7 +162,7 @@
 # text_ru = По лестнице я поднялся вверх.
 # text_en = I walk up the stairs.
 1	танця'	танцие"	NOUN	_	_	2	comp:obj	_	AlignBegin=32527.7821481|AlignEnd=32862.3592078|Gloss=stairs
-2	сер'	сер'	ADP	_	_	3	comp:obl	_	AlignBegin=32862.3592078|AlignEnd=33230.9993945|Gloss=when
+2	сер'	сер'	ADP	_	_	3	comp:obl	_	AlignBegin=32862.3592078|AlignEnd=33230.9993945|Gloss=at.the.time.of
 3	танэ-й	тана	VERB	_	_	0	root	_	AlignBegin=33230.9993945|AlignEnd=33807.3716915|Gloss=go.up
 4	-в'	X	PRON	_	_	3	subj	_	AlignBegin=33230.9993945|AlignEnd=33807.3716915|Gloss=-1sg.refl
 5	<b_p>	<b_p>	PUNCT	_	_	3	punct	_	AlignBegin=33807.3716915|AlignEnd=34171.2444176|Gloss=SIL
@@ -251,7 +251,7 @@
 5	нэ	нэ-	VERB	_	_	0	root	_	AlignBegin=48763.6882398|AlignEnd=49039.4183559|Gloss=open
 6	-в	X	PRON	_	_	5	subj:obj	_	AlignBegin=48763.6882398|AlignEnd=49039.4183559|Gloss=-1sg.sg
 7	танця'	танцие"	NOUN	_	_	8	comp:obj	_	AlignBegin=49039.4183559|AlignEnd=49428.5328189|Gloss=stairs
-8	сер'	сер'	ADP	_	_	9	comp:obl	_	AlignBegin=49428.5328189|AlignEnd=49572.8401694|Gloss=when
+8	сер'	сер'	ADP	_	_	9	comp:obl	_	AlignBegin=49428.5328189|AlignEnd=49572.8401694|Gloss=at.the.time.of
 9	ха"амы	ха"амы-	VERB	_	_	5	parataxis	_	AlignBegin=49572.8401694|AlignEnd=50416.4358904|Gloss=go.down
 10	-в'	X	PRON	_	_	9	subj	_	AlignBegin=49572.8401694|AlignEnd=50416.4358904|Gloss=-1sg.refl
 11	<b_p>	<b_p>	PUNCT	_	_	5	punct	_	AlignBegin=50416.4358904|AlignEnd=51195.2576167|Gloss=SIL
@@ -281,7 +281,7 @@
 3	ми	ми-	VERB	_	_	4	comp:obj	_	AlignBegin=54096.3969304|AlignEnd=54540.9151083|Gloss=go
 4	-ма	X	SCONJ	_	_	5	comp:obj	_	AlignBegin=54096.3969304|AlignEnd=54540.9151083|Gloss=-ipfv.an|DerPos=NOUN
 5	-ни'	X	ADP	_	_	6	comp:obj	_	AlignBegin=54096.3969304|AlignEnd=54540.9151083|Gloss=-gen.poss.1sg
-6	сер'	сер'	ADP	_	_	11	comp:obl	_	AlignBegin=54540.9151083|AlignEnd=55213.4904383|Gloss=when
+6	сер'	сер'	ADP	_	_	11	comp:obl	_	AlignBegin=54540.9151083|AlignEnd=55213.4904383|Gloss=at.the.time.of
 7	яха	яха	NOUN	_	_	8	comp:obj	_	AlignBegin=55213.4904383|AlignEnd=55476.3359696|Gloss=river
 8	-'	X	ADP	_	_	9	mod:poss	_	AlignBegin=55213.4904383|AlignEnd=55476.3359696|Gloss=-gen
 9	тарка	тарка	NOUN	_	_	10	comp:obj	_	AlignBegin=55476.3359696|AlignEnd=55944.0464002|Gloss=fork
@@ -402,7 +402,7 @@
 6	яд	яд-	VERB	_	_	7	comp:obj	_	AlignBegin=77977.0903981|AlignEnd=78535.6132188|Gloss=walk
 7	-ва	X	SCONJ	_	_	8	comp:obj	_	AlignBegin=77977.0903981|AlignEnd=78535.6132188|Gloss=-ipfv.an|DerPos=NOUN
 8	-ни'	X	ADP	_	_	9	comp:obj	_	AlignBegin=77977.0903981|AlignEnd=78535.6132188|Gloss=-gen.poss.1sg
-9	сер'	сер'	ADP	_	_	13	comp:obl	_	AlignBegin=78535.6132188|AlignEnd=78853.4717346|Gloss=when
+9	сер'	сер'	ADP	_	_	13	comp:obl	_	AlignBegin=78535.6132188|AlignEnd=78853.4717346|Gloss=at.the.time.of
 10	<s_p>	<s_p>	PUNCT	_	_	9	punct	_	AlignBegin=78853.4717346|AlignEnd=79339.3411802|Gloss=SIL
 11	пул	пул	NOUN	_	_	12	comp:obj	_	AlignBegin=79339.3411802|AlignEnd=79539.1379616|Gloss=bridge
 12	-м'	X	ADP	_	_	13	comp:obj	_	AlignBegin=79339.3411802|AlignEnd=79539.1379616|Gloss=-acc
@@ -418,7 +418,7 @@
 # text_en = I cross the river on the bridge to the other side.
 1	пул	пул	NOUN	_	_	2	comp:obj	_	AlignBegin=81871.61951|AlignEnd=82144.3460374|Gloss=bridge
 2	-'	X	ADP	_	_	3	comp:obj	_	AlignBegin=81871.61951|AlignEnd=82144.3460374|Gloss=-gen
-3	сер'	сер'	ADP	_	_	8	comp:obl	_	AlignBegin=82144.3460374|AlignEnd=82420.5247993|Gloss=when
+3	сер'	сер'	ADP	_	_	8	comp:obl	_	AlignBegin=82144.3460374|AlignEnd=82420.5247993|Gloss=at.the.time.of
 4	яха	яха	NOUN	_	_	5	comp:obj	_	AlignBegin=82420.5247993|AlignEnd=83000.5001993|Gloss=river
 5	-м'	X	ADP	_	_	8	comp:obj	_	AlignBegin=82420.5247993|AlignEnd=83000.5001993|Gloss=-acc
 6	няби'	няби	DET	_	_	7	det	_	AlignBegin=83000.5001993|AlignEnd=83628.8068827|Gloss=other
