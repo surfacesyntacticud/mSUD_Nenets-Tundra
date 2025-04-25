@@ -147,7 +147,7 @@
 7	-хада	X	ADP	_	_	18	mod	_	AlignBegin=33085.6141428|AlignEnd=34024.1519907|Gloss=-abl
 8	-ни	X	DET	_	_	6	det:poss	_	AlignBegin=33085.6141428|AlignEnd=34024.1519907|Gloss=-poss.1sg
 9	<b_p>	<b_p>	PUNCT	_	_	7	punct	_	AlignBegin=34024.1519907|AlignEnd=34219.50376|Gloss=SIL
-10	ӈани'	ӈани'	CCONJ	_	_	18	conj	_	AlignBegin=34219.50376|AlignEnd=34567.7395226|Gloss=again
+10	ӈани'	ӈани'	ADV	_	_	18	mod	_	AlignBegin=34219.50376|AlignEnd=34567.7395226|Gloss=again
 11	ӈохолыр	ӈохолыр-	VERB	_	_	12	comp	_	AlignBegin=34567.7395226|AlignEnd=35141.0544975|Gloss=swim
 12	-ць	X	ADV	_	_	18	mod	_	AlignBegin=34567.7395226|AlignEnd=35141.0544975|Gloss=-cvb
 13	яха	яха	NOUN	_	_	14	comp:obj	_	AlignBegin=35141.0544975|AlignEnd=35451.0692618|Gloss=river
@@ -326,7 +326,7 @@
 2	хэву	хэв	NOUN	_	_	3	comp:obj	_	AlignBegin=71663.4963372|AlignEnd=72357.4367523|Gloss=side
 3	-вна	X	ADP	_	_	11	mod	_	AlignBegin=71663.4963372|AlignEnd=72357.4367523|Gloss=-prol
 4	-нда	X	DET	_	_	2	det:poss	_	AlignBegin=71663.4963372|AlignEnd=72357.4367523|Gloss=-poss.3sg
-5	ӈани'	ӈани'	CCONJ	_	_	11	conj	_	AlignBegin=72357.4367523|AlignEnd=72575.5323113|Gloss=again
+5	ӈани'	ӈани'	ADV	_	_	11	mod	_	AlignBegin=72357.4367523|AlignEnd=72575.5323113|Gloss=again
 6	несэй	несэй	ADJ	_	_	7	mod	_	AlignBegin=72575.5323113|AlignEnd=72825.8465324|Gloss=new (other)
 7	нё	нё	NOUN	_	_	8	comp:obj	_	AlignBegin=72825.8465324|AlignEnd=72986.9398431|Gloss=door
 8	-'	X	ADP	_	_	9	mod:poss	_	AlignBegin=72825.8465324|AlignEnd=72986.9398431|Gloss=-gen
