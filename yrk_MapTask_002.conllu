@@ -138,7 +138,7 @@
 6	<w_n>	<w_n>	X	_	_	5	noise	_	AlignBegin=28467.4789758|AlignEnd=29372.877775|Gloss=NOISE
 7	нё	нё	NOUN	_	_	8	comp	_	AlignBegin=29372.877775|AlignEnd=29784.0797296|Gloss=door
 8	-нда	X	ADP	_	_	9	mod:poss	_	AlignBegin=29372.877775|AlignEnd=29784.0797296|Gloss=-gen.poss.3sg
-9	си	си	NOUN	_	_	4	conj	_	AlignBegin=29784.0797296|AlignEnd=29934.9795295|Gloss=hole
+9	си	си	NOUN	_	_	4	parataxis	_	AlignBegin=29784.0797296|AlignEnd=29934.9795295|Gloss=hole
 10	таня	таня-	VERB	_	_	0	root	_	AlignBegin=29934.9795295|AlignEnd=30315.6963153|Gloss=exist.3sg
 11	<b_p>	<b_p>	PUNCT	_	_	10	punct	_	AlignBegin=30315.6963153|AlignEnd=30671.1607217|Gloss=SIL
 
