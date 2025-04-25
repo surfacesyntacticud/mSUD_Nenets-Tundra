@@ -1,5 +1,5 @@
-# doc_title=Route description 004
-# sent_id=1
+# doc_title=MapTask_004
+# sent_id=yrk_MapTask_004_1
 # text=я хой' ниня нува" <s_n>
 # text_ru=Мы стоим на ровном высоком месте.
 # text_en=We stand on a flat, high land.
@@ -12,7 +12,7 @@
 7	<s_p>	<s_p>	PUNCT	_	_	5	punct	_	AlignBegin=1215.76667313|AlignEnd=1659.46022875|Gloss=SIL
 
 # doc_title=Route description 004
-# sent_id=2
+# sent_id=yrk_MapTask_004_2
 # text=я' хой нид нерня' сырӈава" <b_p>
 # text_ru=С ровного высокого места мы смотрим вперед.
 # text_en=We look ahead from this high, flat area.
@@ -26,7 +26,7 @@
 8	<b_p>	<b_p>	PUNCT	_	_	6	punct	_	AlignBegin=3658.63845522|AlignEnd=4233.95444464|Gloss=SIL
 
 # doc_title=Route description 004
-# sent_id=3
+# sent_id=yrk_MapTask_004_3
 # text=яха' хэвхана ӈаном' манэ"ӈава" <s_p>
 # text_ru=Возле реки мы увидели лодку.
 # text_en=We saw a boat near the river.
@@ -41,7 +41,7 @@
 9	<s_p>	<s_p>	PUNCT	_	_	7	punct	_	AlignBegin=6185.9180537|AlignEnd=6537.71504965|Gloss=SIL
 
 # doc_title=Route description 004
-# sent_id=4
+# sent_id=yrk_MapTask_004_4
 # text=ӈано' ня' яда нэкалӈава" <b_p>
 # text_ru=К лодке мы пошли пешком.
 # text_en=We walked towards the boat.
@@ -54,7 +54,7 @@
 7	<b_p>	<b_p>	PUNCT	_	_	5	punct	_	AlignBegin=8083.60058633|AlignEnd=8767.98442758|Gloss=SIL
 
 # doc_title=Route description 004
-# sent_id=5
+# sent_id=yrk_MapTask_004_5
 # text=ӈанон' тэвына" <b_p>
 # text_ru=Мы дошли до лодки.
 # text_en=We reached the boat.
@@ -65,7 +65,7 @@
 5	<b_p>	<b_p>	PUNCT	_	_	3	punct	_	AlignBegin=9704.31108594|AlignEnd=10273.1148854|Gloss=SIL
 
 # doc_title=Route description 004
-# sent_id=6
+# sent_id=yrk_MapTask_004_6
 # text=ӈаном' ит' нэкалӈава" <s_p>
 # text_ru=Лодку мы потащили в воду.
 # text_en=We pulled the boat into the water.
@@ -78,7 +78,7 @@
 7	<s_p>	<s_p>	PUNCT	_	_	5	punct	_	AlignBegin=11536.1281819|AlignEnd=12051.421855|Gloss=SIL
 
 # doc_title=Route description 004
-# sent_id=7
+# sent_id=yrk_MapTask_004_7
 # text=лабята <s_p> яхам' тяханяю' мадава" <b_p>
 # text_ru=На веслах мы переплыли реку на другую сторону.
 # text_en=We paddled across the river to the other bank.
@@ -92,7 +92,7 @@
 8	<b_p>	<b_p>	PUNCT	_	_	6	punct	_	AlignBegin=14256.1262486|AlignEnd=15276.419865|Gloss=SIL
 
 # doc_title=Route description 004
-# sent_id=8
+# sent_id=yrk_MapTask_004_8
 # text=ӈанова" яха' тиркана хаева" <b_p>
 # text_ru=Нашу лодку мы оставили на берегу реки.
 # text_en=We left the boat on the riverbank.
@@ -107,7 +107,7 @@
 9	<b_p>	<b_p>	PUNCT	_	_	7	punct	_	AlignBegin=16612.0556522|AlignEnd=18132.5008258|Gloss=SIL
 
 # doc_title=Route description 004
-# sent_id=9
+# sent_id=yrk_MapTask_004_9
 # text=яха' лаӈг' маханяӈы тирмананда <b_p> таси' ха"аврава" <s_p>
 # text_ru=Мы пошли по правому берегу реки вниз по течению.
 # text_en=We went down along the right bank.
@@ -126,7 +126,7 @@
 13	<s_p>	<s_p>	PUNCT	_	_	11	punct	_	AlignBegin=21912.4589634|AlignEnd=23079.8687026|Gloss=SIL
 
 # doc_title=Route description 004
-# sent_id=10
+# sent_id=yrk_MapTask_004_10
 # text=пул' ӈэсонд' тэвына" <b_p>
 # text_ru=Дошли до моста.
 # text_en=We arrived at the bridge.
@@ -138,7 +138,7 @@
 6	<b_p>	<b_p>	PUNCT	_	_	4	punct	_	AlignBegin=24356.7641667|AlignEnd=25401.0648284|Gloss=SIL
 
 # doc_title=Route description 004
-# sent_id=11
+# sent_id=yrk_MapTask_004_11
 # text=пул' ӈэсонд'  тарем' таслава" <s_p> пул' ӈыламна <b_p> ӈохолё хэсь тара <s_p>
 # text_ru=До моста мы решили так: надо переплыть под мостом.
 # text_en=Before we reached the bridge, we made a decision: we would swim under the bridge.
@@ -160,7 +160,7 @@
 16	<s_p>	<s_p>	PUNCT	_	_	5	punct	_	AlignBegin=28898.5717859|AlignEnd=29132.6391755|Gloss=SIL
 
 # doc_title=Route description 004
-# sent_id=12
+# sent_id=yrk_MapTask_004_12
 # text=пул' ӈыламна ӈохолё хаява" <b_p>
 # text_ru=Под мостом мы переплыли вплавь.
 # text_en=We swam under the bridge.
@@ -173,7 +173,7 @@
 7	<b_p>	<b_p>	PUNCT	_	_	5	punct	_	AlignBegin=30343.0963025|AlignEnd=31805.3447223|Gloss=SIL
 
 # doc_title=Route description 004
-# sent_id=13
+# sent_id=yrk_MapTask_004_13
 # text=я' <m_l>тир' ни' тана"махадана" пирця <b_p> махалэй саблюй харадм' манэ"ӈава" <s_p>
 # text_ru=После того как мы поднялись на берег, мы увидели высокую башню с острой крышей.
 # text_en=As we approached the shore, we noticed a tall tower with a pointed roof.
@@ -197,7 +197,7 @@
 18	<s_p>	<s_p>	PUNCT	_	_	16	punct	_	AlignBegin=37427.2149948|AlignEnd=37648.0161231|Gloss=SIL
 
 # doc_title=Route description 004
-# sent_id=14
+# sent_id=yrk_MapTask_004_14
 # text=харад' ня' хаява" <b_p> нянда тэв"махадана" <b_p> ядувнанда харданда пя <e_r>ядувна махалэянда ни' танэйна" <s_p>
 # text_ru=Мы пошли к башне, после того как мы дошли до нее, по боку ее, по ее стене мы поднялись на ее крышу.
 # text_en=We went to the tower and when we got there we climbed up to the roof by walking along the side and the wall.
@@ -230,7 +230,7 @@
 27	<s_p>	<s_p>	PUNCT	_	_	4	punct	_	AlignBegin=44293.4277872|AlignEnd=44688.7685248|Gloss=SIL
 
 # doc_title=Route description 004
-# sent_id=15
+# sent_id=yrk_MapTask_004_15
 # text=махалэянда нид я"амна сырӈава" <b_p>
 # text_ru=С ее крыши мы посмотрели по сторонам.
 # text_en=From the roof we looked around.
@@ -243,7 +243,7 @@
 7	<b_p>	<b_p>	PUNCT	_	_	5	punct	_	AlignBegin=46594.4760954|AlignEnd=47063.4977407|Gloss=SIL
 
 # doc_title=Route description 004
-# sent_id=16
+# sent_id=yrk_MapTask_004_16
 # text=я"амна сыро"махадана" ян' ха"мына" <s_p>
 # text_ru=После того как мы посмотрели по сторонам мы спустились.
 # text_en=After looking around, we climbed down.
@@ -259,7 +259,7 @@
 10	<s_p>	<s_p>	PUNCT	_	_	8	punct	_	AlignBegin=48861.7437494|AlignEnd=49223.841353|Gloss=SIL
 
 # doc_title=Route description 004
-# sent_id=17
+# sent_id=yrk_MapTask_004_17
 # text=танця' нимня ха"мына" <s_p>
 # text_ru=Спустились потом по лестнице.
 # text_en=Then we went down the stairs.
@@ -270,7 +270,7 @@
 5	<s_p>	<s_p>	PUNCT	_	_	3	punct	_	AlignBegin=50374.8114692|AlignEnd=50606.7418763|Gloss=SIL
 
 # doc_title=Route description 004
-# sent_id=18
+# sent_id=yrk_MapTask_004_18
 # text=Тадтикахавахад <b_p> маха<a> харадм' <f_s>сюрт<u_l> сятаняӈы хэвувнанда сюрте <m_l>хэя <b_p> хой' <u_w>ниӈа тир' сер' ялъяна" <s_p>
 # text_ru=Затем мы обошли дом с левой стороны, пошли по высокому ровному месту пешком.
 # text_en=Next, we walked around the left side of the house and returned to the high, flat ground.
@@ -298,7 +298,7 @@
 22	<s_p>	<s_p>	PUNCT	_	_	12	punct	_	AlignBegin=60451.3848451|AlignEnd=60789.1369941|Gloss=SIL
 
 # doc_title=Route description 004
-# sent_id=19
+# sent_id=yrk_MapTask_004_19
 # text=маханякубта' мэва" ӈоб' ядава" ядава" <b_p>
 # text_ru=Взяли слегка правее, и все идем-идем.
 # text_en=We turned slightly to the right and walked on.
@@ -314,7 +314,7 @@
 10	<b_p>	<b_p>	PUNCT	_	_	3	punct	_	AlignBegin=63116.2611121|AlignEnd=63715.9792598|Gloss=SIL
 
 # doc_title=Route description 004
-# sent_id=20
+# sent_id=yrk_MapTask_004_20
 # text=тадтикахад <b_p> яха' таркан' тэвына" <b_p>
 # text_ru=Потом мы дошли до развилки реки.
 # text_en=We came to a fork in the river.
@@ -329,7 +329,7 @@
 9	<b_p>	<b_p>	PUNCT	_	_	7	punct	_	AlignBegin=65743.1809779|AlignEnd=66257.9164322|Gloss=SIL
 
 # doc_title=Route description 004
-# sent_id=21
+# sent_id=yrk_MapTask_004_21
 # text=яха таркам' <b_p> тарканда пыя' няю' мада таслава" <b_p>
 # text_ru=Мы решили переплыть рукав реки в сторону мыса на развилке.
 # text_en=We decided to swim across to the cape.
@@ -348,7 +348,7 @@
 13	<b_p>	<b_p>	PUNCT	_	_	11	punct	_	AlignBegin=69549.3357161|AlignEnd=71024.8716256|Gloss=SIL
 
 # doc_title=Route description 004
-# sent_id=22
+# sent_id=yrk_MapTask_004_22
 # text=идм' <b_p> ӈохолё мадава" <b_p>
 # text_ru=Мы перешли реку вплавь.
 # text_en=We crossed the river by swimming.
@@ -361,7 +361,7 @@
 7	<b_p>	<b_p>	PUNCT	_	_	5	punct	_	AlignBegin=72646.4871968|AlignEnd=72954.4366767|Gloss=SIL
 
 # doc_title=Route description 004
-# sent_id=23
+# sent_id=yrk_MapTask_004_23
 # text=тарка' пыян' <s_p> нултава" <s_p>
 # text_ru=Остановились на мысе на развилке.
 # text_en=We stopped at a fork at the cape.

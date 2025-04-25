@@ -1,5 +1,5 @@
-# doc_title = Route description 001
-# sent_id = 1
+# doc_title = MapTask_001
+# sent_id = yrk_MapTask_001_1
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = <s_p> маряд' нё' сивня мятюдм' сятаняю' мэв <s_p> сюртев <b_p>
 # text_ru = Я зашел в ворота забора, повернул влево.
@@ -22,7 +22,7 @@
 16	<b_p>	<b_p>	PUNCT	_	_	8	punct	_	AlignBegin=6359.53818393|AlignEnd=6711.90672276|Gloss=SIL
 
 # doc_title = Route description 001
-# sent_id = 2
+# sent_id = yrk_MapTask_001_2
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = таня' ядадм' <s_p>
 # text_ru = Иду туда.
@@ -33,7 +33,7 @@
 4	<s_p>	<s_p>	PUNCT	_	_	2	punct	_	AlignBegin=7501.47102912|AlignEnd=8269.11009909|Gloss=SIL
 
 # doc_title = Route description 001
-# sent_id = 3
+# sent_id = yrk_MapTask_001_3
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = яхам' <s_p> пул' нимня мадав <s_p>
 # text_ru = Я перешел реку через мост.
@@ -49,7 +49,7 @@
 9	<s_p>	<s_p>	PUNCT	_	_	7	punct	_	AlignBegin=10689.5760887|AlignEnd=11136.6510597|Gloss=SIL
 
 # doc_title = Route description 001
-# sent_id = 4
+# sent_id = yrk_MapTask_001_4
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = тадтикахад тамна тяха' ядадм' <b_p>
 # text_ru = Затем иду дальше.
@@ -62,7 +62,7 @@
 6	<b_p>	<b_p>	PUNCT	_	_	4	punct	_	AlignBegin=12888.2497268|AlignEnd=12989.2795393|Gloss=SIL
 
 # doc_title = Route description 001
-# sent_id = 5
+# sent_id = yrk_MapTask_001_5
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = пям' манэ"ӈадм' <b_p>
 # text_ru = Я увидел дерево.
@@ -74,7 +74,7 @@
 5	<b_p>	<b_p>	PUNCT	_	_	3	punct	_	AlignBegin=13753.2518798|AlignEnd=14308.6925125|Gloss=SIL
 
 # doc_title = Route description 001
-# sent_id = 6
+# sent_id = yrk_MapTask_001_6
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = пям' сятаняӈы хэвувнада маха'няю <b_p> яля' сер' сюртев <s_p>
 # text_ru = Я обошел дерево вокруг слева на право, по ходу солнца.
@@ -95,7 +95,7 @@
 14	<s_p>	<s_p>	PUNCT	_	_	12	punct	_	AlignBegin=19012.2239452|AlignEnd=19885.2282639|Gloss=SIL
 
 # doc_title = Route description 001
-# sent_id = 7
+# sent_id = yrk_MapTask_001_7
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = тикы' пуд <b_p> яхам' <s_p> таркахаюта нямна <s_p> ӈохолырць <s_p> мадав <s_p>
 # text_ru = После я переплыл реку там, где находится его развилка.
@@ -120,7 +120,7 @@
 18	<s_p>	<s_p>	PUNCT	_	_	16	punct	_	AlignBegin=29756.3256595|AlignEnd=30472.4180002|Gloss=SIL
 
 # doc_title = Route description 001
-# sent_id = 8
+# sent_id = yrk_MapTask_001_8
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = тарка пыявна ӈадимядм' <b_p>
 # text_ru = Я оказался на мысу, который находится на развилке реки.
@@ -133,7 +133,7 @@
 6	<b_p>	<b_p>	PUNCT	_	_	4	punct	_	AlignBegin=31827.3382054|AlignEnd=32428.677422|Gloss=SIL
 
 # doc_title = Route description 001
-# sent_id = 9
+# sent_id = yrk_MapTask_001_9
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = тарка' пыям мада"махадани <b_p> ӈани' ӈохолырць яха' няби таркам' мадав <b_p>
 # text_ru = После того как я перешел мыс на развилке я снова переплыл другой рукав реки.
@@ -160,7 +160,7 @@
 20	<b_p>	<b_p>	PUNCT	_	_	18	punct	_	AlignBegin=36895.055481|AlignEnd=37398.4418421|Gloss=SIL
 
 # doc_title = Route description 001
-# sent_id = 10
+# sent_id = yrk_MapTask_001_10
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = яха' иканя халя" танявы" <b_p>
 # text_ru = В реке были рыбы.
@@ -177,7 +177,7 @@
 10	<b_p>	<b_p>	PUNCT	_	_	8	punct	_	AlignBegin=38922.7862041|AlignEnd=40110.4887792|Gloss=SIL
 
 # doc_title = Route description 001
-# sent_id = 11
+# sent_id = yrk_MapTask_001_11
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = тикахад <s_p> маха'няку' мэхэя тамна тяха' яда нэкалӈав <s_p>
 # text_ru = После этого слегка повернув вправо, я пошел пешком дальше.
@@ -195,7 +195,7 @@
 11	<s_p>	<s_p>	PUNCT	_	_	9	punct	_	AlignBegin=44265.3529624|AlignEnd=44576.8886332|Gloss=SIL
 
 # doc_title = Route description 001
-# sent_id = 12
+# sent_id = yrk_MapTask_001_12
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = ӈоб' ядадм' ядадм' <b_p>
 # text_ru = Все иду, иду.
@@ -208,7 +208,7 @@
 6	<b_p>	<b_p>	PUNCT	_	_	2	punct	_	AlignBegin=46220.1722889|AlignEnd=46473.4729404|Gloss=SIL
 
 # doc_title = Route description 001
-# sent_id = 13
+# sent_id = yrk_MapTask_001_13
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = нерни няна <s_p> пирця харадм' манэ"ӈадм' <b_p>
 # text_ru = Впереди себя я увидел высокую башню(дом).
@@ -225,7 +225,7 @@
 10	<b_p>	<b_p>	PUNCT	_	_	8	punct	_	AlignBegin=49410.4035536|AlignEnd=49793.0348731|Gloss=SIL
 
 # doc_title = Route description 001
-# sent_id = 14
+# sent_id = yrk_MapTask_001_14
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = пирця харад' сидя сидеранда си <s_p>
 # text_ru = У башни два окна.
@@ -240,7 +240,7 @@
 8	<s_p>	<s_p>	PUNCT	_	_	7	punct	_	AlignBegin=52308.3703044|AlignEnd=52667.8964056|Gloss=SIL
 
 # doc_title = Route description 001
-# sent_id = 15
+# sent_id = yrk_MapTask_001_15
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = танцянда таня <s_p> нёнда си таня <b_p>
 # text_ru = У нее есть лестница, у нее есть дверь.
@@ -256,7 +256,7 @@
 9	<b_p>	<b_p>	PUNCT	_	_	3	punct	_	AlignBegin=55233.9521674|AlignEnd=55656.9591005|Gloss=SIL
 
 # doc_title = Route description 001
-# sent_id = 16
+# sent_id = yrk_MapTask_001_16
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = махалэйда <b_p> тю"у' ня' мятрев' саблюй <b_p>
 # text_ru = Ее крыша заострена вверх словно чум.
@@ -271,7 +271,7 @@
 8	<b_p>	<b_p>	PUNCT	_	_	7	punct	_	AlignBegin=58927.4585285|AlignEnd=60628.7794315|Gloss=SIL
 
 # doc_title = Route description 001
-# sent_id = 17
+# sent_id = yrk_MapTask_001_17
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = ӈаво' пирка"на" нёнда син' тэвыв' <s_p>
 # text_ru = В какой-то момент я дошел до ее двери.
@@ -288,7 +288,7 @@
 10	<s_p>	<s_p>	PUNCT	_	_	8	punct	_	AlignBegin=62970.4986255|AlignEnd=63317.6735539|Gloss=SIL
 
 # doc_title = Route description 001
-# sent_id = 18
+# sent_id = yrk_MapTask_001_18
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = танця' сер <s_p> тю"у' танэяв' <b_p>
 # text_ru = Я поднялся вверх по лестнице.
@@ -302,7 +302,7 @@
 7	<b_p>	<b_p>	PUNCT	_	_	5	punct	_	AlignBegin=65303.2016143|AlignEnd=68629.1001372|Gloss=SIL
 
 # doc_title = Route description 001
-# sent_id = 19
+# sent_id = yrk_MapTask_001_19
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = пирця харад' мюмня яда хаядм' <b_p>
 # text_ru = Я прошел по башне внутри.
@@ -317,7 +317,7 @@
 8	<b_p>	<b_p>	PUNCT	_	_	6	punct	_	AlignBegin=71074.3105835|AlignEnd=71274.2032934|Gloss=SIL
 
 # doc_title = Route description 001
-# sent_id = 20
+# sent_id = yrk_MapTask_001_20
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = няби хэвувнанда ӈани' несэй нё' сивна тарпыв' <b_p>
 # text_ru = С другой ее стороны я вышел в другую дверь.
@@ -337,7 +337,7 @@
 13	<b_p>	<b_p>	PUNCT	_	_	11	punct	_	AlignBegin=73974.5657552|AlignEnd=74190.6746981|Gloss=SIL
 
 # doc_title = Route description 001
-# sent_id = 21
+# sent_id = yrk_MapTask_001_21
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = танця' сер' ха"мыв' <s_p> тамна тяха' ядалъяв' <b_p> сятаняю' сюртев <b_p>
 # text_ru = Я спустился по лестнице, стал идти дальше, повернул налево.
@@ -358,7 +358,7 @@
 14	<b_p>	<b_p>	PUNCT	_	_	3	punct	_	AlignBegin=79174.4365557|AlignEnd=79523.7980109|Gloss=SIL
 
 # doc_title = Route description 001
-# sent_id = 22
+# sent_id = yrk_MapTask_001_22
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = сятаняю' ядадм' ядадм' ӈоб' ядадм' <b_p>
 # text_ru = Влево иду-иду, все иду.
@@ -374,7 +374,7 @@
 9	<b_p>	<b_p>	PUNCT	_	_	2	punct	_	AlignBegin=82856.4998215|AlignEnd=83119.6188647|Gloss=SIL
 
 # doc_title = Route description 001
-# sent_id = 23
+# sent_id = yrk_MapTask_001_23
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = ехэрана ӈани ӈопой марядм' манэ"ӈадм' <s_p>
 # text_ru = Увидел еще один незнакомый забор.
@@ -391,7 +391,7 @@
 10	<s_p>	<s_p>	PUNCT	_	_	8	punct	_	AlignBegin=85803.731728|AlignEnd=86338.7574292|Gloss=SIL
 
 # doc_title = Route description 001
-# sent_id = 24
+# sent_id = yrk_MapTask_001_24
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = маряд' тяхана <s_p>  тэхэ' танявэхэ" <s_p>
 # text_ru = За забором оказались два оленя.
