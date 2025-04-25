@@ -20,7 +20,7 @@
 15	-дм'	X	PRON	_	_	13	subj	_	AlignBegin=5782.09546216|AlignEnd=6311.5279927|Gloss=-1sg
 16	<b_p>	<b_p>	PUNCT	_	_	13	punct	_	AlignBegin=6311.5279927|AlignEnd=7252.97885776|Gloss=SIL
 
-# doc_title = Route description 003
+# doc_title = MapTask_003
 # sent_id = yrk_MapTask_003_2
 # text = яха' тарка' пыяхад <s_p> тодо' яха" сырӈадм' <s_p> сятаня' сырӈадм' <s_p> маханя' сырӈадм' <b_p>
 # text_ru = С мыса на развилке я посмотрел по сторонам: посмотрел влево, посмотрел вправо.
@@ -47,7 +47,7 @@
 20	-дм'	X	PRON	_	_	19	subj	_	AlignBegin=13283.8314341|AlignEnd=13786.436371|Gloss=-1sg
 21	<b_p>	<b_p>	PUNCT	_	_	11	punct	_	AlignBegin=13786.436371|AlignEnd=14791.6462448|Gloss=SIL
 
-# doc_title = Route description 003
+# doc_title = MapTask_003
 # sent_id = yrk_MapTask_003_3
 # text = маханяӈэюм' таркамда ӈохолё мада таслав <b_p>
 # text_ru = Правый его рукав я решил перейти вплавь.
@@ -62,7 +62,7 @@
 8	-в	X	PRON	_	_	7	subj	_	AlignBegin=16681.056405|AlignEnd=17243.2416157|Gloss=-1sg.sg
 9	<b_p>	<b_p>	PUNCT	_	_	7	punct	_	AlignBegin=17243.2416157|AlignEnd=19833.0333264|Gloss=SIL
 
-# doc_title = Route description 003
+# doc_title = MapTask_003
 # sent_id = yrk_MapTask_003_4
 # text = ӈохолё мадав <s_p> яда нэкалӈав <s_p>
 # text_ru = Переплыл ее, пошел дальше пешком.
@@ -76,7 +76,7 @@
 7	-в	X	PRON	_	_	6	subj	_	AlignBegin=21679.2304378|AlignEnd=22311.2534861|Gloss=-1sg.sg
 8	<s_p>	<s_p>	PUNCT	_	_	2	punct	_	AlignBegin=22311.2534861|AlignEnd=23079.4959388|Gloss=SIL
 
-# doc_title = Route description 003
+# doc_title = MapTask_003
 # sent_id = yrk_MapTask_003_5
 # text = яда<a>дм' яда<a>дм' ядадм' <b_p>
 # text_ru = Иду, иду, иду.
@@ -89,7 +89,7 @@
 6	-дм'	X	PRON	_	_	5	subj	_	AlignBegin=24368.020265|AlignEnd=24860.4910701|Gloss=-1sg
 7	<b_p>	<b_p>	PUNCT	_	_	1	punct	_	AlignBegin=24860.4910701|AlignEnd=26830.9094254|Gloss=SIL
 
-# doc_title = Route description 003
+# doc_title = MapTask_003
 # sent_id = yrk_MapTask_003_6
 # text = ӈоб' ядадм' ӈоб' ядадм'
 # text_ru = Все иду, все иду.
@@ -101,7 +101,7 @@
 5	яда	яда-	VERB	_	_	2	parataxis	_	AlignBegin=27783.3576776|AlignEnd=28079.0309466|Gloss=walk
 6	-дм'	X	PRON	_	_	5	subj	_	AlignBegin=27783.3576776|AlignEnd=28079.0309466|Gloss=-1sg
 
-# doc_title = Route description 003
+# doc_title = MapTask_003
 # sent_id = yrk_MapTask_003_7
 # text = нерни няна <s_p> пирця махалэйтана харадм' манэ"ӈадм' <b_p>
 # text_ru = Впереди себя я увидел высокую башню с крышей.
@@ -120,7 +120,7 @@
 12	-дм'	X	PRON	_	_	11	subj	_	AlignBegin=31071.638337|AlignEnd=31499.3940492|Gloss=-1sg
 13	<b_p>	<b_p>	PUNCT	_	_	11	punct	_	AlignBegin=31499.3940492|AlignEnd=31924.6628096|Gloss=SIL
 
-# doc_title = Route description 003
+# doc_title = MapTask_003
 # sent_id = yrk_MapTask_003_8
 # text = маханяӈы хэвувнанда хаяма' <w_n> ядувнанда xxx харданда пя ядувна тю"у' танэйв" <s_p>
 # text_ru = Пошел справа от нее, по ее стене я поднялся вверх.
@@ -146,7 +146,7 @@
 19	-в"	X	PRON	_	_	18	subj	_	AlignBegin=37126.2435454|AlignEnd=37499.2107719|Gloss=-1sg.refl
 20	<s_p>	<s_p>	PUNCT	_	_	18	punct	_	AlignBegin=37499.2107719|AlignEnd=37870.0648696|Gloss=SIL
 
-# doc_title = Route description 003
+# doc_title = MapTask_003
 # sent_id = yrk_MapTask_003_9
 # text = махалэянда ни' танэйв" <b_p>
 # text_ru = Поднялся на его крышу.
@@ -158,7 +158,7 @@
 5	-в"	X	PRON	_	_	4	subj	_	AlignBegin=38519.6084623|AlignEnd=38954.0999246|Gloss=-1sg.refl
 6	<b_p>	<b_p>	PUNCT	_	_	4	punct	_	AlignBegin=38954.0999246|AlignEnd=39723.278794|Gloss=SIL
 
-# doc_title = Route description 003
+# doc_title = MapTask_003
 # sent_id = yrk_MapTask_003_10
 # text = махалэянда  нид <b_p> я"амна сырӈадм' <b_p>
 # text_ru = С ее крыши я посмотрел по сторонам.
@@ -172,7 +172,7 @@
 7	-дм'	X	PRON	_	_	6	subj	_	AlignBegin=41445.1252477|AlignEnd=42004.5994819|Gloss=-1sg
 8	<b_p>	<b_p>	PUNCT	_	_	6	punct	_	AlignBegin=42004.5994819|AlignEnd=44528.3289662|Gloss=SIL
 
-# doc_title = Route description 003
+# doc_title = MapTask_003
 # sent_id = yrk_MapTask_003_11
 # text = тадтикахад <s_p> таси' ха"мыв" <b_p>
 # text_ru = Затем я спустился.
@@ -184,7 +184,7 @@
 5	-в"	X	PRON	_	_	4	subj	_	AlignBegin=45732.2631316|AlignEnd=46177.8088267|Gloss=-1sg.refl
 6	<b_p>	<b_p>	PUNCT	_	_	4	punct	_	AlignBegin=46177.8088267|AlignEnd=46850.3764426|Gloss=SIL
 
-# doc_title = Route description 003
+# doc_title = MapTask_003
 # sent_id = yrk_MapTask_003_12
 # text = таси' ха"ам"махадани <s_p> нэкалӈав тамна тяха нэкалӈав <b_p>
 # text_ru = И после того как спустился, направился дальше.
@@ -203,7 +203,7 @@
 12	-в	X	PRON	_	_	11	subj	_	AlignBegin=49359.5560567|AlignEnd=49849.550545|Gloss=-1sg.sg
 13	<b_p>	<b_p>	PUNCT	_	_	7	punct	_	AlignBegin=49849.550545|AlignEnd=50875.8382132|Gloss=SIL
 
-# doc_title = Route description 003
+# doc_title = MapTask_003
 # sent_id = yrk_MapTask_003_13
 # text = ӈохолырць <s_p> яхам' <s_p> пул' ӈыламна мадав <s_p>
 # text_ru = Вправь, я переплыл реку под мостом.
@@ -221,7 +221,7 @@
 11	-в	X	PRON	_	_	10	subj	_	AlignBegin=53469.2223672|AlignEnd=53939.2683207|Gloss=-1sg.sg
 12	<s_p>	<s_p>	PUNCT	_	_	10	punct	_	AlignBegin=53939.2683207|AlignEnd=54423.4275794|Gloss=SIL
 
-# doc_title = Route description 003
+# doc_title = MapTask_003
 # sent_id = yrk_MapTask_003_14
 # text = таханяю' тэвыв' <b_ p>
 # text_ru = Мы дошли там.
@@ -231,7 +231,7 @@
 3	-в'	X	PRON	_	_	2	subj	_	AlignBegin=54911.2009064|AlignEnd=55335.0178015|Gloss=-1sg.refl
 4	<b_p>	<b_p>	PUNCT	_	_	2	punct	_	AlignBegin=55335.0178015|AlignEnd=56781.9280695|Gloss=SIL
 
-# doc_title = Route description 003
+# doc_title = MapTask_003
 # sent_id = yrk_MapTask_003_15
 # text = тарем' пэрӈава <b_p> яха' варувна <s_p> яха' лаӈг' сятаняюмна ӈоб' яда нэкалӈав <s_p>
 # text_ru = Так направляюсь, что иду по берегу реки левее берега реки пешком.
@@ -257,7 +257,7 @@
 19	-в	X	PRON	_	_	18	subj	_	AlignBegin=61888.2566761|AlignEnd=62546.2706197|Gloss=-1sg.sg
 20	<s_p>	<s_p>	PUNCT	_	_	2	punct	_	AlignBegin=62546.2706197|AlignEnd=63077.3578044|Gloss=SIL
 
-# doc_title = Route description 003
+# doc_title = MapTask_003
 # sent_id = yrk_MapTask_003_16
 # text = таняна <b_p> ӈано <s_p> яӈговы <s_p> ӈано яха' тяханяна ӈэвы <b_p>
 # text_ru = Там не оказалось лодки, лодка оказалась на другом берегу реки.
@@ -277,7 +277,7 @@
 13	-вы	X	AUX	_	_	12	aux	_	AlignBegin=66635.9821287|AlignEnd=67045.1241455|Gloss=-infr.3sg
 14	<b_p>	<b_p>	PUNCT	_	_	5	punct	_	AlignBegin=67045.1241455|AlignEnd=67942.4445949|Gloss=SIL
 
-# doc_title = Route description 003
+# doc_title = MapTask_003
 # sent_id = yrk_MapTask_003_17
 # text = яхам' <b_p> ӈохолырць <s_p> ӈано' няю' мадав <b_p>
 # text_ru = Реку я переплыл в сторону лодки.
@@ -295,7 +295,7 @@
 11	-в	X	PRON	_	_	10	subj	_	AlignBegin=70998.2149549|AlignEnd=71489.2806948|Gloss=-1sg.sg
 12	<b_p>	<b_p>	PUNCT	_	_	10	punct	_	AlignBegin=71489.2806948|AlignEnd=73907.0151304|Gloss=SIL
 
-# doc_title = Route description 003
+# doc_title = MapTask_003
 # sent_id = yrk_MapTask_003_18
 # text = ӈаном' манэ"ӈава ӈаноход тамна тяха ядалъяв' <s_ p>
 # text_ru = Я посмотрел лодку и от лодки пошел пешком дальше.

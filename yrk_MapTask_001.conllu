@@ -21,7 +21,7 @@
 15	-в	X	PRON	_	_	14	subj:obj	_	AlignBegin=5738.34719428|AlignEnd=6359.53818393|Gloss=-1sg.sg
 16	<b_p>	<b_p>	PUNCT	_	_	8	punct	_	AlignBegin=6359.53818393|AlignEnd=6711.90672276|Gloss=SIL
 
-# doc_title = Route description 001
+# doc_title = MapTask_001
 # sent_id = yrk_MapTask_001_2
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = таня' ядадм' <s_p>
@@ -32,7 +32,7 @@
 3	-дм'	X	PRON	_	_	2	subj	_	AlignBegin=6956.16604868|AlignEnd=7501.47102912|Gloss=-1sg
 4	<s_p>	<s_p>	PUNCT	_	_	2	punct	_	AlignBegin=7501.47102912|AlignEnd=8269.11009909|Gloss=SIL
 
-# doc_title = Route description 001
+# doc_title = MapTask_001
 # sent_id = yrk_MapTask_001_3
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = яхам' <s_p> пул' нимня мадав <s_p>
@@ -48,7 +48,7 @@
 8	-в	X	PRON	_	_	7	subj:obj	_	AlignBegin=9593.53182228|AlignEnd=10689.5760887|Gloss=-1sg.sg
 9	<s_p>	<s_p>	PUNCT	_	_	7	punct	_	AlignBegin=10689.5760887|AlignEnd=11136.6510597|Gloss=SIL
 
-# doc_title = Route description 001
+# doc_title = MapTask_001
 # sent_id = yrk_MapTask_001_4
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = тадтикахад тамна тяха' ядадм' <b_p>
@@ -61,7 +61,7 @@
 5	-дм'	X	PRON	_	_	4	subj	_	AlignBegin=12475.4942703|AlignEnd=12888.2497268|Gloss=-1sg
 6	<b_p>	<b_p>	PUNCT	_	_	4	punct	_	AlignBegin=12888.2497268|AlignEnd=12989.2795393|Gloss=SIL
 
-# doc_title = Route description 001
+# doc_title = MapTask_001
 # sent_id = yrk_MapTask_001_5
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = пям' манэ"ӈадм' <b_p>
@@ -73,7 +73,7 @@
 4	-дм'	X	PRON	_	_	3	subj	_	AlignBegin=13221.1482376|AlignEnd=13753.2518798|Gloss=-1sg
 5	<b_p>	<b_p>	PUNCT	_	_	3	punct	_	AlignBegin=13753.2518798|AlignEnd=14308.6925125|Gloss=SIL
 
-# doc_title = Route description 001
+# doc_title = MapTask_001
 # sent_id = yrk_MapTask_001_6
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = пям' сятаняӈы хэвувнада маха'няю <b_p> яля' сер' сюртев <s_p>
@@ -94,7 +94,7 @@
 13	-в	X	PRON	_	_	12	subj:obj	_	AlignBegin=18265.9475542|AlignEnd=19012.2239452|Gloss=-1sg.sg
 14	<s_p>	<s_p>	PUNCT	_	_	12	punct	_	AlignBegin=19012.2239452|AlignEnd=19885.2282639|Gloss=SIL
 
-# doc_title = Route description 001
+# doc_title = MapTask_001
 # sent_id = yrk_MapTask_001_7
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = тикы' пуд <b_p> яхам' <s_p> таркахаюта нямна <s_p> ӈохолырць <s_p> мадав <s_p>
@@ -119,7 +119,7 @@
 17	-в	X	PRON	_	_	16	subj:obj	_	AlignBegin=29210.9750403|AlignEnd=29756.3256595|Gloss=-1sg.sg
 18	<s_p>	<s_p>	PUNCT	_	_	16	punct	_	AlignBegin=29756.3256595|AlignEnd=30472.4180002|Gloss=SIL
 
-# doc_title = Route description 001
+# doc_title = MapTask_001
 # sent_id = yrk_MapTask_001_8
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = тарка пыявна ӈадимядм' <b_p>
@@ -132,7 +132,7 @@
 5	-дм'	X	PRON	_	_	4	subj	_	AlignBegin=31322.1166071|AlignEnd=31827.3382054|Gloss=-1sg
 6	<b_p>	<b_p>	PUNCT	_	_	4	punct	_	AlignBegin=31827.3382054|AlignEnd=32428.677422|Gloss=SIL
 
-# doc_title = Route description 001
+# doc_title = MapTask_001
 # sent_id = yrk_MapTask_001_9
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = тарка' пыям мада"махадани <b_p> ӈани' ӈохолырць яха' няби таркам' мадав <b_p>
@@ -159,7 +159,7 @@
 19	-в	X	PRON	_	_	18	subj:obj	_	AlignBegin=36351.3861114|AlignEnd=36895.055481|Gloss=-1sg.sg
 20	<b_p>	<b_p>	PUNCT	_	_	18	punct	_	AlignBegin=36895.055481|AlignEnd=37398.4418421|Gloss=SIL
 
-# doc_title = Route description 001
+# doc_title = MapTask_001
 # sent_id = yrk_MapTask_001_10
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = яха' иканя халя" танявы" <b_p>
@@ -176,7 +176,7 @@
 9	-"	X	PRON	_	_	8	subj	_	AlignBegin=38377.1749371|AlignEnd=38922.7862041|Gloss=-3pl
 10	<b_p>	<b_p>	PUNCT	_	_	8	punct	_	AlignBegin=38922.7862041|AlignEnd=40110.4887792|Gloss=SIL
 
-# doc_title = Route description 001
+# doc_title = MapTask_001
 # sent_id = yrk_MapTask_001_11
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = тикахад <s_p> маха'няку' мэхэя тамна тяха' яда нэкалӈав <s_p>
@@ -194,7 +194,7 @@
 10	-в	X	PRON	_	_	9	subj:obj	_	AlignBegin=43489.0969162|AlignEnd=44265.3529624|Gloss=-1sg.sg
 11	<s_p>	<s_p>	PUNCT	_	_	9	punct	_	AlignBegin=44265.3529624|AlignEnd=44576.8886332|Gloss=SIL
 
-# doc_title = Route description 001
+# doc_title = MapTask_001
 # sent_id = yrk_MapTask_001_12
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = ӈоб' ядадм' ядадм' <b_p>
@@ -207,7 +207,7 @@
 5	-дм'	X	PRON	_	_	4	subj	_	AlignBegin=45600.2101876|AlignEnd=46220.1722889|Gloss=-1sg
 6	<b_p>	<b_p>	PUNCT	_	_	2	punct	_	AlignBegin=46220.1722889|AlignEnd=46473.4729404|Gloss=SIL
 
-# doc_title = Route description 001
+# doc_title = MapTask_001
 # sent_id = yrk_MapTask_001_13
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = нерни няна <s_p> пирця харадм' манэ"ӈадм' <b_p>
@@ -224,7 +224,7 @@
 9	-дм'	X	PRON	_	_	8	subj	_	AlignBegin=48591.8242056|AlignEnd=49410.4035536|Gloss=-1sg
 10	<b_p>	<b_p>	PUNCT	_	_	8	punct	_	AlignBegin=49410.4035536|AlignEnd=49793.0348731|Gloss=SIL
 
-# doc_title = Route description 001
+# doc_title = MapTask_001
 # sent_id = yrk_MapTask_001_14
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = пирця харад' сидя сидеранда си <s_p>
@@ -239,7 +239,7 @@
 7	си	си	NOUN	_	_	0	root	_	AlignBegin=51619.4458102|AlignEnd=52308.3703044|Gloss=hole
 8	<s_p>	<s_p>	PUNCT	_	_	7	punct	_	AlignBegin=52308.3703044|AlignEnd=52667.8964056|Gloss=SIL
 
-# doc_title = Route description 001
+# doc_title = MapTask_001
 # sent_id = yrk_MapTask_001_15
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = танцянда таня <s_p> нёнда си таня <b_p>
@@ -255,7 +255,7 @@
 8	таня	таня-	VERB	_	_	3	parataxis	_	AlignBegin=54513.0114911|AlignEnd=55233.9521674|Gloss=exist.3sg
 9	<b_p>	<b_p>	PUNCT	_	_	3	punct	_	AlignBegin=55233.9521674|AlignEnd=55656.9591005|Gloss=SIL
 
-# doc_title = Route description 001
+# doc_title = MapTask_001
 # sent_id = yrk_MapTask_001_16
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = махалэйда <b_p> тю"у' ня' мятрев' саблюй <b_p>
@@ -270,7 +270,7 @@
 7	саблюй	саблюй	ADJ	_	_	0	root	_	AlignBegin=58124.2201368|AlignEnd=58927.4585285|Gloss=peak
 8	<b_p>	<b_p>	PUNCT	_	_	7	punct	_	AlignBegin=58927.4585285|AlignEnd=60628.7794315|Gloss=SIL
 
-# doc_title = Route description 001
+# doc_title = MapTask_001
 # sent_id = yrk_MapTask_001_17
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = ӈаво' пирка"на" нёнда син' тэвыв' <s_p>
@@ -287,7 +287,7 @@
 9	-в'	X	PRON	_	_	8	subj	_	AlignBegin=62544.3330073|AlignEnd=62970.4986255|Gloss=-1sg.refl
 10	<s_p>	<s_p>	PUNCT	_	_	8	punct	_	AlignBegin=62970.4986255|AlignEnd=63317.6735539|Gloss=SIL
 
-# doc_title = Route description 001
+# doc_title = MapTask_001
 # sent_id = yrk_MapTask_001_18
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = танця' сер <s_p> тю"у' танэяв' <b_p>
@@ -301,7 +301,7 @@
 6	-в'	X	PRON	_	_	5	subj	_	AlignBegin=64769.2885512|AlignEnd=65303.2016143|Gloss=-1sg.refl
 7	<b_p>	<b_p>	PUNCT	_	_	5	punct	_	AlignBegin=65303.2016143|AlignEnd=68629.1001372|Gloss=SIL
 
-# doc_title = Route description 001
+# doc_title = MapTask_001
 # sent_id = yrk_MapTask_001_19
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = пирця харад' мюмня яда хаядм' <b_p>
@@ -316,7 +316,7 @@
 7	-дм'	X	PRON	_	_	6	subj	_	AlignBegin=70590.8220156|AlignEnd=71074.3105835|Gloss=-1sg
 8	<b_p>	<b_p>	PUNCT	_	_	6	punct	_	AlignBegin=71074.3105835|AlignEnd=71274.2032934|Gloss=SIL
 
-# doc_title = Route description 001
+# doc_title = MapTask_001
 # sent_id = yrk_MapTask_001_20
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = няби хэвувнанда ӈани' несэй нё' сивна тарпыв' <b_p>
@@ -336,7 +336,7 @@
 12	-в'	X	PRON	_	_	11	subj	_	AlignBegin=73316.5615402|AlignEnd=73974.5657552|Gloss=-1sg.refl
 13	<b_p>	<b_p>	PUNCT	_	_	11	punct	_	AlignBegin=73974.5657552|AlignEnd=74190.6746981|Gloss=SIL
 
-# doc_title = Route description 001
+# doc_title = MapTask_001
 # sent_id = yrk_MapTask_001_21
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = танця' сер' ха"мыв' <s_p> тамна тяха' ядалъяв' <b_p> сятаняю' сюртев <b_p>
@@ -357,7 +357,7 @@
 13	-в	X	PRON	_	_	12	subj	_	AlignBegin=78351.9468402|AlignEnd=79174.4365557|Gloss=-1sg.sg
 14	<b_p>	<b_p>	PUNCT	_	_	3	punct	_	AlignBegin=79174.4365557|AlignEnd=79523.7980109|Gloss=SIL
 
-# doc_title = Route description 001
+# doc_title = MapTask_001
 # sent_id = yrk_MapTask_001_22
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = сятаняю' ядадм' ядадм' ӈоб' ядадм' <b_p>
@@ -373,7 +373,7 @@
 8	-дм'	X	PRON	_	_	7	subj	_	AlignBegin=82270.2637369|AlignEnd=82856.4998215|Gloss=-1sg
 9	<b_p>	<b_p>	PUNCT	_	_	2	punct	_	AlignBegin=82856.4998215|AlignEnd=83119.6188647|Gloss=SIL
 
-# doc_title = Route description 001
+# doc_title = MapTask_001
 # sent_id = yrk_MapTask_001_23
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = ехэрана ӈани ӈопой марядм' манэ"ӈадм' <s_p>
@@ -390,7 +390,7 @@
 9	-дм'	X	PRON	_	_	8	subj	_	AlignBegin=85298.6537487|AlignEnd=85803.731728|Gloss=-1sg
 10	<s_p>	<s_p>	PUNCT	_	_	8	punct	_	AlignBegin=85803.731728|AlignEnd=86338.7574292|Gloss=SIL
 
-# doc_title = Route description 001
+# doc_title = MapTask_001
 # sent_id = yrk_MapTask_001_24
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = маряд' тяхана <s_p>  тэхэ' танявэхэ" <s_p>
