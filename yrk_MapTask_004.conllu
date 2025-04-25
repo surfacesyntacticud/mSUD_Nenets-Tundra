@@ -292,7 +292,7 @@
 16	<u_w>ниӈа	ниня	ADP	_	_	17	mod:poss	_	AlignBegin=58582.401827|AlignEnd=59179.9403164|Gloss=at.loc
 17	тир	тир	NOUN	_	_	18	comp:obj	_	AlignBegin=59179.9403164|AlignEnd=59439.1332951|Gloss=edge
 18	-'	X	ADP	_	_	19	comp:obj	_	AlignBegin=59179.9403164|AlignEnd=59439.1332951|Gloss=-gen
-19	сер'	сер'	ADP	_	_	20	comp:obl	_	AlignBegin=59439.1332951|AlignEnd=59686.1362838|Gloss=when
+19	сер'	сер'	ADP	_	_	20	comp:obl	_	AlignBegin=59439.1332951|AlignEnd=59686.1362838|Gloss=at.the.time.of
 20	ялъя-	ялъя-	VERB	_	_	12	parataxis	_	AlignBegin=59686.1362838|AlignEnd=60451.3848451|Gloss=walk
 21	-на"	X	PRON	_	_	20	subj	_	AlignBegin=59686.1362838|AlignEnd=60451.3848451|Gloss=-1pl.refl
 22	<s_p>	<s_p>	PUNCT	_	_	12	punct	_	AlignBegin=60451.3848451|AlignEnd=60789.1369941|Gloss=SIL
