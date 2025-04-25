@@ -156,7 +156,7 @@
 12	ӈохолё	ӈохолё	ADV	_	_	13	mod	_	AlignBegin=27860.5807046|AlignEnd=28201.1539735|Gloss=swim.cvb
 13	хэ-	хэ-	VERB	_	_	14	comp:obj	_	AlignBegin=28201.1539735|AlignEnd=28516.3436309|Gloss=go
 14	-сь	cvb	SCONJ	_	_	15	aux	_	AlignBegin=28201.1539735|AlignEnd=28516.3436309|Gloss=-cvb|DerPos=ADV
-15	тара	тара-	AUX	_	_	5	comp:obj	_	AlignBegin=28516.3436309|AlignEnd=28898.5717859|Gloss=need.3sg
+15	тара	тара	AUX	_	_	5	comp:obj	_	AlignBegin=28516.3436309|AlignEnd=28898.5717859|Gloss=need.3sg
 16	<s_p>	<s_p>	PUNCT	_	_	5	punct	_	AlignBegin=28898.5717859|AlignEnd=29132.6391755|Gloss=SIL
 
 # doc_title = MapTask_004
