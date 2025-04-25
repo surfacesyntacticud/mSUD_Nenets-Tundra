@@ -89,7 +89,7 @@
 8	<b_p>	<b_p>	X	_	_	7	discourse	_	AlignBegin=17306.4743386|AlignEnd=17605.7595618|Gloss=PAUSE
 9	яля	яля	NOUN	_	_	10	comp:obj	_	AlignBegin=17605.7595618|AlignEnd=17913.8472916|Gloss=sun
 10	-'	X	ADP	_	_	11	comp:obj	_	AlignBegin=17605.7595618|AlignEnd=17913.8472916|Gloss=-gen
-11	сер'	сер'	ADP	_	_	12	comp:obl	_	AlignBegin=17913.8472916|AlignEnd=18265.9475542|Gloss=when
+11	сер'	сер'	ADP	_	_	12	comp:obl	_	AlignBegin=17913.8472916|AlignEnd=18265.9475542|Gloss=at.the.time.of
 12	сюрте	сюрте-	VERB	_	_	0	root	_	AlignBegin=18265.9475542|AlignEnd=19012.2239452|Gloss=go.around
 13	-в	X	PRON	_	_	12	subj:obj	_	AlignBegin=18265.9475542|AlignEnd=19012.2239452|Gloss=-1sg.sg
 14	<s_p>	<s_p>	PUNCT	_	_	12	punct	_	AlignBegin=19012.2239452|AlignEnd=19885.2282639|Gloss=SIL
@@ -294,7 +294,7 @@
 # text_ru = Я поднялся вверх по лестнице.
 # text_en = I went up the stairs.
 1	танця'	танцие"	NOUN	_	_	2	comp:obj	_	AlignBegin=63317.6735539|AlignEnd=63824.9406205|Gloss=stairs
-2	сер	сер'	ADP	_	_	5	comp:obl	_	AlignBegin=63824.9406205|AlignEnd=64175.5184841|Gloss=when
+2	сер	сер'	ADP	_	_	5	comp:obl	_	AlignBegin=63824.9406205|AlignEnd=64175.5184841|Gloss=at.the.time.of
 3	<s_p>	<s_p>	X	_	_	2	discourse	_	AlignBegin=64175.5184841|AlignEnd=64498.6368382|Gloss=PAUSE
 4	тю"у'	тю"у'	ADV	_	_	5	comp:obl	_	AlignBegin=64498.6368382|AlignEnd=64769.2885512|Gloss=upwards
 5	танэ-я	тана-	VERB	_	_	0	root	_	AlignBegin=64769.2885512|AlignEnd=65303.2016143|Gloss=go.up-co.refl
@@ -343,7 +343,7 @@
 # text_ru = Я спустился по лестнице, стал идти дальше, повернул налево.
 # text_en = I went down the stairs, started walking and turned left.
 1	танця'	танцие"	NOUN	_	_	2	comp:obj	_	AlignBegin=74190.6746981|AlignEnd=74593.3610876|Gloss=stairs
-2	сер'	сер'	ADP	_	_	3	comp:obl	_	AlignBegin=74593.3610876|AlignEnd=74909.5454341|Gloss=when
+2	сер'	сер'	ADP	_	_	3	comp:obl	_	AlignBegin=74593.3610876|AlignEnd=74909.5454341|Gloss=at.the.time.of
 3	ха"мы	ха"ма-	VERB	_	_	0	root	_	AlignBegin=74909.5454341|AlignEnd=75539.0428681|Gloss=go.down
 4	-в'	X	PRON	_	_	3	subj	_	AlignBegin=74909.5454341|AlignEnd=75539.0428681|Gloss=-1sg.refl
 5	<s_p>	<s_p>	PUNCT	_	_	3	punct	_	AlignBegin=75539.0428681|AlignEnd=76514.9480759|Gloss=SIL
