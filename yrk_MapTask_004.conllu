@@ -154,9 +154,9 @@
 10	ӈыламна	ӈыламна	ADP	_	_	13	mod	_	AlignBegin=27098.7685973|AlignEnd=27576.0825389|Gloss=under.prol
 11	<b_p>	<b_p>	X	_	_	10	discourse	_	AlignBegin=27576.0825389|AlignEnd=27860.5807046|Gloss=PAUSE
 12	ӈохолё	ӈохолё	ADV	_	_	13	mod	_	AlignBegin=27860.5807046|AlignEnd=28201.1539735|Gloss=swim.cvb
-13	хэ-	хэ-	VERB	_	_	14	comp	_	AlignBegin=28201.1539735|AlignEnd=28516.3436309|Gloss=go
-14	-сь	cvb	ADV	_	_	15	comp	_	AlignBegin=28201.1539735|AlignEnd=28516.3436309|Gloss=-cvb
-15	тара	тара-	VERB	_	_	5	parataxis	_	AlignBegin=28516.3436309|AlignEnd=28898.5717859|Gloss=need.3sg
+13	хэ-	хэ-	VERB	_	_	14	comp:obj	_	AlignBegin=28201.1539735|AlignEnd=28516.3436309|Gloss=go
+14	-сь	cvb	SCONJ	_	_	15	aux	_	AlignBegin=28201.1539735|AlignEnd=28516.3436309|Gloss=-cvb|DerPos=ADV
+15	тара	тара-	AUX	_	_	5	comp:obj	_	AlignBegin=28516.3436309|AlignEnd=28898.5717859|Gloss=need.3sg
 16	<s_p>	<s_p>	PUNCT	_	_	5	punct	_	AlignBegin=28898.5717859|AlignEnd=29132.6391755|Gloss=SIL
 
 # doc_title = MapTask_004
@@ -182,8 +182,8 @@
 3	<m_l>тир	тир	NOUN	_	_	4	comp:obj	_	AlignBegin=32166.0669969|AlignEnd=32388.2142829|Gloss=edge
 4	-'	X	ADP	_	_	5	comp:obj	_	AlignBegin=32166.0669969|AlignEnd=32388.2142829|Gloss=-gen
 5	ни'	ни'	ADP	_	_	6	mod	_	AlignBegin=32388.2142829|AlignEnd=32639.9456464|Gloss=on.dat
-6	тана-	тана-	VERB	_	_	7	comp	_	AlignBegin=32639.9456464|AlignEnd=33774.7064265|Gloss=go.up
-7	-"ма-	X	NOUN	_	_	8	comp:obj	_	AlignBegin=32639.9456464|AlignEnd=33774.7064265|Gloss=-pfv.an
+6	тана-	тана-	VERB	_	_	7	comp:obj	_	AlignBegin=32639.9456464|AlignEnd=33774.7064265|Gloss=go.up
+7	-"ма-	X	SCONJ	_	_	8	comp:obj	_	AlignBegin=32639.9456464|AlignEnd=33774.7064265|Gloss=-pfv.an|DerPos=NOUN
 8	-хада-	X	ADP	_	_	16	mod	_	AlignBegin=32639.9456464|AlignEnd=33774.7064265|Gloss=-abl
 9	-на"	X	DET	_	_	7	det:poss	_	AlignBegin=32639.9456464|AlignEnd=33774.7064265|Gloss=-poss.1pl
 10	пирця	пирця	ADJ	_	_	12	mod	_	AlignBegin=33774.7064265|AlignEnd=34528.0065835|Gloss=tall
@@ -209,8 +209,8 @@
 6	<b_p>	<b_p>	PUNCT	_	_	4	punct	_	AlignBegin=38881.7467364|AlignEnd=39501.0558582|Gloss=SIL
 7	ня-	ня-	ADP	_	_	8	comp:obj	_	AlignBegin=39501.0558582|AlignEnd=39760.4877599|Gloss=at
 8	-нда	-нда	ADP	_	_	9	mod	_	AlignBegin=39501.0558582|AlignEnd=39760.4877599|Gloss=poss.dat.3sg
-9	тэв-	тэва-	VERB	_	_	10	comp	_	AlignBegin=39760.4877599|AlignEnd=40457.0363818|Gloss=arrive-
-10	-"ма-	X	NOUN	_	_	11	comp	_	AlignBegin=39760.4877599|AlignEnd=40457.0363818|Gloss=-pfv.an
+9	тэв-	тэва-	VERB	_	_	10	comp:obj	_	AlignBegin=39760.4877599|AlignEnd=40457.0363818|Gloss=arrive-
+10	-"ма-	X	SCONJ	_	_	11	comp:obj	_	AlignBegin=39760.4877599|AlignEnd=40457.0363818|Gloss=-pfv.an|DerPos=NOUN
 11	-хада-	X	ADP	_	_	25	mod	_	AlignBegin=39760.4877599|AlignEnd=40457.0363818|Gloss=-abl
 12	-на"	X	DET	_	_	10	det:poss	_	AlignBegin=39760.4877599|AlignEnd=40457.0363818|Gloss=-poss.1pl
 13	<b_p>	<b_p>	PUNCT	_	_	11	punct	_	AlignBegin=40457.0363818|AlignEnd=41138.6920594|Gloss=SIL
@@ -248,8 +248,8 @@
 # text_ru = После того как мы посмотрели по сторонам мы спустились.
 # text_en = After looking around, we climbed down.
 1	я"амна	я"амна	ADV	_	_	2	mod	_	AlignBegin=47063.4977407|AlignEnd=47348.9656252|Gloss=around.prol
-2	сыро-	сыр-	VERB	_	_	3	comp	_	AlignBegin=47348.9656252|AlignEnd=47958.2367473|Gloss=look
-3	-"ма-	X	NOUN	_	_	4	comp:obj	_	AlignBegin=47348.9656252|AlignEnd=47958.2367473|Gloss=-pfv.an
+2	сыро-	сыр-	VERB	_	_	3	comp:obj	_	AlignBegin=47348.9656252|AlignEnd=47958.2367473|Gloss=look
+3	-"ма-	X	SCONJ	_	_	4	comp:obj	_	AlignBegin=47348.9656252|AlignEnd=47958.2367473|Gloss=-pfv.an|DerPos=NOUN
 4	-хада-	X	ADP	_	_	8	mod	_	AlignBegin=47348.9656252|AlignEnd=47958.2367473|Gloss=-abl
 5	-на"	X	DET	_	_	3	det:poss	_	AlignBegin=47348.9656252|AlignEnd=47958.2367473|Gloss=-poss.1pl
 6	я	я	NOUN	_	_	7	comp:obj	_	AlignBegin=47958.2367473|AlignEnd=48234.4904768|Gloss=land
@@ -342,7 +342,7 @@
 7	пыя	пыя	NOUN	_	_	8	comp:obj	_	AlignBegin=67796.7266731|AlignEnd=68055.9139045|Gloss=end
 8	-'	X	ADP	_	_	9	comp:obj	_	AlignBegin=67796.7266731|AlignEnd=68055.9139045|Gloss=-gen
 9	няю'	няю'	ADP	_	_	10	mod	_	AlignBegin=68055.9139045|AlignEnd=68516.7672818|Gloss=towards.dat
-10	мада	мада-	VERB	_	_	11	comp	_	AlignBegin=68516.7672818|AlignEnd=68822.7944936|Gloss=pass.across.cvb
+10	мада	мада-	ADV	_	_	11	comp:obj	_	AlignBegin=68516.7672818|AlignEnd=68822.7944936|Gloss=pass.across.cvb
 11	тасла	тасла-	VERB	_	_	0	root	_	AlignBegin=68822.7944936|AlignEnd=69549.3357161|Gloss=decide
 12	-ва"	X	PRON	_	_	11	subj	_	AlignBegin=68822.7944936|AlignEnd=69549.3357161|Gloss=-1pl
 13	<b_p>	<b_p>	PUNCT	_	_	11	punct	_	AlignBegin=69549.3357161|AlignEnd=71024.8716256|Gloss=SIL
