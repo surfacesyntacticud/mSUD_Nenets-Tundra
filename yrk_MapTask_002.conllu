@@ -144,7 +144,7 @@
 3	-нда	X	ADP	_	_	4	mod:poss	_	AlignBegin=27237.6456069|AlignEnd=27735.6149465|Gloss=-gen.poss.3sg|Translit=-nda|LTranslit=X
 4	си	си	NOUN	_	_	10	subj	_	AlignBegin=27735.6149465|AlignEnd=28467.4789758|Gloss=hole|Translit=śi|LTranslit=śi
 5	<s_p>	<s_p>	PUNCT	_	_	4	punct	_	AlignBegin=28467.4789758|AlignEnd=29372.877775|Gloss=SIL|Translit=<s_p>|LTranslit=<s_p>
-6	<w_n>	<w_n>	X	_	_	5	noise	_	AlignBegin=28467.4789758|AlignEnd=29372.877775|Gloss=NOISE|Translit=<w_n>|LTranslit=<w_n>
+6	<w_n>	<w_n>	X	_	_	7	noise	_	AlignBegin=28467.4789758|AlignEnd=29372.877775|Gloss=NOISE|Translit=<w_n>|LTranslit=<w_n>
 7	нё	нё	NOUN	_	_	8	comp:obj	_	AlignBegin=29372.877775|AlignEnd=29784.0797296|Gloss=door|Translit=ńo|LTranslit=ńo
 8	-нда	X	ADP	_	_	9	mod:poss	_	AlignBegin=29372.877775|AlignEnd=29784.0797296|Gloss=-gen.poss.3sg|Translit=-nda|LTranslit=X
 9	си	си	NOUN	_	_	4	parataxis	_	AlignBegin=29784.0797296|AlignEnd=29934.9795295|Gloss=hole|Translit=śi|LTranslit=śi
