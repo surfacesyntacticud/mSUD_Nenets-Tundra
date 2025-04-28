@@ -289,7 +289,7 @@
 9	яха	яха	NOUN	_	_	10	comp:obj	_	AlignBegin=66020.0993182|AlignEnd=66304.9725801|Gloss=river|Translit=jaxa|LTranslit=jaxa
 10	-ʼ	X	ADP	_	_	11	comp:obj	_	AlignBegin=66020.0993182|AlignEnd=66304.9725801|Gloss=-gen|Translit=-ʔ|LTranslit=X
 11	тяханяна	тяханяна	ADP	_	_	12	comp:obl	_	AlignBegin=66304.9725801|AlignEnd=66635.9821287|Gloss=through.loc|Translit=ťaxańana|LTranslit=ťaxańana
-12	ӈэ	X	AUX	_	_	13	aux	_	AlignBegin=66635.9821287|AlignEnd=67045.1241455|Gloss=be|Translit=ŋæ|LTranslit=X
+12	ӈэ	ӈa	AUX	_	_	13	aux	_	AlignBegin=66635.9821287|AlignEnd=67045.1241455|Gloss=be|Translit=ŋæ|LTranslit=X
 13	-вы	X	AUX	_	_	6	parataxis	_	AlignBegin=66635.9821287|AlignEnd=67045.1241455|Gloss=-infr.3sg|Translit=-vy|LTranslit=X
 14	<b_p>	<b_p>	PUNCT	_	_	6	punct	_	AlignBegin=67045.1241455|AlignEnd=67942.4445949|Gloss=SIL|Translit=<b_p>|LTranslit=<b_p>
 
