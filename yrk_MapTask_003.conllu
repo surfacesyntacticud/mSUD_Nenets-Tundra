@@ -113,7 +113,7 @@
 # translit = ńerńi ńana <s_p> ṕirća maxalæjtana xaradmʔ manæʡŋadmʔ <b_p>
 # text_ru = Впереди себя я увидел высокую башню с крышей.
 # text_en = I saw a tall tower with a roof in front of me.
-1	нер	нер-	ADP	_	_	2	comp:obj	_	AlignBegin=28079.0309466|AlignEnd=28575.0894168|Gloss=in.front.of|Translit=ńer|LTranslit=ńer-
+1	нер	нер-	PRON	_	_	2	comp:obj	_	AlignBegin=28079.0309466|AlignEnd=28575.0894168|Gloss=in.front.of|Translit=ńer|LTranslit=ńer-
 2	-ни	X	ADP	_	_	3	comp:obj	_	AlignBegin=28079.0309466|AlignEnd=28575.0894168|Gloss=-poss.gen.1sg|Translit=-ńi|LTranslit=X
 3	няна	няна	ADP	_	_	11	comp:obl	_	AlignBegin=28575.0894168|AlignEnd=29147.7866932|Gloss=at.loc|Translit=ńana|LTranslit=ńana
 4	<s_p>	<s_p>	X	_	_	3	discourse	_	AlignBegin=29147.7866932|AlignEnd=29690.5203274|Gloss=PAUSE|Translit=<s_p>|LTranslit=<s_p>
