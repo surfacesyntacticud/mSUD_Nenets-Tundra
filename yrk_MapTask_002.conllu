@@ -108,7 +108,7 @@
 # translit = ńerńiʔ ńana <s_p> ṕirća xaradmʔ manæʡŋadmʔ <b_p>
 # text_ru = Впереди я увидел высокую башню.
 # text_en = I see a tall tower in front of me.
-1	нер	нер-	ADP	_	_	2	comp:obj	_	AlignBegin=21124.9407683|AlignEnd=21678.6454018|Gloss=in.front.of|Translit=ńer|LTranslit=ńer-
+1	нер	нер-	PRON	_	_	2	comp:obj	_	AlignBegin=21124.9407683|AlignEnd=21678.6454018|Gloss=in.front.of|Translit=ńer|LTranslit=ńer-
 2	-ниʼ	X	ADP	_	_	3	comp:obj	_	AlignBegin=21124.9407683|AlignEnd=21678.6454018|Gloss=-poss.gen.1sg|Translit=-ńiʔ|LTranslit=X
 3	няна	няна	ADP	_	_	8	comp:obl	_	AlignBegin=21678.6454018|AlignEnd=22449.647707|Gloss=at.loc|Translit=ńana|LTranslit=ńana
 4	<s_p>	<s_p>	X	_	_	3	discourse	_	AlignBegin=22449.647707|AlignEnd=22599.2212777|Gloss=PAUSE|Translit=<s_p>|LTranslit=<s_p>
@@ -382,7 +382,7 @@
 4	-ва	X	SCONJ	_	_	5	comp:obj	_	AlignBegin=69639.9988125|AlignEnd=70356.6575543|Gloss=-ipfv.an|DerPos=NOUN|Translit=-va|LTranslit=X
 5	-ˮ	X	ADP	_	_	12	comp:obl	_	AlignBegin=69639.9988125|AlignEnd=70356.6575543|Gloss=-gen|Translit=-ʡ|LTranslit=X
 6	<b_p>	<b_p>	PUNCT	_	_	5	punct	_	AlignBegin=70356.6575543|AlignEnd=70703.3022717|Gloss=SIL|Translit=<b_p>|LTranslit=<b_p>
-7	нер	нер-	ADP	_	_	8	comp:obj	_	AlignBegin=70703.3022717|AlignEnd=71046.0521048|Gloss=in.front.of|Translit=ńer|LTranslit=ńer-
+7	нер	нер-	PRON	_	_	8	comp:obj	_	AlignBegin=70703.3022717|AlignEnd=71046.0521048|Gloss=in.front.of|Translit=ńer|LTranslit=ńer-
 8	-ниʼ	X	ADP	_	_	9	comp:obj	_	AlignBegin=70703.3022717|AlignEnd=71046.0521048|Gloss=-poss.gen.1sg|Translit=-ńiʔ|LTranslit=X
 9	няна	няна	ADP	_	_	12	comp:obl	_	AlignBegin=71046.0521048|AlignEnd=71303.1144795|Gloss=at.loc|Translit=ńana|LTranslit=ńana
 10	пя	пя	NOUN	_	_	11	comp:obj	_	AlignBegin=71303.1144795|AlignEnd=71521.2280096|Gloss=tree|Translit=ṕa|LTranslit=ṕa
