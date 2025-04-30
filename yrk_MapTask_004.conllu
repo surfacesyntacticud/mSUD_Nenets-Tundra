@@ -128,7 +128,7 @@
 6	тир	тир	NOUN	_	_	7	comp:obj	_	AlignBegin=19436.9822842|AlignEnd=20169.443982|Gloss=edge|Translit=ťir|LTranslit=ťir
 7	-мана-	_	ADP	_	_	11	comp:obl	_	AlignBegin=19436.9822842|AlignEnd=20169.443982|Gloss=-prol|Translit=-mana-|LTranslit=X
 8	-нда	_	DET	_	_	6	det:poss	_	AlignBegin=19436.9822842|AlignEnd=20169.443982|Gloss=poss.3sg|Translit=-nda|LTranslit=X
-9	<b_p>	<b_p>	_	DET	_	_	8	discourse	_	AlignBegin=20169.443982|AlignEnd=20482.3949484|Gloss=PAUSE|Translit=<b_p>|LTranslit=<b_p>
+9	<b_p>	<b_p>	DET	_	_	8	discourse	_	AlignBegin=20169.443982|AlignEnd=20482.3949484|Gloss=PAUSE|Translit=<b_p>|LTranslit=<b_p>
 10	тасиʼ	тасиʼ	ADV	_	_	11	comp:obl	_	AlignBegin=20482.3949484|AlignEnd=21013.2525137|Gloss=downward|Translit=taśiʔ|LTranslit=taśiʔ
 11	хаˮавра-	хаˮавра-	VERB	_	_	0	root	_	AlignBegin=21013.2525137|AlignEnd=21912.4589634|Gloss=go.down|Translit=xaʡavra-|LTranslit=xaʡavra-
 12	-ваˮ	_	PRON	_	_	11	subj	_	AlignBegin=21013.2525137|AlignEnd=21912.4589634|Gloss=-1pl|Translit=-vaʡ|LTranslit=X
@@ -163,7 +163,7 @@
 8	пул	пул	NOUN	_	_	9	comp:obj	_	AlignBegin=26855.8225609|AlignEnd=27098.7685973|Gloss=bridge|Translit=pul|LTranslit=pul
 9	-ʼ	_	ADP	_	_	10	comp:obj	_	AlignBegin=26855.8225609|AlignEnd=27098.7685973|Gloss=-gen|Translit=-ʔ|LTranslit=X
 10	ӈыламна	ӈыламна	ADP	_	_	13	comp:obl	_	AlignBegin=27098.7685973|AlignEnd=27576.0825389|Gloss=under.prol|Translit=ŋylamna|LTranslit=ŋylamna
-11	<b_p>	<b_p>	_	DET	_	_	10	discourse	_	AlignBegin=27576.0825389|AlignEnd=27860.5807046|Gloss=PAUSE|Translit=<b_p>|LTranslit=<b_p>
+11	<b_p>	<b_p>	DET	_	_	10	discourse	_	AlignBegin=27576.0825389|AlignEnd=27860.5807046|Gloss=PAUSE|Translit=<b_p>|LTranslit=<b_p>
 12	ӈохолё	ӈохолё	ADV	_	_	13	comp:obj	_	AlignBegin=27860.5807046|AlignEnd=28201.1539735|Gloss=swim.cvb|Translit=ŋoxoľo|LTranslit=ŋoxoľo
 13	хэ-	хэ-	VERB	_	_	14	comp:obj	_	AlignBegin=28201.1539735|AlignEnd=28516.3436309|Gloss=go|Translit=xæ-|LTranslit=xæ-
 14	-сь	_	SCONJ	_	_	15	aux	_	AlignBegin=28201.1539735|AlignEnd=28516.3436309|Gloss=-cvb|DerPos=ADV|Translit=-ś|LTranslit=X
