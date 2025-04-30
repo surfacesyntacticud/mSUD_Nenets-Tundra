@@ -6,19 +6,19 @@
 # text_en = When I woke up I was on a headland, at a fork in the river.
 1	<w_n>	<w_n>	X	_	_	2	noise	_	AlignBegin=0|AlignEnd=405.588319811|Gloss=NOISE|Translit=<w_n>|LTranslit=<w_n>
 2	сэв	сэв	NOUN	_	_	3	comp:obj	_	AlignBegin=405.588319811|AlignEnd=801.049322087|Gloss=eye|Translit=sæv|LTranslit=sæv
-3	-ˮни	X	ADP	_	_	5	comp:obl	_	AlignBegin=405.588319811|AlignEnd=801.049322087|Gloss=-pl.poss.gen.1sg|Translit=-ʡńi|LTranslit=X
+3	-ˮни	_	ADP	_	_	5	comp:obl	_	AlignBegin=405.588319811|AlignEnd=801.049322087|Gloss=-pl.poss.gen.1sg|Translit=-ʡńi|LTranslit=X
 4	ӈадим	ӈадим-	VERB	_	_	5	comp:obj	_	AlignBegin=801.049322087|AlignEnd=1385.29024138|Gloss=appear|Translit=ŋaďim|LTranslit=ŋaďim-
-5	-бʼ	X	SCONJ	_	_	14	comp:obj	_	AlignBegin=801.049322087|AlignEnd=1385.29024138|Gloss=-cond|DerPos=ADV|Translit=-bʔ|LTranslit=X
+5	-бʼ	_	SCONJ	_	_	14	comp:obj	_	AlignBegin=801.049322087|AlignEnd=1385.29024138|Gloss=-cond|DerPos=ADV|Translit=-bʔ|LTranslit=X
 6	<s_p>	<s_p>	PUNCT	_	_	5	punct	_	AlignBegin=1385.29024138|AlignEnd=4367.07928408|Gloss=SIL|Translit=<s_p>|LTranslit=<s_p>
 7	яха	яха	NOUN	_	_	8	comp:obj	_	AlignBegin=4367.07928408|AlignEnd=4639.47449619|Gloss=river|Translit=jaxa|LTranslit=jaxa
-8	-ʼ	X	ADP	_	_	9	mod:poss	_	AlignBegin=4367.07928408|AlignEnd=4639.47449619|Gloss=-gen|Translit=-ʔ|LTranslit=X
+8	-ʼ	_	ADP	_	_	9	mod:poss	_	AlignBegin=4367.07928408|AlignEnd=4639.47449619|Gloss=-gen|Translit=-ʔ|LTranslit=X
 9	тарка	тарка	NOUN	_	_	10	comp:obj	_	AlignBegin=4639.47449619|AlignEnd=5044.81344664|Gloss=fork|Translit=tarka|LTranslit=tarka
-10	-ʼ	X	ADP	_	_	11	mod:poss	_	AlignBegin=4639.47449619|AlignEnd=5044.81344664|Gloss=-gen|Translit=-ʔ|LTranslit=X
+10	-ʼ	_	ADP	_	_	11	mod:poss	_	AlignBegin=4639.47449619|AlignEnd=5044.81344664|Gloss=-gen|Translit=-ʔ|LTranslit=X
 11	пыя	пыя	NOUN	_	_	12	comp:obj	_	AlignBegin=5044.81344664|AlignEnd=5782.09546216|Gloss=end|Translit=pyja|LTranslit=pyja
-12	-хана	X	ADP	_	_	13	comp:obl	_	AlignBegin=5044.81344664|AlignEnd=5782.09546216|Gloss=-loc|Translit=-xana|LTranslit=X
+12	-хана	_	ADP	_	_	13	comp:obl	_	AlignBegin=5044.81344664|AlignEnd=5782.09546216|Gloss=-loc|Translit=-xana|LTranslit=X
 13	мэ	мэ-	VERB	_	_	14	aux	_	AlignBegin=5782.09546216|AlignEnd=6311.5279927|Gloss=take|Translit=mæ|LTranslit=mæ-
-14	-вэ	X	AUX	_	_	0	root	_	AlignBegin=5782.09546216|AlignEnd=6311.5279927|Gloss=-infr|Translit=-væ|LTranslit=X
-15	-дмʼ	X	PRON	_	_	14	subj	_	AlignBegin=5782.09546216|AlignEnd=6311.5279927|Gloss=-1sg|Translit=-dmʔ|LTranslit=X
+14	-вэ	_	AUX	_	_	0	root	_	AlignBegin=5782.09546216|AlignEnd=6311.5279927|Gloss=-infr|Translit=-væ|LTranslit=X
+15	-дмʼ	_	PRON	_	_	14	subj	_	AlignBegin=5782.09546216|AlignEnd=6311.5279927|Gloss=-1sg|Translit=-dmʔ|LTranslit=X
 16	<b_p>	<b_p>	PUNCT	_	_	14	punct	_	AlignBegin=6311.5279927|AlignEnd=7252.97885776|Gloss=SIL|Translit=<b_p>|LTranslit=<b_p>
 
 # doc_title = MapTask_003
@@ -28,25 +28,25 @@
 # text_ru = С мыса на развилке я посмотрел по сторонам: посмотрел влево, посмотрел вправо.
 # text_en = From the headland at the fork I looked around: I looked left, I looked right.
 1	яха	яха	NOUN	_	_	2	comp:obj	_	AlignBegin=7252.97885776|AlignEnd=7524.70119689|Gloss=river|Translit=jaxa|LTranslit=jaxa
-2	-ʼ	X	ADP	_	_	3	mod:poss	_	AlignBegin=7252.97885776|AlignEnd=7524.70119689|Gloss=-gen|Translit=-ʔ|LTranslit=X
+2	-ʼ	_	ADP	_	_	3	mod:poss	_	AlignBegin=7252.97885776|AlignEnd=7524.70119689|Gloss=-gen|Translit=-ʔ|LTranslit=X
 3	тарка	тарка	NOUN	_	_	4	comp:obj	_	AlignBegin=7524.70119689|AlignEnd=7897.64855121|Gloss=fork|Translit=tarka|LTranslit=tarka
-4	-ʼ	X	ADP	_	_	5	mod:poss	_	AlignBegin=7524.70119689|AlignEnd=7897.64855121|Gloss=-gen|Translit=-ʔ|LTranslit=X
+4	-ʼ	_	ADP	_	_	5	mod:poss	_	AlignBegin=7524.70119689|AlignEnd=7897.64855121|Gloss=-gen|Translit=-ʔ|LTranslit=X
 5	пыя	пыя	NOUN	_	_	6	comp:obj	_	AlignBegin=7897.64855121|AlignEnd=8284.12392244|Gloss=end|Translit=pyja|LTranslit=pyja
-6	-хад	X	ADP	_	_	11	comp:obl	_	AlignBegin=7897.64855121|AlignEnd=8284.12392244|Gloss=-abl|Translit=-xad|LTranslit=X
+6	-хад	_	ADP	_	_	11	comp:obl	_	AlignBegin=7897.64855121|AlignEnd=8284.12392244|Gloss=-abl|Translit=-xad|LTranslit=X
 7	<s_p>	<s_p>	X	_	_	6	discourse	_	AlignBegin=8284.12392244|AlignEnd=9057.45650322|Gloss=PAUSE|Translit=<s_p>|LTranslit=<s_p>
 8	тодоʼ	тодоʼ	X	_	_	9	comp:obl	_	AlignBegin=9057.45650322|AlignEnd=9281.76532837|Gloss=?around?|Translit=todoʔ|LTranslit=todoʔ
 9	яха	яха	NOUN	_	_	10	comp:obj	_	AlignBegin=9281.76532837|AlignEnd=9456.29697149|Gloss=river|Translit=jaxa|LTranslit=jaxa
-10	-ˮ	X	ADP	_	_	11	comp:obl	_	AlignBegin=9281.76532837|AlignEnd=9456.29697149|Gloss=-gen|Translit=-ʡ|LTranslit=X
+10	-ˮ	_	ADP	_	_	11	comp:obl	_	AlignBegin=9281.76532837|AlignEnd=9456.29697149|Gloss=-gen|Translit=-ʡ|LTranslit=X
 11	сыр-ӈа	сыр-	VERB	_	_	0	root	_	AlignBegin=9456.29697149|AlignEnd=9945.35687374|Gloss=look-co|Translit=syr-ŋa|LTranslit=syr-
-12	-дмʼ	X	PRON	_	_	11	subj	_	AlignBegin=9456.29697149|AlignEnd=9945.35687374|Gloss=-1sg|Translit=-dmʔ|LTranslit=X
+12	-дмʼ	_	PRON	_	_	11	subj	_	AlignBegin=9456.29697149|AlignEnd=9945.35687374|Gloss=-1sg|Translit=-dmʔ|LTranslit=X
 13	<s_p>	<s_p>	PUNCT	_	_	11	punct	_	AlignBegin=9945.35687374|AlignEnd=10384.5334011|Gloss=SIL|Translit=<s_p>|LTranslit=<s_p>
 14	сятаняʼ	сятаняʼ	ADV	_	_	15	comp:obl	_	AlignBegin=10384.5334011|AlignEnd=10834.9569297|Gloss=to.the.left|Translit=śatańaʔ|LTranslit=śatańaʔ
 15	сыр-ӈа	сыр-	VERB	_	_	11	parataxis	_	AlignBegin=10834.9569297|AlignEnd=11387.0015614|Gloss=look-co|Translit=syr-ŋa|LTranslit=syr-
-16	-дмʼ	X	PRON	_	_	15	subj	_	AlignBegin=10834.9569297|AlignEnd=11387.0015614|Gloss=-1sg|Translit=-dmʔ|LTranslit=X
+16	-дмʼ	_	PRON	_	_	15	subj	_	AlignBegin=10834.9569297|AlignEnd=11387.0015614|Gloss=-1sg|Translit=-dmʔ|LTranslit=X
 17	<s_p>	<s_p>	PUNCT	_	_	15	punct	_	AlignBegin=11387.0015614|AlignEnd=12694.9838276|Gloss=SIL|Translit=<s_p>|LTranslit=<s_p>
 18	маханяʼ	маханяʼ	ADV	_	_	19	comp:obl	_	AlignBegin=12694.9838276|AlignEnd=13283.8314341|Gloss=to.the.right|Translit=maxańaʔ|LTranslit=maxańaʔ
 19	сыр-ӈа	сыр-	VERB	_	_	11	parataxis	_	AlignBegin=13283.8314341|AlignEnd=13786.436371|Gloss=look-co|Translit=syr-ŋa|LTranslit=syr-
-20	-дмʼ	X	PRON	_	_	19	subj	_	AlignBegin=13283.8314341|AlignEnd=13786.436371|Gloss=-1sg|Translit=-dmʔ|LTranslit=X
+20	-дмʼ	_	PRON	_	_	19	subj	_	AlignBegin=13283.8314341|AlignEnd=13786.436371|Gloss=-1sg|Translit=-dmʔ|LTranslit=X
 21	<b_p>	<b_p>	PUNCT	_	_	11	punct	_	AlignBegin=13786.436371|AlignEnd=14791.6462448|Gloss=SIL|Translit=<b_p>|LTranslit=<b_p>
 
 # doc_title = MapTask_003
@@ -57,12 +57,12 @@
 # text_en = I decided to swim across on the right arm of the river.
 1	маханяӈэюмʼ	маханяӈэюмʼ	ADJ	_	_	2	mod	_	AlignBegin=14791.6462448|AlignEnd=15419.8854446|Gloss=to.the.right.adj.pol|Translit=maxańaŋæjumʔ|LTranslit=maxańaŋæjumʔ
 2	тарка	тарка	NOUN	_	_	3	comp:obj	_	AlignBegin=15419.8854446|AlignEnd=16010.0300532|Gloss=fork|Translit=tarka|LTranslit=tarka
-3	-м	X	ADP	_	_	6	comp:obj	_	AlignBegin=15419.8854446|AlignEnd=16010.0300532|Gloss=-acc|Translit=-m|LTranslit=X
-4	-да	X	DET	_	_	2	det	_	AlignBegin=15419.8854446|AlignEnd=16010.0300532|Gloss=-poss.3sg|Translit=-da|LTranslit=X
+3	-м	_	ADP	_	_	6	comp:obj	_	AlignBegin=15419.8854446|AlignEnd=16010.0300532|Gloss=-acc|Translit=-m|LTranslit=X
+4	-да	_	DET	_	_	2	det	_	AlignBegin=15419.8854446|AlignEnd=16010.0300532|Gloss=-poss.3sg|Translit=-da|LTranslit=X
 5	ӈохолё	ӈохолё-	ADV	_	_	6	comp:obj	_	AlignBegin=16010.0300532|AlignEnd=16410.3794108|Gloss=swim.cvb|Translit=ŋoxoľo|LTranslit=ŋoxoľo-
 6	мада	мада-	ADV	_	_	7	comp:obl	_	AlignBegin=16410.3794108|AlignEnd=16681.056405|Gloss=pass.across.cvb|Translit=mada|LTranslit=mada-
 7	тасла	тасла-	VERB	_	_	0	root	_	AlignBegin=16681.056405|AlignEnd=17243.2416157|Gloss=decide|Translit=tasla|LTranslit=tasla-
-8	-в	X	PRON	_	_	7	subj	_	AlignBegin=16681.056405|AlignEnd=17243.2416157|Gloss=-1sg.sg|Translit=-v|LTranslit=X
+8	-в	_	PRON	_	_	7	subj	_	AlignBegin=16681.056405|AlignEnd=17243.2416157|Gloss=-1sg.sg|Translit=-v|LTranslit=X
 9	<b_p>	<b_p>	PUNCT	_	_	7	punct	_	AlignBegin=17243.2416157|AlignEnd=19833.0333264|Gloss=SIL|Translit=<b_p>|LTranslit=<b_p>
 
 # doc_title = MapTask_003
@@ -73,11 +73,11 @@
 # text_en = I swam across and continued on foot.
 1	ӈохолё	ӈохолё	ADV	_	_	2	comp:obj	_	AlignBegin=19833.0333264|AlignEnd=20264.919017|Gloss=swim.cvb|Translit=ŋoxoľo|LTranslit=ŋoxoľo
 2	мада	мада-	VERB	_	_	0	root	_	AlignBegin=20264.919017|AlignEnd=20721.6642636|Gloss=pass.across|Translit=mada|LTranslit=mada-
-3	-в	X	PRON	_	_	2	subj	_	AlignBegin=20264.919017|AlignEnd=20721.6642636|Gloss=-1sg.sg|Translit=-v|LTranslit=X
+3	-в	_	PRON	_	_	2	subj	_	AlignBegin=20264.919017|AlignEnd=20721.6642636|Gloss=-1sg.sg|Translit=-v|LTranslit=X
 4	<s_p>	<s_p>	PUNCT	_	_	2	punct	_	AlignBegin=20721.6642636|AlignEnd=21312.8923263|Gloss=SIL|Translit=<s_p>|LTranslit=<s_p>
 5	яда	яда	ADV	_	_	6	comp:obl	_	AlignBegin=21312.8923263|AlignEnd=21679.2304378|Gloss=on.foot|Translit=jada|LTranslit=jada
 6	нэкал-ӈа	нэкал-	VERB	_	_	2	parataxis	_	AlignBegin=21679.2304378|AlignEnd=22311.2534861|Gloss=pull-co|Translit=nækal-ŋa|LTranslit=nækal-
-7	-в	X	PRON	_	_	6	subj	_	AlignBegin=21679.2304378|AlignEnd=22311.2534861|Gloss=-1sg.sg|Translit=-v|LTranslit=X
+7	-в	_	PRON	_	_	6	subj	_	AlignBegin=21679.2304378|AlignEnd=22311.2534861|Gloss=-1sg.sg|Translit=-v|LTranslit=X
 8	<s_p>	<s_p>	PUNCT	_	_	2	punct	_	AlignBegin=22311.2534861|AlignEnd=23079.4959388|Gloss=SIL|Translit=<s_p>|LTranslit=<s_p>
 
 # doc_title = MapTask_003
@@ -87,11 +87,11 @@
 # text_ru = Иду, иду, иду.
 # text_en = I'm walking, I'm walking, I'm walking.
 1	яда<a>	яда-	VERB	_	_	0	root	_	AlignBegin=23079.4959388|AlignEnd=23693.8758448|Gloss=walk|Translit=jada<a>|LTranslit=jada-
-2	-дмʼ	X	PRON	_	_	1	subj	_	AlignBegin=23079.4959388|AlignEnd=23693.8758448|Gloss=-1sg|Translit=-dmʔ|LTranslit=X
+2	-дмʼ	_	PRON	_	_	1	subj	_	AlignBegin=23079.4959388|AlignEnd=23693.8758448|Gloss=-1sg|Translit=-dmʔ|LTranslit=X
 3	яда<a>	яда-	VERB	_	_	1	parataxis	_	AlignBegin=23693.8758448|AlignEnd=24368.020265|Gloss=walk|Translit=jada<a>|LTranslit=jada-
-4	-дмʼ	X	PRON	_	_	3	subj	_	AlignBegin=23693.8758448|AlignEnd=24368.020265|Gloss=-1sg|Translit=-dmʔ|LTranslit=X
+4	-дмʼ	_	PRON	_	_	3	subj	_	AlignBegin=23693.8758448|AlignEnd=24368.020265|Gloss=-1sg|Translit=-dmʔ|LTranslit=X
 5	яда	яда-	VERB	_	_	1	parataxis	_	AlignBegin=24368.020265|AlignEnd=24860.4910701|Gloss=walk|Translit=jada|LTranslit=jada-
-6	-дмʼ	X	PRON	_	_	5	subj	_	AlignBegin=24368.020265|AlignEnd=24860.4910701|Gloss=-1sg|Translit=-dmʔ|LTranslit=X
+6	-дмʼ	_	PRON	_	_	5	subj	_	AlignBegin=24368.020265|AlignEnd=24860.4910701|Gloss=-1sg|Translit=-dmʔ|LTranslit=X
 7	<b_p>	<b_p>	PUNCT	_	_	1	punct	_	AlignBegin=24860.4910701|AlignEnd=26830.9094254|Gloss=SIL|Translit=<b_p>|LTranslit=<b_p>
 
 # doc_title = MapTask_003
@@ -102,10 +102,10 @@
 # text_en = I'm still going, I'm still going.
 1	ӈобʼ	ӈобʼ	ADV	_	_	2	comp:obl	_	AlignBegin=26830.9094254|AlignEnd=27151.3735813|Gloss=once, and|Translit=ŋobʔ|LTranslit=ŋobʔ
 2	яда	яда-	VERB	_	_	0	root	_	AlignBegin=27151.3735813|AlignEnd=27487.6844086|Gloss=walk|Translit=jada|LTranslit=jada-
-3	-дмʼ	X	PRON	_	_	2	subj	_	AlignBegin=27151.3735813|AlignEnd=27487.6844086|Gloss=-1sg|Translit=-dmʔ|LTranslit=X
+3	-дмʼ	_	PRON	_	_	2	subj	_	AlignBegin=27151.3735813|AlignEnd=27487.6844086|Gloss=-1sg|Translit=-dmʔ|LTranslit=X
 4	ӈобʼ	ӈобʼ	ADV	_	_	5	comp:obl	_	AlignBegin=27487.6844086|AlignEnd=27783.3576776|Gloss=once, and|Translit=ŋobʔ|LTranslit=ŋobʔ
 5	яда	яда-	VERB	_	_	2	parataxis	_	AlignBegin=27783.3576776|AlignEnd=28079.0309466|Gloss=walk|Translit=jada|LTranslit=jada-
-6	-дмʼ	X	PRON	_	_	5	subj	_	AlignBegin=27783.3576776|AlignEnd=28079.0309466|Gloss=-1sg|Translit=-dmʔ|LTranslit=X
+6	-дмʼ	_	PRON	_	_	5	subj	_	AlignBegin=27783.3576776|AlignEnd=28079.0309466|Gloss=-1sg|Translit=-dmʔ|LTranslit=X
 
 # doc_title = MapTask_003
 # sent_id = yrk_MapTask_003_7
@@ -114,17 +114,17 @@
 # text_ru = Впереди себя я увидел высокую башню с крышей.
 # text_en = I saw a tall tower with a roof in front of me.
 1	нер	нер-	PRON	_	_	2	comp:obj	_	AlignBegin=28079.0309466|AlignEnd=28575.0894168|Gloss=in.front.of|Translit=ńer|LTranslit=ńer-
-2	-ни	X	ADP	_	_	3	comp:obj	_	AlignBegin=28079.0309466|AlignEnd=28575.0894168|Gloss=-poss.gen.1sg|Translit=-ńi|LTranslit=X
+2	-ни	_	ADP	_	_	3	comp:obj	_	AlignBegin=28079.0309466|AlignEnd=28575.0894168|Gloss=-poss.gen.1sg|Translit=-ńi|LTranslit=X
 3	няна	няна	ADP	_	_	11	comp:obl	_	AlignBegin=28575.0894168|AlignEnd=29147.7866932|Gloss=at.loc|Translit=ńana|LTranslit=ńana
 4	<s_p>	<s_p>	X	_	_	3	discourse	_	AlignBegin=29147.7866932|AlignEnd=29690.5203274|Gloss=PAUSE|Translit=<s_p>|LTranslit=<s_p>
 5	пирця	пирця	ADJ	_	_	6	mod	_	AlignBegin=29690.5203274|AlignEnd=30023.3881469|Gloss=tall|Translit=ṕirća|LTranslit=ṕirća
 6	махалэй	махалэй	ADJ	_	_	9	mod	_	AlignBegin=30023.3881469|AlignEnd=30663.7782393|Gloss=roof.adj|Translit=maxalæj|LTranslit=maxalæj
-7	-та	X	DET	_	_	6	det	_	AlignBegin=30023.3881469|AlignEnd=30663.7782393|Gloss=-predest|Translit=-ta|LTranslit=X
-8	-на	X	DET	_	_	6	det:poss	_	AlignBegin=30023.3881469|AlignEnd=30663.7782393|Gloss=-poss.3sg|Translit=-na|LTranslit=X
+7	-та	_	DET	_	_	6	det	_	AlignBegin=30023.3881469|AlignEnd=30663.7782393|Gloss=-predest|Translit=-ta|LTranslit=X
+8	-на	_	DET	_	_	6	det:poss	_	AlignBegin=30023.3881469|AlignEnd=30663.7782393|Gloss=-poss.3sg|Translit=-na|LTranslit=X
 9	харад	харад	NOUN	_	_	10	comp:obj	_	AlignBegin=30663.7782393|AlignEnd=31071.638337|Gloss=house|Translit=xarad|LTranslit=xarad
-10	-мʼ	X	ADP	_	_	11	comp:obj	_	AlignBegin=30663.7782393|AlignEnd=31071.638337|Gloss=-acc|Translit=-mʔ|LTranslit=X
+10	-мʼ	_	ADP	_	_	11	comp:obj	_	AlignBegin=30663.7782393|AlignEnd=31071.638337|Gloss=-acc|Translit=-mʔ|LTranslit=X
 11	манэˮ-ӈа	манэˮ-	VERB	_	_	0	root	_	AlignBegin=31071.638337|AlignEnd=31499.3940492|Gloss=see-co|Translit=manæʡ-ŋa|LTranslit=manæʡ-
-12	-дмʼ	X	PRON	_	_	11	subj	_	AlignBegin=31071.638337|AlignEnd=31499.3940492|Gloss=-1sg|Translit=-dmʔ|LTranslit=X
+12	-дмʼ	_	PRON	_	_	11	subj	_	AlignBegin=31071.638337|AlignEnd=31499.3940492|Gloss=-1sg|Translit=-dmʔ|LTranslit=X
 13	<b_p>	<b_p>	PUNCT	_	_	11	punct	_	AlignBegin=31499.3940492|AlignEnd=31924.6628096|Gloss=SIL|Translit=<b_p>|LTranslit=<b_p>
 
 # doc_title = MapTask_003
@@ -135,23 +135,23 @@
 # text_en = I went to it from the right and climbed up its wall.
 1	маханяӈы	маханяӈы	ADJ	_	_	2	mod	_	AlignBegin=31924.6628096|AlignEnd=32322.7173911|Gloss=from.the.right.adj|Translit=maxańaŋy|LTranslit=maxańaŋy
 2	хэву	хэв	NOUN	_	_	3	comp:obj	_	AlignBegin=32322.7173911|AlignEnd=32751.8190512|Gloss=side|Translit=xævu|LTranslit=xæv
-3	-вна	X	ADP	_	_	5	comp:obl	_	AlignBegin=32322.7173911|AlignEnd=32751.8190512|Gloss=-prol|Translit=-vna|LTranslit=X
-4	-нда	X	DET	_	_	3	det	_	AlignBegin=32322.7173911|AlignEnd=32751.8190512|Gloss=-poss.3sg|Translit=-nda|LTranslit=X
+3	-вна	_	ADP	_	_	5	comp:obl	_	AlignBegin=32322.7173911|AlignEnd=32751.8190512|Gloss=-prol|Translit=-vna|LTranslit=X
+4	-нда	_	DET	_	_	3	det	_	AlignBegin=32322.7173911|AlignEnd=32751.8190512|Gloss=-poss.3sg|Translit=-nda|LTranslit=X
 5	хая	хая-	VERB	_	_	6	comp:obj	_	AlignBegin=32751.8190512|AlignEnd=33378.4933696|Gloss=go|Translit=xaja|LTranslit=xaja-
-6	-маʼ	X	SCONJ	_	_	18	comp:obj	_	AlignBegin=32751.8190512|AlignEnd=33378.4933696|Gloss=-impfv.an|DerPos=NOUN|Translit=-maʔ|LTranslit=X
+6	-маʼ	_	SCONJ	_	_	18	comp:obj	_	AlignBegin=32751.8190512|AlignEnd=33378.4933696|Gloss=-impfv.an|DerPos=NOUN|Translit=-maʔ|LTranslit=X
 7	<w_n>	<w_n>	X	_	_	6	noise	_	AlignBegin=33378.4933696|AlignEnd=34508.9248825|Gloss=NOISE|Translit=<w_n>|LTranslit=<w_n>
 8	яду	яд	NOUN	_	_	9	comp:obj	_	AlignBegin=34508.9248825|AlignEnd=35388.1493925|Gloss=wall|Translit=jadu|LTranslit=jad
-9	-вна	X	ADP	_	_	18	comp:obl	_	AlignBegin=34508.9248825|AlignEnd=35388.1493925|Gloss=-prol|Translit=-vna|LTranslit=X
-10	-нда	X	DET	_	_	8	det:poss	_	AlignBegin=34508.9248825|AlignEnd=35388.1493925|Gloss=-poss.3sg|Translit=-nda|LTranslit=X
+9	-вна	_	ADP	_	_	18	comp:obl	_	AlignBegin=34508.9248825|AlignEnd=35388.1493925|Gloss=-prol|Translit=-vna|LTranslit=X
+10	-нда	_	DET	_	_	8	det:poss	_	AlignBegin=34508.9248825|AlignEnd=35388.1493925|Gloss=-poss.3sg|Translit=-nda|LTranslit=X
 11	xxx	X	X	_	_	18	orphan	_	AlignBegin=35388.1493925|AlignEnd=36071.7922931|Gloss=X|Translit=xxx|LTranslit=X
 12	харда	харад	NOUN	_	_	13	comp:obj	_	AlignBegin=36071.7922931|AlignEnd=36530.3412345|Gloss=house|Translit=xarda|LTranslit=xarad
-13	-нда	X	ADP	_	_	15	mod:poss	_	AlignBegin=36071.7922931|AlignEnd=36530.3412345|Gloss=-poss.gen.3sg|Translit=-nda|LTranslit=X
+13	-нда	_	ADP	_	_	15	mod:poss	_	AlignBegin=36071.7922931|AlignEnd=36530.3412345|Gloss=-poss.gen.3sg|Translit=-nda|LTranslit=X
 14	пя	пя	NOUN	_	_	15	mod	_	AlignBegin=36530.3412345|AlignEnd=36627.5451576|Gloss=tree|Translit=ṕa|LTranslit=ṕa
 15	яду	яд	NOUN	_	_	16	comp:obj	_	AlignBegin=36627.5451576|AlignEnd=36986.7770471|Gloss=wall|Translit=jadu|LTranslit=jad
-16	-вна	X	ADP	_	_	18	comp:obl	_	AlignBegin=36627.5451576|AlignEnd=36986.7770471|Gloss=-prol|Translit=-vna|LTranslit=X
+16	-вна	_	ADP	_	_	18	comp:obl	_	AlignBegin=36627.5451576|AlignEnd=36986.7770471|Gloss=-prol|Translit=-vna|LTranslit=X
 17	тюˮуʼ	тюˮуʼ	ADV	_	_	18	comp:obl	_	AlignBegin=36986.7770471|AlignEnd=37126.2435454|Gloss=upwards|Translit=ťuʡuʔ|LTranslit=ťuʡuʔ
 18	танэ-й	тана-	VERB	_	_	0	root	_	AlignBegin=37126.2435454|AlignEnd=37499.2107719|Gloss=go.up-co.refl|Translit=tanæ-j|LTranslit=tana-
-19	-вˮ	X	PRON	_	_	18	subj	_	AlignBegin=37126.2435454|AlignEnd=37499.2107719|Gloss=-1sg.refl|Translit=-vʡ|LTranslit=X
+19	-вˮ	_	PRON	_	_	18	subj	_	AlignBegin=37126.2435454|AlignEnd=37499.2107719|Gloss=-1sg.refl|Translit=-vʡ|LTranslit=X
 20	<s_p>	<s_p>	PUNCT	_	_	18	punct	_	AlignBegin=37499.2107719|AlignEnd=37870.0648696|Gloss=SIL|Translit=<s_p>|LTranslit=<s_p>
 
 # doc_title = MapTask_003
@@ -161,10 +161,10 @@
 # text_ru = Поднялся на его крышу.
 # text_en = I climbed up to its roof.
 1	махалэя	махалы	NOUN	_	_	2	comp:obj	_	AlignBegin=37870.0648696|AlignEnd=38391.7573482|Gloss=roof|Translit=maxalæja|LTranslit=maxaly
-2	-нда	X	ADP	_	_	3	comp:obj	_	AlignBegin=37870.0648696|AlignEnd=38391.7573482|Gloss=-poss.gen.3sg|Translit=-nda|LTranslit=X
+2	-нда	_	ADP	_	_	3	comp:obj	_	AlignBegin=37870.0648696|AlignEnd=38391.7573482|Gloss=-poss.gen.3sg|Translit=-nda|LTranslit=X
 3	ниʼ	ниʼ	ADP	_	_	4	comp:obl	_	AlignBegin=38391.7573482|AlignEnd=38519.6084623|Gloss=at.dat|Translit=ńiʔ|LTranslit=ńiʔ
 4	танэ-й	тана-	VERB	_	_	0	root	_	AlignBegin=38519.6084623|AlignEnd=38954.0999246|Gloss=go.up-co.refl|Translit=tanæ-j|LTranslit=tana-
-5	-вˮ	X	PRON	_	_	4	subj	_	AlignBegin=38519.6084623|AlignEnd=38954.0999246|Gloss=-1sg.refl|Translit=-vʡ|LTranslit=X
+5	-вˮ	_	PRON	_	_	4	subj	_	AlignBegin=38519.6084623|AlignEnd=38954.0999246|Gloss=-1sg.refl|Translit=-vʡ|LTranslit=X
 6	<b_p>	<b_p>	PUNCT	_	_	4	punct	_	AlignBegin=38954.0999246|AlignEnd=39723.278794|Gloss=SIL|Translit=<b_p>|LTranslit=<b_p>
 
 # doc_title = MapTask_003
@@ -174,12 +174,12 @@
 # text_ru = С ее крыши я посмотрел по сторонам.
 # text_en = I looked around from its roof.
 1	махалэя	махалы	NOUN	_	_	2	comp:obj	_	AlignBegin=39723.278794|AlignEnd=40354.6904688|Gloss=roof|Translit=maxalæja|LTranslit=maxaly
-2	-нда	X	ADP	_	_	3	comp:obj	_	AlignBegin=39723.278794|AlignEnd=40354.6904688|Gloss=-poss.gen.3sg|Translit=-nda|LTranslit=X
+2	-нда	_	ADP	_	_	3	comp:obj	_	AlignBegin=39723.278794|AlignEnd=40354.6904688|Gloss=-poss.gen.3sg|Translit=-nda|LTranslit=X
 3	нид	нид	ADP	_	_	6	comp:obl	_	AlignBegin=40354.6904688|AlignEnd=40517.9775053|Gloss=at.abl|Translit=ńid|LTranslit=ńid
 4	<b_p>	<b_p>	X	_	_	3	discourse	_	AlignBegin=40517.9775053|AlignEnd=41033.396586|Gloss=PAUSE|Translit=<b_p>|LTranslit=<b_p>
 5	яˮамна	яˮамна	ADV	_	_	6	comp:obl	_	AlignBegin=41033.396586|AlignEnd=41445.1252477|Gloss=around.prol|Translit=jaʡamna|LTranslit=jaʡamna
 6	сыр-ӈа	сыр-	VERB	_	_	0	root	_	AlignBegin=41445.1252477|AlignEnd=42004.5994819|Gloss=look-co|Translit=syr-ŋa|LTranslit=syr-
-7	-дмʼ	X	PRON	_	_	6	subj	_	AlignBegin=41445.1252477|AlignEnd=42004.5994819|Gloss=-1sg|Translit=-dmʔ|LTranslit=X
+7	-дмʼ	_	PRON	_	_	6	subj	_	AlignBegin=41445.1252477|AlignEnd=42004.5994819|Gloss=-1sg|Translit=-dmʔ|LTranslit=X
 8	<b_p>	<b_p>	PUNCT	_	_	6	punct	_	AlignBegin=42004.5994819|AlignEnd=44528.3289662|Gloss=SIL|Translit=<b_p>|LTranslit=<b_p>
 
 # doc_title = MapTask_003
@@ -192,7 +192,7 @@
 2	<s_p>	<s_p>	X	_	_	1	discourse	_	AlignBegin=44528.3289662|AlignEnd=45176.2415286|Gloss=PAUSE|Translit=<s_p>|LTranslit=<s_p>
 3	тасиʼ	тасиʼ	ADV	_	_	4	comp:obl	_	AlignBegin=45176.2415286|AlignEnd=45431.1859317|Gloss=downward.dat|Translit=taśiʔ|LTranslit=taśiʔ
 4	хаˮмы	хаˮма-	VERB	_	_	0	root	_	AlignBegin=45732.2631316|AlignEnd=46177.8088267|Gloss=go.down|Translit=xaʡmy|LTranslit=xaʡma-
-5	-вˮ	X	PRON	_	_	4	subj	_	AlignBegin=45732.2631316|AlignEnd=46177.8088267|Gloss=-1sg.refl|Translit=-vʡ|LTranslit=X
+5	-вˮ	_	PRON	_	_	4	subj	_	AlignBegin=45732.2631316|AlignEnd=46177.8088267|Gloss=-1sg.refl|Translit=-vʡ|LTranslit=X
 6	<b_p>	<b_p>	PUNCT	_	_	4	punct	_	AlignBegin=46177.8088267|AlignEnd=46850.3764426|Gloss=SIL|Translit=<b_p>|LTranslit=<b_p>
 
 # doc_title = MapTask_003
@@ -203,16 +203,16 @@
 # text_en = After I came down, I went forward.
 1	тасиʼ	тасиʼ	ADV	_	_	2	comp:obl	_	AlignBegin=46850.3764426|AlignEnd=47088.9910463|Gloss=downward.dat|Translit=taśiʔ|LTranslit=taśiʔ
 2	хаˮам	хаˮма-	VERB	_	_	3	comp:obj	_	AlignBegin=47088.9910463|AlignEnd=47769.9676382|Gloss=go.down-|Translit=xaʡam|LTranslit=xaʡma-
-3	-ˮма	X	SCONJ	_	_	4	comp:obj	_	AlignBegin=47088.9910463|AlignEnd=47769.9676382|Gloss=-pfv.an|DerPos=NOUN|Translit=-ʡma|LTranslit=X
-4	-хада	X	ADP	_	_	7	comp:obl	_	AlignBegin=47088.9910463|AlignEnd=47769.9676382|Gloss=-abl|Translit=-xada|LTranslit=X
-5	-ни	X	DET	_	_	3	det:poss	_	AlignBegin=47088.9910463|AlignEnd=47769.9676382|Gloss=-poss.1sg|Translit=-ńi|LTranslit=X
+3	-ˮма	_	SCONJ	_	_	4	comp:obj	_	AlignBegin=47088.9910463|AlignEnd=47769.9676382|Gloss=-pfv.an|DerPos=NOUN|Translit=-ʡma|LTranslit=X
+4	-хада	_	ADP	_	_	7	comp:obl	_	AlignBegin=47088.9910463|AlignEnd=47769.9676382|Gloss=-abl|Translit=-xada|LTranslit=X
+5	-ни	_	DET	_	_	3	det:poss	_	AlignBegin=47088.9910463|AlignEnd=47769.9676382|Gloss=-poss.1sg|Translit=-ńi|LTranslit=X
 6	<s_p>	<s_p>	PUNCT	_	_	4	punct	_	AlignBegin=47769.9676382|AlignEnd=48445.1568937|Gloss=SIL|Translit=<s_p>|LTranslit=<s_p>
 7	нэкал-ӈа	нэкал-	VERB	_	_	0	root	_	AlignBegin=48445.1568937|AlignEnd=48954.4425035|Gloss=pull-co|Translit=nækal-ŋa|LTranslit=nækal-
-8	-в	X	PRON	_	_	7	subj	_	AlignBegin=48445.1568937|AlignEnd=48954.4425035|Gloss=-1sg.sg|Translit=-v|LTranslit=X
+8	-в	_	PRON	_	_	7	subj	_	AlignBegin=48445.1568937|AlignEnd=48954.4425035|Gloss=-1sg.sg|Translit=-v|LTranslit=X
 9	тамна	тамна	ADV	_	_	10	mod	_	AlignBegin=48954.4425035|AlignEnd=49135.7790464|Gloss=even|Translit=tamna|LTranslit=tamna
 10	тяха	тяхаʼ	ADV	_	_	11	comp:obl	_	AlignBegin=49135.7790464|AlignEnd=49359.5560567|Gloss=further|Translit=ťaxa|LTranslit=ťaxaʔ
 11	нэкал-ӈа	нэкал-	VERB	_	_	7	parataxis	_	AlignBegin=49359.5560567|AlignEnd=49849.550545|Gloss=pull-co|Translit=nækal-ŋa|LTranslit=nækal-
-12	-в	X	PRON	_	_	11	subj	_	AlignBegin=49359.5560567|AlignEnd=49849.550545|Gloss=-1sg.sg|Translit=-v|LTranslit=X
+12	-в	_	PRON	_	_	11	subj	_	AlignBegin=49359.5560567|AlignEnd=49849.550545|Gloss=-1sg.sg|Translit=-v|LTranslit=X
 13	<b_p>	<b_p>	PUNCT	_	_	7	punct	_	AlignBegin=49849.550545|AlignEnd=50875.8382132|Gloss=SIL|Translit=<b_p>|LTranslit=<b_p>
 
 # doc_title = MapTask_003
@@ -222,16 +222,16 @@
 # text_ru = Вправь, я переплыл реку под мостом.
 # text_en = I crossed the river by swimming under the bridge.
 1	ӈохолыр	ӈохолыр-	VERB	_	_	2	comp:obj	_	AlignBegin=50875.8382132|AlignEnd=51829.4716627|Gloss=swim|Translit=ŋoxolyr|LTranslit=ŋoxolyr-
-2	-ць	X	SCONJ	_	_	10	comp:obj	_	AlignBegin=50875.8382132|AlignEnd=51829.4716627|Gloss=-cvb|DerPos=ADV|Translit=-ć|LTranslit=X
+2	-ць	_	SCONJ	_	_	10	comp:obj	_	AlignBegin=50875.8382132|AlignEnd=51829.4716627|Gloss=-cvb|DerPos=ADV|Translit=-ć|LTranslit=X
 3	<s_p>	<s_p>	PUNCT	_	_	2	punct	_	AlignBegin=51829.4716627|AlignEnd=52061.0748695|Gloss=SIL|Translit=<s_p>|LTranslit=<s_p>
 4	яха	яха	NOUN	_	_	5	comp:obj	_	AlignBegin=52061.0748695|AlignEnd=52437.1984775|Gloss=river|Translit=jaxa|LTranslit=jaxa
-5	-мʼ	X	ADP	_	_	10	comp:obj	_	AlignBegin=52061.0748695|AlignEnd=52437.1984775|Gloss=-acc|Translit=-mʔ|LTranslit=X
+5	-мʼ	_	ADP	_	_	10	comp:obj	_	AlignBegin=52061.0748695|AlignEnd=52437.1984775|Gloss=-acc|Translit=-mʔ|LTranslit=X
 6	<s_p>	<s_p>	X	_	_	5	discourse	_	AlignBegin=52437.1984775|AlignEnd=52805.9107828|Gloss=PAUSE|Translit=<s_p>|LTranslit=<s_p>
 7	пул	пул	NOUN	_	_	8	comp:obj	_	AlignBegin=52805.9107828|AlignEnd=53072.717677|Gloss=bridge|Translit=pul|LTranslit=pul
-8	-ʼ	X	ADP	_	_	9	comp:obj	_	AlignBegin=52805.9107828|AlignEnd=53072.717677|Gloss=-gen|Translit=-ʔ|LTranslit=X
+8	-ʼ	_	ADP	_	_	9	comp:obj	_	AlignBegin=52805.9107828|AlignEnd=53072.717677|Gloss=-gen|Translit=-ʔ|LTranslit=X
 9	ӈыламна	ӈыламна	ADP	_	_	10	comp:obl	_	AlignBegin=53072.717677|AlignEnd=53469.2223672|Gloss=under.prol|Translit=ŋylamna|LTranslit=ŋylamna
 10	мада	мада-	VERB	_	_	0	root	_	AlignBegin=53469.2223672|AlignEnd=53939.2683207|Gloss=pass.across|Translit=mada|LTranslit=mada-
-11	-в	X	PRON	_	_	10	subj	_	AlignBegin=53469.2223672|AlignEnd=53939.2683207|Gloss=-1sg.sg|Translit=-v|LTranslit=X
+11	-в	_	PRON	_	_	10	subj	_	AlignBegin=53469.2223672|AlignEnd=53939.2683207|Gloss=-1sg.sg|Translit=-v|LTranslit=X
 12	<s_p>	<s_p>	PUNCT	_	_	10	punct	_	AlignBegin=53939.2683207|AlignEnd=54423.4275794|Gloss=SIL|Translit=<s_p>|LTranslit=<s_p>
 
 # doc_title = MapTask_003
@@ -242,7 +242,7 @@
 # text_en = I got there.
 1	таханяюʼ	таханяюʼ	ADV	_	_	2	comp:obl	_	AlignBegin=54423.4275794|AlignEnd=54911.2009064|Gloss=there.pol|Translit=taxańajuʔ|LTranslit=taxańajuʔ
 2	тэвы	тэва-	VERB	_	_	0	root	_	AlignBegin=54911.2009064|AlignEnd=55335.0178015|Gloss=arrive|Translit=tævy|LTranslit=tæva-
-3	-вʼ	X	PRON	_	_	2	subj	_	AlignBegin=54911.2009064|AlignEnd=55335.0178015|Gloss=-1sg.refl|Translit=-vʔ|LTranslit=X
+3	-вʼ	_	PRON	_	_	2	subj	_	AlignBegin=54911.2009064|AlignEnd=55335.0178015|Gloss=-1sg.refl|Translit=-vʔ|LTranslit=X
 4	<b_p>	<b_p>	PUNCT	_	_	2	punct	_	AlignBegin=55335.0178015|AlignEnd=56781.9280695|Gloss=SIL|Translit=<b_p>|LTranslit=<b_p>
 
 # doc_title = MapTask_003
@@ -253,23 +253,23 @@
 # text_en = I'm moving in a direction where I'm going so that I'm walking along the riverbank to the left of the riverbank.
 1	таремʼ	таремʼ	ADV	_	_	2	comp:obl	_	AlignBegin=56781.9280695|AlignEnd=57060.5585621|Gloss=this.way|Translit=taŕemʔ|LTranslit=taŕemʔ
 2	пэр-ӈа	пэр-	VERB	_	_	0	root	_	AlignBegin=57060.5585621|AlignEnd=57717.1864717|Gloss=do-co-|Translit=pær-ŋa|LTranslit=pær-
-3	-ва	X	PRON	_	_	2	subj	_	AlignBegin=57060.5585621|AlignEnd=57717.1864717|Gloss=1sg.refl|Translit=-va|LTranslit=X
+3	-ва	_	PRON	_	_	2	subj	_	AlignBegin=57060.5585621|AlignEnd=57717.1864717|Gloss=1sg.refl|Translit=-va|LTranslit=X
 4	<b_p>	<b_p>	PUNCT	_	_	3	punct	_	AlignBegin=57717.1864717|AlignEnd=58981.3998959|Gloss=SIL|Translit=<b_p>|LTranslit=<b_p>
 5	яха	яха	NOUN	_	_	6	comp:obj	_	AlignBegin=58981.3998959|AlignEnd=59250.8721919|Gloss=river|Translit=jaxa|LTranslit=jaxa
-6	-ʼ	X	ADP	_	_	7	mod:poss	_	AlignBegin=58981.3998959|AlignEnd=59250.8721919|Gloss=-gen|Translit=-ʔ|LTranslit=X
+6	-ʼ	_	ADP	_	_	7	mod:poss	_	AlignBegin=58981.3998959|AlignEnd=59250.8721919|Gloss=-gen|Translit=-ʔ|LTranslit=X
 7	вару	вар	NOUN	_	_	8	comp:obj	_	AlignBegin=59250.8721919|AlignEnd=59843.6957575|Gloss=shore|Translit=varu|LTranslit=var
-8	-вна	X	ADP	_	_	18	comp:obl	_	AlignBegin=59250.8721919|AlignEnd=59843.6957575|Gloss=-prol|Translit=-vna|LTranslit=X
+8	-вна	_	ADP	_	_	18	comp:obl	_	AlignBegin=59250.8721919|AlignEnd=59843.6957575|Gloss=-prol|Translit=-vna|LTranslit=X
 9	<s_p>	<s_p>	X	_	_	8	discourse	_	AlignBegin=59843.6957575|AlignEnd=60077.538703|Gloss=PAUSE|Translit=<s_p>|LTranslit=<s_p>
 10	яха	яха	NOUN	_	_	11	comp:obj	_	AlignBegin=60077.538703|AlignEnd=60272.679267|Gloss=river|Translit=jaxa|LTranslit=jaxa
-11	-ʼ	X	ADP	_	_	12	mod:poss	_	AlignBegin=60077.538703|AlignEnd=60272.679267|Gloss=-gen|Translit=-ʔ|LTranslit=X
+11	-ʼ	_	ADP	_	_	12	mod:poss	_	AlignBegin=60077.538703|AlignEnd=60272.679267|Gloss=-gen|Translit=-ʔ|LTranslit=X
 12	лаӈг	лаӈг	NOUN	_	_	13	comp:obj	_	AlignBegin=60272.679267|AlignEnd=60517.5542162|Gloss=steep.riverbank|Translit=laŋg|LTranslit=laŋg
-13	-ʼ	X	ADP	_	_	18	mod:poss	_	AlignBegin=60272.679267|AlignEnd=60517.5542162|Gloss=-gen|Translit=-ʔ|LTranslit=X
+13	-ʼ	_	ADP	_	_	18	mod:poss	_	AlignBegin=60272.679267|AlignEnd=60517.5542162|Gloss=-gen|Translit=-ʔ|LTranslit=X
 14	сятаняю	сятаняю	ADJ	_	_	15	comp:obj	_	AlignBegin=60517.5542162|AlignEnd=61331.3154805|Gloss=to.the.left.adj|Translit=śatańaju|LTranslit=śatańaju
-15	-мна	X	ADP	_	_	18	comp:obl	_	AlignBegin=60517.5542162|AlignEnd=61331.3154805|Gloss=-prol|Translit=-mna|LTranslit=X
+15	-мна	_	ADP	_	_	18	comp:obl	_	AlignBegin=60517.5542162|AlignEnd=61331.3154805|Gloss=-prol|Translit=-mna|LTranslit=X
 16	ӈобʼ	ӈобʼ	ADV	_	_	17	comp:obl	_	AlignBegin=61331.3154805|AlignEnd=61561.2590304|Gloss=once, and|Translit=ŋobʔ|LTranslit=ŋobʔ
 17	яда	яда	ADV	_	_	18	comp:obl	_	AlignBegin=61561.2590304|AlignEnd=61888.2566761|Gloss=on.foot|Translit=jada|LTranslit=jada
 18	нэкал-ӈа	нэкал-	VERB	_	_	2	parataxis	_	AlignBegin=61888.2566761|AlignEnd=62546.2706197|Gloss=pull-co|Translit=nækal-ŋa|LTranslit=nækal-
-19	-в	X	PRON	_	_	18	subj	_	AlignBegin=61888.2566761|AlignEnd=62546.2706197|Gloss=-1sg.sg|Translit=-v|LTranslit=X
+19	-в	_	PRON	_	_	18	subj	_	AlignBegin=61888.2566761|AlignEnd=62546.2706197|Gloss=-1sg.sg|Translit=-v|LTranslit=X
 20	<s_p>	<s_p>	PUNCT	_	_	2	punct	_	AlignBegin=62546.2706197|AlignEnd=63077.3578044|Gloss=SIL|Translit=<s_p>|LTranslit=<s_p>
 
 # doc_title = MapTask_003
@@ -282,12 +282,12 @@
 2	<b_p>	<b_p>	X	_	_	1	discourse	_	AlignBegin=63584.8899994|AlignEnd=63964.8051229|Gloss=PAUSE|Translit=<b_p>|LTranslit=<b_p>
 3	ӈано	ӈано	NOUN	_	_	6	subj	_	AlignBegin=63964.8051229|AlignEnd=64495.0463743|Gloss=boat|Translit=ŋano|LTranslit=ŋano
 4	<s_p>	<s_p>	X	_	_	3	discourse	_	AlignBegin=64495.0463743|AlignEnd=65126.4161119|Gloss=PAUSE|Translit=<s_p>|LTranslit=<s_p>
-5	яӈго	X	VERB	_	_	6	aux	_	AlignBegin=65126.4161119|AlignEnd=65653.924161|Gloss=not.exist|Translit=jaŋgo|LTranslit=X
-6	-вы	X	AUX	_	_	0	root	_	AlignBegin=65126.4161119|AlignEnd=65653.924161|Gloss=-infr.3sg|Translit=-vy|LTranslit=X
+5	яӈго	яӈго	VERB	_	_	6	aux	_	AlignBegin=65126.4161119|AlignEnd=65653.924161|Gloss=not.exist|Translit=jaŋgo|LTranslit=X
+6	-вы	_	AUX	_	_	0	root	_	AlignBegin=65126.4161119|AlignEnd=65653.924161|Gloss=-infr.3sg|Translit=-vy|LTranslit=X
 7	<s_p>	<s_p>	PUNCT	_	_	6	punct	_	AlignBegin=65653.924161|AlignEnd=65834.3155146|Gloss=SIL|Translit=<s_p>|LTranslit=<s_p>
 8	ӈано	ӈано	NOUN	_	_	13	subj	_	AlignBegin=65834.3155146|AlignEnd=66020.0993182|Gloss=boat|Translit=ŋano|LTranslit=ŋano
 9	яха	яха	NOUN	_	_	10	comp:obj	_	AlignBegin=66020.0993182|AlignEnd=66304.9725801|Gloss=river|Translit=jaxa|LTranslit=jaxa
-10	-ʼ	X	ADP	_	_	11	comp:obj	_	AlignBegin=66020.0993182|AlignEnd=66304.9725801|Gloss=-gen|Translit=-ʔ|LTranslit=X
+10	-ʼ	_	ADP	_	_	11	comp:obj	_	AlignBegin=66020.0993182|AlignEnd=66304.9725801|Gloss=-gen|Translit=-ʔ|LTranslit=X
 11	тяханяна	тяханяна	ADP	_	_	12	comp:obl	_	AlignBegin=66304.9725801|AlignEnd=66635.9821287|Gloss=through.loc|Translit=ťaxańana|LTranslit=ťaxańana
 12	ӈэ	ӈa	AUX	_	_	13	aux	_	AlignBegin=66635.9821287|AlignEnd=67045.1241455|Gloss=be|Translit=ŋæ|LTranslit=X
 13	-вы	_	AUX	_	_	6	parataxis	_	AlignBegin=66635.9821287|AlignEnd=67045.1241455|Gloss=-infr.3sg|Translit=-vy|LTranslit=X
@@ -300,16 +300,16 @@
 # text_ru = Реку я переплыл в сторону лодки.
 # text_en = I swam across the river to the side of the boat.
 1	яха	яха	NOUN	_	_	2	comp:obj	_	AlignBegin=67942.4445949|AlignEnd=68469.3078828|Gloss=river|Translit=jaxa|LTranslit=jaxa
-2	-мʼ	X	ADP	_	_	4	comp:obj	_	AlignBegin=67942.4445949|AlignEnd=68469.3078828|Gloss=-acc|Translit=-mʔ|LTranslit=X
+2	-мʼ	_	ADP	_	_	4	comp:obj	_	AlignBegin=67942.4445949|AlignEnd=68469.3078828|Gloss=-acc|Translit=-mʔ|LTranslit=X
 3	<b_p>	<b_p>	X	_	_	2	discourse	_	AlignBegin=68469.3078828|AlignEnd=68910.9639857|Gloss=PAUSE|Translit=<b_p>|LTranslit=<b_p>
 4	ӈохолыр	ӈохолыр-	VERB	_	_	5	comp:obj	_	AlignBegin=68910.9639857|AlignEnd=69904.0933848|Gloss=swim|Translit=ŋoxolyr|LTranslit=ŋoxolyr-
-5	-ць	X	SCONJ	_	_	10	comp:obj	_	AlignBegin=68910.9639857|AlignEnd=69904.0933848|Gloss=-cvb|ĐerPos=ADV|Translit=-ć|LTranslit=X
+5	-ць	_	SCONJ	_	_	10	comp:obj	_	AlignBegin=68910.9639857|AlignEnd=69904.0933848|Gloss=-cvb|ĐerPos=ADV|Translit=-ć|LTranslit=X
 6	<s_p>	<s_p>	PUNCT	_	_	5	punct	_	AlignBegin=69904.0933848|AlignEnd=70293.2282214|Gloss=SIL|Translit=<s_p>|LTranslit=<s_p>
 7	ӈано	ӈано	NOUN	_	_	8	comp:obj	_	AlignBegin=70293.2282214|AlignEnd=70571.7773698|Gloss=boat|Translit=ŋano|LTranslit=ŋano
-8	-ʼ	X	ADP	_	_	9	comp:obj	_	AlignBegin=70293.2282214|AlignEnd=70571.7773698|Gloss=-gen|Translit=-ʔ|LTranslit=X
+8	-ʼ	_	ADP	_	_	9	comp:obj	_	AlignBegin=70293.2282214|AlignEnd=70571.7773698|Gloss=-gen|Translit=-ʔ|LTranslit=X
 9	няюʼ	няюʼ	ADP	_	_	10	comp:obl	_	AlignBegin=70571.7773698|AlignEnd=70998.2149549|Gloss=towards.dat|Translit=ńajuʔ|LTranslit=ńajuʔ
 10	мада	мада-	VERB	_	_	0	root	_	AlignBegin=70998.2149549|AlignEnd=71489.2806948|Gloss=pass.across|Translit=mada|LTranslit=mada-
-11	-в	X	PRON	_	_	10	subj	_	AlignBegin=70998.2149549|AlignEnd=71489.2806948|Gloss=-1sg.sg|Translit=-v|LTranslit=X
+11	-в	_	PRON	_	_	10	subj	_	AlignBegin=70998.2149549|AlignEnd=71489.2806948|Gloss=-1sg.sg|Translit=-v|LTranslit=X
 12	<b_p>	<b_p>	PUNCT	_	_	10	punct	_	AlignBegin=71489.2806948|AlignEnd=73907.0151304|Gloss=SIL|Translit=<b_p>|LTranslit=<b_p>
 
 # doc_title = MapTask_003
@@ -319,14 +319,14 @@
 # text_ru = Я посмотрел лодку и от лодки пошел пешком дальше.
 # text_en = I looked at the boat and then I walked away from the boat.
 1	ӈано	ӈано	NOUN	_	_	2	comp:obj	_	AlignBegin=73907.0151304|AlignEnd=74283.6347667|Gloss=boat|Translit=ŋano|LTranslit=ŋano
-2	-мʼ	X	ADP	_	_	3	comp:obj	_	AlignBegin=73907.0151304|AlignEnd=74283.6347667|Gloss=-acc|Translit=-mʔ|LTranslit=X
+2	-мʼ	_	ADP	_	_	3	comp:obj	_	AlignBegin=73907.0151304|AlignEnd=74283.6347667|Gloss=-acc|Translit=-mʔ|LTranslit=X
 3	манэˮ-ӈа	манэˮ-	VERB	_	_	0	root	_	AlignBegin=74283.6347667|AlignEnd=74799.0755798|Gloss=see-co|Translit=manæʡ-ŋa|LTranslit=manæʡ-
-4	-ва	X	PRON	_	_	3	subj	_	AlignBegin=74283.6347667|AlignEnd=74799.0755798|Gloss=-1sg.sg|Translit=-va|LTranslit=X
+4	-ва	_	PRON	_	_	3	subj	_	AlignBegin=74283.6347667|AlignEnd=74799.0755798|Gloss=-1sg.sg|Translit=-va|LTranslit=X
 5	ӈано	ӈано	NOUN	_	_	6	comp:obj	_	AlignBegin=74799.0755798|AlignEnd=75104.3846466|Gloss=boat|Translit=ŋano|LTranslit=ŋano
-6	-ход	X	ADP	_	_	9	comp:obl	_	AlignBegin=74799.0755798|AlignEnd=75104.3846466|Gloss=-abl|Translit=-xod|LTranslit=X
+6	-ход	_	ADP	_	_	9	comp:obl	_	AlignBegin=74799.0755798|AlignEnd=75104.3846466|Gloss=-abl|Translit=-xod|LTranslit=X
 7	тамна	тамна	ADV	_	_	8	mod	_	AlignBegin=75104.3846466|AlignEnd=75276.198251|Gloss=even|Translit=tamna|LTranslit=tamna
 8	тяха	тяхаʼ	ADV	_	_	9	comp:obl	_	AlignBegin=75276.198251|AlignEnd=75478.9135828|Gloss=further|Translit=ťaxa|LTranslit=ťaxaʔ
 9	ядалъ-я	ядалъ-	VERB	_	_	3	parataxis	_	AlignBegin=75478.9135828|AlignEnd=75950.7105396|Gloss=go.forth-co.refl|Translit=jadal"-ja|LTranslit=jadal"-
-10	-вʼ	X	PRON	_	_	9	subj	_	AlignBegin=75478.9135828|AlignEnd=75950.7105396|Gloss=1sg.refl|Translit=-vʔ|LTranslit=X
+10	-вʼ	_	PRON	_	_	9	subj	_	AlignBegin=75478.9135828|AlignEnd=75950.7105396|Gloss=1sg.refl|Translit=-vʔ|LTranslit=X
 11	<s_p>	<s_p>	PUNCT	_	_	3	punct	_	AlignBegin=75950.7105396|AlignEnd=76474.9206349|Gloss=SIL|Translit=<s_p>|LTranslit=<s_p>
 
