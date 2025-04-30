@@ -90,7 +90,7 @@
 # text_ru = На веслах мы переплыли реку на другую сторону.
 # text_en = We paddled across the river to the other bank.
 1	лабята	лабята	ADV	_	_	6	comp:obj	_	AlignBegin=12051.421855|AlignEnd=12625.7681317|Gloss=row.cvb|Translit=lab́ata|LTranslit=lab́ata
-2	<s_p>	<s_p>	_	DET_	_	1	discourse	_	AlignBegin=12625.7681317|AlignEnd=13010.6235836|Gloss=PAUSE|Translit=<s_p>|LTranslit=<s_p>
+2	<s_p>	<s_p>	_	DET	_	_	1	discourse	_	AlignBegin=12625.7681317|AlignEnd=13010.6235836|Gloss=PAUSE|Translit=<s_p>|LTranslit=<s_p>
 3	яха	яха	NOUN	_	_	4	comp:obj	_	AlignBegin=13010.6235836|AlignEnd=13479.9198941|Gloss=river|Translit=jaxa|LTranslit=jaxa
 4	-мʼ	_	ADP	_	_	6	comp:obj	_	AlignBegin=13010.6235836|AlignEnd=13479.9198941|Gloss=-acc|Translit=-mʔ|LTranslit=X
 5	тяханяюʼ	тяханяюʼ	ADV	_	_	6	comp:obl	_	AlignBegin=13479.9198941|AlignEnd=13883.0459705|Gloss=there.pol|Translit=ťaxańajuʔ|LTranslit=ťaxańajuʔ
@@ -105,7 +105,7 @@
 # text_ru = Нашу лодку мы оставили на берегу реки.
 # text_en = We left the boat on the riverbank.
 1	ӈано	ӈано	NOUN	_	_	7	subj	_	AlignBegin=15276.419865|AlignEnd=15579.1030976|Gloss=boat|Translit=ŋano|LTranslit=ŋano
-2	-ваˮ  _  DET	_	_	1	det:poss	_	AlignBegin=15276.419865|AlignEnd=15579.1030976|Gloss=-poss.3pl|Translit=-vaʡ|LTranslit=X
+2	-ваˮ	_	DET	_	_	1	det:poss	_	AlignBegin=15276.419865|AlignEnd=15579.1030976|Gloss=-poss.3pl|Translit=-vaʡ|LTranslit=X
 3	яха	яха	NOUN	_	_	4	comp:obj	_	AlignBegin=15579.1030976|AlignEnd=15768.1329885|Gloss=river|Translit=jaxa|LTranslit=jaxa
 4	-ʼ	_	ADP	_	_	5	mod:poss	_	AlignBegin=15579.1030976|AlignEnd=15768.1329885|Gloss=-gen|Translit=-ʔ|LTranslit=X
 5	тир	тир	NOUN	_	_	6	comp:obj	_	AlignBegin=15768.1329885|AlignEnd=16170.4167792|Gloss=edge|Translit=ťir|LTranslit=ťir
@@ -128,7 +128,7 @@
 6	тир	тир	NOUN	_	_	7	comp:obj	_	AlignBegin=19436.9822842|AlignEnd=20169.443982|Gloss=edge|Translit=ťir|LTranslit=ťir
 7	-мана-	_	ADP	_	_	11	comp:obl	_	AlignBegin=19436.9822842|AlignEnd=20169.443982|Gloss=-prol|Translit=-mana-|LTranslit=X
 8	-нда	_	DET	_	_	6	det:poss	_	AlignBegin=19436.9822842|AlignEnd=20169.443982|Gloss=poss.3sg|Translit=-nda|LTranslit=X
-9	<b_p>	<b_p>	_	DET_	_	8	discourse	_	AlignBegin=20169.443982|AlignEnd=20482.3949484|Gloss=PAUSE|Translit=<b_p>|LTranslit=<b_p>
+9	<b_p>	<b_p>	_	DET	_	_	8	discourse	_	AlignBegin=20169.443982|AlignEnd=20482.3949484|Gloss=PAUSE|Translit=<b_p>|LTranslit=<b_p>
 10	тасиʼ	тасиʼ	ADV	_	_	11	comp:obl	_	AlignBegin=20482.3949484|AlignEnd=21013.2525137|Gloss=downward|Translit=taśiʔ|LTranslit=taśiʔ
 11	хаˮавра-	хаˮавра-	VERB	_	_	0	root	_	AlignBegin=21013.2525137|AlignEnd=21912.4589634|Gloss=go.down|Translit=xaʡavra-|LTranslit=xaʡavra-
 12	-ваˮ	_	PRON	_	_	11	subj	_	AlignBegin=21013.2525137|AlignEnd=21912.4589634|Gloss=-1pl|Translit=-vaʡ|LTranslit=X
@@ -149,8 +149,8 @@
 
 # doc_title = MapTask_004
 # sent_id = yrk_MapTask_004_11
-# text = пулʼ ӈэсондʼ  таремʼ таславаˮ <s_p> пулʼ ӈыламна <b_p> ӈохолё хэсь тара <s_p>
-# translit = pulʔ ŋæsondʔ  taŕemʔ taslavaʡ <s_p> pulʔ ŋylamna <b_p> ŋoxoľo xæś tara <s_p>
+# text = пулʼ ӈэсондʼ таремʼ таславаˮ <s_p> пулʼ ӈыламна <b_p> ӈохолё хэсь тара <s_p>
+# translit = pulʔ ŋæsondʔ taŕemʔ taslavaʡ <s_p> pulʔ ŋylamna <b_p> ŋoxoľo xæś tara <s_p>
 # text_ru = До моста мы решили так: надо переплыть под мостом.
 # text_en = Before we reached the bridge, we made a decision: we would swim under the bridge.
 1	пул	пул	NOUN	_	_	2	comp:obj	_	AlignBegin=25401.0648284|AlignEnd=25615.4809691|Gloss=bridge|Translit=pul|LTranslit=pul
@@ -163,7 +163,7 @@
 8	пул	пул	NOUN	_	_	9	comp:obj	_	AlignBegin=26855.8225609|AlignEnd=27098.7685973|Gloss=bridge|Translit=pul|LTranslit=pul
 9	-ʼ	_	ADP	_	_	10	comp:obj	_	AlignBegin=26855.8225609|AlignEnd=27098.7685973|Gloss=-gen|Translit=-ʔ|LTranslit=X
 10	ӈыламна	ӈыламна	ADP	_	_	13	comp:obl	_	AlignBegin=27098.7685973|AlignEnd=27576.0825389|Gloss=under.prol|Translit=ŋylamna|LTranslit=ŋylamna
-11	<b_p>	<b_p>	_	DET_	_	10	discourse	_	AlignBegin=27576.0825389|AlignEnd=27860.5807046|Gloss=PAUSE|Translit=<b_p>|LTranslit=<b_p>
+11	<b_p>	<b_p>	_	DET	_	_	10	discourse	_	AlignBegin=27576.0825389|AlignEnd=27860.5807046|Gloss=PAUSE|Translit=<b_p>|LTranslit=<b_p>
 12	ӈохолё	ӈохолё	ADV	_	_	13	comp:obj	_	AlignBegin=27860.5807046|AlignEnd=28201.1539735|Gloss=swim.cvb|Translit=ŋoxoľo|LTranslit=ŋoxoľo
 13	хэ-	хэ-	VERB	_	_	14	comp:obj	_	AlignBegin=28201.1539735|AlignEnd=28516.3436309|Gloss=go|Translit=xæ-|LTranslit=xæ-
 14	-сь	_	SCONJ	_	_	15	aux	_	AlignBegin=28201.1539735|AlignEnd=28516.3436309|Gloss=-cvb|DerPos=ADV|Translit=-ś|LTranslit=X
