@@ -1,5 +1,5 @@
 # doc_title = MapTask_001
-# sent_id = yrk_MapTask_001_1
+# sent_id = yrk_s_MapTask_001_1
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = <s_p> марядʼ нёʼ сивня мятюдмʼ сятаняюʼ мэв <s_p> сюртев <b_p>
 # translit = <s_p> maŕadʔ ńoʔ śivńa ḿaťudmʔ śatańajuʔ mæv <s_p> śurťev <b_p>
@@ -23,7 +23,7 @@
 16	<b_p>	<b_p>	PUNCT	_	_	8	punct	_	AlignBegin=6359.53818393|AlignEnd=6711.90672276|Gloss=SIL|Translit=<b_p>|LTranslit=<b_p>
 
 # doc_title = MapTask_001
-# sent_id = yrk_MapTask_001_2
+# sent_id = yrk_s_MapTask_001_2
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = таняʼ ядадмʼ <s_p>
 # translit = tańaʔ jadadmʔ <s_p>
@@ -35,7 +35,7 @@
 4	<s_p>	<s_p>	PUNCT	_	_	2	punct	_	AlignBegin=7501.47102912|AlignEnd=8269.11009909|Gloss=SIL|Translit=<s_p>|LTranslit=<s_p>
 
 # doc_title = MapTask_001
-# sent_id = yrk_MapTask_001_3
+# sent_id = yrk_s_MapTask_001_3
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = яхамʼ <s_p> пулʼ нимня мадав <s_p>
 # translit = jaxamʔ <s_p> pulʔ ńimńa madav <s_p>
@@ -52,7 +52,7 @@
 9	<s_p>	<s_p>	PUNCT	_	_	7	punct	_	AlignBegin=10689.5760887|AlignEnd=11136.6510597|Gloss=SIL|Translit=<s_p>|LTranslit=<s_p>
 
 # doc_title = MapTask_001
-# sent_id = yrk_MapTask_001_4
+# sent_id = yrk_s_MapTask_001_4
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = тадтикахад тамна тяхаʼ ядадмʼ <b_p>
 # translit = tadťikaxad tamna ťaxaʔ jadadmʔ <b_p>
@@ -66,7 +66,7 @@
 6	<b_p>	<b_p>	PUNCT	_	_	4	punct	_	AlignBegin=12888.2497268|AlignEnd=12989.2795393|Gloss=SIL|Translit=<b_p>|LTranslit=<b_p>
 
 # doc_title = MapTask_001
-# sent_id = yrk_MapTask_001_5
+# sent_id = yrk_s_MapTask_001_5
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = пямʼ манэˮӈадмʼ <b_p>
 # translit = ṕamʔ manæʡŋadmʔ <b_p>
@@ -79,7 +79,7 @@
 5	<b_p>	<b_p>	PUNCT	_	_	3	punct	_	AlignBegin=13753.2518798|AlignEnd=14308.6925125|Gloss=SIL|Translit=<b_p>|LTranslit=<b_p>
 
 # doc_title = MapTask_001
-# sent_id = yrk_MapTask_001_6
+# sent_id = yrk_s_MapTask_001_6
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = пямʼ сятаняӈы хэвувнада махаʼняю <b_p> яляʼ серʼ сюртев <s_p>
 # translit = ṕamʔ śatańaŋy xævuvnada maxaʔńaju <b_p> jaľaʔ śerʔ śurťev <s_p>
@@ -101,7 +101,7 @@
 14	<s_p>	<s_p>	PUNCT	_	_	12	punct	_	AlignBegin=19012.2239452|AlignEnd=19885.2282639|Gloss=SIL|Translit=<s_p>|LTranslit=<s_p>
 
 # doc_title = MapTask_001
-# sent_id = yrk_MapTask_001_7
+# sent_id = yrk_s_MapTask_001_7
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = тикыʼ пуд <b_p> яхамʼ <s_p> таркахаюта нямна <s_p> ӈохолырць <s_p> мадав <s_p>
 # translit = ťikyʔ pud <b_p> jaxamʔ <s_p> tarkaxajuta ńamna <s_p> ŋoxolyrć <s_p> madav <s_p>
@@ -127,7 +127,7 @@
 18	<s_p>	<s_p>	PUNCT	_	_	16	punct	_	AlignBegin=29756.3256595|AlignEnd=30472.4180002|Gloss=SIL|Translit=<s_p>|LTranslit=<s_p>
 
 # doc_title = MapTask_001
-# sent_id = yrk_MapTask_001_8
+# sent_id = yrk_s_MapTask_001_8
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = тарка пыявна ӈадимядмʼ <b_p>
 # translit = tarka pyjavna ŋaďiḿadmʔ <b_p>
@@ -141,7 +141,7 @@
 6	<b_p>	<b_p>	PUNCT	_	_	4	punct	_	AlignBegin=31827.3382054|AlignEnd=32428.677422|Gloss=SIL|Translit=<b_p>|LTranslit=<b_p>
 
 # doc_title = MapTask_001
-# sent_id = yrk_MapTask_001_9
+# sent_id = yrk_s_MapTask_001_9
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = таркаʼ пыям мадаˮмахадани <b_p> ӈаниʼ ӈохолырць яхаʼ няби таркамʼ мадав <b_p>
 # translit = tarkaʔ pyjam madaʡmaxadańi <b_p> ŋańiʔ ŋoxolyrć jaxaʔ ńab́i tarkamʔ madav <b_p>
@@ -169,7 +169,7 @@
 20	<b_p>	<b_p>	PUNCT	_	_	18	punct	_	AlignBegin=36895.055481|AlignEnd=37398.4418421|Gloss=SIL|Translit=<b_p>|LTranslit=<b_p>
 
 # doc_title = MapTask_001
-# sent_id = yrk_MapTask_001_10
+# sent_id = yrk_s_MapTask_001_10
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = яхаʼ иканя халяˮ танявыˮ <b_p>
 # translit = jaxaʔ ikańa xaľaʡ tańavyʡ <b_p>
@@ -187,7 +187,7 @@
 10	<b_p>	<b_p>	PUNCT	_	_	8	punct	_	AlignBegin=38922.7862041|AlignEnd=40110.4887792|Gloss=SIL|Translit=<b_p>|LTranslit=<b_p>
 
 # doc_title = MapTask_001
-# sent_id = yrk_MapTask_001_11
+# sent_id = yrk_s_MapTask_001_11
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = тикахад <s_p> махаʼнякуʼ мэхэя тамна тяхаʼ яда нэкалӈав <s_p>
 # translit = ťikaxad <s_p> maxaʔńakuʔ mæxæja tamna ťaxaʔ jada nækalŋav <s_p>
@@ -206,7 +206,7 @@
 11	<s_p>	<s_p>	PUNCT	_	_	9	punct	_	AlignBegin=44265.3529624|AlignEnd=44576.8886332|Gloss=SIL|Translit=<s_p>|LTranslit=<s_p>
 
 # doc_title = MapTask_001
-# sent_id = yrk_MapTask_001_12
+# sent_id = yrk_s_MapTask_001_12
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = ӈобʼ ядадмʼ ядадмʼ <b_p>
 # translit = ŋobʔ jadadmʔ jadadmʔ <b_p>
@@ -220,7 +220,7 @@
 6	<b_p>	<b_p>	PUNCT	_	_	2	punct	_	AlignBegin=46220.1722889|AlignEnd=46473.4729404|Gloss=SIL|Translit=<b_p>|LTranslit=<b_p>
 
 # doc_title = MapTask_001
-# sent_id = yrk_MapTask_001_13
+# sent_id = yrk_s_MapTask_001_13
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = нерни няна <s_p> пирця харадмʼ манэˮӈадмʼ <b_p>
 # translit = ńerńi ńana <s_p> ṕirća xaradmʔ manæʡŋadmʔ <b_p>
@@ -238,7 +238,7 @@
 10	<b_p>	<b_p>	PUNCT	_	_	8	punct	_	AlignBegin=49410.4035536|AlignEnd=49793.0348731|Gloss=SIL|Translit=<b_p>|LTranslit=<b_p>
 
 # doc_title = MapTask_001
-# sent_id = yrk_MapTask_001_14
+# sent_id = yrk_s_MapTask_001_14
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = пирця харадʼ сидя сидеранда си <s_p>
 # translit = ṕirća xaradʔ śiďa śiďeranda śi <s_p>
@@ -254,7 +254,7 @@
 8	<s_p>	<s_p>	PUNCT	_	_	7	punct	_	AlignBegin=52308.3703044|AlignEnd=52667.8964056|Gloss=SIL|Translit=<s_p>|LTranslit=<s_p>
 
 # doc_title = MapTask_001
-# sent_id = yrk_MapTask_001_15
+# sent_id = yrk_s_MapTask_001_15
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = танцянда таня <s_p> нёнда си таня <b_p>
 # translit = tanćanda tańa <s_p> ńonda śi tańa <b_p>
@@ -271,7 +271,7 @@
 9	<b_p>	<b_p>	PUNCT	_	_	3	punct	_	AlignBegin=55233.9521674|AlignEnd=55656.9591005|Gloss=SIL|Translit=<b_p>|LTranslit=<b_p>
 
 # doc_title = MapTask_001
-# sent_id = yrk_MapTask_001_16
+# sent_id = yrk_s_MapTask_001_16
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = махалэйда <b_p> тюˮуʼ няʼ мятревʼ саблюй <b_p>
 # translit = maxalæjda <b_p> ťuʡuʔ ńaʔ ḿatŕevʔ sabľuj <b_p>
@@ -287,7 +287,7 @@
 8	<b_p>	<b_p>	PUNCT	_	_	7	punct	_	AlignBegin=58927.4585285|AlignEnd=60628.7794315|Gloss=SIL|Translit=<b_p>|LTranslit=<b_p>
 
 # doc_title = MapTask_001
-# sent_id = yrk_MapTask_001_17
+# sent_id = yrk_s_MapTask_001_17
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = ӈавоʼ пиркаˮнаˮ нёнда синʼ тэвывʼ <s_p>
 # translit = ŋavoʔ ṕirkaʡnaʡ ńonda śinʔ tævyvʔ <s_p>
@@ -305,7 +305,7 @@
 10	<s_p>	<s_p>	PUNCT	_	_	8	punct	_	AlignBegin=62970.4986255|AlignEnd=63317.6735539|Gloss=SIL|Translit=<s_p>|LTranslit=<s_p>
 
 # doc_title = MapTask_001
-# sent_id = yrk_MapTask_001_18
+# sent_id = yrk_s_MapTask_001_18
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = танцяʼ сер <s_p> тюˮуʼ танэявʼ <b_p>
 # translit = tanćaʔ śer <s_p> ťuʡuʔ tanæjavʔ <b_p>
@@ -320,7 +320,7 @@
 7	<b_p>	<b_p>	PUNCT	_	_	5	punct	_	AlignBegin=65303.2016143|AlignEnd=68629.1001372|Gloss=SIL|Translit=<b_p>|LTranslit=<b_p>
 
 # doc_title = MapTask_001
-# sent_id = yrk_MapTask_001_19
+# sent_id = yrk_s_MapTask_001_19
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = пирця харадʼ мюмня яда хаядмʼ <b_p>
 # translit = ṕirća xaradʔ ḿumńa jada xajadmʔ <b_p>
@@ -336,7 +336,7 @@
 8	<b_p>	<b_p>	PUNCT	_	_	6	punct	_	AlignBegin=71074.3105835|AlignEnd=71274.2032934|Gloss=SIL|Translit=<b_p>|LTranslit=<b_p>
 
 # doc_title = MapTask_001
-# sent_id = yrk_MapTask_001_20
+# sent_id = yrk_s_MapTask_001_20
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = няби хэвувнанда ӈаниʼ несэй нёʼ сивна тарпывʼ <b_p>
 # translit = ńab́i xævuvnanda ŋańiʔ ńesæj ńoʔ śivna tarpyvʔ <b_p>
@@ -357,7 +357,7 @@
 13	<b_p>	<b_p>	PUNCT	_	_	11	punct	_	AlignBegin=73974.5657552|AlignEnd=74190.6746981|Gloss=SIL|Translit=<b_p>|LTranslit=<b_p>
 
 # doc_title = MapTask_001
-# sent_id = yrk_MapTask_001_21
+# sent_id = yrk_s_MapTask_001_21
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = танцяʼ серʼ хаˮмывʼ <s_p> тамна тяхаʼ ядалъявʼ <b_p> сятаняюʼ сюртев <b_p>
 # translit = tanćaʔ śerʔ xaʡmyvʔ <s_p> tamna ťaxaʔ jadal"javʔ <b_p> śatańajuʔ śurťev <b_p>
@@ -379,7 +379,7 @@
 14	<b_p>	<b_p>	PUNCT	_	_	3	punct	_	AlignBegin=79174.4365557|AlignEnd=79523.7980109|Gloss=SIL|Translit=<b_p>|LTranslit=<b_p>
 
 # doc_title = MapTask_001
-# sent_id = yrk_MapTask_001_22
+# sent_id = yrk_s_MapTask_001_22
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = сятаняюʼ ядадмʼ ядадмʼ ӈобʼ ядадмʼ <b_p>
 # translit = śatańajuʔ jadadmʔ jadadmʔ ŋobʔ jadadmʔ <b_p>
@@ -396,7 +396,7 @@
 9	<b_p>	<b_p>	PUNCT	_	_	2	punct	_	AlignBegin=82856.4998215|AlignEnd=83119.6188647|Gloss=SIL|Translit=<b_p>|LTranslit=<b_p>
 
 # doc_title = MapTask_001
-# sent_id = yrk_MapTask_001_23
+# sent_id = yrk_s_MapTask_001_23
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = ехэрана ӈани ӈопой марядмʼ манэˮӈадмʼ <s_p>
 # translit = exærana ŋańi ŋopoj maŕadmʔ manæʡŋadmʔ <s_p>
@@ -414,7 +414,7 @@
 10	<s_p>	<s_p>	PUNCT	_	_	8	punct	_	AlignBegin=85803.731728|AlignEnd=86338.7574292|Gloss=SIL|Translit=<s_p>|LTranslit=<s_p>
 
 # doc_title = MapTask_001
-# sent_id = yrk_MapTask_001_24
+# sent_id = yrk_s_MapTask_001_24
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = марядʼ тяхана <s_p>  тэхэʼ танявэхэˮ <s_p>
 # translit = maŕadʔ ťaxana <s_p>  tæxæʔ tańavæxæʡ <s_p>
