@@ -5,7 +5,7 @@
 # translit = <b_p> maŕadʔ ḿuńa nudmʔ <b_p>
 # text_ru = Стою за забором.
 # text_en = I am standing behind the fence.
-1	<b_p>	<b_p>	_	_	_	2	discourse	_	AlignBegin=0|AlignEnd=894.114627823|Gloss=PAUSE|Translit=<b_p>|LTranslit=<b_p>
+1	<b_p>	<b_p>	X	_	_	2	discourse	_	AlignBegin=0|AlignEnd=894.114627823|Gloss=PAUSE|Translit=<b_p>|LTranslit=<b_p>
 2	маря	марˮ	NOUN	_	_	3	comp:obj	_	AlignBegin=894.114627823|AlignEnd=1329.4238186|Gloss=fence|Translit=maŕa|LTranslit=marʡ
 3	-дʼ	_	ADP	_	_	4	comp:obj	_	AlignBegin=894.114627823|AlignEnd=1329.4238186|Gloss=-gen.poss.2sg|Translit=-dʔ|LTranslit=X
 4	мюня	мюня	ADP	_	_	5	comp:obl	_	AlignBegin=1329.4238186|AlignEnd=1658.01204648|Gloss=in.loc|Translit=ḿuńa|LTranslit=ḿuńa
