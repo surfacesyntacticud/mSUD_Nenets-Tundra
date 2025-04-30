@@ -90,7 +90,7 @@
 # text_ru = На веслах мы переплыли реку на другую сторону.
 # text_en = We paddled across the river to the other bank.
 1	лабята	лабята	ADV	_	_	6	comp:obj	_	AlignBegin=12051.421855|AlignEnd=12625.7681317|Gloss=row.cvb|Translit=lab́ata|LTranslit=lab́ata
-2	<s_p>	<s_p>	_	DET	_	_	1	discourse	_	AlignBegin=12625.7681317|AlignEnd=13010.6235836|Gloss=PAUSE|Translit=<s_p>|LTranslit=<s_p>
+2	<s_p>	<s_p>	DET	_	_	1	discourse	_	AlignBegin=12625.7681317|AlignEnd=13010.6235836|Gloss=PAUSE|Translit=<s_p>|LTranslit=<s_p>
 3	яха	яха	NOUN	_	_	4	comp:obj	_	AlignBegin=13010.6235836|AlignEnd=13479.9198941|Gloss=river|Translit=jaxa|LTranslit=jaxa
 4	-мʼ	_	ADP	_	_	6	comp:obj	_	AlignBegin=13010.6235836|AlignEnd=13479.9198941|Gloss=-acc|Translit=-mʔ|LTranslit=X
 5	тяханяюʼ	тяханяюʼ	ADV	_	_	6	comp:obl	_	AlignBegin=13479.9198941|AlignEnd=13883.0459705|Gloss=there.pol|Translit=ťaxańajuʔ|LTranslit=ťaxańajuʔ
