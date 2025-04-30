@@ -194,7 +194,7 @@
 # text_ru = После этого слегка повернув вправо, я пошел пешком дальше.
 # text_en = Then I turned slightly to the right and kept going.
 1	тикахад	тикахад	ADV	_	_	9	comp:obl	_	AlignBegin=40110.4887792|AlignEnd=40745.9218029|Gloss=then|Translit=ťikaxad|LTranslit=ťikaxad
-2	<s_p>	<s_p>  X	_	_	1	discourse	_	AlignBegin=40745.9218029|AlignEnd=40972.1843671|Gloss=PAUSE|Translit=<s_p>|LTranslit=<s_p>
+2	<s_p>	<s_p>	X	_	_	1	discourse	_	AlignBegin=40745.9218029|AlignEnd=40972.1843671|Gloss=PAUSE|Translit=<s_p>|LTranslit=<s_p>
 3	махаʼнякуʼ	махаʼнякуʼ	ADV	_	_	5	comp:obl	_	AlignBegin=40972.1843671|AlignEnd=41566.4275574|Gloss=to.the.right.adv|Translit=maxaʔńakuʔ|LTranslit=maxaʔńakuʔ
 4	мэ	мэ-	VERB	_	_	5	comp:obj	_	AlignBegin=41566.4275574|AlignEnd=42256.3025503|Gloss=take|Translit=mæ|LTranslit=mæ-
 5	-хэя	_	SCONJ	_	_	9	comp:obj	_	AlignBegin=41566.4275574|AlignEnd=42256.3025503|Gloss=-intens.cvb|DerPos=ADV|Translit=-xæja|LTranslit=X
