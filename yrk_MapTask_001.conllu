@@ -5,7 +5,7 @@
 # translit = <s_p> maŕadʔ ńoʔ śivńa ḿaťudmʔ śatańajuʔ mæv <s_p> śurťev <b_p>
 # text_ru = Я зашел в ворота забора, повернул влево.
 # text_en = I walked through the gate, turned left and walked on.
-1	<s_p>	<s_p>	_	_	_	2	discourse	_	AlignBegin=0|AlignEnd=979.856581104|Gloss=PAUSE|Translit=<s_p>|LTranslit=<s_p>
+1	<s_p>	<s_p>	_	X	_	2	discourse	_	AlignBegin=0|AlignEnd=979.856581104|Gloss=PAUSE|Translit=<s_p>|LTranslit=<s_p>
 2	маря	марˮ	NOUN	_	_	3	comp:obj	_	AlignBegin=979.856581104|AlignEnd=1364.09832867|Gloss=fence|Translit=maŕa|LTranslit=marʡ
 3	-дʼ	_	ADP	_	_	4	mod:poss	_	AlignBegin=979.856581104|AlignEnd=1364.09832867|Gloss=-poss.gen.2sg|Translit=-dʔ|LTranslit=X
 4	нё	нё	NOUN	_	_	5	comp:obj	_	AlignBegin=1364.09832867|AlignEnd=1685.14242038|Gloss=door|Translit=ńo|LTranslit=ńo
