@@ -105,7 +105,7 @@
 # text_ru = Нашу лодку мы оставили на берегу реки.
 # text_en = We left the boat on the riverbank.
 1	ӈано	ӈано	NOUN	_	_	7	subj	_	AlignBegin=15276.419865|AlignEnd=15579.1030976|Gloss=boat|Translit=ŋano|LTranslit=ŋano
-2	-ваˮ	_	DET	_	_	1	det:poss	_	AlignBegin=15276.419865|AlignEnd=15579.1030976|Gloss=-poss.3pl|Translit=-vaʡ|LTranslit=X
+2	-ваˮ  _  DET	_	_	1	det:poss	_	AlignBegin=15276.419865|AlignEnd=15579.1030976|Gloss=-poss.3pl|Translit=-vaʡ|LTranslit=X
 3	яха	яха	NOUN	_	_	4	comp:obj	_	AlignBegin=15579.1030976|AlignEnd=15768.1329885|Gloss=river|Translit=jaxa|LTranslit=jaxa
 4	-ʼ	_	ADP	_	_	5	mod:poss	_	AlignBegin=15579.1030976|AlignEnd=15768.1329885|Gloss=-gen|Translit=-ʔ|LTranslit=X
 5	тир	тир	NOUN	_	_	6	comp:obj	_	AlignBegin=15768.1329885|AlignEnd=16170.4167792|Gloss=edge|Translit=ťir|LTranslit=ťir
