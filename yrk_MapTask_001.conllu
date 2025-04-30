@@ -229,7 +229,7 @@
 1	нер-	нер-	PRON	_	_	2	comp:obj	_	AlignBegin=46473.4729404|AlignEnd=47023.0522783|Gloss=in.front.of|Translit=ńer-|LTranslit=ńer-
 2	-ни	_	ADP	_	_	3	comp:obj	_	AlignBegin=46473.4729404|AlignEnd=47023.0522783|Gloss=-poss.gen.1sg|Translit=-ńi|LTranslit=X
 3	няна	няна	ADP	_	_	8	comp:obl	_	AlignBegin=47023.0522783|AlignEnd=47605.5841684|Gloss=at.loc|Translit=ńana|LTranslit=ńana
-4	<s_p>	<s_p>	X_	_	_	3	discourse	_	AlignBegin=47605.5841684|AlignEnd=47773.5701088|Gloss=PAUSE|Translit=<s_p>|LTranslit=<s_p>
+4	<s_p>	<s_p>	X	_	_	3	discourse	_	AlignBegin=47605.5841684|AlignEnd=47773.5701088|Gloss=PAUSE|Translit=<s_p>|LTranslit=<s_p>
 5	пирця	пирця	ADJ	_	_	6	mod	_	AlignBegin=47773.5701088|AlignEnd=48117.6703416|Gloss=tall|Translit=ṕirća|LTranslit=ṕirća
 6	харад	харад	NOUN	_	_	7	comp:obj	_	AlignBegin=48117.6703416|AlignEnd=48591.8242056|Gloss=house|Translit=xarad|LTranslit=xarad
 7	-мʼ	_	ADP	_	_	8	comp:obj	_	AlignBegin=48117.6703416|AlignEnd=48591.8242056|Gloss=-acc|Translit=-mʔ|LTranslit=X
