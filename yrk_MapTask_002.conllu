@@ -69,12 +69,12 @@
 2	тэ	ты	NOUN	_	_	4	comp:obj	_	AlignBegin=12586.7149385|AlignEnd=12824.7997081|Gloss=reindeer|Translit=tæ|LTranslit=ty
 3	-хэʼ	_	NUM	_	_	2	mod	_	AlignBegin=12586.7149385|AlignEnd=12824.7997081|Gloss=-du|Translit=-xæʔ|LTranslit=X
 4	няд	няд	ADP	_	_	14	comp:obl	_	AlignBegin=12824.7997081|AlignEnd=13239.2264462|Gloss=at.abl|Translit=ńad|LTranslit=ńad
-5	<b_p>	<b_p>	_	_	_	4	discourse	_	AlignBegin=13239.2264462|AlignEnd=13464.7800314|Gloss=PAUSE|Translit=<b_p>|LTranslit=<b_p>
+5	<b_p>	<b_p>	X	_	_	4	discourse	_	AlignBegin=13239.2264462|AlignEnd=13464.7800314|Gloss=PAUSE|Translit=<b_p>|LTranslit=<b_p>
 6	маря	марˮ	NOUN	_	_	7	comp:obj	_	AlignBegin=13464.7800314|AlignEnd=13846.8221338|Gloss=fence|Translit=maŕa|LTranslit=marʡ
 7	-дʼ	_	ADP	_	_	8	mod:poss	_	AlignBegin=13464.7800314|AlignEnd=13846.8221338|Gloss=-gen.poss.2sg|Translit=-dʔ|LTranslit=X
 8	ни	ни-	NOUN	_	_	9	comp:obj	_	AlignBegin=13846.8221338|AlignEnd=14562.1629269|Gloss=top|Translit=ńi|LTranslit=ńi-
 9	-мня	_	ADP	_	_	14	comp:obl	_	AlignBegin=13846.8221338|AlignEnd=14562.1629269|Gloss=-prol|Translit=-mńa|LTranslit=X
-10	<s_p>	<s_p>	_	_	_	9	discourse	_	AlignBegin=14562.1629269|AlignEnd=15559.9120313|Gloss=PAUSE|Translit=<s_p>|LTranslit=<s_p>
+10	<s_p>	<s_p>	X	_	_	9	discourse	_	AlignBegin=14562.1629269|AlignEnd=15559.9120313|Gloss=PAUSE|Translit=<s_p>|LTranslit=<s_p>
 11	маря	марˮ	NOUN	_	_	12	comp:obj	_	AlignBegin=15559.9120313|AlignEnd=15896.6739308|Gloss=fence|Translit=maŕa|LTranslit=marʡ
 12	-дʼ	_	ADP	_	_	13	comp:obj	_	AlignBegin=15559.9120313|AlignEnd=15896.6739308|Gloss=-gen.poss.2sg|Translit=-dʔ|LTranslit=X
 13	тяхаʼ	тяхаʼ	ADP	_	_	14	comp:obl	_	AlignBegin=15896.6739308|AlignEnd=16227.66983|Gloss=over|Translit=ťaxaʔ|LTranslit=ťaxaʔ
@@ -94,7 +94,7 @@
 3	-хада	_	ADP	_	_	9	comp:obl	_	AlignBegin=17763.2745385|AlignEnd=18598.7361594|Gloss=-abl|Translit=-xada|LTranslit=X
 4	-ниʼ	_	DET	_	_	2	det:poss	_	AlignBegin=17763.2745385|AlignEnd=18598.7361594|Gloss=-poss.1sg|Translit=-ńiʔ|LTranslit=X
 5	яда	яда	ADV	_	_	9	comp:obl	_	AlignBegin=18598.7361594|AlignEnd=19334.6935293|Gloss=on.foot|Translit=jada|LTranslit=jada
-6	<s_p>	<s_p>	_	_	_	5	discourse	_	AlignBegin=19334.6935293|AlignEnd=19746.1749901|Gloss=PAUSE|Translit=<s_p>|LTranslit=<s_p>
+6	<s_p>	<s_p>	X	_	_	5	discourse	_	AlignBegin=19334.6935293|AlignEnd=19746.1749901|Gloss=PAUSE|Translit=<s_p>|LTranslit=<s_p>
 7	тамна	тамна	ADV	_	_	8	comp:obl	_	AlignBegin=19746.1749901|AlignEnd=19918.0531239|Gloss=even|Translit=tamna|LTranslit=tamna
 8	тяхаʼ	тяхаʼ	ADV	_	_	9	comp:obl	_	AlignBegin=19918.0531239|AlignEnd=20012.1239295|Gloss=further|Translit=ťaxaʔ|LTranslit=ťaxaʔ
 9	нэкал-ӈа	нэкал-	VERB	_	_	0	root	_	AlignBegin=20012.1239295|AlignEnd=20570.929513|Gloss=pull-co|Translit=nækal-ŋa|LTranslit=nækal-
@@ -111,7 +111,7 @@
 1	нер	нер-	PRON	_	_	2	comp:obj	_	AlignBegin=21124.9407683|AlignEnd=21678.6454018|Gloss=in.front.of|Translit=ńer|LTranslit=ńer-
 2	-ниʼ	_	ADP	_	_	3	comp:obj	_	AlignBegin=21124.9407683|AlignEnd=21678.6454018|Gloss=-poss.gen.1sg|Translit=-ńiʔ|LTranslit=X
 3	няна	няна	ADP	_	_	8	comp:obl	_	AlignBegin=21678.6454018|AlignEnd=22449.647707|Gloss=at.loc|Translit=ńana|LTranslit=ńana
-4	<s_p>	<s_p>	_	_	_	3	discourse	_	AlignBegin=22449.647707|AlignEnd=22599.2212777|Gloss=PAUSE|Translit=<s_p>|LTranslit=<s_p>
+4	<s_p>	<s_p>	X	_	_	3	discourse	_	AlignBegin=22449.647707|AlignEnd=22599.2212777|Gloss=PAUSE|Translit=<s_p>|LTranslit=<s_p>
 5	пирця	пирця	ADJ	_	_	6	mod	_	AlignBegin=22599.2212777|AlignEnd=23198.5464252|Gloss=tall|Translit=ṕirća|LTranslit=ṕirća
 6	харад	харад	NOUN	_	_	7	comp:obj	_	AlignBegin=23198.5464252|AlignEnd=23679.3582309|Gloss=house|Translit=xarad|LTranslit=xarad
 7	-мʼ	_	ADP	_	_	8	comp:obj	_	AlignBegin=23198.5464252|AlignEnd=23679.3582309|Gloss=-acc|Translit=-mʔ|LTranslit=X
@@ -144,7 +144,7 @@
 3	-нда	_	ADP	_	_	4	mod:poss	_	AlignBegin=27237.6456069|AlignEnd=27735.6149465|Gloss=-gen.poss.3sg|Translit=-nda|LTranslit=X
 4	си	си	NOUN	_	_	10	subj	_	AlignBegin=27735.6149465|AlignEnd=28467.4789758|Gloss=hole|Translit=śi|LTranslit=śi
 5	<s_p>	<s_p>	PUNCT	_	_	4	punct	_	AlignBegin=28467.4789758|AlignEnd=29372.877775|Gloss=SIL|Translit=<s_p>|LTranslit=<s_p>
-6	<w_n>	<w_n>	_	_	_	7	noise	_	AlignBegin=28467.4789758|AlignEnd=29372.877775|Gloss=NOISE|Translit=<w_n>|LTranslit=<w_n>
+6	<w_n>	<w_n>	X	_	_	7	noise	_	AlignBegin=28467.4789758|AlignEnd=29372.877775|Gloss=NOISE|Translit=<w_n>|LTranslit=<w_n>
 7	нё	нё	NOUN	_	_	8	comp:obj	_	AlignBegin=29372.877775|AlignEnd=29784.0797296|Gloss=door|Translit=ńo|LTranslit=ńo
 8	-нда	_	ADP	_	_	9	mod:poss	_	AlignBegin=29372.877775|AlignEnd=29784.0797296|Gloss=-gen.poss.3sg|Translit=-nda|LTranslit=X
 9	си	си	NOUN	_	_	4	parataxis	_	AlignBegin=29784.0797296|AlignEnd=29934.9795295|Gloss=hole|Translit=śi|LTranslit=śi
@@ -162,7 +162,7 @@
 2	-нд<u_l>	-нда	ADP	_	_	3	mod:poss	_	AlignBegin=30671.1607217|AlignEnd=30877.2495651|Gloss=-gen.poss.3sg|Translit=-nd<u_l>|LTranslit=-nda
 3	си	си	NOUN	_	_	4	subj	_	AlignBegin=30877.2495651|AlignEnd=31019.2040259|Gloss=hole|Translit=śi|LTranslit=śi
 4	танцянзавэй	танциеˮ	NOUN	_	_	0	root	_	AlignBegin=31019.2040259|AlignEnd=31726.688731|Gloss=stairs.com|Translit=tanćanzavæj|LTranslit=tanćieʡ
-5	<n_n>	<n_n>	_	_	_	4	noise	_	AlignBegin=31726.688731|AlignEnd=32033.8557966|Gloss=NOISE|Translit=<n_n>|LTranslit=<n_n>
+5	<n_n>	<n_n>	X	_	_	4	noise	_	AlignBegin=31726.688731|AlignEnd=32033.8557966|Gloss=NOISE|Translit=<n_n>|LTranslit=<n_n>
 6	<b_p>	<b_p>	PUNCT	_	_	4	punct	_	AlignBegin=32033.8557966|AlignEnd=32527.7821481|Gloss=SIL|Translit=<b_p>|LTranslit=<b_p>
 
 # doc_title = MapTask_002
@@ -206,7 +206,7 @@
 4	харад	харад	NOUN	_	_	5	comp:obj	_	AlignBegin=37973.5101384|AlignEnd=38386.2031393|Gloss=house|Translit=xarad|LTranslit=xarad
 5	-ʼ	_	ADP	_	_	6	comp:obj	_	AlignBegin=37973.5101384|AlignEnd=38386.2031393|Gloss=-gen|Translit=-ʔ|LTranslit=X
 6	мюмня	мюмня	ADP	_	_	9	comp:obl	_	AlignBegin=38386.2031393|AlignEnd=39331.7402681|Gloss=through.prol|Translit=ḿumńa|LTranslit=ḿumńa
-7	<s_p>	<s_p>	_	_	_	6	discourse	_	AlignBegin=39331.7402681|AlignEnd=40256.3815486|Gloss=PAUSE|Translit=<s_p>|LTranslit=<s_p>
+7	<s_p>	<s_p>	X	_	_	6	discourse	_	AlignBegin=39331.7402681|AlignEnd=40256.3815486|Gloss=PAUSE|Translit=<s_p>|LTranslit=<s_p>
 8	иртʼ	иртʼ	ADV	_	_	9	comp:obl	_	AlignBegin=40256.3815486|AlignEnd=40789.2256764|Gloss=straight|Translit=irtʔ|LTranslit=irtʔ
 9	хая	хая-	VERB	_	_	0	root	_	AlignBegin=40789.2256764|AlignEnd=41194.0065724|Gloss=go|Translit=xaja|LTranslit=xaja-
 10	-дмʼ	_	PRON	_	_	9	subj	_	AlignBegin=40789.2256764|AlignEnd=41194.0065724|Gloss=-1sg|Translit=-dmʔ|LTranslit=X
@@ -236,7 +236,7 @@
 3	-ʼ	_	ADP	_	_	4	mod:poss	_	AlignBegin=43108.1926069|AlignEnd=43366.8506481|Gloss=-gen|Translit=-ʔ|LTranslit=X
 4	си	си	NOUN	_	_	5	comp:obj	_	AlignBegin=43366.8506481|AlignEnd=43919.5993389|Gloss=hole|Translit=śi|LTranslit=śi
 5	-вня	_	ADP	_	_	7	comp:obl	_	AlignBegin=43366.8506481|AlignEnd=43919.5993389|Gloss=-prol|Translit=-vńa|LTranslit=X
-6	<s_p>	<s_p>	_	_	_	5	discourse	_	AlignBegin=43919.5993389|AlignEnd=45638.0808454|Gloss=PAUSE|Translit=<s_p>|LTranslit=<s_p>
+6	<s_p>	<s_p>	X	_	_	5	discourse	_	AlignBegin=43919.5993389|AlignEnd=45638.0808454|Gloss=PAUSE|Translit=<s_p>|LTranslit=<s_p>
 7	тарпы	тарпа-	VERB	_	_	0	root	_	AlignBegin=45638.0808454|AlignEnd=46026.7041236|Gloss=walk.out|Translit=tarpy|LTranslit=tarpa-
 8	-вʼ	_	PRON	_	_	7	subj	_	AlignBegin=45638.0808454|AlignEnd=46026.7041236|Gloss=-1sg.refl|Translit=-vʔ|LTranslit=X
 9	<s_p>	<s_p>	PUNCT	_	_	7	punct	_	AlignBegin=46026.7041236|AlignEnd=46315.9520775|Gloss=SIL|Translit=<s_p>|LTranslit=<s_p>
@@ -404,7 +404,7 @@
 4	хэву	хэв	NOUN	_	_	5	comp:obj	_	AlignBegin=73312.8038815|AlignEnd=74206.5250357|Gloss=side|Translit=xævu|LTranslit=xæv
 5	-вна	_	ADP	_	_	11	comp:obl	_	AlignBegin=73312.8038815|AlignEnd=74206.5250357|Gloss=-prol|Translit=-vna|LTranslit=X
 6	-нда	_	DET	_	_	4	det:poss	_	AlignBegin=73312.8038815|AlignEnd=74206.5250357|Gloss=-poss.3sg|Translit=-nda|LTranslit=X
-7	<b_p>	<b_p>	_	_	_	6	discourse	_	AlignBegin=74206.5250357|AlignEnd=74457.5606367|Gloss=PAUSE|Translit=<b_p>|LTranslit=<b_p>
+7	<b_p>	<b_p>	X	_	_	6	discourse	_	AlignBegin=74206.5250357|AlignEnd=74457.5606367|Gloss=PAUSE|Translit=<b_p>|LTranslit=<b_p>
 8	яля	яля	NOUN	_	_	9	comp:obj	_	AlignBegin=74457.5606367|AlignEnd=74752.0451643|Gloss=sun|Translit=jaľa|LTranslit=jaľa
 9	-ʼ	_	ADP	_	_	10	comp:obj	_	AlignBegin=74457.5606367|AlignEnd=74752.0451643|Gloss=-gen|Translit=-ʔ|LTranslit=X
 10	пырдариʼ	пырдариʼ	ADP	_	_	11	comp:obl	_	AlignBegin=74752.0451643|AlignEnd=75390.7862524|Gloss=against|Translit=pyrdaŕiʔ|LTranslit=pyrdaŕiʔ
@@ -480,13 +480,13 @@
 # text_ru = А затем вышел в ворота забора.
 # text_en = Then I go through the gate of the fence.
 1	тадтикахад	тадтикахад	ADV	_	_	9	comp:obl	_	AlignBegin=89947.8724775|AlignEnd=90549.3356994|Gloss=afterwards|Translit=tadťikaxad|LTranslit=tadťikaxad
-2	<b_p>	<b_p>	_	_	_	1	discourse	_	AlignBegin=90549.3356994|AlignEnd=91210.1586796|Gloss=PAUSE|Translit=<b_p>|LTranslit=<b_p>
+2	<b_p>	<b_p>	X	_	_	1	discourse	_	AlignBegin=90549.3356994|AlignEnd=91210.1586796|Gloss=PAUSE|Translit=<b_p>|LTranslit=<b_p>
 3	маря	марˮ	NOUN	_	_	4	comp:obj	_	AlignBegin=91210.1586796|AlignEnd=91587.7718111|Gloss=fence|Translit=maŕa|LTranslit=marʡ
 4	-дʼ	_	ADP	_	_	5	mod:poss	_	AlignBegin=91210.1586796|AlignEnd=91587.7718111|Gloss=-gen.poss.2sg|Translit=-dʔ|LTranslit=X
 5	нё	нё	NOUN	_	_	6	mod:poss	_	AlignBegin=91587.7718111|AlignEnd=91791.6829022|Gloss=door|Translit=ńo|LTranslit=ńo
 6	си	си	NOUN	_	_	7	comp:obj	_	AlignBegin=91791.6829022|AlignEnd=92169.2960337|Gloss=hole|Translit=śi|LTranslit=śi
 7	-вня	_	ADP	_	_	9	comp:obl	_	AlignBegin=91791.6829022|AlignEnd=92169.2960337|Gloss=-prol|Translit=-vńa|LTranslit=X
-8	<s_p>	<s_p>	_	_	_	7	discourse	_	AlignBegin=92169.2960337|AlignEnd=92496.499767|Gloss=PAUSE|Translit=<s_p>|LTranslit=<s_p>
+8	<s_p>	<s_p>	X	_	_	7	discourse	_	AlignBegin=92169.2960337|AlignEnd=92496.499767|Gloss=PAUSE|Translit=<s_p>|LTranslit=<s_p>
 9	тарпы	тарпа-	VERB	_	_	0	root	_	AlignBegin=92496.499767|AlignEnd=93059.7509937|Gloss=go.out|Translit=tarpy|LTranslit=tarpa-
 10	-вʼ	_	PRON	_	_	9	subj	_	AlignBegin=92496.499767|AlignEnd=93059.7509937|Gloss=-1sg.refl|Translit=-vʔ|LTranslit=X
 
