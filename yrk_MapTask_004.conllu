@@ -1,5 +1,5 @@
 # doc_title = MapTask_004
-# sent_id = yrk_MapTask_004_1
+# sent_id = yrk_s_s_MapTask_004_1
 # text = я хойʼ ниня нуваˮ <s_n>
 # translit = ja xojʔ ńińa nuvaʡ <s_n>
 # text_ru = Мы стоим на ровном высоком месте.
@@ -13,7 +13,7 @@
 7	<s_p>	<s_p>	PUNCT	_	_	5	punct	_	AlignBegin=1215.76667313|AlignEnd=1659.46022875|Gloss=SIL|Translit=<s_p>|LTranslit=<s_p>
 
 # doc_title = MapTask_004
-# sent_id = yrk_MapTask_004_2
+# sent_id = yrk_s_MapTask_004_2
 # text = яʼ хой нид нерняʼ сырӈаваˮ <b_p>
 # translit = jaʔ xoj ńid ńerńaʔ syrŋavaʡ <b_p>
 # text_ru = С ровного высокого места мы смотрим вперед.
@@ -28,7 +28,7 @@
 8	<b_p>	<b_p>	PUNCT	_	_	6	punct	_	AlignBegin=3658.63845522|AlignEnd=4233.95444464|Gloss=SIL|Translit=<b_p>|LTranslit=<b_p>
 
 # doc_title = MapTask_004
-# sent_id = yrk_MapTask_004_3
+# sent_id = yrk_s_MapTask_004_3
 # text = яхаʼ хэвхана ӈаномʼ манэˮӈаваˮ <s_p>
 # translit = jaxaʔ xævxana ŋanomʔ manæʡŋavaʡ <s_p>
 # text_ru = Возле реки мы увидели лодку.
@@ -44,7 +44,7 @@
 9	<s_p>	<s_p>	PUNCT	_	_	7	punct	_	AlignBegin=6185.9180537|AlignEnd=6537.71504965|Gloss=SIL|Translit=<s_p>|LTranslit=<s_p>
 
 # doc_title = MapTask_004
-# sent_id = yrk_MapTask_004_4
+# sent_id = yrk_s_MapTask_004_4
 # text = ӈаноʼ няʼ яда нэкалӈаваˮ <b_p>
 # translit = ŋanoʔ ńaʔ jada nækalŋavaʡ <b_p>
 # text_ru = К лодке мы пошли пешком.
@@ -58,7 +58,7 @@
 7	<b_p>	<b_p>	PUNCT	_	_	5	punct	_	AlignBegin=8083.60058633|AlignEnd=8767.98442758|Gloss=SIL|Translit=<b_p>|LTranslit=<b_p>
 
 # doc_title = MapTask_004
-# sent_id = yrk_MapTask_004_5
+# sent_id = yrk_s_MapTask_004_5
 # text = ӈанонʼ тэвынаˮ <b_p>
 # translit = ŋanonʔ tævynaʡ <b_p>
 # text_ru = Мы дошли до лодки.
@@ -70,7 +70,7 @@
 5	<b_p>	<b_p>	PUNCT	_	_	3	punct	_	AlignBegin=9704.31108594|AlignEnd=10273.1148854|Gloss=SIL|Translit=<b_p>|LTranslit=<b_p>
 
 # doc_title = MapTask_004
-# sent_id = yrk_MapTask_004_6
+# sent_id = yrk_s_MapTask_004_6
 # text = ӈаномʼ итʼ нэкалӈаваˮ <s_p>
 # translit = ŋanomʔ itʔ nækalŋavaʡ <s_p>
 # text_ru = Лодку мы потащили в воду.
@@ -84,7 +84,7 @@
 7	<s_p>	<s_p>	PUNCT	_	_	5	punct	_	AlignBegin=11536.1281819|AlignEnd=12051.421855|Gloss=SIL|Translit=<s_p>|LTranslit=<s_p>
 
 # doc_title = MapTask_004
-# sent_id = yrk_MapTask_004_7
+# sent_id = yrk_s_MapTask_004_7
 # text = лабята <s_p> яхамʼ тяханяюʼ мадаваˮ <b_p>
 # translit = lab́ata <s_p> jaxamʔ ťaxańajuʔ madavaʡ <b_p>
 # text_ru = На веслах мы переплыли реку на другую сторону.
@@ -99,7 +99,7 @@
 8	<b_p>	<b_p>	PUNCT	_	_	6	punct	_	AlignBegin=14256.1262486|AlignEnd=15276.419865|Gloss=SIL|Translit=<b_p>|LTranslit=<b_p>
 
 # doc_title = MapTask_004
-# sent_id = yrk_MapTask_004_8
+# sent_id = yrk_s_MapTask_004_8
 # text = ӈановаˮ яхаʼ тиркана хаеваˮ <b_p>
 # translit = ŋanovaʡ jaxaʔ ťirkana xaevaʡ <b_p>
 # text_ru = Нашу лодку мы оставили на берегу реки.
@@ -115,7 +115,7 @@
 9	<b_p>	<b_p>	PUNCT	_	_	7	punct	_	AlignBegin=16612.0556522|AlignEnd=18132.5008258|Gloss=SIL|Translit=<b_p>|LTranslit=<b_p>
 
 # doc_title = MapTask_004
-# sent_id = yrk_MapTask_004_9
+# sent_id = yrk_s_MapTask_004_9
 # text = яхаʼ лаӈгʼ маханяӈы тирмананда <b_p> тасиʼ хаˮавраваˮ <s_p>
 # translit = jaxaʔ laŋgʔ maxańaŋy ťirmananda <b_p> taśiʔ xaʡavravaʡ <s_p>
 # text_ru = Мы пошли по правому берегу реки вниз по течению.
@@ -135,7 +135,7 @@
 13	<s_p>	<s_p>	PUNCT	_	_	11	punct	_	AlignBegin=21912.4589634|AlignEnd=23079.8687026|Gloss=SIL|Translit=<s_p>|LTranslit=<s_p>
 
 # doc_title = MapTask_004
-# sent_id = yrk_MapTask_004_10
+# sent_id = yrk_s_MapTask_004_10
 # text = пулʼ ӈэсондʼ тэвынаˮ <b_p>
 # translit = pulʔ ŋæsondʔ tævynaʡ <b_p>
 # text_ru = Дошли до моста.
@@ -148,7 +148,7 @@
 6	<b_p>	<b_p>	PUNCT	_	_	4	punct	_	AlignBegin=24356.7641667|AlignEnd=25401.0648284|Gloss=SIL|Translit=<b_p>|LTranslit=<b_p>
 
 # doc_title = MapTask_004
-# sent_id = yrk_MapTask_004_11
+# sent_id = yrk_s_MapTask_004_11
 # text = пулʼ ӈэсондʼ таремʼ таславаˮ <s_p> пулʼ ӈыламна <b_p> ӈохолё хэсь тара <s_p>
 # translit = pulʔ ŋæsondʔ taŕemʔ taslavaʡ <s_p> pulʔ ŋylamna <b_p> ŋoxoľo xæś tara <s_p>
 # text_ru = До моста мы решили так: надо переплыть под мостом.
@@ -171,7 +171,7 @@
 16	<s_p>	<s_p>	PUNCT	_	_	5	punct	_	AlignBegin=28898.5717859|AlignEnd=29132.6391755|Gloss=SIL|Translit=<s_p>|LTranslit=<s_p>
 
 # doc_title = MapTask_004
-# sent_id = yrk_MapTask_004_12
+# sent_id = yrk_s_MapTask_004_12
 # text = пулʼ ӈыламна ӈохолё хаяваˮ <b_p>
 # translit = pulʔ ŋylamna ŋoxoľo xajavaʡ <b_p>
 # text_ru = Под мостом мы переплыли вплавь.
@@ -185,7 +185,7 @@
 7	<b_p>	<b_p>	PUNCT	_	_	5	punct	_	AlignBegin=30343.0963025|AlignEnd=31805.3447223|Gloss=SIL|Translit=<b_p>|LTranslit=<b_p>
 
 # doc_title = MapTask_004
-# sent_id = yrk_MapTask_004_13
+# sent_id = yrk_s_MapTask_004_13
 # text = яʼ <m_l>тирʼ ниʼ танаˮмахаданаˮ пирця <b_p> махалэй саблюй харадмʼ манэˮӈаваˮ <s_p>
 # translit = jaʔ <m_l>ťirʔ ńiʔ tanaʡmaxadanaʡ ṕirća <b_p> maxalæj sabľuj xaradmʔ manæʡŋavaʡ <s_p>
 # text_ru = После того как мы поднялись на берег, мы увидели высокую башню с острой крышей.
@@ -210,7 +210,7 @@
 18	<s_p>	<s_p>	PUNCT	_	_	16	punct	_	AlignBegin=37427.2149948|AlignEnd=37648.0161231|Gloss=SIL|Translit=<s_p>|LTranslit=<s_p>
 
 # doc_title = MapTask_004
-# sent_id = yrk_MapTask_004_14
+# sent_id = yrk_s_MapTask_004_14
 # text = харадʼ няʼ хаяваˮ <b_p> нянда тэвˮмахаданаˮ <b_p> ядувнанда харданда пя <e_r>ядувна махалэянда ниʼ танэйнаˮ <s_p>
 # translit = xaradʔ ńaʔ xajavaʡ <b_p> ńanda tævʡmaxadanaʡ <b_p> jaduvnanda xardanda ṕa <e_r>jaduvna maxalæjanda ńiʔ tanæjnaʡ <s_p>
 # text_ru = Мы пошли к башне, после того как мы дошли до нее, по боку ее, по ее стене мы поднялись на ее крышу.
@@ -244,7 +244,7 @@
 27	<s_p>	<s_p>	PUNCT	_	_	4	punct	_	AlignBegin=44293.4277872|AlignEnd=44688.7685248|Gloss=SIL|Translit=<s_p>|LTranslit=<s_p>
 
 # doc_title = MapTask_004
-# sent_id = yrk_MapTask_004_15
+# sent_id = yrk_s_MapTask_004_15
 # text = махалэянда нид яˮамна сырӈаваˮ <b_p>
 # translit = maxalæjanda ńid jaʡamna syrŋavaʡ <b_p>
 # text_ru = С ее крыши мы посмотрели по сторонам.
@@ -258,7 +258,7 @@
 7	<b_p>	<b_p>	PUNCT	_	_	5	punct	_	AlignBegin=46594.4760954|AlignEnd=47063.4977407|Gloss=SIL|Translit=<b_p>|LTranslit=<b_p>
 
 # doc_title = MapTask_004
-# sent_id = yrk_MapTask_004_16
+# sent_id = yrk_s_MapTask_004_16
 # text = яˮамна сыроˮмахаданаˮ янʼ хаˮмынаˮ <s_p>
 # translit = jaʡamna syroʡmaxadanaʡ janʔ xaʡmynaʡ <s_p>
 # text_ru = После того как мы посмотрели по сторонам мы спустились.
@@ -275,7 +275,7 @@
 10	<s_p>	<s_p>	PUNCT	_	_	8	punct	_	AlignBegin=48861.7437494|AlignEnd=49223.841353|Gloss=SIL|Translit=<s_p>|LTranslit=<s_p>
 
 # doc_title = MapTask_004
-# sent_id = yrk_MapTask_004_17
+# sent_id = yrk_s_MapTask_004_17
 # text = танцяʼ нимня хаˮмынаˮ <s_p>
 # translit = tanćaʔ ńimńa xaʡmynaʡ <s_p>
 # text_ru = Спустились потом по лестнице.
@@ -287,7 +287,7 @@
 5	<s_p>	<s_p>	PUNCT	_	_	3	punct	_	AlignBegin=50374.8114692|AlignEnd=50606.7418763|Gloss=SIL|Translit=<s_p>|LTranslit=<s_p>
 
 # doc_title = MapTask_004
-# sent_id = yrk_MapTask_004_18
+# sent_id = yrk_s_MapTask_004_18
 # text = Тадтикахавахад <b_p> маха<a> харадмʼ <f_s>сюрт<u_l> сятаняӈы хэвувнанда сюрте <m_l>хэя <b_p> хойʼ <u_w>ниӈа тирʼ серʼ ялъянаˮ <s_p>
 # translit = Tadťikaxavaxad <b_p> maxa<a> xaradmʔ <f_s>śurt<u_l> śatańaŋy xævuvnanda śurťe <m_l>xæja <b_p> xojʔ <u_w>ńiŋa ťirʔ śerʔ jal"janaʡ <s_p>
 # text_ru = Затем мы обошли дом с левой стороны, пошли по высокому ровному месту пешком.
@@ -316,7 +316,7 @@
 22	<s_p>	<s_p>	PUNCT	_	_	12	punct	_	AlignBegin=60451.3848451|AlignEnd=60789.1369941|Gloss=SIL|Translit=<s_p>|LTranslit=<s_p>
 
 # doc_title = MapTask_004
-# sent_id = yrk_MapTask_004_19
+# sent_id = yrk_s_MapTask_004_19
 # text = маханякубтаʼ мэваˮ ӈобʼ ядаваˮ ядаваˮ <b_p>
 # translit = maxańakubtaʔ mævaʡ ŋobʔ jadavaʡ jadavaʡ <b_p>
 # text_ru = Взяли слегка правее, и все идем-идем.
@@ -333,7 +333,7 @@
 10	<b_p>	<b_p>	PUNCT	_	_	3	punct	_	AlignBegin=63116.2611121|AlignEnd=63715.9792598|Gloss=SIL|Translit=<b_p>|LTranslit=<b_p>
 
 # doc_title = MapTask_004
-# sent_id = yrk_MapTask_004_20
+# sent_id = yrk_s_MapTask_004_20
 # text = тадтикахад <b_p> яхаʼ тарканʼ тэвынаˮ <b_p>
 # translit = tadťikaxad <b_p> jaxaʔ tarkanʔ tævynaʡ <b_p>
 # text_ru = Потом мы дошли до развилки реки.
@@ -349,7 +349,7 @@
 9	<b_p>	<b_p>	PUNCT	_	_	7	punct	_	AlignBegin=65743.1809779|AlignEnd=66257.9164322|Gloss=SIL|Translit=<b_p>|LTranslit=<b_p>
 
 # doc_title = MapTask_004
-# sent_id = yrk_MapTask_004_21
+# sent_id = yrk_s_MapTask_004_21
 # text = яха таркамʼ <b_p> тарканда пыяʼ няюʼ мада таславаˮ <b_p>
 # translit = jaxa tarkamʔ <b_p> tarkanda pyjaʔ ńajuʔ mada taslavaʡ <b_p>
 # text_ru = Мы решили переплыть рукав реки в сторону мыса на развилке.
@@ -369,7 +369,7 @@
 13	<b_p>	<b_p>	PUNCT	_	_	11	punct	_	AlignBegin=69549.3357161|AlignEnd=71024.8716256|Gloss=SIL|Translit=<b_p>|LTranslit=<b_p>
 
 # doc_title = MapTask_004
-# sent_id = yrk_MapTask_004_22
+# sent_id = yrk_s_MapTask_004_22
 # text = идмʼ <b_p> ӈохолё мадаваˮ <b_p>
 # translit = idmʔ <b_p> ŋoxoľo madavaʡ <b_p>
 # text_ru = Мы перешли реку вплавь.
@@ -383,7 +383,7 @@
 7	<b_p>	<b_p>	PUNCT	_	_	5	punct	_	AlignBegin=72646.4871968|AlignEnd=72954.4366767|Gloss=SIL|Translit=<b_p>|LTranslit=<b_p>
 
 # doc_title = MapTask_004
-# sent_id = yrk_MapTask_004_23
+# sent_id = yrk_s_MapTask_004_23
 # text = таркаʼ пыянʼ <s_p> нултаваˮ <s_p>
 # translit = tarkaʔ pyjanʔ <s_p> nultavaʡ <s_p>
 # text_ru = Остановились на мысе на развилке.
