@@ -416,7 +416,7 @@
 # doc_title = MapTask_001
 # sent_id = yrk_s_MapTask_001_24
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
-# text = марядʼ тяхана <s_p>  тэхэʼ танявэхэˮ <s_p>
+# text = маря -дʼ тяхана <s_p> тэ -хэʼ таня -вэ -хэˮ <s_p>
 # translit = maŕadʔ ťaxana <s_p>  tæxæʔ tańawæxæʡ <s_p>
 # text_ru = За забором оказались два оленя.
 # text_en = Two deer appeared to be behind the fence.
@@ -428,6 +428,6 @@
 6	-хэʼ	_	NUM	_	_	5	mod	_	AlignBegin=87492.4775472|AlignEnd=87855.0196701|Gloss=-du|Translit=-xæʔ
 7	таня	таня-	VERB	_	_	8	aux	_	AlignBegin=87855.0196701|AlignEnd=88429.9888181|Gloss=exist|LTranslit=tańa-|Translit=tańa
 8	-вэ	_	AUX	_	Number=Sing|Person=3	0	root	_	AlignBegin=87855.0196701|AlignEnd=88429.9888181|Gloss=-infr.3sg|Translit=-wæ
-9	-хэˮ	_	PRON	_	_	8	subj	_	AlignBegin=87855.0196701|AlignEnd=88429.9888181|Gloss=-3du|Translit=-xæʡ
+9	-хэˮ	_	PRON	_	Number=Dual|Person=3	8	subj	_	AlignBegin=87855.0196701|AlignEnd=88429.9888181|Gloss=-3du|Translit=-xæʡ
 10	<s_p>	<s_p>	PUNCT	_	_	8	punct	_	AlignBegin=88429.9888181|AlignEnd=89268.707483|Gloss=SIL|LTranslit=<s_p>|Translit=<s_p>
 

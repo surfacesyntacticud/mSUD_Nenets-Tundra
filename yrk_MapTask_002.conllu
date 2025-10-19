@@ -47,7 +47,7 @@
 # doc_title = MapTask_002
 # sent_id = yrk_s_MapTask_002_4
 # sound_url = https://grew.fr/download/audio/nar_RouDes_002_26_04_2017_yrk-tun.mp3
-# text = тикахана сидя ты таняӈахаˮ <b_p>
+# text = тикахана сидя ты таня-ӈа -хаˮ <b_p>
 # translit = ťikaxana śiďa ti tańaŋaxaʡ <b_p>
 # text_ru = Там есть два оленя.
 # text_en = There are two reindeer.
@@ -55,7 +55,7 @@
 2	сидя	сидя	NUM	_	_	3	mod	_	AlignBegin=10065.6804789|AlignEnd=10345.3191277|Gloss=two|LTranslit=śiďa|Translit=śiďa
 3	ты	ты	NOUN	_	_	4	subj	_	AlignBegin=10345.3191277|AlignEnd=10534.5482886|Gloss=reindeer|LTranslit=ti|Translit=ti
 4	таня-ӈа	таня-	VERB	_	_	0	root	_	AlignBegin=10534.5482886|AlignEnd=11123.2612336|Gloss=exist-co|LTranslit=tańa-|Translit=tańa-ŋa
-5	-хаˮ	_	PRON	_	_	4	subj	_	AlignBegin=10534.5482886|AlignEnd=11123.2612336|Gloss=-3du|Translit=-xaʡ
+5	-хаˮ	_	PRON	_	Number=Dual|Person=3	4	subj	_	AlignBegin=10534.5482886|AlignEnd=11123.2612336|Gloss=-3du|Translit=-xaʡ
 6	<b_p>	<b_p>	PUNCT	_	_	4	punct	_	AlignBegin=11123.2612336|AlignEnd=12149.0106819|Gloss=SIL|LTranslit=<b_p>|Translit=<b_p>
 
 # doc_title = MapTask_002
