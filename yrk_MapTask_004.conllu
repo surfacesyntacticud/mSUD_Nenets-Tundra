@@ -40,7 +40,7 @@
 5	ӈано	ӈано	NOUN	_	_	6	comp:obj	_	AlignBegin=5042.32586005|AlignEnd=5397.49358052|Gloss=boat|LTranslit=ŋano|Translit=ŋano
 6	-мʼ	_	ADP	_	_	7	comp:obj	_	AlignBegin=5042.32586005|AlignEnd=5397.49358052|Gloss=-acc|Translit=-mʔ
 7	манэˮ-ӈа	манэˮ-	VERB	_	_	0	root	_	AlignBegin=5397.49358052|AlignEnd=6185.9180537|Gloss=see-co|LTranslit=manæʡ-|Translit=manæʡ-ŋa
-8	-ваˮ	_	PRON	_	_	7	subj	_	AlignBegin=5397.49358052|AlignEnd=6185.9180537|Gloss=-1pl.sg|Translit=-waʡ
+8	-ваˮ	_	PRON	_	Number=Plur|Person=1	7	subj	_	AlignBegin=5397.49358052|AlignEnd=6185.9180537|Gloss=-1pl.sg|Number[obj]=Sing|Translit=-waʡ
 9	<s_p>	<s_p>	PUNCT	_	_	7	punct	_	AlignBegin=6185.9180537|AlignEnd=6537.71504965|Gloss=SIL|LTranslit=<s_p>|Translit=<s_p>
 
 # doc_title = MapTask_004
@@ -80,7 +80,7 @@
 3	и	иˮ	NOUN	_	_	4	comp:obj	_	AlignBegin=10602.0652493|AlignEnd=10894.6182311|Gloss=water|LTranslit=iʡ|Translit=i
 4	-тʼ	_	ADP	_	_	5	comp:obl	_	AlignBegin=10602.0652493|AlignEnd=10894.6182311|Gloss=-dat|Translit=-tʔ
 5	нэкал-ӈа	нэкал-	VERB	_	_	0	root	_	AlignBegin=10894.6182311|AlignEnd=11536.1281819|Gloss=pull-co|LTranslit=nækal-|Translit=nækal-ŋa
-6	-ваˮ	_	PRON	_	_	5	subj	_	AlignBegin=10894.6182311|AlignEnd=11536.1281819|Gloss=-1pl.sg|Translit=-waʡ
+6	-ваˮ	_	PRON	_	Number=Plur|Person=1	5	subj	_	AlignBegin=10894.6182311|AlignEnd=11536.1281819|Gloss=-1pl.sg|Number[obj]=Sing|Translit=-waʡ
 7	<s_p>	<s_p>	PUNCT	_	_	5	punct	_	AlignBegin=11536.1281819|AlignEnd=12051.421855|Gloss=SIL|LTranslit=<s_p>|Translit=<s_p>
 
 # doc_title = MapTask_004
@@ -95,7 +95,7 @@
 4	-мʼ	_	ADP	_	_	6	comp:obj	_	AlignBegin=13010.6235836|AlignEnd=13479.9198941|Gloss=-acc|Translit=-mʔ
 5	тяханяюʼ	тяханяюʼ	ADV	_	_	6	comp:obl	_	AlignBegin=13479.9198941|AlignEnd=13883.0459705|Gloss=there.pol|LTranslit=ťaxańajuʔ|Translit=ťaxańajuʔ
 6	мада-	мада-	VERB	_	_	0	root	_	AlignBegin=13883.0459705|AlignEnd=14256.1262486|Gloss=pass.across|LTranslit=mada-|Translit=mada-
-7	-ваˮ	_	PRON	_	_	6	subj	_	AlignBegin=13883.0459705|AlignEnd=14256.1262486|Gloss=-1pl.sg|Translit=-waʡ
+7	-ваˮ	_	PRON	_	Number=Plur|Person=1	6	subj	_	AlignBegin=13883.0459705|AlignEnd=14256.1262486|Gloss=-1pl.sg|Number[obj]=Sing|Translit=-waʡ
 8	<b_p>	<b_p>	PUNCT	_	_	6	punct	_	AlignBegin=14256.1262486|AlignEnd=15276.419865|Gloss=SIL|LTranslit=<b_p>|Translit=<b_p>
 
 # doc_title = MapTask_004
@@ -111,7 +111,7 @@
 5	тир	тир	NOUN	_	_	6	comp:obj	_	AlignBegin=15768.1329885|AlignEnd=16170.4167792|Gloss=edge|LTranslit=ťir|Translit=ťir
 6	-кана	_	ADP	_	_	7	comp:obl	_	AlignBegin=15768.1329885|AlignEnd=16170.4167792|Gloss=edge|Translit=-kana
 7	хае-	хае-	VERB	_	_	0	root	_	AlignBegin=16170.4167792|AlignEnd=16612.0556522|Gloss=leave|LTranslit=xae-|Translit=xae-
-8	-ваˮ	_	PRON	_	_	7	subj	_	AlignBegin=16170.4167792|AlignEnd=16612.0556522|Gloss=-1pl.sg|Translit=-waʡ
+8	-ваˮ	_	PRON	_	Number=Plur|Person=1	7	subj	_	AlignBegin=16170.4167792|AlignEnd=16612.0556522|Gloss=-1pl.sg|Number[obj]=Sing|Translit=-waʡ
 9	<b_p>	<b_p>	PUNCT	_	_	7	punct	_	AlignBegin=16612.0556522|AlignEnd=18132.5008258|Gloss=SIL|LTranslit=<b_p>|Translit=<b_p>
 
 # doc_title = MapTask_004

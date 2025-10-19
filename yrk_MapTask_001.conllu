@@ -16,10 +16,10 @@
 9	-дмʼ	_	PRON	_	_	8	subj	_	AlignBegin=2036.5213869|AlignEnd=2898.53741269|Gloss=-1sg|Translit=-dmʔ
 10	сятаняюʼ	сятаняюʼ	ADV	_	_	11	comp:obl	_	AlignBegin=2898.53741269|AlignEnd=3908.94746873|Gloss=to.the.left.pol|LTranslit=śatańajuʔ|Translit=śatańajuʔ
 11	мэ	мэ-	VERB	_	_	8	parataxis	_	AlignBegin=3908.94746873|AlignEnd=4618.46112064|Gloss=take|LTranslit=mæ-|Translit=mæ
-12	-в	_	PRON	_	_	11	subj:obj	_	AlignBegin=3908.94746873|AlignEnd=4618.46112064|Gloss=-1sg.sg|Translit=-w
+12	-в	_	PRON	_	Number=Sing|Person=1	11	subj:obj	_	AlignBegin=3908.94746873|AlignEnd=4618.46112064|Gloss=-1sg.sg|Number[obj]=Sing|Translit=-w
 13	<s_p>	<s_p>	PUNCT	_	_	11	punct	_	AlignBegin=4618.46112064|AlignEnd=5738.34719428|Gloss=SIL|LTranslit=<s_p>|Translit=<s_p>
 14	сюрте	сюрте-	VERB	_	_	8	parataxis	_	AlignBegin=5738.34719428|AlignEnd=6359.53818393|Gloss=go.around|LTranslit=śurťe-|Translit=śurťe
-15	-в	_	PRON	_	_	14	subj:obj	_	AlignBegin=5738.34719428|AlignEnd=6359.53818393|Gloss=-1sg.sg|Translit=-w
+15	-в	_	PRON	_	Number=Sing|Person=1	14	subj:obj	_	AlignBegin=5738.34719428|AlignEnd=6359.53818393|Gloss=-1sg.sg|Number[obj]=Sing|Translit=-w
 16	<b_p>	<b_p>	PUNCT	_	_	8	punct	_	AlignBegin=6359.53818393|AlignEnd=6711.90672276|Gloss=SIL|LTranslit=<b_p>|Translit=<b_p>
 
 # doc_title = MapTask_001
@@ -48,7 +48,7 @@
 5	-ʼ	_	ADP	_	_	6	comp:obj	_	AlignBegin=8985.92207502|AlignEnd=9269.59393294|Gloss=-gen|Translit=-ʔ
 6	нимня	нимня	ADP	_	_	7	comp:obl	_	AlignBegin=9269.59393294|AlignEnd=9593.53182228|Gloss=at.prol|LTranslit=ńimńa|Translit=ńimńa
 7	мада	мада-	VERB	_	_	0	root	_	AlignBegin=9593.53182228|AlignEnd=10689.5760887|Gloss=pass.across|LTranslit=mada-|Translit=mada
-8	-в	_	PRON	_	_	7	subj:obj	_	AlignBegin=9593.53182228|AlignEnd=10689.5760887|Gloss=-1sg.sg|Translit=-w
+8	-в	_	PRON	_	Number=Sing|Person=1	7	subj:obj	_	AlignBegin=9593.53182228|AlignEnd=10689.5760887|Gloss=-1sg.sg|Number[obj]=Sing|Translit=-w
 9	<s_p>	<s_p>	PUNCT	_	_	7	punct	_	AlignBegin=10689.5760887|AlignEnd=11136.6510597|Gloss=SIL|LTranslit=<s_p>|Translit=<s_p>
 
 # doc_title = MapTask_001
@@ -97,7 +97,7 @@
 10	-ʼ	_	ADP	_	_	11	comp:obj	_	AlignBegin=17605.7595618|AlignEnd=17913.8472916|Gloss=-gen|Translit=-ʔ
 11	серʼ	серʼ	ADP	_	_	12	comp:obl	_	AlignBegin=17913.8472916|AlignEnd=18265.9475542|Gloss=at.the.time.of|LTranslit=śerʔ|Translit=śerʔ
 12	сюрте	сюрте-	VERB	_	_	0	root	_	AlignBegin=18265.9475542|AlignEnd=19012.2239452|Gloss=go.around|LTranslit=śurťe-|Translit=śurťe
-13	-в	_	PRON	_	_	12	subj:obj	_	AlignBegin=18265.9475542|AlignEnd=19012.2239452|Gloss=-1sg.sg|Translit=-w
+13	-в	_	PRON	_	Number=Sing|Person=1	12	subj:obj	_	AlignBegin=18265.9475542|AlignEnd=19012.2239452|Gloss=-1sg.sg|Number[obj]=Sing|Translit=-w
 14	<s_p>	<s_p>	PUNCT	_	_	12	punct	_	AlignBegin=19012.2239452|AlignEnd=19885.2282639|Gloss=SIL|LTranslit=<s_p>|Translit=<s_p>
 
 # doc_title = MapTask_001
@@ -123,7 +123,7 @@
 14	-ць	_	SCONJ	_	_	16	comp:obj	_	AlignBegin=27149.3460496|AlignEnd=28605.2209462|DerPos=ADV|Gloss=-cvb|Translit=-ć
 15	<s_p>	<s_p>	PUNCT	_	_	14	punct	_	AlignBegin=28605.2209462|AlignEnd=29210.9750403|Gloss=SIL|LTranslit=<s_p>|Translit=<s_p>
 16	мада	мада-	VERB	_	_	0	root	_	AlignBegin=29210.9750403|AlignEnd=29756.3256595|Gloss=pass.across|LTranslit=mada-|Translit=mada
-17	-в	_	PRON	_	_	16	subj:obj	_	AlignBegin=29210.9750403|AlignEnd=29756.3256595|Gloss=-1sg.sg|Translit=-w
+17	-в	_	PRON	_	Number=Sing|Person=1	16	subj:obj	_	AlignBegin=29210.9750403|AlignEnd=29756.3256595|Gloss=-1sg.sg|Number[obj]=Sing|Translit=-w
 18	<s_p>	<s_p>	PUNCT	_	_	16	punct	_	AlignBegin=29756.3256595|AlignEnd=30472.4180002|Gloss=SIL|LTranslit=<s_p>|Translit=<s_p>
 
 # doc_title = MapTask_001
@@ -165,7 +165,7 @@
 16	тарка	тарка	NOUN	_	_	17	comp:obj	_	AlignBegin=35693.1355845|AlignEnd=36351.3861114|Gloss=fork|LTranslit=tarka|Translit=tarka
 17	-мʼ	_	ADP	_	_	18	comp:obj	_	AlignBegin=35693.1355845|AlignEnd=36351.3861114|Gloss=-acc|Translit=-mʔ
 18	мада	мада-	VERB	_	_	0	root	_	AlignBegin=36351.3861114|AlignEnd=36895.055481|Gloss=pass.across|LTranslit=mada-|Translit=mada
-19	-в	_	PRON	_	_	18	subj:obj	_	AlignBegin=36351.3861114|AlignEnd=36895.055481|Gloss=-1sg.sg|Translit=-w
+19	-в	_	PRON	_	Number=Sing|Person=1	18	subj:obj	_	AlignBegin=36351.3861114|AlignEnd=36895.055481|Gloss=-1sg.sg|Number[obj]=Sing|Translit=-w
 20	<b_p>	<b_p>	PUNCT	_	_	18	punct	_	AlignBegin=36895.055481|AlignEnd=37398.4418421|Gloss=SIL|LTranslit=<b_p>|Translit=<b_p>
 
 # doc_title = MapTask_001
@@ -202,7 +202,7 @@
 7	тяхаʼ	тяхаˮ	ADV	_	_	9	comp:obl	_	AlignBegin=42766.565119|AlignEnd=42933.9312415|Gloss=further|LTranslit=ťaxaʡ|Translit=ťaxaʔ
 8	яда	яда	ADV	_	_	9	comp:obl	_	AlignBegin=42933.9312415|AlignEnd=43489.0969162|Gloss=on.foot|LTranslit=jada|Translit=jada
 9	нэкал-ӈа	нэкал-	VERB	_	_	0	root	_	AlignBegin=43489.0969162|AlignEnd=44265.3529624|Gloss=pull-co|LTranslit=nækal-|Translit=nækal-ŋa
-10	-в	_	PRON	_	_	9	subj:obj	_	AlignBegin=43489.0969162|AlignEnd=44265.3529624|Gloss=-1sg.sg|Translit=-w
+10	-в	_	PRON	_	Number=Sing|Person=1	9	subj:obj	_	AlignBegin=43489.0969162|AlignEnd=44265.3529624|Gloss=-1sg.sg|Number[obj]=Sing|Translit=-w
 11	<s_p>	<s_p>	PUNCT	_	_	9	punct	_	AlignBegin=44265.3529624|AlignEnd=44576.8886332|Gloss=SIL|LTranslit=<s_p>|Translit=<s_p>
 
 # doc_title = MapTask_001
@@ -375,7 +375,7 @@
 10	<b_p>	<b_p>	PUNCT	_	_	8	punct	_	AlignBegin=77465.0598865|AlignEnd=77603.7923302|Gloss=SIL|LTranslit=<b_p>|Translit=<b_p>
 11	сятаняюʼ	сятаняюʼ	ADV	_	_	12	comp:obl	_	AlignBegin=77603.7923302|AlignEnd=78351.9468402|Gloss=to.the.left.pol|LTranslit=śatańajuʔ|Translit=śatańajuʔ
 12	сюрте	сюрте-	VERB	_	_	3	parataxis	_	AlignBegin=78351.9468402|AlignEnd=79174.4365557|Gloss=go.around|LTranslit=śurťe-|Translit=śurťe
-13	-в	_	PRON	_	_	12	subj	_	AlignBegin=78351.9468402|AlignEnd=79174.4365557|Gloss=-1sg.sg|Translit=-w
+13	-в	_	PRON	_	Number=Sing|Person=1	12	subj	_	AlignBegin=78351.9468402|AlignEnd=79174.4365557|Gloss=-1sg.sg|Number[obj]=Sing|Translit=-w
 14	<b_p>	<b_p>	PUNCT	_	_	3	punct	_	AlignBegin=79174.4365557|AlignEnd=79523.7980109|Gloss=SIL|LTranslit=<b_p>|Translit=<b_p>
 
 # doc_title = MapTask_001
