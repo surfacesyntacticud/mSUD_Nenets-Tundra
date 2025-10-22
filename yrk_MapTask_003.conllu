@@ -295,7 +295,7 @@
 
 # doc_title = MapTask_003
 # sent_id = yrk_s_MapTask_003_17
-# text = яхамʼ <b_p> ӈохолырць <s_p> ӈаноʼ няюʼ мадав <b_p>
+# text = яха -мʼ <b_p> ӈохолыр -ць <s_p> ӈано -ʼ няюʼ мада -в <b_p>
 # translit = jaxamʔ <b_p> ŋoxolirć <s_p> ŋanoʔ ńajuʔ madaw <b_p>
 # text_ru = Реку я переплыл в сторону лодки.
 # text_en = I swam across the river to the side of the boat.
@@ -303,7 +303,7 @@
 2	-мʼ	_	ADP	_	_	4	comp:obj	_	AlignBegin=67942.4445949|AlignEnd=68469.3078828|Gloss=-acc|Translit=-mʔ
 3	<b_p>	<b_p>	X	_	_	2	discourse	_	AlignBegin=68469.3078828|AlignEnd=68910.9639857|Gloss=PAUSE|LTranslit=<b_p>|Translit=<b_p>
 4	ӈохолыр	ӈохолыр-	VERB	_	_	5	comp:obj	_	AlignBegin=68910.9639857|AlignEnd=69904.0933848|Gloss=swim|LTranslit=ŋoxolir-|Translit=ŋoxolir
-5	-ць	_	SCONJ	_	_	10	comp:obj	_	AlignBegin=68910.9639857|AlignEnd=69904.0933848|Gloss=-cvb|Translit=-ć|ĐerPos=ADV
+5	-ць	_	SCONJ	_	_	10	comp:obj	_	AlignBegin=68910.9639857|AlignEnd=69904.0933848|DerPos=ADV|Gloss=-cvb|Translit=-ć
 6	<s_p>	<s_p>	PUNCT	_	_	5	punct	_	AlignBegin=69904.0933848|AlignEnd=70293.2282214|Gloss=SIL|LTranslit=<s_p>|Translit=<s_p>
 7	ӈано	ӈано	NOUN	_	_	8	comp:obj	_	AlignBegin=70293.2282214|AlignEnd=70571.7773698|Gloss=boat|LTranslit=ŋano|Translit=ŋano
 8	-ʼ	_	ADP	_	_	9	comp:obj	_	AlignBegin=70293.2282214|AlignEnd=70571.7773698|Gloss=-gen|Translit=-ʔ
