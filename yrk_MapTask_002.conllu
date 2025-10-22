@@ -366,7 +366,7 @@
 15	яха	яха	NOUN	_	_	16	comp:obj	_	AlignBegin=66486.5497951|AlignEnd=67237.9767372|Gloss=river|LTranslit=jaxa|Translit=jaxa
 16	-мʼ	_	ADP	_	_	17	comp:obj	_	AlignBegin=66486.5497951|AlignEnd=67237.9767372|Gloss=-acc|Translit=-mʔ
 17	мада	мада-	VERB	_	_	12	parataxis	_	AlignBegin=67237.9767372|AlignEnd=68044.9695283|Gloss=pass.across|LTranslit=mada-|Translit=mada
-18	-в	_	PRON	_	Number=Sing|Number[obj]=Sing|Person=1	17	subj	_	AlignBegin=67237.9767372|AlignEnd=68044.9695283|Gloss=-1sg.sg|Translit=-w
+18	-в	_	PRON	_	Number=Sing|Number[obj]=Sing|Person=1	17	subj:obj	_	AlignBegin=67237.9767372|AlignEnd=68044.9695283|Gloss=-1sg.sg|Translit=-w
 19	<b_p>	<b_p>	PUNCT	_	_	12	punct	_	AlignBegin=68044.9695283|AlignEnd=68925.8525017|Gloss=SIL|LTranslit=<b_p>|Translit=<b_p>
 
 # doc_title = MapTask_002
