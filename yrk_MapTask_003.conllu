@@ -1,6 +1,7 @@
 # doc_title = MapTask_003
 # sent_id = yrk_s_MapTask_003_1
 # text = <w_n> сэвˮни ӈадимбʼ <s_p> яхаʼ таркаʼ пыяхана мэвэдмʼ <b_p>
+# p_text = <w_n> сэвˮни ӈадимбʼ <s_p> яхаʼ таркаʼ пыяхана мэвэдмʼ <b_p>
 # translit = <w_n> sæwʡńi ŋaďimbʔ <s_p> jaxaʔ tarkaʔ pijaxana mæwædmʔ <b_p>
 # text_ru = Когда я очнулся, то оказался на мысу, на развилке реки.
 # text_en = When I woke up I was on a headland, at a fork in the river.
@@ -24,6 +25,7 @@
 # doc_title = MapTask_003
 # sent_id = yrk_s_MapTask_003_2
 # text = яхаʼ таркаʼ пыяхад <s_p> тодоʼ яхаˮ сырӈадмʼ <s_p> сятаняʼ сырӈадмʼ <s_p> маханяʼ сырӈадмʼ <b_p>
+# p_text = яхаʼ таркаʼ пыяхад <s_p> тодоʼ яхаˮ сырӈадмʼ <s_p> сятаняʼ сырӈадмʼ <s_p> маханяʼ сырӈадмʼ <b_p>
 # translit = jaxaʔ tarkaʔ pijaxad <s_p> todoʔ jaxaʡ sirŋadmʔ <s_p> śatańaʔ sirŋadmʔ <s_p> maxańaʔ sirŋadmʔ <b_p>
 # text_ru = С мыса на развилке я посмотрел по сторонам: посмотрел влево, посмотрел вправо.
 # text_en = From the headland at the fork I looked around: I looked left, I looked right.
@@ -52,6 +54,7 @@
 # doc_title = MapTask_003
 # sent_id = yrk_s_MapTask_003_3
 # text = маханяӈэюмʼ таркамда ӈохолё мада таслав <b_p>
+# p_text = маханяӈэюмʼ таркамда ӈохолё мада таслав <b_p>
 # translit = maxańaŋæjumʔ tarkamda ŋoxoľo mada taslaw <b_p>
 # text_ru = Правый его рукав я решил перейти вплавь.
 # text_en = I decided to swim across on the right arm of the river.
@@ -68,6 +71,7 @@
 # doc_title = MapTask_003
 # sent_id = yrk_s_MapTask_003_4
 # text = ӈохолё мадав <s_p> яда нэкалӈав <s_p>
+# p_text = ӈохолё мадав <s_p> яда нэкалӈав <s_p>
 # translit = ŋoxoľo madaw <s_p> jada nækalŋaw <s_p>
 # text_ru = Переплыл ее, пошел дальше пешком.
 # text_en = I swam across and continued on foot.
@@ -83,6 +87,7 @@
 # doc_title = MapTask_003
 # sent_id = yrk_s_MapTask_003_5
 # text = яда<a>дмʼ яда<a>дмʼ ядадмʼ <b_p>
+# p_text = яда<a>дмʼ яда<a>дмʼ ядадмʼ <b_p>
 # translit = jada<a>dmʔ jada<a>dmʔ jadadmʔ <b_p>
 # text_ru = Иду, иду, иду.
 # text_en = I'm walking, I'm walking, I'm walking.
@@ -97,6 +102,7 @@
 # doc_title = MapTask_003
 # sent_id = yrk_s_MapTask_003_6
 # text = ӈобʼ ядадмʼ ӈобʼ ядадмʼ
+# p_text = ӈобʼ ядадмʼ ӈобʼ ядадмʼ
 # translit = ŋobʔ jadadmʔ ŋobʔ jadadmʔ
 # text_ru = Все иду, все иду.
 # text_en = I'm still going, I'm still going.
@@ -110,6 +116,7 @@
 # doc_title = MapTask_003
 # sent_id = yrk_s_MapTask_003_7
 # text = нерни няна <s_p> пирця махалэйтана харадмʼ манэˮӈадмʼ <b_p>
+# p_text = нерни няна <s_p> пирця махалэйтана харадмʼ манэˮӈадмʼ <b_p>
 # translit = ńerńi ńana <s_p> ṕirća maxalæjtana xaradmʔ manæʡŋadmʔ <b_p>
 # text_ru = Впереди себя я увидел высокую башню с крышей.
 # text_en = I saw a tall tower with a roof in front of me.
@@ -130,6 +137,7 @@
 # doc_title = MapTask_003
 # sent_id = yrk_s_MapTask_003_8
 # text = маханяӈы хэвувнанда хаямаʼ <w_n> ядувнанда xxx харданда пя ядувна тюˮуʼ танэйвˮ <s_p>
+# p_text = маханяӈы хэвувнанда хаямаʼ <w_n> ядувнанда xxx харданда пя ядувна тюˮуʼ танэйвˮ <s_p>
 # translit = maxańaŋi xæwuwnanda xajamaʔ <w_n> jaduwnanda xxx xardanda ṕa jaduwna ťuʡuʔ tanæjwʡ <s_p>
 # text_ru = Пошел справа от нее, по ее стене я поднялся вверх.
 # text_en = I went to it from the right and climbed up its wall.
@@ -157,6 +165,7 @@
 # doc_title = MapTask_003
 # sent_id = yrk_s_MapTask_003_9
 # text = махалэянда ниʼ танэйвˮ <b_p>
+# p_text = махалэянда ниʼ танэйвˮ <b_p>
 # translit = maxalæjanda ńiʔ tanæjwʡ <b_p>
 # text_ru = Поднялся на его крышу.
 # text_en = I climbed up to its roof.
@@ -170,6 +179,7 @@
 # doc_title = MapTask_003
 # sent_id = yrk_s_MapTask_003_10
 # text = махалэянда  нид <b_p> яˮамна сырӈадмʼ <b_p>
+# p_text = махалэянда  нид <b_p> яˮамна сырӈадмʼ <b_p>
 # translit = maxalæjanda  ńid <b_p> jaʡamna sirŋadmʔ <b_p>
 # text_ru = С ее крыши я посмотрел по сторонам.
 # text_en = I looked around from its roof.
@@ -185,6 +195,7 @@
 # doc_title = MapTask_003
 # sent_id = yrk_s_MapTask_003_11
 # text = тадтикахад <s_p> тасиʼ хаˮмывˮ <b_p>
+# p_text = тадтикахад <s_p> тасиʼ хаˮмывˮ <b_p>
 # translit = tadťikaxad <s_p> taśiʔ xaʡmiwʡ <b_p>
 # text_ru = Затем я спустился.
 # text_en = Then I went down.
@@ -198,6 +209,7 @@
 # doc_title = MapTask_003
 # sent_id = yrk_s_MapTask_003_12
 # text = тасиʼ хаˮамˮмахадани <s_p> нэкалӈав тамна тяха нэкалӈав <b_p>
+# p_text = тасиʼ хаˮамˮмахадани <s_p> нэкалӈав тамна тяха нэкалӈав <b_p>
 # translit = taśiʔ xaʡamʡmaxadańi <s_p> nækalŋaw tamna ťaxa nækalŋaw <b_p>
 # text_ru = И после того как спустился, направился дальше.
 # text_en = After I came down, I went forward.
@@ -218,6 +230,7 @@
 # doc_title = MapTask_003
 # sent_id = yrk_s_MapTask_003_13
 # text = ӈохолырць <s_p> яхамʼ <s_p> пулʼ ӈыламна мадав <s_p>
+# p_text = ӈохолырць <s_p> яхамʼ <s_p> пулʼ ӈыламна мадав <s_p>
 # translit = ŋoxolirć <s_p> jaxamʔ <s_p> pulʔ ŋilamna madaw <s_p>
 # text_ru = Вправь, я переплыл реку под мостом.
 # text_en = I crossed the river by swimming under the bridge.
@@ -237,6 +250,7 @@
 # doc_title = MapTask_003
 # sent_id = yrk_s_MapTask_003_14
 # text = таханяюʼ тэвывʼ <b_ p>
+# p_text = таханяюʼ тэвывʼ <b_ p>
 # translit = taxańajuʔ tæwiwʔ <b_ p>
 # text_ru = Мы дошли там.
 # text_en = I got there.
@@ -248,6 +262,7 @@
 # doc_title = MapTask_003
 # sent_id = yrk_s_MapTask_003_15
 # text = таремʼ пэрӈава <b_p> яхаʼ варувна <s_p> яхаʼ лаӈгʼ сятаняюмна ӈобʼ яда нэкалӈав <s_p>
+# p_text = таремʼ пэрӈава <b_p> яхаʼ варувна <s_p> яхаʼ лаӈгʼ сятаняюмна ӈобʼ яда нэкалӈав <s_p>
 # translit = taŕemʔ pærŋawa <b_p> jaxaʔ waruwna <s_p> jaxaʔ laŋgʔ śatańajumna ŋobʔ jada nækalŋaw <s_p>
 # text_ru = Так направляюсь, что иду по берегу реки левее берега реки пешком.
 # text_en = I'm moving in a direction where I'm going so that I'm walking along the riverbank to the left of the riverbank.
@@ -275,6 +290,7 @@
 # doc_title = MapTask_003
 # sent_id = yrk_s_MapTask_003_16
 # text = таняна <b_p> ӈано <s_p> яӈговы <s_p> ӈано яхаʼ тяханяна ӈэвы <b_p>
+# p_text = таняна <b_p> ӈано <s_p> яӈговы <s_p> ӈано яхаʼ тяханяна ӈэвы <b_p>
 # translit = tańana <b_p> ŋano <s_p> jaŋgowi <s_p> ŋano jaxaʔ ťaxańana ŋæwi <b_p>
 # text_ru = Там не оказалось лодки, лодка оказалась на другом берегу реки.
 # text_en = There was no boat; the boat was on the other side of the river.
@@ -296,6 +312,7 @@
 # doc_title = MapTask_003
 # sent_id = yrk_s_MapTask_003_17
 # text = яхамʼ <b_p> ӈохолырць <s_p> ӈаноʼ няюʼ мадав <b_p>
+# p_text = яхамʼ <b_p> ӈохолырць <s_p> ӈаноʼ няюʼ мадав <b_p>
 # translit = jaxamʔ <b_p> ŋoxolirć <s_p> ŋanoʔ ńajuʔ madaw <b_p>
 # text_ru = Реку я переплыл в сторону лодки.
 # text_en = I swam across the river to the side of the boat.
@@ -315,6 +332,7 @@
 # doc_title = MapTask_003
 # sent_id = yrk_s_MapTask_003_18
 # text = ӈаномʼ манэˮӈава ӈаноход тамна тяха ядалъявʼ <s_ p>
+# p_text = ӈаномʼ манэˮӈава ӈаноход тамна тяха ядалъявʼ <s_ p>
 # translit = ŋanomʔ manæʡŋawa ŋanoxod tamna ťaxa jadal"jawʔ <s_ p>
 # text_ru = Я посмотрел лодку и от лодки пошел пешком дальше.
 # text_en = I looked at the boat and then I walked away from the boat.

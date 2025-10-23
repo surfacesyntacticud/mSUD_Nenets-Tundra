@@ -2,6 +2,7 @@
 # sent_id = yrk_s_MapTask_001_1
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = <s_p> марядʼ нёʼ сивня мятюдмʼ сятаняюʼ мэв <s_p> сюртев <b_p>
+# p_text = <s_p> марядʼ нёʼ сивня мятюдмʼ сятаняюʼ мэв <s_p> сюртев <b_p>
 # translit = <s_p> maŕadʔ ńoʔ śiwńa ḿaťudmʔ śatańajuʔ mæw <s_p> śurťew <b_p>
 # text_ru = Я зашел в ворота забора, повернул влево.
 # text_en = I walked through the gate, turned left and walked on.
@@ -26,6 +27,7 @@
 # sent_id = yrk_s_MapTask_001_2
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = таняʼ ядадмʼ <s_p>
+# p_text = таняʼ ядадмʼ <s_p>
 # translit = tańaʔ jadadmʔ <s_p>
 # text_ru = Иду туда.
 # text_en = I'm going in that direction.
@@ -38,6 +40,7 @@
 # sent_id = yrk_s_MapTask_001_3
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = яхамʼ <s_p> пулʼ нимня мадав <s_p>
+# p_text = яхамʼ <s_p> пулʼ нимня мадав <s_p>
 # translit = jaxamʔ <s_p> pulʔ ńimńa madaw <s_p>
 # text_ru = Я перешел реку через мост.
 # text_en = I crossed the river on the bridge.
@@ -55,6 +58,7 @@
 # sent_id = yrk_s_MapTask_001_4
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = тадтикахад тамна тяхаʼ ядадмʼ <b_p>
+# p_text = тадтикахад тамна тяхаʼ ядадмʼ <b_p>
 # translit = tadťikaxad tamna ťaxaʔ jadadmʔ <b_p>
 # text_ru = Затем иду дальше.
 # text_en = Then I walked on.
@@ -69,6 +73,7 @@
 # sent_id = yrk_s_MapTask_001_5
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = пямʼ манэˮӈадмʼ <b_p>
+# p_text = пямʼ манэˮӈадмʼ <b_p>
 # translit = ṕamʔ manæʡŋadmʔ <b_p>
 # text_ru = Я увидел дерево.
 # text_en = I saw a tree.
@@ -82,6 +87,7 @@
 # sent_id = yrk_s_MapTask_001_6
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = пямʼ сятаняӈы хэвувнада махаʼняю <b_p> яляʼ серʼ сюртев <s_p>
+# p_text = пямʼ сятаняӈы хэвувнада махаʼняю <b_p> яляʼ серʼ сюртев <s_p>
 # translit = ṕamʔ śatańaŋi xæwuwnada maxaʔńaju <b_p> jaľaʔ śerʔ śurťew <s_p>
 # text_ru = Я обошел дерево вокруг слева на право, по ходу солнца.
 # text_en = I walked around the tree from left to right, following the course of the sun.
@@ -104,6 +110,7 @@
 # sent_id = yrk_s_MapTask_001_7
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = тикыʼ пуд <b_p> яхамʼ <s_p> таркахаюта нямна <s_p> ӈохолырць <s_p> мадав <s_p>
+# p_text = тикыʼ пуд <b_p> яхамʼ <s_p> таркахаюта нямна <s_p> ӈохолырць <s_p> мадав <s_p>
 # translit = ťikiʔ pud <b_p> jaxamʔ <s_p> tarkaxajuta ńamna <s_p> ŋoxolirć <s_p> madaw <s_p>
 # text_ru = После я переплыл реку там, где находится его развилка.
 # text_en = Then I crossed the river by swimming along where it forks.
@@ -130,6 +137,7 @@
 # sent_id = yrk_s_MapTask_001_8
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = тарка пыявна ӈадимядмʼ <b_p>
+# p_text = тарка пыявна ӈадимядмʼ <b_p>
 # translit = tarka pijawna ŋaďiḿadmʔ <b_p>
 # text_ru = Я оказался на мысу, который находится на развилке реки.
 # text_en = I ended up on a headland at the fork of the river.
@@ -144,6 +152,7 @@
 # sent_id = yrk_s_MapTask_001_9
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = таркаʼ пыям мадаˮмахадани <b_p> ӈаниʼ ӈохолырць яхаʼ няби таркамʼ мадав <b_p>
+# p_text = таркаʼ пыям мадаˮмахадани <b_p> ӈаниʼ ӈохолырць яхаʼ няби таркамʼ мадав <b_p>
 # translit = tarkaʔ pijam madaʡmaxadańi <b_p> ŋańiʔ ŋoxolirć jaxaʔ ńab́i tarkamʔ madaw <b_p>
 # text_ru = После того как я перешел мыс на развилке я снова переплыл другой рукав реки.
 # text_en = After crossing the headland at the fork, I swam back across the other branch of the river.
@@ -172,6 +181,7 @@
 # sent_id = yrk_s_MapTask_001_10
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = яхаʼ иканя халяˮ танявыˮ <b_p>
+# p_text = яхаʼ иканя халяˮ танявыˮ <b_p>
 # translit = jaxaʔ ikańa xaľaʡ tańawiʡ <b_p>
 # text_ru = В реке были рыбы.
 # text_en = Apparently there were fish in the river.
@@ -190,6 +200,7 @@
 # sent_id = yrk_s_MapTask_001_11
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = тикахад <s_p> махаʼнякуʼ мэхэя тамна тяхаʼ яда нэкалӈав <s_p>
+# p_text = тикахад <s_p> махаʼнякуʼ мэхэя тамна тяхаʼ яда нэкалӈав <s_p>
 # translit = ťikaxad <s_p> maxaʔńakuʔ mæxæja tamna ťaxaʔ jada nækalŋaw <s_p>
 # text_ru = После этого слегка повернув вправо, я пошел пешком дальше.
 # text_en = Then I turned slightly to the right and kept going.
@@ -209,6 +220,7 @@
 # sent_id = yrk_s_MapTask_001_12
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = ӈобʼ ядадмʼ ядадмʼ <b_p>
+# p_text = ӈобʼ ядадмʼ ядадмʼ <b_p>
 # translit = ŋobʔ jadadmʔ jadadmʔ <b_p>
 # text_ru = Все иду, иду.
 # text_en = I'm still going, I'm still going.
@@ -223,6 +235,7 @@
 # sent_id = yrk_s_MapTask_001_13
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = нерни няна <s_p> пирця харадмʼ манэˮӈадмʼ <b_p>
+# p_text = нерни няна <s_p> пирця харадмʼ манэˮӈадмʼ <b_p>
 # translit = ńerńi ńana <s_p> ṕirća xaradmʔ manæʡŋadmʔ <b_p>
 # text_ru = Впереди себя я увидел высокую башню(дом).
 # text_en = In front of me I saw a high house.
@@ -241,6 +254,7 @@
 # sent_id = yrk_s_MapTask_001_14
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = пирця харадʼ сидя сидеранда си <s_p>
+# p_text = пирця харадʼ сидя сидеранда си <s_p>
 # translit = ṕirća xaradʔ śiďa śiďeranda śi <s_p>
 # text_ru = У башни два окна.
 # text_en = The tower has two windows.
@@ -257,6 +271,7 @@
 # sent_id = yrk_s_MapTask_001_15
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = танцянда таня <s_p> нёнда си таня <b_p>
+# p_text = танцянда таня <s_p> нёнда си таня <b_p>
 # translit = tanćanda tańa <s_p> ńonda śi tańa <b_p>
 # text_ru = У нее есть лестница, у нее есть дверь.
 # text_en = It has a staircase, it has a door.
@@ -274,6 +289,7 @@
 # sent_id = yrk_s_MapTask_001_16
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = махалэйда <b_p> тюˮуʼ няʼ мятревʼ саблюй <b_p>
+# p_text = махалэйда <b_p> тюˮуʼ няʼ мятревʼ саблюй <b_p>
 # translit = maxalæjda <b_p> ťuʡuʔ ńaʔ ḿatŕewʔ sabľuj <b_p>
 # text_ru = Ее крыша заострена вверх словно чум.
 # text_en = Its roof is pointed up like a chum (tent).
@@ -290,6 +306,7 @@
 # sent_id = yrk_s_MapTask_001_17
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = ӈавоʼ пиркаˮнаˮ нёнда синʼ тэвывʼ <s_p>
+# p_text = ӈавоʼ пиркаˮнаˮ нёнда синʼ тэвывʼ <s_p>
 # translit = ŋawoʔ ṕirkaʡnaʡ ńonda śinʔ tæwiwʔ <s_p>
 # text_ru = В какой-то момент я дошел до ее двери.
 # text_en = At one point I reached the door.
@@ -308,6 +325,7 @@
 # sent_id = yrk_s_MapTask_001_18
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = танцяʼ сер <s_p> тюˮуʼ танэявʼ <b_p>
+# p_text = танцяʼ сер <s_p> тюˮуʼ танэявʼ <b_p>
 # translit = tanćaʔ śer <s_p> ťuʡuʔ tanæjawʔ <b_p>
 # text_ru = Я поднялся вверх по лестнице.
 # text_en = I went up the stairs.
@@ -323,6 +341,7 @@
 # sent_id = yrk_s_MapTask_001_19
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = пирця харадʼ мюмня яда хаядмʼ <b_p>
+# p_text = пирця харадʼ мюмня яда хаядмʼ <b_p>
 # translit = ṕirća xaradʔ ḿumńa jada xajadmʔ <b_p>
 # text_ru = Я прошел по башне внутри.
 # text_en = I went inside the tower.
@@ -339,6 +358,7 @@
 # sent_id = yrk_s_MapTask_001_20
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = няби хэвувнанда ӈаниʼ несэй нёʼ сивна тарпывʼ <b_p>
+# p_text = няби хэвувнанда ӈаниʼ несэй нёʼ сивна тарпывʼ <b_p>
 # translit = ńab́i xæwuwnanda ŋańiʔ ńesæj ńoʔ śiwna tarpiwʔ <b_p>
 # text_ru = С другой ее стороны я вышел в другую дверь.
 # text_en = On the other side I went out through another door.
@@ -360,6 +380,7 @@
 # sent_id = yrk_s_MapTask_001_21
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = танцяʼ серʼ хаˮмывʼ <s_p> тамна тяхаʼ ядалъявʼ <b_p> сятаняюʼ сюртев <b_p>
+# p_text = танцяʼ серʼ хаˮмывʼ <s_p> тамна тяхаʼ ядалъявʼ <b_p> сятаняюʼ сюртев <b_p>
 # translit = tanćaʔ śerʔ xaʡmiwʔ <s_p> tamna ťaxaʔ jadal"jawʔ <b_p> śatańajuʔ śurťew <b_p>
 # text_ru = Я спустился по лестнице, стал идти дальше, повернул налево.
 # text_en = I went down the stairs, started walking and turned left.
@@ -382,6 +403,7 @@
 # sent_id = yrk_s_MapTask_001_22
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = сятаняюʼ ядадмʼ ядадмʼ ӈобʼ ядадмʼ <b_p>
+# p_text = сятаняюʼ ядадмʼ ядадмʼ ӈобʼ ядадмʼ <b_p>
 # translit = śatańajuʔ jadadmʔ jadadmʔ ŋobʔ jadadmʔ <b_p>
 # text_ru = Влево иду-иду, все иду.
 # text_en = I turned left and walked on.
@@ -399,6 +421,7 @@
 # sent_id = yrk_s_MapTask_001_23
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = ехэрана ӈани ӈопой марядмʼ манэˮӈадмʼ <s_p>
+# p_text = ехэрана ӈани ӈопой марядмʼ манэˮӈадмʼ <s_p>
 # translit = exærana ŋańi ŋopoj maŕadmʔ manæʡŋadmʔ <s_p>
 # text_ru = Увидел еще один незнакомый забор.
 # text_en = I saw another unfamiliar fence.
@@ -417,6 +440,7 @@
 # sent_id = yrk_s_MapTask_001_24
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
 # text = маря -дʼ тяхана <s_p> тэ -хэʼ таня -вэ -хэˮ <s_p>
+# p_text = маря -дʼ тяхана <s_p> тэ -хэʼ таня -вэ -хэˮ <s_p>
 # translit = maŕadʔ ťaxana <s_p>  tæxæʔ tańawæxæʡ <s_p>
 # text_ru = За забором оказались два оленя.
 # text_en = Two deer appeared to be behind the fence.
