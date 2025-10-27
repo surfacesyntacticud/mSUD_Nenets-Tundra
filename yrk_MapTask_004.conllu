@@ -198,14 +198,14 @@
 
 # doc_title = MapTask_004
 # sent_id = yrk_s_MapTask_004_13
-# text = я -ʼ <m_l>тир -ʼ ниʼ тана- -ˮма- -хада- -наˮ пирця <b_p> махалэй саблюй харад -мʼ манэˮ-ӈа- -ваˮ <s_p>
+# text = я -ʼ тир -ʼ ниʼ тана- -ˮма- -хада- -наˮ пирця <b_p> махалэй саблюй харад -мʼ манэˮ-ӈа- -ваˮ <s_p>
 # p_text = яʼ <m_l>тирʼ ниʼ танаˮмахаданаˮ пирця <b_p> махалэй саблюй харадмʼ манэˮӈаваˮ <s_p>
 # translit = jaʔ <m_l>ťirʔ ńiʔ tanaʡmaxadanaʡ ṕirća <b_p> maxalæj sabľuj xaradmʔ manæʡŋawaʡ <s_p>
 # text_ru = После того как мы поднялись на берег, мы увидели высокую башню с острой крышей.
 # text_en = As we approached the shore, we noticed a tall tower with a pointed roof.
 1	я	я	NOUN	_	_	2	comp:obj	_	AlignBegin=31805.3447223|AlignEnd=32166.0669969|Gloss=land|LTranslit=ja|Translit=ja
 2	-ʼ	_	ADP	_	_	3	mod:poss	_	AlignBegin=31805.3447223|AlignEnd=32166.0669969|Gloss=-gen|Translit=-ʔ
-3	<m_l>тир	тир	NOUN	_	_	4	comp:obj	_	AlignBegin=32166.0669969|AlignEnd=32388.2142829|Gloss=edge|LTranslit=ťir|Translit=<m_l>ťir
+3	тир	тир	NOUN	_	_	4	comp:obj	_	AlignBegin=32166.0669969|AlignEnd=32388.2142829|Gloss=edge|LTranslit=ťir|Translit=ťir
 4	-ʼ	_	ADP	_	_	5	comp:obj	_	AlignBegin=32166.0669969|AlignEnd=32388.2142829|Gloss=-gen|Translit=-ʔ
 5	ниʼ	ниʼ	ADP	_	_	6	comp:obl	_	AlignBegin=32388.2142829|AlignEnd=32639.9456464|Gloss=on.dat|LTranslit=ńiʔ|Translit=ńiʔ
 6	тана-	тана-	VERB	_	_	7	comp:obj	_	AlignBegin=32639.9456464|AlignEnd=33774.7064265|Gloss=go.up|LTranslit=tana-|Translit=tana-
@@ -305,14 +305,14 @@
 
 # doc_title = MapTask_004
 # sent_id = yrk_s_MapTask_004_18
-# text = Тадтикахавахад <b_p> маха<a> харад -мʼ <f_s>сюрт<u_l> сятаняӈы хэву- -вна- -нда сюрте <m_l>хэя- <b_p> хой -ʼ <u_w>ниӈа тир -ʼ серʼ ялъя- -наˮ <s_p>
+# text = Тадтикахавахад <b_p> маха харад -мʼ <f_s>сюрт<u_l> сятаняӈы хэву- -вна- -нда сюрте хэя- <b_p> хой -ʼ <u_w>ниӈа тир -ʼ серʼ ялъя- -наˮ <s_p>
 # p_text = Тадтикахавахад <b_p> маха<a> харадмʼ <f_s>сюрт<u_l> сятаняӈы хэвувнанда сюрте <m_l>хэя <b_p> хойʼ <u_w>ниӈа тирʼ серʼ ялъянаˮ <s_p>
 # translit = Tadťikaxawaxad <b_p> maxa<a> xaradmʔ <f_s>śurt<u_l> śatańaŋi xæwuwnanda śurťe <m_l>xæja <b_p> xojʔ <u_w>ńiŋa ťirʔ śerʔ jal"janaʡ <s_p>
 # text_ru = Затем мы обошли дом с левой стороны, пошли по высокому ровному месту пешком.
 # text_en = Next, we walked around the left side of the house and returned to the high, flat ground.
 1	Тадтикахавахад	тадтикахавахад	ADV	_	_	12	mod	_	AlignBegin=50606.7418763|AlignEnd=51728.6156375|Gloss=afterwards|LTranslit=tadťikaxawaxad|Translit=Tadťikaxawaxad
 2	<b_p>	<b_p>	X	_	_	1	discourse	_	AlignBegin=51728.6156375|AlignEnd=54649.3234326|Gloss=PAUSE|LTranslit=<b_p>|Translit=<b_p>
-3	маха<a>	маха	NOUN	_	_	12	mod	_	AlignBegin=54649.3234326|AlignEnd=55244.2816745|Gloss=back|LTranslit=maxa|Translit=maxa<a>
+3	маха	маха	NOUN	_	_	12	mod	_	AlignBegin=54649.3234326|AlignEnd=55244.2816745|Gloss=back|LTranslit=maxa|Translit=maxa
 4	харад	харад	NOUN	_	_	5	comp:obj	_	AlignBegin=55244.2816745|AlignEnd=55683.5491889|Gloss=house|LTranslit=xarad|Translit=xarad
 5	-мʼ	_	ADP	_	_	12	comp:obj	_	AlignBegin=55244.2816745|AlignEnd=55683.5491889|Gloss=-acc|Translit=-mʔ
 6	<f_s>сюрт<u_l>	сюрте	ADP	_	_	12	comp:obl	_	AlignBegin=55683.5491889|AlignEnd=56004.541037|Gloss=around|LTranslit=śurťe|Translit=<f_s>śurt<u_l>
@@ -321,7 +321,7 @@
 9	-вна-	_	ADP	_	_	10	comp:obj	_	AlignBegin=56506.4632633|AlignEnd=56972.3912384|Gloss=-prol|Translit=-wna-
 10	-нда	_	ADP	_	Number=Sing|Person=3	11	comp:obj	_	AlignBegin=56506.4632633|AlignEnd=56972.3912384|Gloss=-poss.3sg|Translit=-nda
 11	сюрте	сюрте	ADP	_	_	6	reparandum	_	AlignBegin=56972.3912384|AlignEnd=57793.7432415|Gloss=around|LTranslit=śurťe|Translit=śurťe
-12	<m_l>хэя-	хэ-	VERB	_	_	0	root	_	AlignBegin=56972.3912384|AlignEnd=57793.7432415|Gloss=go|LTranslit=xæ-|Translit=<m_l>xæja-
+12	хэя-	хэ-	VERB	_	_	0	root	_	AlignBegin=56972.3912384|AlignEnd=57793.7432415|Gloss=go|LTranslit=xæ-|Translit=xæja-
 13	<b_p>	<b_p>	PUNCT	_	_	12	punct	_	AlignBegin=57793.7432415|AlignEnd=58380.4204161|Gloss=SIL|LTranslit=<b_p>|Translit=<b_p>
 14	хой	хой	NOUN	_	_	15	comp:obj	_	AlignBegin=58380.4204161|AlignEnd=58582.401827|Gloss=hill|LTranslit=xoj|Translit=xoj
 15	-ʼ	_	ADP	_	_	16	comp:obj	_	AlignBegin=58380.4204161|AlignEnd=58582.401827|Gloss=-gen|Translit=-ʔ

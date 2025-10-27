@@ -115,7 +115,7 @@
 # translit = ťikiʔ pud <b_p> jaxamʔ <s_p> tarkaxajuta ńamna <s_p> ŋoxolirć <s_p> madaw <s_p>
 # text_ru = После я переплыл реку там, где находится его развилка.
 # text_en = Then I crossed the river by swimming along where it forks.
-1	тикы	тикы	DEM	_	_	2	comp:obj	_	AlignBegin=19885.2282639|AlignEnd=20134.6823599|Gloss=that|LTranslit=ťiki|Translit=ťiki
+1	тикы	тикы	PRON	_	PronType=Dem	2	comp:obj	_	AlignBegin=19885.2282639|AlignEnd=20134.6823599|Gloss=that|LTranslit=ťiki|Translit=ťiki
 2	-ʼ	_	ADP	_	_	3	comp:obj	_	AlignBegin=19885.2282639|AlignEnd=20134.6823599|Gloss=-gen|Translit=-ʔ
 3	пуд	пуд	ADP	_	_	16	mod	_	AlignBegin=20134.6823599|AlignEnd=20652.628525|Gloss=after.abl|LTranslit=pud|Translit=pud
 4	<b_p>	<b_p>	X	_	_	16	discourse	_	AlignBegin=20652.628525|AlignEnd=21543.9814893|Gloss=PAUSE|LTranslit=<b_p>|Translit=<b_p>

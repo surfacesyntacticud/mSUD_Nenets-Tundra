@@ -1,6 +1,6 @@
 # doc_title = PearStory
 # sent_id = 1
-# text = <p> ӈобӈгуна я -ʼ ханяхавана <n> <p> груши -ʼ пя -хад хасава  <p> груша маˮламба -вы  <p>
+# text = <p> ӈобӈгуна я -ʼ ханяхавана <n> <p> груши -ʼ пя -хад хасава  <p> груша маˮламба -вы <p>
 # text_p = <p> ӈобӈгуна яʼ ханяхавана <n> <p> грушиʼ пяхад хасава <p> груша маˮламбавы <p>
 # text_ru = Однажды, где-то в тех краях, мужчина собирал груши с грушевого дерева.
 # text_en = Once, somewhere in the land, a man was gathering pears from a pear tree.
@@ -20,7 +20,7 @@
 14	груша	груша	NOUN	_	_	16	comp:obj	_	AlignBegin=6859.98073661|AlignEnd=7143.59670683|Gloss= pear
 15	маˮламба	маˮламба	VERB	_	_	16	aux	_	AlignBegin=7143.59670683|AlignEnd=8025.26922579|Gloss= pick
 16	-вы	X	AUX	_	_	0	root	_	AlignBegin=7143.59670683|AlignEnd=8025.26922579|Gloss= -infr.3sg
-17	 <p>	 <p>	PUNCT	_	_	16	punct	_	AlignBegin=8025.26922579|AlignEnd=8266.00999235|Gloss= SIL
+17	<p>	<p>	PUNCT	_	_	16	punct	_	AlignBegin=8025.26922579|AlignEnd=8266.00999235|Gloss= SIL
 
 # doc_title = PearStory
 # sent_id = 2
@@ -151,7 +151,7 @@
 # text_p = тикы падда тарсиʼ ӈарка ӈэванонда <p>
 # text_ru = Этот мешок такой огромный.
 # text_en = That bag is so big.
-1	тикы	тикы	DEM	_	_	2	mod	_	AlignBegin=36757.2862218|AlignEnd=36965.9788721|Gloss= that
+1	тикы	тикы	PRON	_	PronType=Dem	2	mod	_	AlignBegin=36757.2862218|AlignEnd=36965.9788721|Gloss= that
 2	падда	пад	NOUN	_	_	6	subj	_	AlignBegin=36965.9788721|AlignEnd=37400.2047336|Gloss= bag
 3	тарсиʼ	тарсиʼ	ADV	_	_	4	mod	_	AlignBegin=37400.2047336|AlignEnd=37721.097508|Gloss= very
 4	ӈарка	ӈарка	ADJ	_	_	6	comp	_	AlignBegin=37721.097508|AlignEnd=38006.7713401|Gloss= big
@@ -301,7 +301,7 @@
 # text_en = A man gathering fruit has two baskets full, with one left empty.
 1	хасава	хасава	NOUN	_	_	2	comp:obj	_	AlignBegin=72889.2542445|AlignEnd=73498.7098665|Gloss= man
 2	-нд	X	ADP	_	_	10	mod:poss	_	AlignBegin=72889.2542445|AlignEnd=73498.7098665|Gloss= -poss.gen.2sg
-3	тикы	тикы	DEM	_	_	10	mod	_	AlignBegin=73498.7098665|AlignEnd=73961.5886772|Gloss= that
+3	тикы	тикы	PRON	_	PronType=Dem	10	mod	_	AlignBegin=73498.7098665|AlignEnd=73961.5886772|Gloss= that
 4	<p>	<p>	INTJ	_	_	12	discourse	_	AlignBegin=73961.5886772|AlignEnd=74684.29245|Gloss= X
 5	ӈоди	ӈодя	NOUN	_	_	6	comp:obj	_	AlignBegin=74684.29245|AlignEnd=75024.6283411|Gloss= berry.pl.acc
 6	маˮламба 	маˮламба 	VERB	_	_	7	comp:aux	_	AlignBegin=75024.6283411|AlignEnd=75938.3960556|Gloss= pick
@@ -335,7 +335,7 @@
 9	ӈа	ӈа	AUX	_	_	10	comp:aux	_	AlignBegin=81799.703014|AlignEnd=82125.2971452|Gloss= be
 10	-ˮ	X	AUX	_	_	7	comp:aux	_	AlignBegin=81799.703014|AlignEnd=82125.2971452|Gloss= -conneg
 11	<p>	<p>	PUNCT	_	_	8	punct	_	AlignBegin=82125.2971452|AlignEnd=82664.9123228|Gloss= SIL
-12	тика	тикы	DEM	_	_	16	subj	_	AlignBegin=82664.9123228|AlignEnd=83129.4415029|Gloss= that
+12	тика	тикы	PRON	_	PronType=Dem	16	subj	_	AlignBegin=82664.9123228|AlignEnd=83129.4415029|Gloss= that
 13	-р	X	DET	_	_	12	det:poss	_	AlignBegin=82664.9123228|AlignEnd=83129.4415029|Gloss= -poss.2sg
 14	хуˮхобаˮяˮ	хуˮхобаˮяˮ	NOUN	_	_	15	comp:pred	_	AlignBegin=83129.4415029|AlignEnd=83771.6521401|Gloss= big.lamb
 15	ӈэ	ӈа	VERB	_	_	16	comp:aux	_	AlignBegin=83771.6521401|AlignEnd=84313.9300016|Gloss= be
@@ -1002,7 +1002,7 @@
 21	-ʼ	X	ADP	_	_	22	comp:obj	_	AlignBegin=249736.787308|AlignEnd=250203.717129|Gloss= -gen
 22	ниʼ	ниʼ	ADP	_	_	23	mod	_	AlignBegin=250203.717129|AlignEnd=250374.247794|Gloss= at.dat
 23	ӈаюба	ӈабта	VERB	_	_	0	root	_	AlignBegin=250374.247794|AlignEnd=250833.878638|Gloss= put
-24	-доʼ	X	PTON	_	_	23	subj	_	AlignBegin=250374.247794|AlignEnd=250833.878638|Gloss= -3pl.sg
+24	-доʼ	X	PRON	_	_	23	subj	_	AlignBegin=250374.247794|AlignEnd=250833.878638|Gloss= -3pl.sg
 25	 <p>	 <p>	PUNCT	_	_	23	punct	_	AlignBegin=250833.878638|AlignEnd=251041.020004|Gloss= SIL
 
 # doc_title = PearStory
@@ -1193,7 +1193,7 @@
 8	<p>	<p>	INTJ	_	_	16	discourse	_	AlignBegin=287948.775479|AlignEnd=288602.37764|Gloss= X
 9	еˮэйӈэ	еˮэйӈэ	ADP	_	_	16	mod	_	AlignBegin=288602.37764|AlignEnd=289330.483674|Gloss= instead
 10	<p>	<p>	PUNCT	_	_	16	punct	_	AlignBegin=289330.483674|AlignEnd=289780.893453|Gloss= SIL
-11	тюку	тюку	DEM	_	_	12	det	_	AlignBegin=289780.893453|AlignEnd=290250.360637|Gloss= this
+11	тюку	тюку	PRON	_	PronType=Dem	12	det	_	AlignBegin=289780.893453|AlignEnd=290250.360637|Gloss= this
 12	груша	груша	NOUN	_	_	16	comp:obj	_	AlignBegin=290250.360637|AlignEnd=290858.315139|Gloss= pear
 13	-да	X	DET	_	_	12	det	_	AlignBegin=290250.360637|AlignEnd=290858.315139|Gloss= -predest
 14	-р	X	DET	_	_	12	det:poss	_	AlignBegin=290250.360637|AlignEnd=290858.315139|Gloss= -poss.3sg
@@ -1241,8 +1241,8 @@
 # text_p = тикы тикандоʼ?мэ? тамна тяхаʼ ялъядˮ <p>
 # text_ru = Так они пошли дальше.
 # text_en = And so they continued on their way.
-1	тикы	тикы	DEM	_	_	2	mod	_	AlignBegin=300730.100862|AlignEnd=301101.015981|Gloss= that
-2	тика	тикы	DEM	_	_	3	comp:obj	_	AlignBegin=301101.015981|AlignEnd=301898.916212|Gloss= that
+1	тикы	тикы	PRON	_	PronType=Dem	2	mod	_	AlignBegin=300730.100862|AlignEnd=301101.015981|Gloss= that
+2	тика	тикы	PRON	_	PronType=Dem	3	comp:obj	_	AlignBegin=301101.015981|AlignEnd=301898.916212|Gloss= that
 3	-ндоʼ?мэ?	X	ADP	_	_	6	mod	_	AlignBegin=301101.015981|AlignEnd=301898.916212|Gloss= -poss.gen.3sg
 4	тамна	тамна	ADV	_	_	5	mod	_	AlignBegin=301898.916212|AlignEnd=302053.526637|Gloss= even
 5	тяхаʼ	тяхаʼ	ADV	_	_	6	mod	_	AlignBegin=302053.526637|AlignEnd=302268.876872|Gloss= further
@@ -1273,7 +1273,7 @@
 15	тэˮ	тэ	VERB	_	_	16	comp:aux	_	AlignBegin=308752.14918|AlignEnd=309105.919866|Gloss= wipe
 16	-ӈа	X	AUX	_	_	0	root	_	AlignBegin=308752.14918|AlignEnd=309105.919866|Gloss= -co
 17	-да	X	PRON	_	_	16	subj:obj	_	AlignBegin=308752.14918|AlignEnd=309105.919866|Gloss= -3sg.sg
-18	тика	тикы	DEM	_	_	20	subj	_	AlignBegin=309105.919866|AlignEnd=309406.870624|Gloss= that
+18	тика	тикы	PRON	_	PronType=Dem	20	subj	_	AlignBegin=309105.919866|AlignEnd=309406.870624|Gloss= that
 19	сякал	сякал	VERB	_	_	20	comp:aux	_	AlignBegin=309406.870624|AlignEnd=310147.198937|Gloss= bite
 20	-ӈа	X	AUX	_	_	16	parataxis	_	AlignBegin=309406.870624|AlignEnd=310147.198937|Gloss= -co
 21	-да	X	PRON	_	_	20	subj	_	AlignBegin=309406.870624|AlignEnd=310147.198937|Gloss= -3sg.sg
@@ -1449,7 +1449,7 @@
 # text_p = тикы яля -да хури -ӈэ <er>хури -ӈэ хаерако -сь <p> хуриʼ савамбойкако -сь <p> хури -ӈэ хэˮнёкако -сь  <p>
 # text_ru = Этот день был солнечным, тёплым и безветренным.
 # text_en = The day was sunny, very pleasant, and calm.
-1	тикы	тикы	DEM	_	_	2	mod	_	AlignBegin=345639.879731|AlignEnd=345911.107779|Gloss= that
+1	тикы	тикы	PRON	_	PronType=Dem	2	mod	_	AlignBegin=345639.879731|AlignEnd=345911.107779|Gloss= that
 2	яля	яля	NOUN	_	_	9	mod	_	AlignBegin=345911.107779|AlignEnd=346396.428819|Gloss= day
 3	-да	X	DET	_	_	2	det	_	AlignBegin=345911.107779|AlignEnd=346396.428819|Gloss= -poss.3sg
 4	хури	хуриʼ	ADV	_	_	5	comp:obj	_	AlignBegin=346396.428819|AlignEnd=346835.406204|Gloss= very
@@ -1475,7 +1475,7 @@
 # text_p = та валакада <p>
 # text_ru = конец
 # text_en = The end.
-1	та	та	DEM	_	_	2	subj	_	AlignBegin=352673.037541|AlignEnd=352958.799848|Gloss= this
+1	та	та	PRON	_	PronType=Dem	2	subj	_	AlignBegin=352673.037541|AlignEnd=352958.799848|Gloss= this
 2	валака	валак	NOUN	_	_	0	root	_	AlignBegin=352958.799848|AlignEnd=353424.55805|Gloss= end
 3	-да	X	DET	_	_	2	det	_	AlignBegin=352958.799848|AlignEnd=353424.55805|Gloss= -poss.3sg
 4	 <p>	 <p>	PUNCT	_	_	2	punct	_	AlignBegin=353424.55805|AlignEnd=354163.544352|Gloss= SIL

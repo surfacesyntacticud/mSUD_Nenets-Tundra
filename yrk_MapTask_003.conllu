@@ -86,14 +86,14 @@
 
 # doc_title = MapTask_003
 # sent_id = yrk_s_MapTask_003_5
-# text = яда<a> -дмʼ яда<a> -дмʼ яда -дмʼ <b_p>
+# text = яда -дмʼ яда -дмʼ яда -дмʼ <b_p>
 # p_text = яда<a>дмʼ яда<a>дмʼ ядадмʼ <b_p>
 # translit = jada<a>dmʔ jada<a>dmʔ jadadmʔ <b_p>
 # text_ru = Иду, иду, иду.
 # text_en = I'm walking, I'm walking, I'm walking.
-1	яда<a>	яда-	VERB	_	_	0	root	_	AlignBegin=23079.4959388|AlignEnd=23693.8758448|Gloss=walk|LTranslit=jada-|Translit=jada<a>
+1	яда	яда-	VERB	_	_	0	root	_	AlignBegin=23079.4959388|AlignEnd=23693.8758448|Gloss=walk|LTranslit=jada-|Translit=jada
 2	-дмʼ	_	PRON	_	Number=Sing|Person=1	1	subj	_	AlignBegin=23079.4959388|AlignEnd=23693.8758448|Gloss=-1sg|Translit=-dmʔ
-3	яда<a>	яда-	VERB	_	_	1	parataxis	_	AlignBegin=23693.8758448|AlignEnd=24368.020265|Gloss=walk|LTranslit=jada-|Translit=jada<a>
+3	яда	яда-	VERB	_	_	1	parataxis	_	AlignBegin=23693.8758448|AlignEnd=24368.020265|Gloss=walk|LTranslit=jada-|Translit=jada
 4	-дмʼ	_	PRON	_	Number=Sing|Person=1	3	subj	_	AlignBegin=23693.8758448|AlignEnd=24368.020265|Gloss=-1sg|Translit=-dmʔ
 5	яда	яда-	VERB	_	_	1	parataxis	_	AlignBegin=24368.020265|AlignEnd=24860.4910701|Gloss=walk|LTranslit=jada-|Translit=jada
 6	-дмʼ	_	PRON	_	Number=Sing|Person=1	5	subj	_	AlignBegin=24368.020265|AlignEnd=24860.4910701|Gloss=-1sg|Translit=-dmʔ
