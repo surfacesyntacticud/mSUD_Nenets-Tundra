@@ -17,7 +17,7 @@
 10	-ʼ	_	ADP	_	_	11	mod:poss	_	AlignBegin=4639.47449619|AlignEnd=5044.81344664|Gloss=-gen|Translit=-ʔ
 11	пыя	пыя	NOUN	_	_	12	comp:obj	_	AlignBegin=5044.81344664|AlignEnd=5782.09546216|Gloss=end|LTranslit=pija|Translit=pija
 12	-хана	_	ADP	_	_	13	comp:obl	_	AlignBegin=5044.81344664|AlignEnd=5782.09546216|Gloss=-loc|Translit=-xana
-13	мэ	мэ-	VERB	_	_	14	aux	_	AlignBegin=5782.09546216|AlignEnd=6311.5279927|Gloss=take|LTranslit=mæ-|Translit=mæ
+13	мэ	мэ-	VERB	_	_	14	comp:aux	_	AlignBegin=5782.09546216|AlignEnd=6311.5279927|Gloss=take|LTranslit=mæ-|Translit=mæ
 14	-вэ	_	AUX	_	_	0	root	_	AlignBegin=5782.09546216|AlignEnd=6311.5279927|Gloss=-infr|Translit=-wæ
 15	-дмʼ	_	PRON	_	Number=Sing|Person=1	14	subj	_	AlignBegin=5782.09546216|AlignEnd=6311.5279927|Gloss=-1sg|Translit=-dmʔ
 16	<p>	<p>	PUNCT	_	_	14	punct	_	AlignBegin=6311.5279927|AlignEnd=7252.97885776|Gloss=SIL|LTranslit=<p>|Translit=<p>
@@ -298,14 +298,14 @@
 2	<p>	<p>	X	_	_	1	discourse	_	AlignBegin=63584.8899994|AlignEnd=63964.8051229|Gloss=PAUSE|LTranslit=<p>|Translit=<p>
 3	ӈано	ӈано	NOUN	_	_	6	subj	_	AlignBegin=63964.8051229|AlignEnd=64495.0463743|Gloss=boat|LTranslit=ŋano|Translit=ŋano
 4	<p>	<p>	X	_	_	3	discourse	_	AlignBegin=64495.0463743|AlignEnd=65126.4161119|Gloss=PAUSE|LTranslit=<p>|Translit=<p>
-5	яӈго	яӈго	VERB	_	_	6	aux	_	AlignBegin=65126.4161119|AlignEnd=65653.924161|Gloss=not.exist|LTranslit=jaŋgo|Translit=jaŋgo
+5	яӈго	яӈго	VERB	_	_	6	comp:aux	_	AlignBegin=65126.4161119|AlignEnd=65653.924161|Gloss=not.exist|LTranslit=jaŋgo|Translit=jaŋgo
 6	-вы	_	AUX	_	Number=Sing|Person=3	0	root	_	AlignBegin=65126.4161119|AlignEnd=65653.924161|Gloss=-infr.3sg|Translit=-wi
 7	<p>	<p>	PUNCT	_	_	6	punct	_	AlignBegin=65653.924161|AlignEnd=65834.3155146|Gloss=SIL|LTranslit=<p>|Translit=<p>
 8	ӈано	ӈано	NOUN	_	_	13	subj	_	AlignBegin=65834.3155146|AlignEnd=66020.0993182|Gloss=boat|LTranslit=ŋano|Translit=ŋano
 9	яха	яха	NOUN	_	_	10	comp:obj	_	AlignBegin=66020.0993182|AlignEnd=66304.9725801|Gloss=river|LTranslit=jaxa|Translit=jaxa
 10	-ʼ	_	ADP	_	_	11	comp:obj	_	AlignBegin=66020.0993182|AlignEnd=66304.9725801|Gloss=-gen|Translit=-ʔ
 11	тяханяна	тяханяна	ADP	_	_	12	comp:obl	_	AlignBegin=66304.9725801|AlignEnd=66635.9821287|Gloss=through.loc|LTranslit=ťaxańana|Translit=ťaxańana
-12	ӈэ	ӈa	AUX	_	_	13	aux	_	AlignBegin=66635.9821287|AlignEnd=67045.1241455|Gloss=be|LTranslit=ŋa|Translit=ŋæ
+12	ӈэ	ӈa	AUX	_	_	13	comp:aux	_	AlignBegin=66635.9821287|AlignEnd=67045.1241455|Gloss=be|LTranslit=ŋa|Translit=ŋæ
 13	-вы	_	AUX	_	Number=Sing|Person=3	6	parataxis	_	AlignBegin=66635.9821287|AlignEnd=67045.1241455|Gloss=-infr.3sg|Translit=-wi
 14	<p>	<p>	PUNCT	_	_	6	punct	_	AlignBegin=67045.1241455|AlignEnd=67942.4445949|Gloss=SIL|LTranslit=<p>|Translit=<p>
 

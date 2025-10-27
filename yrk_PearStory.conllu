@@ -18,7 +18,7 @@
 12	хасава	хасава	NOUN	_	_	16	subj	_	AlignBegin=5451.85232308|AlignEnd=6317.62739006|Gloss=man
 13	<p>	<p>	INTJ	_	_	16	discourse	_	AlignBegin=6317.62739006|AlignEnd=6859.98073661|Gloss=X
 14	груша	груша	NOUN	_	_	16	comp:obj	_	AlignBegin=6859.98073661|AlignEnd=7143.59670683|Gloss=pear
-15	маˮламба	маˮламба	VERB	_	_	16	aux	_	AlignBegin=7143.59670683|AlignEnd=8025.26922579|Gloss=pick
+15	маˮламба	маˮламба	VERB	_	_	16	comp:aux	_	AlignBegin=7143.59670683|AlignEnd=8025.26922579|Gloss=pick
 16	-вы	X	AUX	_	_	0	root	_	AlignBegin=7143.59670683|AlignEnd=8025.26922579|Gloss=-infr.3sg
 17	<p>	<p>	PUNCT	_	_	16	punct	_	AlignBegin=8025.26922579|AlignEnd=8266.00999235|Gloss=SIL
 
@@ -739,7 +739,7 @@
 9	не	не	NOUN	_	_	10	mod	_	AlignBegin=186809.625611|AlignEnd=187126.302658|Gloss=woman
 10	ӈацекы	ӈацекы	NOUN	_	_	11	comp:obj	_	AlignBegin=187126.302658|AlignEnd=187547.483132|Gloss=child
 11	-мʼ	X	ADP	_	_	12	comp:obj	_	AlignBegin=187126.302658|AlignEnd=187547.483132|Gloss=-acc
-12	манэˮ	манэˮ	VERB	_	_	13	aux	_	AlignBegin=187547.483132|AlignEnd=188014.093161|Gloss=see
+12	манэˮ	манэˮ	VERB	_	_	13	comp:aux	_	AlignBegin=187547.483132|AlignEnd=188014.093161|Gloss=see
 13	-ӈа	X	AUX	_	_	0	root	_	AlignBegin=187547.483132|AlignEnd=188014.093161|Gloss=-co
 14	<p>	<p>	PUNCT	_	_	13	punct	_	AlignBegin=188014.093161|AlignEnd=188531.151451|Gloss=SIL
 
@@ -787,7 +787,7 @@
 4	-ха	X	ADP	_	_	8	mod	_	AlignBegin=195785.238685|AlignEnd=196287.370024|Gloss=-abl
 5	-нда	X	DET	_	_	4	det	_	AlignBegin=195785.238685|AlignEnd=196287.370024|Gloss=-poss.3sg
 6	ӈобтʼ	ӈобтʼ	ADV	_	_	8	mod	_	AlignBegin=196287.370024|AlignEnd=196656.504415|Gloss=together
-7	теб	теб	VERB	_	_	8	aux	_	AlignBegin=196656.504415|AlignEnd=197503.342133|Gloss=crash.into
+7	теб	теб	VERB	_	_	8	comp:aux	_	AlignBegin=196656.504415|AlignEnd=197503.342133|Gloss=crash.into
 8	-ӈа	X	AUX	_	_	0	root	_	AlignBegin=196656.504415|AlignEnd=197503.342133|Gloss=-co
 9	-хаʼ	X	PRON	_	_	8	subj	_	AlignBegin=196656.504415|AlignEnd=197503.342133|Gloss=-3du
 10	<p>	<p>	PUNCT	_	_	8	punct	_	AlignBegin=197503.342133|AlignEnd=198206.326009|Gloss=SIL
@@ -820,7 +820,7 @@
 # text_p = моˮнэйʼ хасава ӈацекы <p>
 # text_ru = Мальчик упал.
 # text_en = The boy fell down.
-1	моˮнэ	моˮна	VERB	_	_	2	aux	_	AlignBegin=205423.666659|AlignEnd=205887.346094|Gloss=fall
+1	моˮнэ	моˮна	VERB	_	_	2	comp:aux	_	AlignBegin=205423.666659|AlignEnd=205887.346094|Gloss=fall
 2	-й	X	AUX	_	_	0	root	_	AlignBegin=205423.666659|AlignEnd=205887.346094|Gloss=-co.refl
 3	-ʼ	X	PRON	_	_	2	subj	_	AlignBegin=205423.666659|AlignEnd=205887.346094|Gloss=-3sf.refl
 4	хасава	хасава	NOUN	_	_	5	mod	_	AlignBegin=205887.346094|AlignEnd=206301.399198|Gloss=man
@@ -890,7 +890,7 @@
 4	няхар	няхарˮ	NUM	_	_	6	mod	_	AlignBegin=219901.716931|AlignEnd=220127.339873|Gloss=three
 5	хасава	хасава	NOUN	_	_	6	mod	_	AlignBegin=220127.339873|AlignEnd=220455.32878|Gloss=man
 6	ӈацекы	ӈацекы	NOUN	_	_	8	subj	_	AlignBegin=220455.32878|AlignEnd=220737.357457|Gloss=child
-7	мэ	мэ	VERB	_	_	8	aux	_	AlignBegin=220737.357457|AlignEnd=221157.989035|Gloss=be
+7	мэ	мэ	VERB	_	_	8	comp:aux	_	AlignBegin=220737.357457|AlignEnd=221157.989035|Gloss=be
 8	-вы	X	AUX	_	_	0	root	_	AlignBegin=220737.357457|AlignEnd=221157.989035|Gloss=-infr.3sg
 9	-ˮ	X	PRON	_	_	8	subj	_	AlignBegin=220737.357457|AlignEnd=221157.989035|Gloss=-3pl
 10	<p>	<p>	PUNCT	_	_	8	punct	_	AlignBegin=221157.989035|AlignEnd=222840.457626|Gloss=SIL
@@ -1156,7 +1156,7 @@
 20	серʼ	серʼ	ADP	_	_	24	mod	_	AlignBegin=280021.072478|AlignEnd=280251.362943|Gloss=when
 21	хэ<un>	хэвняʼ	ADV	_	_	22	reparandum	_	AlignBegin=280251.362943|AlignEnd=280387.6573|Gloss=away
 22	хэвняʼ	хэвняʼ	ADV	_	_	24	mod	_	AlignBegin=280387.6573|AlignEnd=280969.203147|Gloss=away
-23	мантэ	мантэ	VERB	_	_	24	aux	_	AlignBegin=280969.203147|AlignEnd=282332.218292|Gloss=fall
+23	мантэ	мантэ	VERB	_	_	24	comp:aux	_	AlignBegin=280969.203147|AlignEnd=282332.218292|Gloss=fall
 24	-рхавыˮ	X	AUX	_	_	0	root	_	AlignBegin=280969.203147|AlignEnd=282332.218292|Gloss=rep
 25	-нёʼ	X	CLT	_	_	_	_	_	AlignBegin=280969.203147|AlignEnd=282332.218292|Gloss=excl
 26	<p>	<p>	PUNCT	_	_	24	punct	_	AlignBegin=282332.218292|AlignEnd=283554.392903|Gloss=SIL
@@ -1230,7 +1230,7 @@
 5	тодоʼ	тодоʼ	NOUN	_	_	9	mod	_	AlignBegin=297419.523885|AlignEnd=297677.314418|Gloss=all
 6	ӈопой?мэ?	ӈопой	NUM	_	_	7	mod	_	AlignBegin=297677.314418|AlignEnd=298206.229477|Gloss=one
 7	груша	груша	NOUN	_	_	9	comp:obj	_	AlignBegin=298206.229477|AlignEnd=298610.693934|Gloss=pear
-8	миˮ	ми	VERB	_	_	9	aux	_	AlignBegin=298610.693934|AlignEnd=299008.77498|Gloss=give
+8	миˮ	ми	VERB	_	_	9	comp:aux	_	AlignBegin=298610.693934|AlignEnd=299008.77498|Gloss=give
 9	-ӈа	X	AUX	_	_	0	root	_	AlignBegin=298610.693934|AlignEnd=299008.77498|Gloss=-co
 10	-ˮ	X	PRON	_	_	9	subj	_	AlignBegin=298610.693934|AlignEnd=299008.77498|Gloss=-?3sg
 11	<p>	<p>	PUNCT	_	_	9	punct	_	AlignBegin=299008.77498|AlignEnd=300730.100862|Gloss=SIL
@@ -1333,7 +1333,7 @@
 4	хыдя	хыдя	NOUN	_	_	5	comp:obj	_	AlignBegin=323180.618382|AlignEnd=323371.850789|Gloss=vessel
 5	-ʼ	X	ADP	_	_	6	comp:obj	_	AlignBegin=323180.618382|AlignEnd=323371.850789|Gloss=-gen
 6	мюʼ	мюʼ	ADP	_	_	8	mod	_	AlignBegin=323371.850789|AlignEnd=323539.883693|Gloss=in.dat
-7	сыр	сыр	VERB	_	_	8	aux	_	AlignBegin=323539.883693|AlignEnd=324055.973299|Gloss=look
+7	сыр	сыр	VERB	_	_	8	comp:aux	_	AlignBegin=323539.883693|AlignEnd=324055.973299|Gloss=look
 8	-ӈа	X	AUX	_	_	0	comp:aux	_	AlignBegin=323539.883693|AlignEnd=324055.973299|Gloss=-co
 9	<p>	<p>	PUNCT	_	_	8	punct	_	AlignBegin=324055.973299|AlignEnd=324587.697236|Gloss=SIL
 
@@ -1397,7 +1397,7 @@
 11	тодо	тодоʼ	NOUN	_	_	15	subj	_	AlignBegin=335743.422449|AlignEnd=336049.413736|Gloss=all
 12	груши	груша	NOUN	_	_	13	comp:obj	_	AlignBegin=336049.413736|AlignEnd=336519.074781|Gloss=pear.pl
 13	-на	X	ADP	_	_	15	mod	_	AlignBegin=336049.413736|AlignEnd=336519.074781|Gloss=-loc
-14	хэ	хэ-	VERB	_	_	15	aux	_	AlignBegin=336519.074781|AlignEnd=336921.58713|Gloss=go
+14	хэ	хэ-	VERB	_	_	15	comp:aux	_	AlignBegin=336519.074781|AlignEnd=336921.58713|Gloss=go
 15	-вы	X	AUX	_	_	0	root	_	AlignBegin=336519.074781|AlignEnd=336921.58713|Gloss=-infr.3sg
 16	<p>	<p>	PUNCT	_	_	15	punct	_	AlignBegin=336921.58713|AlignEnd=337367.047861|Gloss=SIL
 
@@ -1415,7 +1415,7 @@
 6	-м	X	ADP	_	_	10	comp:obj	_	AlignBegin=338896.314544|AlignEnd=339500.2881|Gloss=-acc
 7	-да	X	DET	_	_	6	det	_	AlignBegin=338896.314544|AlignEnd=339500.2881|Gloss=-poss.3sg
 8	тюˮукуʼ	тюˮукуʼ	ADV	_	_	10	mod	_	AlignBegin=339500.2881|AlignEnd=339835.483583|Gloss=upwards
-9	пэр	пэр	VERB	_	_	10	aux	_	AlignBegin=339835.483583|AlignEnd=340363.953165|Gloss=do
+9	пэр	пэр	VERB	_	_	10	comp:aux	_	AlignBegin=339835.483583|AlignEnd=340363.953165|Gloss=do
 10	-ӈа	X	AUX	_	_	3	parataxis	_	AlignBegin=339835.483583|AlignEnd=340363.953165|Gloss=X
 11	<p>	<p>	PUNCT	_	_	3	punct	_	AlignBegin=340363.953165|AlignEnd=341381.370627|Gloss=SIL
 
@@ -1433,7 +1433,7 @@
 6	-тоʼ	X	ADP	_	_	7	comp:obj	_	AlignBegin=342433.34619|AlignEnd=342736.819752|Gloss=-poss.gen.3pl
 7	серʼ	серʼ	ADP	_	_	10	mod	_	AlignBegin=342736.819752|AlignEnd=342902.575755|Gloss=when
 8	ханзерʼ	ханзерʼ	ADV	_	_	10	mod	_	AlignBegin=342902.575755|AlignEnd=343252.312242|Gloss=how
-9	яд	яда	VERB	_	_	10	aux	_	AlignBegin=343252.312242|AlignEnd=343868.205494|Gloss=walk
+9	яд	яда	VERB	_	_	10	comp:aux	_	AlignBegin=343252.312242|AlignEnd=343868.205494|Gloss=walk
 10	-са	X	AUX	_	_	0	root	_	AlignBegin=343252.312242|AlignEnd=343868.205494|Gloss=-interrog
 11	-ˮ	X	PRON	_	_	10	subj	_	AlignBegin=343252.312242|AlignEnd=343868.205494|Gloss=-3pl
 12	<p>	<p>	PUNCT	_	_	10	punct	_	AlignBegin=343868.205494|AlignEnd=344276.155688|Gloss=SIL
