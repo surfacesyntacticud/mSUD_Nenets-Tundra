@@ -1,4 +1,3 @@
-# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
 # doc_title = PearStory
 # sent_id = 1
 # text = <p> ӈобӈгуна я -ʼ ханяхавана <n> <p> груши -ʼ пя -хад хасава  <p> груша маˮламба -вы  <p>
@@ -70,7 +69,7 @@
 
 # doc_title = PearStory
 # sent_id = 5
-# text = ӈопой груша я -нʼ мантэ -ей -ˮ  <p>
+# text = ӈопой груша я -нʼ мантэ =ей -ˮ  <p>
 # text_p = ӈопой груша янʼ мантэейˮ <p>
 # text_ru = Одна груша упала на землю.
 # text_en = One pear fell to the ground.
@@ -78,10 +77,10 @@
 2	груша	груша	NOUN	_	_	5	subj	_	AlignBegin=19366.8371953|AlignEnd=19721.077196|Gloss= pear
 3	я	я	NOUN	_	_	4	comp:obj	_	AlignBegin=19721.077196|AlignEnd=19951.9439551|Gloss= land
 4	-нʼ	X	ADP	_	_	5	mod	_	AlignBegin=19721.077196|AlignEnd=19951.9439551|Gloss= -dat
-5	мантэ	мантэ	VERB	_	_	0	root	_	AlignBegin=19951.9439551|AlignEnd=20686.0758187|Gloss= fall
-6	-ей	X	CLT	_	_	_	_	_	AlignBegin=19951.9439551|AlignEnd=20686.0758187|Gloss= focus
-7	-ˮ	X	PRON	_	_	5	subj	_	AlignBegin=19951.9439551|AlignEnd=20686.0758187|Gloss= -3sg.refl
-8	 <p>	 <p>	PUNCT	_	_	5	punct	_	AlignBegin=20686.0758187|AlignEnd=21015.8854745|Gloss= SIL
+5	мантэ	мантэ	VERB	_	_	6	comp:aux	_	AlignBegin=19951.9439551|AlignEnd=20686.0758187|Gloss= fall
+6	=ей	X	CLT	_	_	_	_	_	AlignBegin=19951.9439551|AlignEnd=20686.0758187|Gloss= focus
+7	-ˮ	X	PRON	_	_	6	subj	_	AlignBegin=19951.9439551|AlignEnd=20686.0758187|Gloss= -3sg.refl
+8	 <p>	 <p>	PUNCT	_	_	_	_	_	AlignBegin=20686.0758187|AlignEnd=21015.8854745|Gloss= SIL
 
 # doc_title = PearStory
 # sent_id = 6
@@ -126,24 +125,24 @@
 18	хыдя	хыдя	NOUN	_	_	19	comp:obj	_	AlignBegin=30984.8018533|AlignEnd=31547.9351356|Gloss= vessel
 19	-ʼ	X	ADP	_	_	20	comp:obj	_	AlignBegin=30984.8018533|AlignEnd=31547.9351356|Gloss= -gen
 20	мюʼ	мюʼ	ADP	_	_	22	mod	_	AlignBegin=30984.8018533|AlignEnd=31547.9351356|Gloss= in.dat
-21	пыдабтамба	пудабтамба	ADV	_	_	22	comp:obj	_	AlignBegin=31547.9351356|AlignEnd=31943.0477261|Gloss= pour.cvb
+21	пыдабтамба	пудабтамба	VERB	_	VerbForm=Conv	22	comp:obj	_	AlignBegin=31547.9351356|AlignEnd=31943.0477261|Gloss= pour.cvb
 22	пяя	пя	VERB	_	_	0	root	_	AlignBegin=31943.0477261|AlignEnd=32642.7596263|Gloss= begin
 23	-да	X	PRON	_	_	22	subj	_	AlignBegin=31943.0477261|AlignEnd=32642.7596263|Gloss= -3sg.sg
 24	 <p>	 <p>	PUNCT	_	_	22	punct	_	AlignBegin=32642.7596263|AlignEnd=33366.518752|Gloss= SIL
 
 # doc_title = PearStory
 # sent_id = 8
-# text = вэрдамби -до -в <p> вэрдамби -до -в  <p>
+# text = вэрдамби -до =в <p> вэрдамби -до =в  <p>
 # text_p = вэрдамбидов <p> вэрдамбидов <p>
 # text_ru = Вынимает их, вынимает их.
 # text_en = He just pulls them, just pulls them.
 1	вэрдамби	вэрдамби	VERB	_	_	0	root	_	AlignBegin=33366.518752|AlignEnd=34564.2612254|Gloss= pull
 2	-до	X	PRON	_	_	1	subj	_	AlignBegin=33366.518752|AlignEnd=34564.2612254|Gloss= -3sg.pl
-3	-в	X	CLT	_	_	_	_	_	AlignBegin=33366.518752|AlignEnd=34564.2612254|Gloss= focus
+3	=в	X	CLT	_	_	_	_	_	AlignBegin=33366.518752|AlignEnd=34564.2612254|Gloss= Focus
 4	<p>	<p>	PUNCT	_	_	1	punct	_	AlignBegin=34564.2612254|AlignEnd=35155.5276582|Gloss= SIL
 5	вэрдамби	вэрдамби	VERB	_	_	1	parataxis	_	AlignBegin=35155.5276582|AlignEnd=36298.5109295|Gloss= pull
 6	-до	X	PRON	_	_	5	subj	_	AlignBegin=35155.5276582|AlignEnd=36298.5109295|Gloss= -3sg.pl
-7	-в	X	CLT	_	_	_	_	_	AlignBegin=35155.5276582|AlignEnd=36298.5109295|Gloss= focus
+7	=в	X	CLT	_	_	_	_	_	AlignBegin=35155.5276582|AlignEnd=36298.5109295|Gloss=Focus
 8	 <p>	 <p>	PUNCT	_	_	1	punct	_	AlignBegin=36298.5109295|AlignEnd=36757.2862218|Gloss= SIL
 
 # doc_title = PearStory
@@ -327,14 +326,14 @@
 # text_en = If you look closely, it is not a cow, but a goat.
 1	нябтинд	нябтинд	ADV	_	_	3	mod	_	AlignBegin=79955.7787924|AlignEnd=80497.1930117|Gloss= close
 2	манэ	манэˮ	VERB	_	_	3	comp:aux	_	AlignBegin=80497.1930117|AlignEnd=80890.0109311|Gloss= see
-3	-ць	X	ADV	_	_	8	mod	_	AlignBegin=80497.1930117|AlignEnd=80890.0109311|Gloss= -cvb
-4	тика	тикы	DEM	_	_	8	subj	_	AlignBegin=80890.0109311|AlignEnd=81018.9728769|Gloss= that
+3	-ць	X	AUX	_	_	8	mod	_	AlignBegin=80497.1930117|AlignEnd=80890.0109311|Gloss= -cvb
+4	тика	тикы	PRON	_	PronType=Dem	8	subj	_	AlignBegin=80890.0109311|AlignEnd=81018.9728769|Gloss= that
 5	-р	X	DET	_	_	4	det:poss	_	AlignBegin=80890.0109311|AlignEnd=81018.9728769|Gloss= -poss.2sg
 6	хорова	хорова	NOUN	_	_	9	comp:pred	_	AlignBegin=81018.9728769|AlignEnd=81452.2030976|Gloss= cow
 7	ни	ни	AUX	_	_	8	comp:aux	_	AlignBegin=81452.2030976|AlignEnd=81799.703014|Gloss= NEG
 8	-вы	X	AUX	_	_	0	root	_	AlignBegin=81452.2030976|AlignEnd=81799.703014|Gloss= -infr.3sg
-9	ӈа	ӈа	VERB	_	_	10	comp	_	AlignBegin=81799.703014|AlignEnd=82125.2971452|Gloss= be
-10	-ˮ	X	X	_	_	7	comp	_	AlignBegin=81799.703014|AlignEnd=82125.2971452|Gloss= -conneg
+9	ӈа	ӈа	AUX	_	_	10	comp:aux	_	AlignBegin=81799.703014|AlignEnd=82125.2971452|Gloss= be
+10	-ˮ	X	AUX	_	_	7	comp:aux	_	AlignBegin=81799.703014|AlignEnd=82125.2971452|Gloss= -conneg
 11	<p>	<p>	PUNCT	_	_	8	punct	_	AlignBegin=82125.2971452|AlignEnd=82664.9123228|Gloss= SIL
 12	тика	тикы	DEM	_	_	16	subj	_	AlignBegin=82664.9123228|AlignEnd=83129.4415029|Gloss= that
 13	-р	X	DET	_	_	12	det:poss	_	AlignBegin=82664.9123228|AlignEnd=83129.4415029|Gloss= -poss.2sg
@@ -424,16 +423,16 @@
 9	<n>	<n>	INTJ	_	_	8	discourse	_	AlignBegin=105281.360933|AlignEnd=107643.186129|Gloss= X
 10	 <p>	 <p>	PUNCT	_	_	8	punct	_	AlignBegin=105281.360933|AlignEnd=107643.186129|Gloss= SIL
 
-# doc_title = PearStory
 # sent_id = 23
 # text = тяхад таремʼ сыр -апʼ ӈамгэ <p> хараса -д ха -да <f>ӈацекэко хасава ӈацекэко <p> ӈани сабета -на <n> <p> ?ёсь? пэр -хана <n> таˮаль пэр -ӈа -да  <p>
+# doc_title = PearStory
 # text_p = тяхад таремʼ сыр -апʼ ӈамгэ <p> хараса -д ха -да <f>ӈацекэко хасава ӈацекэко <p> ӈани сабета -на <n> <p> ?ёсь? пэр -хана <n> таˮаль пэр -ӈа -да  <p>
 # text_ru = Если присмотреться, издалека идёт ребёнок, мальчишка, тоже в шляпе.
-# text_en = If you look closely, you’ll see a child coming from a distance, a boy, also wearing a hat.
+# text_en = If you look closely, a child is coming from a distance, a boy, also wearing a hat.
 1	тяхад	тяхад	ADP	_	_	4	mod	_	AlignBegin=107643.186129|AlignEnd=108032.851637|Gloss= behind.abl
 2	таремʼ	таремʼ	ADV	_	_	4	mod	_	AlignBegin=108032.851637|AlignEnd=108271.924229|Gloss= this.way
 3	сыр	сыр	VERB	_	_	4	comp:aux	_	AlignBegin=108271.924229|AlignEnd=108827.103915|Gloss= look
-4	-апʼ	X	ADV	_	_	_	_	_	AlignBegin=108271.924229|AlignEnd=108827.103915|Gloss= cond
+4	-апʼ	X	AUX	_	_	26	mod	_	AlignBegin=108271.924229|AlignEnd=108827.103915|Gloss= cond
 5	ӈамгэ	ӈамгэ	PRON	_	_	7	mod	_	AlignBegin=108827.103915|AlignEnd=109363.689066|Gloss= what
 6	<p>	<p>	INTJ	_	_	26	discourse	_	AlignBegin=109363.689066|AlignEnd=109722.297954|Gloss= X
 7	хараса	хара	NOUN	_	_	8	comp:obj	_	AlignBegin=109722.297954|AlignEnd=110107.470464|Gloss= turn
@@ -766,8 +765,8 @@
 1	сидя	сидя	NUM	_	_	3	mod	_	AlignBegin=191102.609689|AlignEnd=191367.715038|Gloss= two
 2	парисеˮэ	парисеэ	ADJ	_	_	3	mod	_	AlignBegin=191367.715038|AlignEnd=191876.968565|Gloss= very.black
 3	паӈгаляр	паӈглярˮ	NOUN	_	_	_	_	_	AlignBegin=191876.968565|AlignEnd=193011.621161|Gloss= braid
-4	-кава	X	CLT	_	_	_	_	_	AlignBegin=191876.968565|AlignEnd=193011.621161|Gloss= aff
-5	-да	X	DET	_	_	_	_	_	AlignBegin=191876.968565|AlignEnd=193011.621161|Gloss= -poss.3sg
+4	-кава	X	DET	_	_	3	det	_	AlignBegin=191876.968565|AlignEnd=193011.621161|Gloss= aff
+5	-да	X	DET	_	_	3	det:poss	_	AlignBegin=191876.968565|AlignEnd=193011.621161|Gloss= -poss.3sg
 6	-ӈэ	X	ADP	_	_	_	_	_	AlignBegin=191876.968565|AlignEnd=193011.621161|Gloss= -ess
 7	<p>	<p>	INTJ	_	_	10	discourse	_	AlignBegin=193011.621161|AlignEnd=193561.078914|Gloss= X
 8	париде	париде	VERB	_	_	_	_	_	AlignBegin=193561.078914|AlignEnd=194177.54371|Gloss= be.black
@@ -960,19 +959,19 @@
 
 # doc_title = PearStory
 # sent_id = 53
-# text = ӈобʼ хасава ӈацекэко?мэ? сянакубц- -мʼ мэˮ -ӈо -в  <p>
+# text = ӈобʼ хасава ӈацекэко?мэ? сянакубц- -мʼ мэˮ -ӈо =в  <p>
 # text_p = ӈобʼ хасава ӈацекэко?мэ? сянакубцмʼ мэˮӈов <p>
 # text_ru = Один из мальчиков играет в игру.
 # text_en = One of the boys is playing a game.
 1	ӈобʼ	ӈобʼ	NUM	_	_	3	mod	_	AlignBegin=237734.941597|AlignEnd=238008.750666|Gloss= once, and
 2	хасава	хасава	NOUN	_	_	3	mod	_	AlignBegin=238008.750666|AlignEnd=238340.835581|Gloss= man
-3	ӈацекэко?мэ?	ӈацекы	NOUN	_	_	7	subj	_	AlignBegin=238340.835581|AlignEnd=239031.690806|Gloss= child
+3	ӈацекэко?мэ?	ӈацекы	NOUN	_	_	8	subj	_	AlignBegin=238340.835581|AlignEnd=239031.690806|Gloss= child
 4	сянакубц-	сянакобц	NOUN	_	_	5	comp:obj	_	AlignBegin=239031.690806|AlignEnd=239639.524803|Gloss= game
-5	-мʼ	X	ADP	_	_	7	comp:obj	_	AlignBegin=239031.690806|AlignEnd=239639.524803|Gloss= -acc
-6	мэˮ	мэ	VERB	_	_	7	aux	_	AlignBegin=239639.524803|AlignEnd=240186.117909|Gloss= take
-7	-ӈо	X	AUX	_	_	0	root	_	AlignBegin=239639.524803|AlignEnd=240186.117909|Gloss= -co
-8	-в	X	CLT	_	_	_	_	_	AlignBegin=239639.524803|AlignEnd=240186.117909|Gloss= focus
-9	 <p>	 <p>	PUNCT	_	_	7	punct	_	AlignBegin=240186.117909|AlignEnd=240941.556773|Gloss= SIL
+5	-мʼ	X	ADP	_	_	6	comp:obj	_	AlignBegin=239031.690806|AlignEnd=239639.524803|Gloss= -acc
+6	мэˮ	мэ	VERB	_	_	7	comp:aux	_	AlignBegin=239639.524803|AlignEnd=240186.117909|Gloss= take
+7	-ӈо	X	AUX	_	_	8	comp:aux	_	AlignBegin=239639.524803|AlignEnd=240186.117909|Gloss= -co
+8	=в	X	AUX	_	_	0	root	_	AlignBegin=239639.524803|AlignEnd=240186.117909|Gloss=Focus
+9	 <p>	 <p>	PUNCT	_	_	8	punct	_	AlignBegin=240186.117909|AlignEnd=240941.556773|Gloss= SIL
 
 # doc_title = PearStory
 # sent_id = 54
@@ -1012,7 +1011,7 @@
 # text_p = мане пэˮямʼ хэвняʼ моˮмаˮ <p>
 # text_ru = И они откинули камень в сторону.
 # text_en = And they threw the stone aside.
-1	мане	X	X	_	_	5	discourse	_	AlignBegin=251041.020004|AlignEnd=251265.3446|Gloss= X
+1	мане	X	INTJ	_	_	5	discourse	_	AlignBegin=251041.020004|AlignEnd=251265.3446|Gloss= X
 2	пэˮя	пэˮя	NOUN	_	_	3	comp:obj	_	AlignBegin=251265.3446|AlignEnd=251506.638265|Gloss= stone
 3	-мʼ	X	ADP	_	_	5	comp:obj	_	AlignBegin=251265.3446|AlignEnd=251506.638265|Gloss= -acc
 4	хэвняʼ	хэвняʼ	ADV	_	_	5	mod	_	AlignBegin=251506.638265|AlignEnd=251866.587891|Gloss= away
@@ -1356,28 +1355,28 @@
 # text_p = маˮнив ӈамгэ няхарˮ <p> грушиˮ хыдя ӈэсь таранархасиʼ ӈопой сидя няхаромдэйми яӈгу <p>
 # text_ru = Он говорит: Что это? У меня должно было быть три корзины. Один, два… а моей третьей нет.
 # text_en = He says: What’s this? I should have had three baskets; one, two, and my third is gone
-1	ма	ма	VERB	_	_	2	comp	_	AlignBegin=327013.877956|AlignEnd=327398.481087|Gloss= say
-2	-ˮ	X	X	_	_	3	comp:aux	_	AlignBegin=327013.877956|AlignEnd=327398.481087|Gloss= -conneg
-3	-ни	ни	AUX	_	_	0	root	_	AlignBegin=327013.877956|AlignEnd=327398.481087|Gloss= NEG
-4	-в	X	CLT	_	_	_	_	_	AlignBegin=327013.877956|AlignEnd=327398.481087|Gloss= focus
-5	:	X	X	_	_	_	_	_	AlignBegin=327013.877956|AlignEnd=327398.481087|Gloss= X
-6	ӈамгэ	ӈамгэ	PRON	_	_	3	parataxis	_	AlignBegin=327398.481087|AlignEnd=327718.569254|Gloss= what
+1	ма	ма	VERB	_	_	2	comp:aux	_	AlignBegin=327013.877956|AlignEnd=327398.481087|Gloss= say
+2	-ˮ	X	AUX	_	_	3	comp:aux	_	AlignBegin=327013.877956|AlignEnd=327398.481087|Gloss= -conneg
+3	-ни	ни	AUX	_	_	4	comp:aux	_	AlignBegin=327013.877956|AlignEnd=327398.481087|Gloss= NEG
+4	-в	X	AUX	_	_	0	root	_	AlignBegin=327013.877956|AlignEnd=327398.481087|Gloss= focus
+5	:	X	X	_	_	6	punct	_	AlignBegin=327013.877956|AlignEnd=327398.481087|Gloss= X
+6	ӈамгэ	ӈамгэ	PRON	_	_	1	comp:obj	_	AlignBegin=327398.481087|AlignEnd=327718.569254|Gloss= what
 7	няхарˮ	няхарˮ	NUM	_	_	11	mod	_	AlignBegin=327718.569254|AlignEnd=328160.565342|Gloss= three
-8	<p>	<p>	INTJ	_	_	3	discourse	_	AlignBegin=328160.565342|AlignEnd=328497.570342|Gloss= X
+8	<p>	<p>	INTJ	_	_	7	discourse	_	AlignBegin=328160.565342|AlignEnd=328497.570342|Gloss= X
 9	груши	груша	NOUN	_	_	10	comp:obj	_	AlignBegin=328497.570342|AlignEnd=328848.251605|Gloss= pear.pl
 10	-ˮ	X	ADP	_	_	11	mod:poss	_	AlignBegin=328497.570342|AlignEnd=328848.251605|Gloss= -gen
 11	хыдя	хыдя	NOUN	_	_	12	subj	_	AlignBegin=328848.251605|AlignEnd=329114.484712|Gloss= vessel
 12	ӈэ	ӈа	VERB	_	_	13	comp:aux	_	AlignBegin=329114.484712|AlignEnd=329338.838455|Gloss= be
 13	-сь	X	ADV	_	_	14	comp:aux	_	AlignBegin=329114.484712|AlignEnd=329338.838455|Gloss= -cvb
 14	тара	тара	AUX	_	_	15	comp:aux	_	AlignBegin=329338.838455|AlignEnd=330146.204224|Gloss= need
-15	-нарха	X	AUX	_	_	3	cc	_	AlignBegin=329338.838455|AlignEnd=330146.204224|Gloss= -impf.aprx.3sg
+15	-нарха	X	AUX	_	_	6	parataxis	_	AlignBegin=329338.838455|AlignEnd=330146.204224|Gloss= -impf.aprx.3sg
 16	-сиʼ	X	AUX	_	_	15	comp:aux	_	AlignBegin=329338.838455|AlignEnd=330146.204224|Gloss= -pst
 17	ӈопой	ӈопой	NUM	_	_	15	parataxis	_	AlignBegin=330146.204224|AlignEnd=330805.140159|Gloss= one
 18	сидя	сидя	NUM	_	_	15	parataxis	_	AlignBegin=330805.140159|AlignEnd=331373.819597|Gloss= two
 19	няхаромдэй	няхаромдэй	NUM	_	_	21	subj	_	AlignBegin=331373.819597|AlignEnd=332138.297526|Gloss= third
 20	-ми	X	DET	_	_	19	det:poss	_	AlignBegin=331373.819597|AlignEnd=332138.297526|Gloss= -poss.1sg
 21	яӈгу	яӈгу	VERB	_	_	15	parataxis	_	AlignBegin=332138.297526|AlignEnd=332526.570842|Gloss= not.exist
-22	 <p>	 <p>	PUNCT	_	_	3	punct	_	AlignBegin=332526.570842|AlignEnd=332999.720952|Gloss= SIL
+22	 <p>	 <p>	PUNCT	_	_	4	punct	_	AlignBegin=332526.570842|AlignEnd=332999.720952|Gloss= SIL
 
 # doc_title = PearStory
 # sent_id = 72

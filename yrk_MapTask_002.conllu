@@ -48,19 +48,20 @@
 9	-дмʼ	_	PRON	_	Number=Sing|Person=1	8	subj	_	AlignBegin=9211.31117722|AlignEnd=9726.4004168|Gloss=-1sg|Translit=-dmʔ
 
 # sent_id = yrk_s_MapTask_002_4
-# text = тикахана сидя ты таня-ӈа -хаˮ <p>
+# text = тикахана сидя ты таня -ӈа -хаˮ <p>
 # doc_title = MapTask_002
 # sound_url = https://grew.fr/download/audio/nar_RouDes_002_26_04_2017_yrk-tun.mp3
 # p_text = тикахана сидя ты таняӈахаˮ <p>
 # translit = ťikaxana śiďa ti tańaŋaxaʡ <p>
 # text_ru = Там есть два оленя.
 # text_en = There are two reindeer.
-1	тикахана	тикахана	ADV	_	_	4	mod	_	AlignBegin=9726.4004168|AlignEnd=10065.6804789|Gloss=there|LTranslit=ťikaxana|Translit=ťikaxana
+1	тикахана	тикахана	ADV	_	_	_	_	_	AlignBegin=9726.4004168|AlignEnd=10065.6804789|Gloss=there|LTranslit=ťikaxana|Translit=ťikaxana
 2	сидя	сидя	NUM	_	_	3	mod	_	AlignBegin=10065.6804789|AlignEnd=10345.3191277|Gloss=two|LTranslit=śiďa|Translit=śiďa
-3	ты	ты	NOUN	_	_	4	subj	_	AlignBegin=10345.3191277|AlignEnd=10534.5482886|Gloss=reindeer|LTranslit=ti|Translit=ti
-4	таня-ӈа	таня-	VERB	_	_	0	root	_	AlignBegin=10534.5482886|AlignEnd=11123.2612336|Gloss=exist-co|LTranslit=tańa-|Translit=tańa-ŋa
-5	-хаˮ	_	PRON	_	Number=Dual|Person=3	4	subj	_	AlignBegin=10534.5482886|AlignEnd=11123.2612336|Gloss=-3du|Translit=-xaʡ
-6	<p>	<p>	PUNCT	_	_	4	punct	_	AlignBegin=11123.2612336|AlignEnd=12149.0106819|Gloss=SIL|LTranslit=<p>|Translit=<p>
+3	ты	ты	NOUN	_	_	5	subj	_	AlignBegin=10345.3191277|AlignEnd=10534.5482886|Gloss=reindeer|LTranslit=ti|Translit=ti
+4	таня	таня	VERB	_	_	5	comp:aux	_	AlignBegin=10534.5482886|AlignEnd=11123.2612336|Gloss=exist|LTranslit=tańa|Translit=tańa
+5	-ӈа	-ӈа	VERB	_	_	0	root	_	AlignBegin=10534.5482886|AlignEnd=11123.2612336|Gloss=-co|LTranslit=-ŋa|Translit=-ŋa
+6	-хаˮ	_	PRON	_	Number=Dual|Person=3	5	subj	_	AlignBegin=10534.5482886|AlignEnd=11123.2612336|Gloss=-3du|Translit=-xaʡ
+7	<p>	<p>	PUNCT	_	_	5	punct	_	AlignBegin=11123.2612336|AlignEnd=12149.0106819|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
 # doc_title = MapTask_002
 # sent_id = yrk_s_MapTask_002_5
