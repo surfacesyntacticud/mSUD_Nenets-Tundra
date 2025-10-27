@@ -42,11 +42,11 @@
 11	сыр-ӈа	сыр-	VERB	_	_	0	root	_	AlignBegin=9456.29697149|AlignEnd=9945.35687374|Gloss=look-co|LTranslit=sir-|Translit=sir-ŋa
 12	-дмʼ	_	PRON	_	Number=Sing|Person=1	11	subj	_	AlignBegin=9456.29697149|AlignEnd=9945.35687374|Gloss=-1sg|Translit=-dmʔ
 13	<s_p>	<s_p>	PUNCT	_	_	11	punct	_	AlignBegin=9945.35687374|AlignEnd=10384.5334011|Gloss=SIL|LTranslit=<s_p>|Translit=<s_p>
-14	сятаняʼ	сятаняʼ	ADV	_	_	15	comp:obl	_	AlignBegin=10384.5334011|AlignEnd=10834.9569297|Gloss=to.the.left|LTranslit=śatańaʔ|Translit=śatańaʔ
+14	сятаняʼ	сятаняʼ	ADV	_	_	15	mod	_	AlignBegin=10384.5334011|AlignEnd=10834.9569297|Gloss=to.the.left|LTranslit=śatańaʔ|Translit=śatańaʔ
 15	сыр-ӈа	сыр-	VERB	_	_	11	parataxis	_	AlignBegin=10834.9569297|AlignEnd=11387.0015614|Gloss=look-co|LTranslit=sir-|Translit=sir-ŋa
 16	-дмʼ	_	PRON	_	Number=Sing|Person=1	15	subj	_	AlignBegin=10834.9569297|AlignEnd=11387.0015614|Gloss=-1sg|Translit=-dmʔ
 17	<s_p>	<s_p>	PUNCT	_	_	15	punct	_	AlignBegin=11387.0015614|AlignEnd=12694.9838276|Gloss=SIL|LTranslit=<s_p>|Translit=<s_p>
-18	маханяʼ	маханяʼ	ADV	_	_	19	comp:obl	_	AlignBegin=12694.9838276|AlignEnd=13283.8314341|Gloss=to.the.right|LTranslit=maxańaʔ|Translit=maxańaʔ
+18	маханяʼ	маханяʼ	ADV	_	_	19	mod	_	AlignBegin=12694.9838276|AlignEnd=13283.8314341|Gloss=to.the.right|LTranslit=maxańaʔ|Translit=maxańaʔ
 19	сыр-ӈа	сыр-	VERB	_	_	11	parataxis	_	AlignBegin=13283.8314341|AlignEnd=13786.436371|Gloss=look-co|LTranslit=sir-|Translit=sir-ŋa
 20	-дмʼ	_	PRON	_	Number=Sing|Person=1	19	subj	_	AlignBegin=13283.8314341|AlignEnd=13786.436371|Gloss=-1sg|Translit=-dmʔ
 21	<b_p>	<b_p>	PUNCT	_	_	11	punct	_	AlignBegin=13786.436371|AlignEnd=14791.6462448|Gloss=SIL|LTranslit=<b_p>|Translit=<b_p>
@@ -63,7 +63,7 @@
 3	-м	_	ADP	_	_	6	comp:obj	_	AlignBegin=15419.8854446|AlignEnd=16010.0300532|Gloss=-acc|Translit=-m
 4	-да	_	DET	_	Number=Sing|Person=3	2	det	_	AlignBegin=15419.8854446|AlignEnd=16010.0300532|Gloss=-poss.3sg|Translit=-da
 5	ӈохолё	ӈохолё-	ADV	_	_	6	comp:obj	_	AlignBegin=16010.0300532|AlignEnd=16410.3794108|Gloss=swim.cvb|LTranslit=ŋoxoľo-|Translit=ŋoxoľo
-6	мада	мада-	ADV	_	_	7	comp:obl	_	AlignBegin=16410.3794108|AlignEnd=16681.056405|Gloss=pass.across.cvb|LTranslit=mada-|Translit=mada
+6	мада	мада-	ADV	_	_	7	mod	_	AlignBegin=16410.3794108|AlignEnd=16681.056405|Gloss=pass.across.cvb|LTranslit=mada-|Translit=mada
 7	тасла	тасла-	VERB	_	_	0	root	_	AlignBegin=16681.056405|AlignEnd=17243.2416157|Gloss=decide|LTranslit=tasla-|Translit=tasla
 8	-в	_	PRON	_	Number=Sing|Number[obj]=Sing|Person=1	7	subj:obj	_	AlignBegin=16681.056405|AlignEnd=17243.2416157|Gloss=-1sg.sg|Translit=-w
 9	<b_p>	<b_p>	PUNCT	_	_	7	punct	_	AlignBegin=17243.2416157|AlignEnd=19833.0333264|Gloss=SIL|LTranslit=<b_p>|Translit=<b_p>
@@ -79,7 +79,7 @@
 2	мада	мада-	VERB	_	_	0	root	_	AlignBegin=20264.919017|AlignEnd=20721.6642636|Gloss=pass.across|LTranslit=mada-|Translit=mada
 3	-в	_	PRON	_	Number=Sing|Number[obj]=Sing|Person=1	2	subj:obj	_	AlignBegin=20264.919017|AlignEnd=20721.6642636|Gloss=-1sg.sg|Translit=-w
 4	<s_p>	<s_p>	PUNCT	_	_	2	punct	_	AlignBegin=20721.6642636|AlignEnd=21312.8923263|Gloss=SIL|LTranslit=<s_p>|Translit=<s_p>
-5	яда	яда	ADV	_	_	6	comp:obl	_	AlignBegin=21312.8923263|AlignEnd=21679.2304378|Gloss=on.foot|LTranslit=jada|Translit=jada
+5	яда	яда	ADV	_	_	6	mod	_	AlignBegin=21312.8923263|AlignEnd=21679.2304378|Gloss=on.foot|LTranslit=jada|Translit=jada
 6	нэкал-ӈа	нэкал-	VERB	_	_	2	parataxis	_	AlignBegin=21679.2304378|AlignEnd=22311.2534861|Gloss=pull-co|LTranslit=nækal-|Translit=nækal-ŋa
 7	-в	_	PRON	_	Number=Sing|Number[obj]=Sing|Person=1	6	subj:obj	_	AlignBegin=21679.2304378|AlignEnd=22311.2534861|Gloss=-1sg.sg|Translit=-w
 8	<s_p>	<s_p>	PUNCT	_	_	2	punct	_	AlignBegin=22311.2534861|AlignEnd=23079.4959388|Gloss=SIL|LTranslit=<s_p>|Translit=<s_p>
@@ -106,10 +106,10 @@
 # translit = ŋobʔ jadadmʔ ŋobʔ jadadmʔ
 # text_ru = Все иду, все иду.
 # text_en = I'm still going, I'm still going.
-1	ӈобʼ	ӈобʼ	ADV	_	_	2	comp:obl	_	AlignBegin=26830.9094254|AlignEnd=27151.3735813|Gloss=once, and|LTranslit=ŋobʔ|Translit=ŋobʔ
+1	ӈобʼ	ӈобʼ	ADV	_	_	2	mod	_	AlignBegin=26830.9094254|AlignEnd=27151.3735813|Gloss=once, and|LTranslit=ŋobʔ|Translit=ŋobʔ
 2	яда	яда-	VERB	_	_	0	root	_	AlignBegin=27151.3735813|AlignEnd=27487.6844086|Gloss=walk|LTranslit=jada-|Translit=jada
 3	-дмʼ	_	PRON	_	Number=Sing|Person=1	2	subj	_	AlignBegin=27151.3735813|AlignEnd=27487.6844086|Gloss=-1sg|Translit=-dmʔ
-4	ӈобʼ	ӈобʼ	ADV	_	_	5	comp:obl	_	AlignBegin=27487.6844086|AlignEnd=27783.3576776|Gloss=once, and|LTranslit=ŋobʔ|Translit=ŋobʔ
+4	ӈобʼ	ӈобʼ	ADV	_	_	5	mod	_	AlignBegin=27487.6844086|AlignEnd=27783.3576776|Gloss=once, and|LTranslit=ŋobʔ|Translit=ŋobʔ
 5	яда	яда-	VERB	_	_	2	parataxis	_	AlignBegin=27783.3576776|AlignEnd=28079.0309466|Gloss=walk|LTranslit=jada-|Translit=jada
 6	-дмʼ	_	PRON	_	Number=Sing|Person=1	5	subj	_	AlignBegin=27783.3576776|AlignEnd=28079.0309466|Gloss=-1sg|Translit=-dmʔ
 
@@ -157,7 +157,7 @@
 14	пя	пя	NOUN	_	_	15	mod	_	AlignBegin=36530.3412345|AlignEnd=36627.5451576|Gloss=tree|LTranslit=ṕa|Translit=ṕa
 15	яду	яд	NOUN	_	_	16	comp:obj	_	AlignBegin=36627.5451576|AlignEnd=36986.7770471|Gloss=wall|LTranslit=jad|Translit=jadu
 16	-вна	_	ADP	_	_	18	comp:obl	_	AlignBegin=36627.5451576|AlignEnd=36986.7770471|Gloss=-prol|Translit=-wna
-17	тюˮуʼ	тюˮуʼ	ADV	_	_	18	comp:obl	_	AlignBegin=36986.7770471|AlignEnd=37126.2435454|Gloss=upwards|LTranslit=ťuʡuʔ|Translit=ťuʡuʔ
+17	тюˮуʼ	тюˮуʼ	ADV	_	_	18	mod	_	AlignBegin=36986.7770471|AlignEnd=37126.2435454|Gloss=upwards|LTranslit=ťuʡuʔ|Translit=ťuʡuʔ
 18	танэ-й	тана-	VERB	_	_	0	root	_	AlignBegin=37126.2435454|AlignEnd=37499.2107719|Gloss=go.up-co.refl|LTranslit=tana-|Translit=tanæ-j
 19	-вˮ	_	PRON	_	Number=Sing|Person=1	18	subj	_	AlignBegin=37126.2435454|AlignEnd=37499.2107719|Gloss=-1sg.refl|Translit=-wʡ
 20	<s_p>	<s_p>	PUNCT	_	_	18	punct	_	AlignBegin=37499.2107719|AlignEnd=37870.0648696|Gloss=SIL|LTranslit=<s_p>|Translit=<s_p>
@@ -187,7 +187,7 @@
 2	-нда	_	ADP	_	Number=Sing|Person=3	3	comp:obj	_	AlignBegin=39723.278794|AlignEnd=40354.6904688|Gloss=-poss.gen.3sg|Translit=-nda
 3	нид	нид	ADP	_	_	6	comp:obl	_	AlignBegin=40354.6904688|AlignEnd=40517.9775053|Gloss=at.abl|LTranslit=ńid|Translit=ńid
 4	<b_p>	<b_p>	X	_	_	3	discourse	_	AlignBegin=40517.9775053|AlignEnd=41033.396586|Gloss=PAUSE|LTranslit=<b_p>|Translit=<b_p>
-5	яˮамна	яˮамна	ADV	_	_	6	comp:obl	_	AlignBegin=41033.396586|AlignEnd=41445.1252477|Gloss=around.prol|LTranslit=jaʡamna|Translit=jaʡamna
+5	яˮамна	яˮамна	ADV	_	_	6	mod	_	AlignBegin=41033.396586|AlignEnd=41445.1252477|Gloss=around.prol|LTranslit=jaʡamna|Translit=jaʡamna
 6	сыр-ӈа	сыр-	VERB	_	_	0	root	_	AlignBegin=41445.1252477|AlignEnd=42004.5994819|Gloss=look-co|LTranslit=sir-|Translit=sir-ŋa
 7	-дмʼ	_	PRON	_	Number=Sing|Person=1	6	subj	_	AlignBegin=41445.1252477|AlignEnd=42004.5994819|Gloss=-1sg|Translit=-dmʔ
 8	<b_p>	<b_p>	PUNCT	_	_	6	punct	_	AlignBegin=42004.5994819|AlignEnd=44528.3289662|Gloss=SIL|LTranslit=<b_p>|Translit=<b_p>
@@ -199,9 +199,9 @@
 # translit = tadťikaxad <s_p> taśiʔ xaʡmiwʡ <b_p>
 # text_ru = Затем я спустился.
 # text_en = Then I went down.
-1	тадтикахад	тадтикахад	ADV	_	_	4	comp:obl	_	AlignBegin=44528.3289662|AlignEnd=45176.2415286|Gloss=afterwards|LTranslit=tadťikaxad|Translit=tadťikaxad
+1	тадтикахад	тадтикахад	ADV	_	_	4	mod	_	AlignBegin=44528.3289662|AlignEnd=45176.2415286|Gloss=afterwards|LTranslit=tadťikaxad|Translit=tadťikaxad
 2	<s_p>	<s_p>	X	_	_	1	discourse	_	AlignBegin=44528.3289662|AlignEnd=45176.2415286|Gloss=PAUSE|LTranslit=<s_p>|Translit=<s_p>
-3	тасиʼ	тасиʼ	ADV	_	_	4	comp:obl	_	AlignBegin=45176.2415286|AlignEnd=45431.1859317|Gloss=downward.dat|LTranslit=taśiʔ|Translit=taśiʔ
+3	тасиʼ	тасиʼ	ADV	_	_	4	mod	_	AlignBegin=45176.2415286|AlignEnd=45431.1859317|Gloss=downward.dat|LTranslit=taśiʔ|Translit=taśiʔ
 4	хаˮмы	хаˮма-	VERB	_	_	0	root	_	AlignBegin=45732.2631316|AlignEnd=46177.8088267|Gloss=go.down|LTranslit=xaʡma-|Translit=xaʡmi
 5	-вˮ	_	PRON	_	Number=Sing|Person=1	4	subj	_	AlignBegin=45732.2631316|AlignEnd=46177.8088267|Gloss=-1sg.refl|Translit=-wʡ
 6	<b_p>	<b_p>	PUNCT	_	_	4	punct	_	AlignBegin=46177.8088267|AlignEnd=46850.3764426|Gloss=SIL|LTranslit=<b_p>|Translit=<b_p>
@@ -213,7 +213,7 @@
 # translit = taśiʔ xaʡamʡmaxadańi <s_p> nækalŋaw tamna ťaxa nækalŋaw <b_p>
 # text_ru = И после того как спустился, направился дальше.
 # text_en = After I came down, I went forward.
-1	тасиʼ	тасиʼ	ADV	_	_	2	comp:obl	_	AlignBegin=46850.3764426|AlignEnd=47088.9910463|Gloss=downward.dat|LTranslit=taśiʔ|Translit=taśiʔ
+1	тасиʼ	тасиʼ	ADV	_	_	2	mod	_	AlignBegin=46850.3764426|AlignEnd=47088.9910463|Gloss=downward.dat|LTranslit=taśiʔ|Translit=taśiʔ
 2	хаˮам	хаˮма-	VERB	_	_	3	comp:obj	_	AlignBegin=47088.9910463|AlignEnd=47769.9676382|Gloss=go.down-|LTranslit=xaʡma-|Translit=xaʡam
 3	-ˮма	_	SCONJ	_	_	4	comp:obj	_	AlignBegin=47088.9910463|AlignEnd=47769.9676382|DerPos=NOUN|Gloss=-pfv.an|Translit=-ʡma
 4	-хада	_	ADP	_	_	7	comp:obl	_	AlignBegin=47088.9910463|AlignEnd=47769.9676382|Gloss=-abl|Translit=-xada
@@ -222,7 +222,7 @@
 7	нэкал-ӈа	нэкал-	VERB	_	_	0	root	_	AlignBegin=48445.1568937|AlignEnd=48954.4425035|Gloss=pull-co|LTranslit=nækal-|Translit=nækal-ŋa
 8	-в	_	PRON	_	Number=Sing|Number[obj]=Sing|Person=1	7	subj:obj	_	AlignBegin=48445.1568937|AlignEnd=48954.4425035|Gloss=-1sg.sg|Translit=-w
 9	тамна	тамна	ADV	_	_	10	mod	_	AlignBegin=48954.4425035|AlignEnd=49135.7790464|Gloss=even|LTranslit=tamna|Translit=tamna
-10	тяха	тяхаʼ	ADV	_	_	11	comp:obl	_	AlignBegin=49135.7790464|AlignEnd=49359.5560567|Gloss=further|LTranslit=ťaxaʔ|Translit=ťaxa
+10	тяха	тяхаʼ	ADV	_	_	11	mod	_	AlignBegin=49135.7790464|AlignEnd=49359.5560567|Gloss=further|LTranslit=ťaxaʔ|Translit=ťaxa
 11	нэкал-ӈа	нэкал-	VERB	_	_	7	parataxis	_	AlignBegin=49359.5560567|AlignEnd=49849.550545|Gloss=pull-co|LTranslit=nækal-|Translit=nækal-ŋa
 12	-в	_	PRON	_	Number=Sing|Number[obj]=Sing|Person=1	11	subj:obj	_	AlignBegin=49359.5560567|AlignEnd=49849.550545|Gloss=-1sg.sg|Translit=-w
 13	<b_p>	<b_p>	PUNCT	_	_	7	punct	_	AlignBegin=49849.550545|AlignEnd=50875.8382132|Gloss=SIL|LTranslit=<b_p>|Translit=<b_p>
@@ -254,7 +254,7 @@
 # translit = taxańajuʔ tæwiwʔ <b_ p>
 # text_ru = Мы дошли там.
 # text_en = I got there.
-1	таханяюʼ	таханяюʼ	ADV	_	_	2	comp:obl	_	AlignBegin=54423.4275794|AlignEnd=54911.2009064|Gloss=there.pol|LTranslit=taxańajuʔ|Translit=taxańajuʔ
+1	таханяюʼ	таханяюʼ	ADV	_	_	2	mod	_	AlignBegin=54423.4275794|AlignEnd=54911.2009064|Gloss=there.pol|LTranslit=taxańajuʔ|Translit=taxańajuʔ
 2	тэвы	тэва-	VERB	_	_	0	root	_	AlignBegin=54911.2009064|AlignEnd=55335.0178015|Gloss=arrive|LTranslit=tæwa-|Translit=tæwi
 3	-вʼ	_	PRON	_	Number=Sing|Person=1	2	subj	_	AlignBegin=54911.2009064|AlignEnd=55335.0178015|Gloss=-1sg.refl|Translit=-wʔ
 4	<b_p>	<b_p>	PUNCT	_	_	2	punct	_	AlignBegin=55335.0178015|AlignEnd=56781.9280695|Gloss=SIL|LTranslit=<b_p>|Translit=<b_p>
@@ -266,7 +266,7 @@
 # translit = taŕemʔ pærŋawa <b_p> jaxaʔ waruwna <s_p> jaxaʔ laŋgʔ śatańajumna ŋobʔ jada nækalŋaw <s_p>
 # text_ru = Так направляюсь, что иду по берегу реки левее берега реки пешком.
 # text_en = I'm moving in a direction where I'm going so that I'm walking along the riverbank to the left of the riverbank.
-1	таремʼ	таремʼ	ADV	_	_	2	comp:obl	_	AlignBegin=56781.9280695|AlignEnd=57060.5585621|Gloss=this.way|LTranslit=taŕemʔ|Translit=taŕemʔ
+1	таремʼ	таремʼ	ADV	_	_	2	mod	_	AlignBegin=56781.9280695|AlignEnd=57060.5585621|Gloss=this.way|LTranslit=taŕemʔ|Translit=taŕemʔ
 2	пэр-ӈа	пэр-	VERB	_	_	0	root	_	AlignBegin=57060.5585621|AlignEnd=57717.1864717|Gloss=do-co-|LTranslit=pær-|Translit=pær-ŋa
 3	-ва	_	PRON	_	Number=Sing|Person=1	2	subj	_	AlignBegin=57060.5585621|AlignEnd=57717.1864717|Gloss=1sg.refl|Translit=-wa
 4	<b_p>	<b_p>	PUNCT	_	_	3	punct	_	AlignBegin=57717.1864717|AlignEnd=58981.3998959|Gloss=SIL|LTranslit=<b_p>|Translit=<b_p>
@@ -281,8 +281,8 @@
 13	-ʼ	_	ADP	_	_	18	mod:poss	_	AlignBegin=60272.679267|AlignEnd=60517.5542162|Gloss=-gen|Translit=-ʔ
 14	сятаняю	сятаняю	ADJ	_	_	15	comp:obj	_	AlignBegin=60517.5542162|AlignEnd=61331.3154805|Gloss=to.the.left.adj|LTranslit=śatańaju|Translit=śatańaju
 15	-мна	_	ADP	_	_	18	comp:obl	_	AlignBegin=60517.5542162|AlignEnd=61331.3154805|Gloss=-prol|Translit=-mna
-16	ӈобʼ	ӈобʼ	ADV	_	_	17	comp:obl	_	AlignBegin=61331.3154805|AlignEnd=61561.2590304|Gloss=once, and|LTranslit=ŋobʔ|Translit=ŋobʔ
-17	яда	яда	ADV	_	_	18	comp:obl	_	AlignBegin=61561.2590304|AlignEnd=61888.2566761|Gloss=on.foot|LTranslit=jada|Translit=jada
+16	ӈобʼ	ӈобʼ	ADV	_	_	17	mod	_	AlignBegin=61331.3154805|AlignEnd=61561.2590304|Gloss=once, and|LTranslit=ŋobʔ|Translit=ŋobʔ
+17	яда	яда	ADV	_	_	18	mod	_	AlignBegin=61561.2590304|AlignEnd=61888.2566761|Gloss=on.foot|LTranslit=jada|Translit=jada
 18	нэкал-ӈа	нэкал-	VERB	_	_	2	parataxis	_	AlignBegin=61888.2566761|AlignEnd=62546.2706197|Gloss=pull-co|LTranslit=nækal-|Translit=nækal-ŋa
 19	-в	_	PRON	_	Number=Sing|Number[obj]=Sing|Person=1	18	subj:obj	_	AlignBegin=61888.2566761|AlignEnd=62546.2706197|Gloss=-1sg.sg|Translit=-w
 20	<s_p>	<s_p>	PUNCT	_	_	2	punct	_	AlignBegin=62546.2706197|AlignEnd=63077.3578044|Gloss=SIL|LTranslit=<s_p>|Translit=<s_p>
@@ -294,7 +294,7 @@
 # translit = tańana <b_p> ŋano <s_p> jaŋgowi <s_p> ŋano jaxaʔ ťaxańana ŋæwi <b_p>
 # text_ru = Там не оказалось лодки, лодка оказалась на другом берегу реки.
 # text_en = There was no boat; the boat was on the other side of the river.
-1	таняна	таняна	ADV	_	_	6	comp:obl	_	AlignBegin=63077.3578044|AlignEnd=63584.8899994|Gloss=there|LTranslit=tańana|Translit=tańana
+1	таняна	таняна	ADV	_	_	6	mod	_	AlignBegin=63077.3578044|AlignEnd=63584.8899994|Gloss=there|LTranslit=tańana|Translit=tańana
 2	<b_p>	<b_p>	X	_	_	1	discourse	_	AlignBegin=63584.8899994|AlignEnd=63964.8051229|Gloss=PAUSE|LTranslit=<b_p>|Translit=<b_p>
 3	ӈано	ӈано	NOUN	_	_	6	subj	_	AlignBegin=63964.8051229|AlignEnd=64495.0463743|Gloss=boat|LTranslit=ŋano|Translit=ŋano
 4	<s_p>	<s_p>	X	_	_	3	discourse	_	AlignBegin=64495.0463743|AlignEnd=65126.4161119|Gloss=PAUSE|LTranslit=<s_p>|Translit=<s_p>
@@ -343,7 +343,7 @@
 5	ӈано	ӈано	NOUN	_	_	6	comp:obj	_	AlignBegin=74799.0755798|AlignEnd=75104.3846466|Gloss=boat|LTranslit=ŋano|Translit=ŋano
 6	-ход	_	ADP	_	_	9	comp:obl	_	AlignBegin=74799.0755798|AlignEnd=75104.3846466|Gloss=-abl|Translit=-xod
 7	тамна	тамна	ADV	_	_	8	mod	_	AlignBegin=75104.3846466|AlignEnd=75276.198251|Gloss=even|LTranslit=tamna|Translit=tamna
-8	тяха	тяхаʼ	ADV	_	_	9	comp:obl	_	AlignBegin=75276.198251|AlignEnd=75478.9135828|Gloss=further|LTranslit=ťaxaʔ|Translit=ťaxa
+8	тяха	тяхаʼ	ADV	_	_	9	mod	_	AlignBegin=75276.198251|AlignEnd=75478.9135828|Gloss=further|LTranslit=ťaxaʔ|Translit=ťaxa
 9	ядалъ-я	ядалъ-	VERB	_	_	3	parataxis	_	AlignBegin=75478.9135828|AlignEnd=75950.7105396|Gloss=go.forth-co.refl|LTranslit=jadal"-|Translit=jadal"-ja
 10	-вʼ	_	PRON	_	Number=Sing|Person=1	9	subj	_	AlignBegin=75478.9135828|AlignEnd=75950.7105396|Gloss=1sg.refl|Translit=-wʔ
 11	<s_p>	<s_p>	PUNCT	_	_	3	punct	_	AlignBegin=75950.7105396|AlignEnd=76474.9206349|Gloss=SIL|LTranslit=<s_p>|Translit=<s_p>
