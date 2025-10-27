@@ -1,6 +1,8 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
 # doc_title = PearStory
 # sent_id = 1
-# text = <p> ӈобӈгуна яʼ ханяхавана <n> <p> грушиʼ пяхад хасава <p> груша маˮламбавы <p>
+# text = <p> ӈобӈгуна я -ʼ ханяхавана <n> <p> груши -ʼ пя -хад хасава  <p> груша маˮламба -вы  <p>
+# text_p = <p> ӈобӈгуна яʼ ханяхавана <n> <p> грушиʼ пяхад хасава <p> груша маˮламбавы <p>
 # text_ru = Однажды, где-то в тех краях, мужчина собирал груши с грушевого дерева.
 # text_en = Once, somewhere in the land, a man was gathering pears from a pear tree.
 1	<p>	<p>	INTJ	_	_	16	_	_	AlignBegin=0|AlignEnd=411.079249746|Gloss= X
@@ -23,7 +25,8 @@
 
 # doc_title = PearStory
 # sent_id = 2
-# text = грушаˮ хуриˮ ?таремʼ? падярахакаков <p>
+# text = груша -ˮ хуриˮ ?таремʼ? падяраха -каков  <p>
+# text_p = грушаˮ хуриˮ ?таремʼ? падярахакаков <p>
 # text_ru = Груши были очень зелёные.
 # text_en = The pears were very green.
 1	груша	груша	NOUN	_	_	5	subj	_	AlignBegin=8266.00999235|AlignEnd=8684.63741366|Gloss= pear
@@ -35,7 +38,8 @@
 7	 <p>	 <p>	PUNCT	_	_	5	punct	_	AlignBegin=10503.1657482|AlignEnd=11562.1010726|Gloss= SIL
 
 # sent_id = 3
-# text = ӈопой ӈодямʼ нянда пуд <p> хасава <p> сепа мюʼ маˮламбида <p>
+# text = ӈопой ӈодя -мʼ нянда пуд <p> хасава <p> сепа мюʼ маˮламби -да  <p>
+# text_p = ӈопой ӈодямʼ нянда пуд <p> хасава <p> сепа мюʼ маˮламбида <p>
 # doc_title = PearStory
 # text_ru = Мужчина кладёт груши одну за другой в карман.
 # text_en = The man slips the fruit one by one into his pocket.
@@ -55,7 +59,8 @@
 
 # doc_title = PearStory
 # sent_id = 4
-# text = тэри ныдпида <p>
+# text = тэри ныдпи -да  <p>
+# text_p = тэри ныдпида <p>
 # text_ru = Просто срывает их.
 # text_en = He is just plucking them.
 1	тэри	тэри	ADV	_	_	2	mod	_	AlignBegin=17496.3860358|AlignEnd=17754.3502103|Gloss= just
@@ -65,7 +70,8 @@
 
 # doc_title = PearStory
 # sent_id = 5
-# text = ӈопой груша янʼ мантэейˮ <p>
+# text = ӈопой груша я -нʼ мантэ -ей -ˮ  <p>
+# text_p = ӈопой груша янʼ мантэейˮ <p>
 # text_ru = Одна груша упала на землю.
 # text_en = One pear fell to the ground.
 1	ӈопой	ӈопой	NUM	_	_	2	mod	_	AlignBegin=18783.1928194|AlignEnd=19366.8371953|Gloss= one
@@ -79,7 +85,8 @@
 
 # doc_title = PearStory
 # sent_id = 6
-# text = хасава танцянда серʼ<n> <p> тасиˮ хаˮмыˮ <p>
+# text = хасава танця -нда серʼ <n> <p> тасиˮ хаˮмы -ˮ  <p>
+# text_p = хасава танцянда серʼ<n> <p> тасиˮ хаˮмыˮ <p>
 # text_ru = Мужчина спускается по лестнице.
 # text_en = The man climbs down his ladder.
 1	хасава	хасава	NOUN	_	_	8	subj	_	AlignBegin=21015.8854745|AlignEnd=21442.4294014|Gloss= man
@@ -96,6 +103,7 @@
 # doc_title = PearStory
 # sent_id = 7
 # text = лэмбара -ха -нда ӈэ -да <p> тохоця -нда мюд тохоця пада -нда мюд <p> груши <p> паӈгалмы хыдя -ʼ мюʼ пыдабтамба пяя -да  <p>
+# text_p = лэмбара -ха -нда ӈэ -да <p> тохоця -нда мюд тохоця пада -нда мюд <p> груши <p> паӈгалмы хыдя -ʼ мюʼ пыдабтамба пяя -да  <p>
 # text_ru = Из ткани, что лежала на его груди, из передника, он стал высыпать груши в плетёную корзину.
 # text_en = From the cloth upon his chest, from his apron, he began to pour the pears into a woven basket.
 1	лэмбара	лэмбара	NOUN	_	_	2	comp:obj	_	AlignBegin=24916.0632282|AlignEnd=25618.7693746|Gloss= chest
@@ -125,7 +133,8 @@
 
 # doc_title = PearStory
 # sent_id = 8
-# text = вэрдамбидов <p> вэрдамбидов <p>
+# text = вэрдамби -до -в <p> вэрдамби -до -в  <p>
+# text_p = вэрдамбидов <p> вэрдамбидов <p>
 # text_ru = Вынимает их, вынимает их.
 # text_en = He just pulls them, just pulls them.
 1	вэрдамби	вэрдамби	VERB	_	_	0	root	_	AlignBegin=33366.518752|AlignEnd=34564.2612254|Gloss= pull
@@ -139,7 +148,8 @@
 
 # doc_title = PearStory
 # sent_id = 9
-# text = тикы падда тарсиʼ ӈарка ӈэванонда <p>
+# text = тикы падда тарсиʼ ӈарка ӈэ -ванон -да  <p>
+# text_p = тикы падда тарсиʼ ӈарка ӈэванонда <p>
 # text_ru = Этот мешок такой огромный.
 # text_en = That bag is so big.
 1	тикы	тикы	DEM	_	_	2	mod	_	AlignBegin=36757.2862218|AlignEnd=36965.9788721|Gloss= that
@@ -153,6 +163,7 @@
 
 # sent_id = 10
 # text = груша -ˮ <p> <f>сусана -ва -ˮ <er>сусана -ва -ˮ <f>тоˮолха суса -ва -ˮ тоˮолха ӈобʼ ни ӈа -ˮ  <p>
+# text_p = груша -ˮ <p> <f>сусана -ва -ˮ <er>сусана -ва -ˮ <f>тоˮолха суса -ва -ˮ тоˮолха ӈобʼ ни ӈа -ˮ  <p>
 # doc_title = PearStory
 # text_ru = Будто груши никогда не кончаются.
 # text_en = It’s as if the pears would never run out.
@@ -178,7 +189,8 @@
 
 # doc_title = PearStory
 # sent_id = 11
-# text = хасава?ва? пинякуˮ салкая тяхакуˮ вэнамъейˮ <p>
+# text = хасава?ва? пинякуˮ салкая тяхакуˮ вэнамъ -ей -ˮ  <p>
+# text_p = хасава?ва? пинякуˮ салкая тяхакуˮ вэнамъейˮ <p>
 # text_ru = Мужчина слегка повернулся и отошёл в сторону.
 # text_en = The man, turning slightly, stepped aside.
 1	хасава?ва?	хасава	NOUN	_	_	3	subj	_	AlignBegin=45846.7465109|AlignEnd=46658.9766515|Gloss= man
@@ -193,6 +205,7 @@
 # doc_title = PearStory
 # sent_id = 12
 # text = ӈопой груша -мʼ <p> няанда нэкал -ӈа -да  <p>
+# text_p = ӈопой груша -мʼ <p> няанда нэкал -ӈа -да  <p>
 # text_ru = Он поднял одну грушу.
 # text_en = He picked up a pear.
 1	ӈопой	ӈопой	NUM	_	_	2	mod	_	AlignBegin=49973.6217607|AlignEnd=50479.074636|Gloss= one
@@ -207,7 +220,8 @@
 
 # doc_title = PearStory
 # sent_id = 13
-# text = иканда тяхад няръяна ӈоксям икʼ пэбтˮма ӈоксям хаˮавра <p>
+# text = ика -нда тяхад няръяна ӈокся -м ик -ʼ пэбт -ˮма ӈокся -м хаˮавра  <p>
+# text_p = иканда тяхад няръяна ӈоксям икʼ пэбтˮма ӈоксям хаˮавра <p>
 # text_ru = Он снял с шеи красный платок.
 # text_en = He took off the red scarf from around his neck.
 1	ика	ик	NOUN	_	_	2	comp:obj	_	AlignBegin=52700.9490525|AlignEnd=53162.6722407|Gloss= neck
@@ -227,7 +241,8 @@
 
 # doc_title = PearStory
 # sent_id = 14
-# text = Грушамʼ тэˮӈада, хыдяʼ мюʼ пуняˮ мэда<p>
+# text = Груша -мʼ тэˮ -ӈа -да <p> хыдя -ʼ мюʼ пуняˮ <p> мэ -да  <p>
+# text_p = Грушамʼ тэˮӈада, хыдяʼ мюʼ пуняˮ мэда<p>
 # text_ru = Вытер грушу и положил её обратно в корзину.
 # text_en = He wiped the pear and put it back in the basket.
 1	Груша	груша	NOUN	_	_	2	comp:obj	_	AlignBegin=56795.715883|AlignEnd=57335.9482855|Gloss= pear
@@ -247,7 +262,8 @@
 
 # doc_title = PearStory
 # sent_id = 15
-# text = тохоцямда иканда тяхаʼ сярада <p>
+# text = тохоця -м -да ика -нда тяхаʼ сяра -да  <p>
+# text_p = тохоцямда иканда тяхаʼ сярада <p>
 # text_ru = Он снова повязал свой платок.
 # text_en = He tied his scarf back on.
 1	тохоця	тохоця	NOUN	_	_	2	comp:obj	_	AlignBegin=63243.6463815|AlignEnd=63737.7950401|Gloss= cloth
@@ -262,7 +278,8 @@
 
 # doc_title = PearStory
 # sent_id = 16
-# text = тяхад <p> ӈани ӈопой хасава <p> хорова- мʼ минре ӈадимя <p>
+# text = тяхад <p> ӈани ӈопой хасава <p> хорова -мʼ минре ӈадимя  <p>
+# text_p = тяхад <p> ӈани ӈопой хасава <p> хорова- мʼ минре ӈадимя <p>
 # text_ru = С той стороны появился ещё один мужчина, ведя с собой корову.
 # text_en = From the other side came another man, leading a cow.
 1	тяхад	тяхад	ADP	_	_	10	mod	_	AlignBegin=66502.0111489|AlignEnd=67151.1324307|Gloss= behind.abl
@@ -279,7 +296,8 @@
 
 # doc_title = PearStory
 # sent_id = 17
-# text = хасаванд тикы <p> ӈоди маˮламбаднд сидя хыдяда терсавэйхаʼ ӈоб хыдяда терси <p>
+# text = хасава -нд тикы <p> ӈоди маˮламба  -да -нд сидя хыдя -да терсавэй -хаʼ ӈоб хыдя -да терси  <p>
+# text_p = хасаванд тикы <p> ӈоди маˮламбаднд сидя хыдяда терсавэйхаʼ ӈоб хыдяда терси <p>
 # text_ru = У мужчины, собирающего плоды, две корзины полные и одна пустая.
 # text_en = A man gathering fruit has two baskets full, with one left empty.
 1	хасава	хасава	NOUN	_	_	2	comp:obj	_	AlignBegin=72889.2542445|AlignEnd=73498.7098665|Gloss= man
@@ -304,6 +322,7 @@
 # doc_title = PearStory
 # sent_id = 18
 # text = нябтинд манэ -ць тика -р хорова ни -вы ӈа -ˮ <p> тика -р хуˮхобаˮяˮ ӈэ -вы коза  <p>
+# text_p = нябтинд манэ -ць тика -р хорова ни -вы ӈа -ˮ <p> тика -р хуˮхобаˮяˮ ӈэ -вы коза  <p>
 # text_ru = Приглядевшись, оказалось, что это не корова, а коза.
 # text_en = If you look closely, it is not a cow, but a goat.
 1	нябтинд	нябтинд	ADV	_	_	3	mod	_	AlignBegin=79955.7787924|AlignEnd=80497.1930117|Gloss= close
@@ -327,7 +346,8 @@
 
 # doc_title = PearStory
 # sent_id = 19
-# text = козаʼ иканда тяхана?мэ? сеӈга тайна <p>
+# text = коза -ʼ ика -нда тяхана?мэ? сеӈга тайна  <p>
+# text_p = козаʼ иканда тяхана?мэ? сеӈга тайна <p>
 # text_ru = На шее козы звенел маленький колокольчик.
 # text_en = The goat had a bell around its neck.
 1	коза	коза	NOUN	_	_	2	comp:obj	_	AlignBegin=85583.2311957|AlignEnd=85975.8787276|Gloss= goat
@@ -342,6 +362,7 @@
 # doc_title = PearStory
 # sent_id = 20
 # text = хасава <p> коза -мʼ минре -на <p> ня -нда хэву -вна ӈобʼ тяха хая  <p>
+# text_p = хасава <p> коза -мʼ минре -на <p> ня -нда хэву -вна ӈобʼ тяха хая  <p>
 # text_ru = Мужчина, ведущий козу, прошёл мимо своего товарища.
 # text_en = The man, leading the goat, walked past his companion.
 1	хасава	хасава	NOUN	_	_	14	subj	_	AlignBegin=89340.7271168|AlignEnd=90203.4425935|Gloss= man
@@ -363,6 +384,7 @@
 # doc_title = PearStory
 # sent_id = 21
 # text = груши маˮламба -да хасава <p> панˮя -м -да <er>пан хыдяˮя -м -да тамна <p> <er>тамна тяхаˮ тердемби -да  <p>
+# text_p = груши маˮламба -да хасава <p> панˮя -м -да <er>пан хыдяˮя -м -да тамна <p> <er>тамна тяхаˮ тердемби -да  <p>
 # text_ru = Мужчина, собирающий груши, продолжает наполнять свой подол; большой обручатый плетёный кош.
 # text_en = The man gathering pears keeps filling his pothol; his large-rimmed woven basket.
 1	груши	груша	NOUN	_	_	2	comp:obj	_	AlignBegin=96823.4659996|AlignEnd=97083.9011966|Gloss= pear.pl.acc
@@ -388,6 +410,7 @@
 # doc_title = PearStory
 # sent_id = 22
 # text = ӈэва -нда ниня сэрˮ  саваˮя -мʼ мэˮ -ӈа <n>  <p>
+# text_p = ӈэва -нда ниня сэрˮ  саваˮя -мʼ мэˮ -ӈа <n>  <p>
 # text_ru = На его голове была белая шляпа.
 # text_en = On his head, he wore a white hat.
 1	ӈэва	ӈэва	NOUN	_	_	2	comp:obj	_	AlignBegin=103170.891831|AlignEnd=103570.028408|Gloss= head
@@ -404,6 +427,7 @@
 # doc_title = PearStory
 # sent_id = 23
 # text = тяхад таремʼ сыр -апʼ ӈамгэ <p> хараса -д ха -да <f>ӈацекэко хасава ӈацекэко <p> ӈани сабета -на <n> <p> ?ёсь? пэр -хана <n> таˮаль пэр -ӈа -да  <p>
+# text_p = тяхад таремʼ сыр -апʼ ӈамгэ <p> хараса -д ха -да <f>ӈацекэко хасава ӈацекэко <p> ӈани сабета -на <n> <p> ?ёсь? пэр -хана <n> таˮаль пэр -ӈа -да  <p>
 # text_ru = Если присмотреться, издалека идёт ребёнок, мальчишка, тоже в шляпе.
 # text_en = If you look closely, you’ll see a child coming from a distance, a boy, also wearing a hat.
 1	тяхад	тяхад	ADP	_	_	4	mod	_	AlignBegin=107643.186129|AlignEnd=108032.851637|Gloss= behind.abl
@@ -437,7 +461,8 @@
 
 # doc_title = PearStory
 # sent_id = 24
-# text = вэба -ˮ тяхад <p> ӈадибер -ӈа <p>
+# text = вэба -ˮ тяхад <p> ӈадибер -ӈа  <p>
+# text_p = вэба -ˮ тяхад <p> ӈадибер -ӈа <p>
 # text_ru = Он возник из-за листвы.
 # text_en = He appears from behind the foliage.
 1	вэба	вэба	NOUN	_	_	2	comp:obj	_	AlignBegin=118127.678554|AlignEnd=118482.202693|Gloss= foliage
@@ -450,7 +475,8 @@
 
 # doc_title = PearStory
 # sent_id = 25
-# text = ӈэдалёванда серʼ <p> хахая то <n> <p>
+# text = ӈэдалё -ва -нда серʼ <p> хахая то <n>  <p>
+# text_p = ӈэдалёванда серʼ <p> хахая то <n> <p>
 # text_ru = Пока он шёл, подъехал совсем близко.
 # text_en = While he was walking, he came closer.
 1	ӈэдалё	ӈэдалё	VERB	_	_	2	comp:aux	_	AlignBegin=122593.363106|AlignEnd=123270.118366|Gloss= move
@@ -466,6 +492,7 @@
 # doc_title = PearStory
 # sent_id = 26
 # text = хасава -н хэва -нʼ <p> нулта -да  <p>
+# text_p = хасава -н хэва -нʼ <p> нулта -да  <p>
 # text_ru = Он остановился рядом с мужчиной.
 # text_en = He stopped by the man.
 1	хасава	хасава	NOUN	_	_	2	comp:obj	_	AlignBegin=126380.789572|AlignEnd=126851.231803|Gloss= man
@@ -479,7 +506,8 @@
 
 # doc_title = PearStory
 # sent_id = 27
-# text = велосипеданда нид <p> хаˮмыˮ <n> <p>
+# text = велосипеда -нда нид <p> хаˮмы -ˮ <n>  <p>
+# text_p = велосипеданда нид <p> хаˮмыˮ <n> <p>
 # text_ru = Он спустился с велосипеда.
 # text_en = He got off his bike.
 1	велосипеда	велосипед	NOUN	_	_	2	comp:obj	_	AlignBegin=129280.033299|AlignEnd=129991.966069|Gloss= bicycle
@@ -493,7 +521,8 @@
 
 # doc_title = PearStory
 # sent_id = 28
-# text = янʼ хавдада <p> велосипедакомда <p>
+# text = я -нʼ хавда -да <p> велосипедако -м -да  <p>
+# text_p = янʼ хавдада <p> велосипедакомда <p>
 # text_ru = Он повалил велосипед на землю.
 # text_en = He dropped his bike on the ground.
 1	я	я	NOUN	_	_	2	comp:obj	_	AlignBegin=134652.342434|AlignEnd=135113.76382|Gloss= land
@@ -508,7 +537,8 @@
 
 # doc_title = PearStory
 # sent_id = 29
-# text = Грушиʼ хыдяʼ мюд? <er>мюд ӈобʼ грушамʼ няˮма <p>
+# text = Груши -ʼ хыдя -ʼ мюд? <er>мюд ӈобʼ груша -мʼ няˮма  <p>
+# text_p = Грушиʼ хыдяʼ мюд? <er>мюд ӈобʼ грушамʼ няˮма <p>
 # text_ru = Он достал одну грушу из корзины с грушами.
 # text_en = He picked a pear from the basket of pears.
 1	Груши	груша	NOUN	_	_	2	comp:obj	_	AlignBegin=142068.314447|AlignEnd=142611.951522|Gloss= pear.pl
@@ -525,7 +555,8 @@
 
 # doc_title = PearStory
 # sent_id = 30
-# text = пуняʼ мэда <p>
+# text = пуняʼ мэ -да  <p>
+# text_p = пуняʼ мэда <p>
 # text_ru = Положил её обратно.
 # text_en = He put it back.
 1	пуняʼ	пуняʼ	ADV	_	_	2	mod	_	AlignBegin=145869.205594|AlignEnd=146269.216888|Gloss= back
@@ -535,7 +566,8 @@
 
 # doc_title = PearStory
 # sent_id = 31
-# text = тад тикахад грушаˮ хыдямʼ <p> велосипеданда някун тэврада <p>
+# text = тад тикахад груша -ˮ хыдя -мʼ <p> велосипеда -нда някун тэвра -да  <p>
+# text_p = тад тикахад грушаˮ хыдямʼ <p> велосипеданда някун тэврада <p>
 # text_ru = Затем он подтянул корзину с грушами ближе к своему велосипеду.
 # text_en = Then he pulled the basket of pears closer to his bicycle.
 1	тад	тад	ADV	_	_	11	mod	_	AlignBegin=147701.393926|AlignEnd=147908.545061|Gloss= afterwards
@@ -554,7 +586,8 @@
 
 # doc_title = PearStory
 # sent_id = 32
-# text = велосипедаˮямда нулабтада <p>
+# text = велосипедаˮя -м -да нулабта -да  <p>
+# text_p = велосипедаˮямда нулабтада <p>
 # text_ru = Он поставил велосипед.
 # text_en = He set his bicycle upright.
 1	велосипедаˮя	велосипед	NOUN	_	_	2	comp:obj	_	AlignBegin=153113.437391|AlignEnd=154011.327412|Gloss= bicycle
@@ -566,7 +599,8 @@
 
 # doc_title = PearStory
 # sent_id = 33
-# text = савамбоковна <f>тивы тидхалембида <p>
+# text = савамбоковна <f>тивы тидхалемби -да  <p>
+# text_p = савамбоковна <f>тивы тидхалембида <p>
 # text_ru = Он осторожно поправляет его.
 # text_en = He adjusts it carefully.
 1	савамбоковна	савамбовна	ADV	_	_	3	mod	_	AlignBegin=156787.692714|AlignEnd=157493.148383|Gloss= carefully
@@ -577,7 +611,8 @@
 
 # doc_title = PearStory
 # sent_id = 34
-# text = ӈэмда велосипед?мэ? нярхалда есяʼ нябиʼ няюʼ мода <p>
+# text = ӈэ -м -да велосипед?мэ? нярхал -да еся -ʼ няби -ʼ няюʼ мо -да  <p>
+# text_p = ӈэмда велосипед?мэ? нярхалда есяʼ нябиʼ няюʼ мода <p>
 # text_ru = Он перекинул ногу через раму велосипеда на другую сторону.
 # text_en = He swung his leg over the bicycle frame to the other side.
 1	ӈэ	ӈэ	NOUN	_	_	2	comp:obj	_	AlignBegin=159099.99663|AlignEnd=159402.915289|Gloss= leg
@@ -597,7 +632,8 @@
 
 # doc_title = PearStory
 # sent_id = 35
-# text = тадтикахад <p> яблокта хыдямʼ <p> велосипеданда <p> няˮморцянда неряна хэванʼ ӈабтада <p>
+# text = тадтикахад <p> яблокта хыдя -мʼ <p> велосипеда -нда <p> няˮморця -нда неряна хэва -нʼ ӈабта -да  <p>
+# text_p = тадтикахад <p> яблокта хыдямʼ <p> велосипеданда <p> няˮморцянда неряна хэванʼ ӈабтада <p>
 # text_ru = Затем он поставил перед рулём велосипеда свою корзину яблок (груш).
 # text_en = Then he placed his basket of apples (pears) in front of the bicycle’s handlebar.
 1	тадтикахад	тадтикахад	ADV	_	_	15	mod	_	AlignBegin=163094.0259|AlignEnd=163875.796885|Gloss= afterwards
@@ -621,6 +657,7 @@
 # doc_title = PearStory
 # sent_id = 36
 # text = тад тикахавад <f>хасава <f>ӈэда<un> хасава ӈацекы ӈэдалэ -й -ˮ  <p>
+# text_p = тад тикахавад <f>хасава <f>ӈэда<un> хасава ӈацекы ӈэдалэ -й -ˮ  <p>
 # text_ru = После этого мужчина с мальчиком уехали.
 # text_en = Then the man and the boy left.
 1	тад	тад	ADV	_	_	8	mod	_	AlignBegin=170499.513543|AlignEnd=170715.706299|Gloss= afterwards
@@ -637,6 +674,7 @@
 # doc_title = PearStory
 # sent_id = 37
 # text = ӈоди маˮламба -да -р танця -ʼ ниня ну -сь тамна тяхаˮ ӈоди маˮламби  <p>
+# text_p = ӈоди маˮламба -да -р танця -ʼ ниня ну -сь тамна тяхаˮ ӈоди маˮламби  <p>
 # text_ru = Собирающий плоды, стоя на лестнице, продолжает собирать.
 # text_en = The fruit picker, standing on the ladder, continues to pick fruit.
 1	ӈоди	ӈодя	NOUN	_	_	2	comp:obj	_	AlignBegin=174679.219176|AlignEnd=174965.836592|Gloss= berry.pl.acc
@@ -656,7 +694,8 @@
 
 # doc_title = PearStory
 # sent_id = 38
-# text = хасава ӈацекы ӈэдалы сятаняʼ маханяʼ сятаняʼ маханяʼ <p>
+# text = хасава ӈацекы ӈэдалы сятаняʼ маханяʼ сятаняʼ маханяʼ  <p>
+# text_p = хасава ӈацекы ӈэдалы сятаняʼ маханяʼ сятаняʼ маханяʼ <p>
 # text_ru = Мальчик едет то влево, то вправо, то влево, то вправо.
 # text_en = The boy rides, swaying left and right, left and right.
 1	хасава	хасава	NOUN	_	_	2	mod	_	AlignBegin=178135.59453|AlignEnd=178467.319536|Gloss= man
@@ -670,7 +709,8 @@
 
 # doc_title = PearStory
 # sent_id = 39
-# text = ханяӈыˮ грушида янʼ мантыртакыˮ <p>
+# text = ханяӈыˮ груши -да я -нʼ мантыр -такы -ˮ  <p>
+# text_p = ханяӈыˮ грушида янʼ мантыртакыˮ <p>
 # text_ru = Наверное, некоторые груши падают.
 # text_en = Perhaps some of the pears are falling.
 1	ханяӈыˮ	ханяӈыˮ	DET	_	_	2	det	_	AlignBegin=182212.69459|AlignEnd=182628.434561|Gloss= which
@@ -686,6 +726,7 @@
 # doc_title = PearStory
 # sent_id = 40
 # text = таремʼ мин -дя -ха -нда нера -нда няʼ не ӈацекы -мʼ манэˮ -ӈа  <p>
+# text_p = таремʼ мин -дя -ха -нда нера -нда няʼ не ӈацекы -мʼ манэˮ -ӈа  <p>
 # text_ru = Пока он ехал, он увидел впереди себя девочку.
 # text_en = While he was riding, he saw a girl ahead of him.
 1	таремʼ	таремʼ	ADV	_	_	2	mod	_	AlignBegin=185396.151209|AlignEnd=185690.172247|Gloss= this.way
@@ -705,7 +746,8 @@
 
 # doc_title = PearStory
 # sent_id = 41
-# text = не ӈацекэкоʼ?мэ? сидя паӈгалярта <p>
+# text = не ӈацекэкоʼ?мэ? сидя паӈгаляр -та  <p>
+# text_p = не ӈацекэкоʼ?мэ? сидя паӈгалярта <p>
 # text_ru = У девочки две косы.
 # text_en = The girl has two braids.
 1	не	не	NOUN	_	_	2	mod	_	AlignBegin=188531.151451|AlignEnd=188774.849046|Gloss= woman
@@ -717,7 +759,8 @@
 
 # doc_title = PearStory
 # sent_id = 42
-# text = сидя парисеˮэ паӈгаляркавадаӈэ <p> паридериӈахаʼ <p>
+# text = сидя парисеˮэ паӈгаляр -кава -да -ӈэ <p> париде -ри -ӈа -хаʼ  <p>
+# text_p = сидя парисеˮэ паӈгаляркавадаӈэ <p> паридериӈахаʼ <p>
 # text_ru = Её две косы были очень чёрные.
 # text_en = Her two braids were very black indeed.
 1	сидя	сидя	NUM	_	_	3	mod	_	AlignBegin=191102.609689|AlignEnd=191367.715038|Gloss= two
@@ -736,6 +779,7 @@
 # doc_title = PearStory
 # sent_id = 43
 # text = таремʼ мэ -на -ха -нда ӈобтʼ теб -ӈа -хаʼ  <p>
+# text_p = таремʼ мэ -на -ха -нда ӈобтʼ теб -ӈа -хаʼ  <p>
 # text_ru = И вот они столкнулись.
 # text_en = And so they crashed into each other.
 1	таремʼ	таремʼ	ADV	_	_	2	mod	_	AlignBegin=195540.020253|AlignEnd=195785.238685|Gloss= this.way
@@ -751,7 +795,8 @@
 
 # doc_title = PearStory
 # sent_id = 44
-# text = хасава ӈацекэр?мэ? <p> мане пэˮянʼ табкаямаха <p> велосипедам' <iw>хава <p>
+# text = хасава ӈацекэ -р?мэ? <p> мане пэˮя -нʼ табкая -ма -ха <p> велосипеда -м' <iw>хава  <p>
+# text_p = хасава ӈацекэр?мэ? <p> мане пэˮянʼ табкаямаха <p> велосипедам' <iw>хава <p>
 # text_ru = Велосипед мальчика упал, столкнувшись с камнем.
 # text_en = The boy’s bike hit a stone and fell over.
 1	хасава	хасава	NOUN	_	_	2	mod	_	AlignBegin=198206.326009|AlignEnd=198598.281545|Gloss= man
@@ -772,7 +817,8 @@
 
 # doc_title = PearStory
 # sent_id = 45
-# text = моˮнэйʼ хасава ӈацекы <p>
+# text = моˮнэ -й -ʼ хасава ӈацекы  <p>
+# text_p = моˮнэйʼ хасава ӈацекы <p>
 # text_ru = Мальчик упал.
 # text_en = The boy fell down.
 1	моˮнэ	моˮна	VERB	_	_	2	aux	_	AlignBegin=205423.666659|AlignEnd=205887.346094|Gloss= fall
@@ -785,6 +831,7 @@
 # doc_title = PearStory
 # sent_id = 46
 # text = я -ʼ хавул -ма -да груши -да -м' <p> я -вна тэри <p> тахара -ˮ  <p>
+# text_p = я -ʼ хавул -ма -да груши -да -м' <p> я -вна тэри <p> тахара -ˮ  <p>
 # text_ru = Его груши рассыпались по земле.
 # text_en = His pears were scattered on the ground.
 1	я	я	NOUN	_	_	2	comp:obj	_	AlignBegin=207443.113083|AlignEnd=207694.929725|Gloss= land
@@ -807,6 +854,7 @@
 # doc_title = PearStory
 # sent_id = 47
 # text = хасава ӈацекэко?мэ? <p> <f>тобака -нда <f>тохо' тохо' тобака -нда ханерако -мʼ тасикун мэ -да <p> ӈэ -м -да е -денакы  <p>
+# text_p = хасава ӈацекэко?мэ? <p> <f>тобака -нда <f>тохо' тохо' тобака -нда ханерако -мʼ тасикун мэ -да <p> ӈэ -м -да е -денакы  <p>
 # text_ru = Мальчик слегка спустил свои высокие носки, наверное, у него болела нога.
 # text_en = The boy tugged his high socks down a little; his leg was probably hurting.
 1	хасава	хасава	NOUN	_	_	2	mod	_	AlignBegin=212670.353086|AlignEnd=212952.577385|Gloss= man
@@ -833,7 +881,8 @@
 
 # doc_title = PearStory
 # sent_id = 48
-# text = хэвхананда няхар хасава ӈацекы мэвыˮ <p>
+# text = хэв -хана -нда няхар хасава ӈацекы мэ -вы -ˮ  <p>
+# text_p = хэвхананда няхар хасава ӈацекы мэвыˮ <p>
 # text_ru = Рядом с ним оказались три мальчика.
 # text_en = Next to him were three boys.
 1	хэв	хэв	NOUN	_	_	2	comp:obj	_	AlignBegin=219430.946922|AlignEnd=219901.716931|Gloss= side
@@ -849,7 +898,8 @@
 
 # doc_title = PearStory
 # sent_id = 49
-# text = <d> тасехэй имбытадотана сюнраха имбытадотана няръяна имбытадотана хасава ӈацекы <p>
+# text = <d> тасехэй имбытадота -на сюнраха имбытадота -на няръяна имбытадота -на хасава ӈацекы  <p>
+# text_p = <d> тасехэй имбытадотана сюнраха имбытадотана няръяна имбытадотана хасава ӈацекы <p>
 # text_ru = Один в жёлтой рубашке, один в синей и один в красной.
 # text_en = One wore a yellow shirt, one a blue, and one a red.
 1	<d>	<d>	INTJ	_	_	12	discourse	_	AlignBegin=222840.457626|AlignEnd=224516.201632|Gloss= X
@@ -868,7 +918,8 @@
 
 # doc_title = PearStory
 # sent_id = 50
-# text = нямдоʼ груша маˮламба нядаба пядоʼ <p>
+# text = ня -м -доʼ груша маˮламба нядаба пя -доʼ  <p>
+# text_p = нямдоʼ груша маˮламба нядаба пядоʼ <p>
 # text_ru = Они начали помогать товарищу собирать груши.
 # text_en = They began helping their friend pick pears.
 1	ня	ня	NOUN	_	_	2	comp:obj	_	AlignBegin=229536.132321|AlignEnd=230190.213911|Gloss= friend
@@ -884,6 +935,7 @@
 # doc_title = PearStory
 # sent_id = 51
 # text = груши хыдя -ʼ мюʼ моёˮя -доʼ  <p>
+# text_p = груши хыдя -ʼ мюʼ моёˮя -доʼ  <p>
 # text_ru = Они закидали груши в корзину.
 # text_en = They threw the pears into the basket.
 1	груши	груша	NOUN	_	_	5	comp:obj	_	AlignBegin=232528.27234|AlignEnd=232924.918424|Gloss= pear.pl.acc
@@ -896,7 +948,8 @@
 
 # doc_title = PearStory
 # sent_id = 52
-# text = ӈобкана маˮлэйдоʼ <p>
+# text = ӈобкана маˮлэ -й -доʼ  <p>
+# text_p = ӈобкана маˮлэйдоʼ <p>
 # text_ru = Собрали их все вместе.
 # text_en = They gathered them all together.
 1	ӈобкана	ӈобкана	ADV	_	_	3	mod	_	AlignBegin=235371.935722|AlignEnd=235741.960911|Gloss= together
@@ -907,7 +960,8 @@
 
 # doc_title = PearStory
 # sent_id = 53
-# text = ӈобʼ хасава ӈацекэко?мэ? сянакубцмʼ мэˮӈов <p>
+# text = ӈобʼ хасава ӈацекэко?мэ? сянакубц- -мʼ мэˮ -ӈо -в  <p>
+# text_p = ӈобʼ хасава ӈацекэко?мэ? сянакубцмʼ мэˮӈов <p>
 # text_ru = Один из мальчиков играет в игру.
 # text_en = One of the boys is playing a game.
 1	ӈобʼ	ӈобʼ	NUM	_	_	3	mod	_	AlignBegin=237734.941597|AlignEnd=238008.750666|Gloss= once, and
@@ -923,6 +977,7 @@
 # doc_title = PearStory
 # sent_id = 54
 # text = няби -ˮ ни -да?мэ? <p> ня -м -доʼ нядаба <p> <d> паӈгалмы <p> <pr>паӈгалм груша -ˮ хыдя -мʼ <p> велосипед -ʼ ниʼ ӈаюба -доʼ  <p>
+# text_p = няби -ˮ ни -да?мэ? <p> ня -м -доʼ нядаба <p> <d> паӈгалмы <p> <pr>паӈгалм груша -ˮ хыдя -мʼ <p> велосипед -ʼ ниʼ ӈаюба -доʼ  <p>
 # text_ru = Другие его товарищи, помогая товарищу, аккуратно поставили плетёную корзину с грушами на велосипед.
 # text_en = The other boys, helping their companion, carefully set a woven basket of pears on the bicycle.
 1	няби	няби	DET	_	_	3	mod	_	AlignBegin=240941.556773|AlignEnd=241326.089934|Gloss= other
@@ -953,7 +1008,8 @@
 
 # doc_title = PearStory
 # sent_id = 55
-# text = мане пэˮямʼ хэвняʼ моˮмаˮ <p>
+# text = мане пэˮя -мʼ хэвняʼ моˮма -ˮ  <p>
+# text_p = мане пэˮямʼ хэвняʼ моˮмаˮ <p>
 # text_ru = И они откинули камень в сторону.
 # text_en = And they threw the stone aside.
 1	мане	X	X	_	_	5	discourse	_	AlignBegin=251041.020004|AlignEnd=251265.3446|Gloss= X
@@ -967,6 +1023,7 @@
 # doc_title = PearStory
 # sent_id = 56
 # text = харто и -ндоʼ серʼ хасава ӈацекы -ˮ ӈани ялъяд -ˮ <p> ня -доʼ няби -ʼ няюʼ ӈэдалэ -й -ˮ  <p>
+# text_p = харто и -ндоʼ серʼ хасава ӈацекы -ˮ ӈани ялъяд -ˮ <p> ня -доʼ няби -ʼ няюʼ ӈэдалэ -й -ˮ  <p>
 # text_ru = Мальчики пошли дальше по своим делам, а их товарищ поехал в другом направлении.
 # text_en = The boys went on with their business, and their companion went in another direction.
 1	харто	харта	PRON	_	_	3	mod	_	AlignBegin=253057.880372|AlignEnd=253329.610226|Gloss= refl.3sg
@@ -993,6 +1050,7 @@
 # doc_title = PearStory
 # sent_id = 57
 # text = таремʼ яд -на -ха -ндоʼ иня_няӈыʼ хэву -вна -ндоʼ <p> ня -ндоʼ <p> ха"маэ -м мантэ -вы сава -мʼ хо -ˮ  <p>
+# text_p = таремʼ яд -на -ха -ндоʼ иня_няӈыʼ хэву -вна -ндоʼ <p> ня -ндоʼ <p> ха"маэ -м мантэ -вы сава -мʼ хо -ˮ  <p>
 # text_ru = Когда они повернули налево, они нашли упавшую шляпу своего товарища.
 # text_en = Turning left, they saw their companion’s hat lying on the ground.
 1	таремʼ	таремʼ	ADV	_	_	2	mod	_	AlignBegin=258969.302969|AlignEnd=259274.710934|Gloss= this.way
@@ -1020,7 +1078,8 @@
 
 # doc_title = PearStory
 # sent_id = 58
-# text = сюнраха имбытадотана хасава ӈацекы нянда сава- мʼ няˮмада няханда тёренакыˮ <p> хасавов <p> савамд юрвэнэй <p>
+# text = сюнраха имбытадота -на хасава ӈацекы ня -нда сава -мʼ няˮма -да ня -ха -нда тёре -накы -ˮ <p> хасаво -в <p> сава -м -д юр -вэн -эй  <p>
+# text_p = сюнраха имбытадотана хасава ӈацекы нянда сава- мʼ няˮмада няханда тёренакыˮ <p> хасавов <p> савамд юрвэнэй <p>
 # text_ru = Мальчик в синей рубашке поднял шляпу своего товарища и, наверное, крикнул ему: Мужчина, вы забыли шляпу!
 # text_en = The boy in the blue shirt picked up his companion’s hat and probably shouted to him: Man, you forgot your hat!
 1	сюнраха	сюнраха	ADJ	_	_	2	mod	_	AlignBegin=265426.612893|AlignEnd=265869.122575|Gloss= blue
@@ -1054,7 +1113,8 @@
 
 # doc_title = PearStory
 # sent_id = 59
-# text = нябир: пирхата ӈэвынёˮ юрˮявэвнёˮ <p>
+# text = няби -р : пирхата ӈэ -вы -нёˮ юрˮя -вэв -нёˮ  <p>
+# text_p = нябир: пирхата ӈэвынёˮ юрˮявэвнёˮ <p>
 # text_ru = Другой: Действительно, я её забыл.
 # text_en = The other one: I really did forget it.
 1	няби	няби	DET	_	_	_	_	_	AlignBegin=273499.020669|AlignEnd=274039.649211|Gloss= other
@@ -1071,7 +1131,8 @@
 
 # doc_title = PearStory
 # sent_id = 60
-# text = савами нерʼ не ӈацекымʼ <p> манэˮмани серʼ ӈэвани нид <p> ӈобтʼ тебваниʼ серʼ хэ<un> хэвняʼ мантэрхавыˮнёʼ <p>
+# text = сава -ми нерʼ не ӈацекы -мʼ <p> манэˮ -ма -ни серʼ ӈэва -ни нид <p> ӈобтʼ теб -ва -ниʼ серʼ хэ<un> хэвняʼ мантэ -рхавыˮ -нёʼ  <p>
+# text_p = савами нерʼ не ӈацекымʼ <p> манэˮмани серʼ ӈэвани нид <p> ӈобтʼ тебваниʼ серʼ хэ<un> хэвняʼ мантэрхавыˮнёʼ <p>
 # text_ru = Кажется, моя шляпа упала в сторону, когда я заметил девочку, и мы столкнулись с ней.
 # text_en = My hat must have fallen to the side when I saw the girl and we ran into her.
 1	сава	сава	NOUN	_	_	24	subj	_	AlignBegin=275924.368231|AlignEnd=276329.778394|Gloss= hat
@@ -1104,6 +1165,7 @@
 # doc_title = PearStory
 # sent_id = 61
 # text = ненаˮ сава -нёˮ савакоця -ми та -ра -нёˮ  <p>
+# text_p = ненаˮ сава -нёˮ савакоця -ми та -ра -нёˮ  <p>
 # text_ru = Так хорошо с твоей стороны, что ты вернул мне шляпу.
 # text_en = How kind of you to give me back my hat.
 1	ненаˮ	ненаˮ	ADV	_	_	2	mod	_	AlignBegin=283554.392903|AlignEnd=283885.342518|Gloss= very
@@ -1119,6 +1181,7 @@
 # doc_title = PearStory
 # sent_id = 62
 # text = ти сава -ми <er>сава -ми таˮ -ванд <p> еˮэйӈэ <p> тюку груша -да -р хана -ˮ  <p>
+# text_p = ти сава -ми <er>сава -ми таˮ -ванд <p> еˮэйӈэ <p> тюку груша -да -р хана -ˮ  <p>
 # text_ru = Возьми немного груш взамен моей шляпы.
 # text_en = Take some pears in exchange for my hat.
 1	ти	ти	ADV	_	_	16	mod	_	AlignBegin=285873.871699|AlignEnd=286160.682522|Gloss= here
@@ -1141,7 +1204,8 @@
 
 # doc_title = PearStory
 # sent_id = 63
-# text = хасава ӈацекы сюрамба няхаюта няна хая <p>
+# text = хасава ӈацекы сюрамба ня -хаю -та няна хая  <p>
+# text_p = хасава ӈацекы сюрамба няхаюта няна хая <p>
 # text_ru = Мальчик побежал к своим двум товарищам.
 # text_en = The boy ran to his two friends.
 1	хасава	хасава	NOUN	_	_	2	mod	_	AlignBegin=292962.965883|AlignEnd=293365.745206|Gloss= man
@@ -1156,7 +1220,8 @@
 
 # doc_title = PearStory
 # sent_id = 64
-# text = няхаюта няʼ тодоʼ ӈопой?мэ? груша миˮӈаˮ <p>
+# text = ня -хаю -та няʼ тодоʼ ӈопой?мэ? груша миˮ -ӈа -ˮ  <p>
+# text_p = няхаюта няʼ тодоʼ ӈопой?мэ? груша миˮӈаˮ <p>
 # text_ru = Он раздал каждому из своих товарищей по одной груше.
 # text_en = He gave each of them a pear.
 1	ня	ня	NOUN	_	_	3	comp:obj	_	AlignBegin=296559.197746|AlignEnd=297146.917804|Gloss= friend
@@ -1173,7 +1238,8 @@
 
 # doc_title = PearStory
 # sent_id = 65
-# text = тикы тикандоʼ?мэ? тамна тяхаʼ ялъядˮ <p>
+# text = тикы тика -ндоʼ?мэ? тамна тяхаʼ ялъя -дˮ  <p>
+# text_p = тикы тикандоʼ?мэ? тамна тяхаʼ ялъядˮ <p>
 # text_ru = Так они пошли дальше.
 # text_en = And so they continued on their way.
 1	тикы	тикы	DEM	_	_	2	mod	_	AlignBegin=300730.100862|AlignEnd=301101.015981|Gloss= that
@@ -1187,7 +1253,8 @@
 
 # doc_title = PearStory
 # sent_id = 66
-# text = сюнраха имбытадотана хасава ӈацекэр?мэ? <p> грушамда?мэ? <p> имбытаканда тэˮӈада тика сякалӈада <p>
+# text = сюнраха имбытадота -на хасава ӈацекэ -р?мэ? <p> груша -м -да?мэ? <p> имбыта -ка -нда тэˮ -ӈа -да тика сякал -ӈа -да  <p>
+# text_p = сюнраха имбытадотана хасава ӈацекэр?мэ? <p> грушамда?мэ? <p> имбытаканда тэˮӈада тика сякалӈада <p>
 # text_ru = Мальчик в синей рубашке вытер грушу о свою одежду и укусил её.
 # text_en = The boy in the blue shirt wiped the pear on his clothes and took a bite.
 1	сюнраха	сюнраха	ADJ	_	_	2	mod	_	AlignBegin=303698.148325|AlignEnd=304057.514508|Gloss= blue
@@ -1215,7 +1282,8 @@
 
 # doc_title = PearStory
 # sent_id = 67
-# text = сянакубцкоцямда вэрда тамна тяхаˮ ялъядˮ <p>
+# text = сянакубцкоця -м -да вэрда тамна тяхаˮ ялъя -дˮ  <p>
+# text_p = сянакубцкоцямда вэрда тамна тяхаˮ ялъядˮ <p>
 # text_ru = Он достал свою игру, и они продолжили путь.
 # text_en = He took out his game, and they continued on their way.
 1	сянакубцкоця	сянакобц	NOUN	_	_	2	comp:obj	_	AlignBegin=310486.475674|AlignEnd=311363.262239|Gloss= game
@@ -1231,6 +1299,7 @@
 # doc_title = PearStory
 # sent_id = 68
 # text = ӈоди маˮламба -да?мэ? <p> груши хаˮаврамба -да <p> хасава -р <p> танця -ӈгадан -да ӈаниʼ тасиʼ хаˮмы -ˮ  <p>
+# text_p = ӈоди маˮламба -да?мэ? <p> груши хаˮаврамба -да <p> хасава -р <p> танця -ӈгадан -да ӈаниʼ тасиʼ хаˮмы -ˮ  <p>
 # text_ru = Мужчина, собирающий плоды и срывающий груши, снова спустился по лестнице.
 # text_en = The man, gathering pears, went down the steps once more, breaking the fruit as he went.
 1	ӈоди	ӈодя	NOUN	_	_	3	comp:obj	_	AlignBegin=313893.963403|AlignEnd=314217.787896|Gloss= berry.pl.acc
@@ -1255,7 +1324,8 @@
 
 # doc_title = PearStory
 # sent_id = 69
-# text = ӈоб?мэ? грушита хыдяʼ мюʼ сырӈа <p>
+# text = Ӈоб?мэ? груши -та хыдя -ʼ мюʼ сыр -ӈа  <p>
+# text_p = ӈоб?мэ? грушита хыдяʼ мюʼ сырӈа <p>
 # text_ru = Он заглянул в одну из своих корзин с грушами.
 # text_en = He looked in one of his pear baskets.
 1	Ӈоб?мэ?	ӈобʼ	NUM	_	_	4	mod	_	AlignBegin=321487.143192|AlignEnd=322696.981539|Gloss= one
@@ -1270,7 +1340,8 @@
 
 # doc_title = PearStory
 # sent_id = 70
-# text = грушита хыдя терси <p>
+# text = груши -та хыдя терси  <p>
+# text_p = грушита хыдя терси <p>
 # text_ru = Его корзина с грушами пустая.
 # text_en = One of his pear baskets was empty.
 1	груши	груша	NOUN	_	_	2	comp:obj	_	AlignBegin=324587.697236|AlignEnd=325191.366611|Gloss= pear.pl
@@ -1281,7 +1352,8 @@
 
 # doc_title = PearStory
 # sent_id = 71
-# text = маˮнив ӈамгэ няхарˮ <p> грушиˮ хыдя ӈэсь таранархасиʼ ӈопой сидя няхаромдэйми яӈгу <p>
+# text = ма -ˮ -ни -в : ӈамгэ няхарˮ <p> груши -ˮ хыдя ӈэ -сь тара -нарха -сиʼ ӈопой сидя няхаромдэй -ми яӈгу  <p>
+# text_p = маˮнив ӈамгэ няхарˮ <p> грушиˮ хыдя ӈэсь таранархасиʼ ӈопой сидя няхаромдэйми яӈгу <p>
 # text_ru = Он говорит: Что это? У меня должно было быть три корзины. Один, два… а моей третьей нет.
 # text_en = He says: What’s this? I should have had three baskets; one, two, and my third is gone
 1	ма	ма	VERB	_	_	2	comp	_	AlignBegin=327013.877956|AlignEnd=327398.481087|Gloss= say
@@ -1309,7 +1381,8 @@
 
 # doc_title = PearStory
 # sent_id = 72
-# text = хэвувнанда няхар хасава ӈацекэкоˮ нерцюйда <p> тодо грушина хэвы <p>
+# text = Хэву -вна -нда няхар хасава ӈацекэко -ˮ нерцюй -да <p> тодо груши -на хэ -вы  <p>
+# text_p = хэвувнанда няхар хасава ӈацекэкоˮ нерцюйда <p> тодо грушина хэвы <p>
 # text_ru = Рядом с грушами прошли те три мальчика.
 # text_en = The three boys walked alongside the pears.
 1	Хэву	хэв	NOUN	_	_	2	comp:obj	_	AlignBegin=332999.720952|AlignEnd=333601.483441|Gloss= side
@@ -1331,7 +1404,8 @@
 
 # doc_title = PearStory
 # sent_id = 73
-# text = хасава ибедорӈа <p> савамда тюˮукуʼ пэрӈа <p>
+# text = хасава ибедор -ӈа <p> сава -м -да тюˮукуʼ пэр -ӈа  <p>
+# text_p = хасава ибедорӈа <p> савамда тюˮукуʼ пэрӈа <p>
 # text_ru = Он приподнял шляпу и задумался.
 # text_en = He lifts his hat and thinks.
 1	хасава	хасава	NOUN	_	_	3	subj	_	AlignBegin=337367.047861|AlignEnd=337752.338391|Gloss= man
@@ -1349,6 +1423,7 @@
 # doc_title = PearStory
 # sent_id = 74
 # text = хасава ӈацекэ -ра <p> и -тоʼ серʼ ханзерʼ яд -са -ˮ <p> <un>?хан? таремʼ яда -ˮ  <p>
+# text_p = хасава ӈацекэ -ра <p> и -тоʼ серʼ ханзерʼ яд -са -ˮ <p> <un>?хан? таремʼ яда -ˮ  <p>
 # text_ru = А мальчик, пока они шли по своим делам, продолжал идти за ними.
 # text_en = And the boy, as they went about their business, went on too.
 1	хасава	хасава	NOUN	_	_	2	mod	_	AlignBegin=341381.370627|AlignEnd=341768.921923|Gloss= man
@@ -1372,6 +1447,7 @@
 # doc_title = PearStory
 # sent_id = 75
 # text = тикы яля -да хури -ӈэ <er>хури -ӈэ хаерако -сь <p> хуриʼ савамбойкако -сь <p> хури -ӈэ хэˮнёкако -сь  <p>
+# text_p = тикы яля -да хури -ӈэ <er>хури -ӈэ хаерако -сь <p> хуриʼ савамбойкако -сь <p> хури -ӈэ хэˮнёкако -сь  <p>
 # text_ru = Этот день был солнечным, тёплым и безветренным.
 # text_en = The day was sunny, very pleasant, and calm.
 1	тикы	тикы	DEM	_	_	2	mod	_	AlignBegin=345639.879731|AlignEnd=345911.107779|Gloss= that
@@ -1396,7 +1472,8 @@
 
 # doc_title = PearStory
 # sent_id = 76
-# text = та валакада <p>
+# text = та валака -да  <p>
+# text_p = та валакада <p>
 # text_ru = конец
 # text_en = The end.
 1	та	та	DEM	_	_	2	subj	_	AlignBegin=352673.037541|AlignEnd=352958.799848|Gloss= this
@@ -1407,6 +1484,7 @@
 # doc_title = PearStory
 # sent_id = 77
 # text = конец
+# text_p = конец
 # text_ru = конец
 # text_en = The end.
 1	конец	конец	NOUN	_	_	0	root	_	AlignBegin=354163.544352|AlignEnd=354975.600907|Gloss= end
