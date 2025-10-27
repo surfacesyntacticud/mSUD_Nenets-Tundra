@@ -9,7 +9,7 @@
 1	<b_p>	<b_p>	X	_	_	2	discourse	_	AlignBegin=0|AlignEnd=894.114627823|Gloss=PAUSE|LTranslit=<b_p>|Translit=<b_p>
 2	маря	марˮ	NOUN	_	_	3	comp:obj	_	AlignBegin=894.114627823|AlignEnd=1329.4238186|Gloss=fence|LTranslit=marʡ|Translit=maŕa
 3	-дʼ	_	ADP	_	Number=Sing|Person=2	4	comp:obj	_	AlignBegin=894.114627823|AlignEnd=1329.4238186|Gloss=-gen.poss.2sg|Translit=-dʔ
-4	мюня	мюня	ADP	_	_	5	comp:obl	_	AlignBegin=1329.4238186|AlignEnd=1658.01204648|Gloss=in.loc|LTranslit=ḿuńa|Translit=ḿuńa
+4	мюня	мюня	ADP	_	_	5	mod	_	AlignBegin=1329.4238186|AlignEnd=1658.01204648|Gloss=in.loc|LTranslit=ḿuńa|Translit=ḿuńa
 5	ну	ну-	VERB	_	_	0	root	_	AlignBegin=1658.01204648|AlignEnd=2298.33782388|Gloss=stand|LTranslit=nu-|Translit=nu
 6	-дмʼ	_	PRON	_	Number=Sing|Person=1	5	subj	_	AlignBegin=1658.01204648|AlignEnd=2298.33782388|Gloss=-1sg|Translit=-dmʔ
 7	<b_p>	<b_p>	PUNCT	_	_	5	punct	_	AlignBegin=2298.33782388|AlignEnd=2731.8672434|Gloss=SIL|LTranslit=<b_p>|Translit=<b_p>
@@ -24,26 +24,26 @@
 # text_en = I am standing behind the fence.
 1	маря	марˮ	NOUN	_	_	2	comp:obj	_	AlignBegin=2731.8672434|AlignEnd=3440.72925263|Gloss=fence|LTranslit=marʡ|Translit=maŕa
 2	-дʼ	_	ADP	_	Number=Sing|Person=2	3	comp:obj	_	AlignBegin=2731.8672434|AlignEnd=3440.72925263|Gloss=-gen.poss.2sg|Translit=-dʔ
-3	мюня	мюня	ADP	_	_	4	comp:obl	_	AlignBegin=3440.72925263|AlignEnd=3713.90114771|Gloss=in.loc|LTranslit=ḿuńa|Translit=ḿuńa
+3	мюня	мюня	ADP	_	_	4	mod	_	AlignBegin=3440.72925263|AlignEnd=3713.90114771|Gloss=in.loc|LTranslit=ḿuńa|Translit=ḿuńa
 4	ну	ну-	VERB	_	_	0	root	_	AlignBegin=3713.90114771|AlignEnd=4228.83053543|Gloss=stand|LTranslit=nu-|Translit=nu
 5	-мʼ	_	PRON	_	Number=Sing|Person=1	4	subj	_	AlignBegin=3713.90114771|AlignEnd=4228.83053543|Gloss=-1sg|Translit=-mʔ
 6	<b_p>	<b_p>	PUNCT	_	_	4	punct	_	AlignBegin=4228.83053543|AlignEnd=5942.22073504|Gloss=SIL|LTranslit=<b_p>|Translit=<b_p>
 
-# doc_title = MapTask_002
 # sent_id = yrk_s_MapTask_002_3
+# text = маря -дʼ <d> <pr>маря<un> <er>маря -дʼ мюня ну -дмʼ
+# doc_title = MapTask_002
 # sound_url = https://grew.fr/download/audio/nar_RouDes_002_26_04_2017_yrk-tun.mp3
-# text = маря -дʼ<a> <a_d> <p_r>маря<u_l> <e_r>маря -дʼ <a>мюня ну -дмʼ
-# p_text = марядʼ<a> <a_d> <p_r>маря<u_l> <e_r>марядʼ <a>мюня нудмʼ
-# translit = maŕadʔ<a> <a_d> <p_r>maŕa<u_l> <e_r>maŕadʔ <a>ḿuńa nudmʔ
+# p_text = марядʼ <d> <pr>маря<un> <er>марядʼ мюня нудмʼ
+# translit = maŕadʔ <d> <pr>maŕa<un> <er>maŕadʔ ḿuńa nudmʔ
 # text_ru = Стою за забором.
 # text_en = I <aham> fence, fence behind stand.
 1	маря	марˮ	NOUN	_	_	2	comp:obj	_	AlignBegin=5942.22073504|AlignEnd=7001.65870127|Gloss=fence|LTranslit=marʡ|Translit=maŕa
-2	-дʼ<a>	_	ADP	_	Number=Sing|Person=2	7	comp:obj	_	AlignBegin=5942.22073504|AlignEnd=7001.65870127|Gloss=-gen.poss.2sg|Translit=-dʔ<a>
-3	<a_d>	<a_d>	INTJ	_	_	4	discourse	_	AlignBegin=7001.65870127|AlignEnd=7612.32719612|Gloss=DISFL|LTranslit=<a_d>|Translit=<a_d>
-4	<p_r>маря<u_l>	марˮ	NOUN	_	_	1	reparandum	_	AlignBegin=7612.32719612|AlignEnd=8005.39543677|Gloss=fence|LTranslit=marʡ|Translit=<p_r>maŕa<u_l>
-5	<e_r>маря	марˮ	NOUN	_	_	6	comp:obj	_	AlignBegin=8005.39543677|AlignEnd=8294.08141756|Gloss=fence|LTranslit=marʡ|Translit=<e_r>maŕa
+2	-дʼ	X	ADP	_	Number=Sing|Person=2	7	comp:obj	_	AlignBegin=5942.22073504|AlignEnd=7001.65870127|Gloss=-gen.poss.2sg|Translit=-dʔ
+3	<d>	<d>	INTJ	_	_	8	discourse	_	AlignBegin=7001.65870127|AlignEnd=7612.32719612|Gloss=DISFL|LTranslit=<d>|Translit=<d>
+4	<pr>маря<un>	марˮ	NOUN	_	_	2	reparandum	_	AlignBegin=7612.32719612|AlignEnd=8005.39543677|Gloss=fence|LTranslit=marʡ|Translit=<pr>maŕa<un>
+5	<er>маря	марˮ	NOUN	_	_	6	comp:obj	_	AlignBegin=8005.39543677|AlignEnd=8294.08141756|Gloss=fence|LTranslit=marʡ|Translit=<er>maŕa
 6	-дʼ	_	ADP	_	Number=Sing|Person=2	2	reparandum	_	AlignBegin=8005.39543677|AlignEnd=8294.08141756|Gloss=-gen.poss.2sg|Translit=-dʔ
-7	<a>мюня	мюня	ADP	_	_	8	comp:obl	_	AlignBegin=8294.08141756|AlignEnd=9211.31117722|Gloss=in.loc|LTranslit=ḿuńa|Translit=<a>ḿuńa
+7	мюня	мюня	ADP	_	_	8	mod	_	AlignBegin=8294.08141756|AlignEnd=9211.31117722|Gloss=in.loc|LTranslit=ḿuńa|Translit=ḿuńa
 8	ну	ну-	VERB	_	_	0	root	_	AlignBegin=9211.31117722|AlignEnd=9726.4004168|Gloss=stand|LTranslit=nu-|Translit=nu
 9	-дмʼ	_	PRON	_	Number=Sing|Person=1	8	subj	_	AlignBegin=9211.31117722|AlignEnd=9726.4004168|Gloss=-1sg|Translit=-dmʔ
 

@@ -368,14 +368,14 @@
 # text_en = On the other side I went out through another door.
 1	няби	няби	DET	_	_	2	det	_	AlignBegin=71274.2032934|AlignEnd=71663.4963372|Gloss=other|LTranslit=ńab́i|Translit=ńab́i
 2	хэву	хэв	NOUN	_	_	3	comp:obj	_	AlignBegin=71663.4963372|AlignEnd=72357.4367523|Gloss=side|LTranslit=xæw|Translit=xæwu
-3	-вна	_	ADP	_	_	11	comp:obl	_	AlignBegin=71663.4963372|AlignEnd=72357.4367523|Gloss=-prol|Translit=-wna
+3	-вна	_	ADP	_	_	11	mod	_	AlignBegin=71663.4963372|AlignEnd=72357.4367523|Gloss=-prol|Translit=-wna
 4	-нда	_	DET	_	Number=Sing|Person=3	2	det:poss	_	AlignBegin=71663.4963372|AlignEnd=72357.4367523|Gloss=-poss.3sg|Translit=-nda
 5	ӈаниʼ	ӈаниʼ	ADV	_	_	11	mod	_	AlignBegin=72357.4367523|AlignEnd=72575.5323113|Gloss=again|LTranslit=ŋańiʔ|Translit=ŋańiʔ
 6	несэй	несэй	ADJ	_	_	7	mod	_	AlignBegin=72575.5323113|AlignEnd=72825.8465324|Gloss=new (other)|LTranslit=ńesæj|Translit=ńesæj
 7	нё	нё	NOUN	_	_	8	comp:obj	_	AlignBegin=72825.8465324|AlignEnd=72986.9398431|Gloss=door|LTranslit=ńo|Translit=ńo
 8	-ʼ	_	ADP	_	_	9	mod:poss	_	AlignBegin=72825.8465324|AlignEnd=72986.9398431|Gloss=-gen|Translit=-ʔ
 9	си	си	NOUN	_	_	10	comp:obj	_	AlignBegin=72986.9398431|AlignEnd=73316.5615402|Gloss=hole|LTranslit=śi|Translit=śi
-10	-вна	_	ADP	_	_	11	comp:obl	_	AlignBegin=72986.9398431|AlignEnd=73316.5615402|Gloss=-prol|Translit=-wna
+10	-вна	_	ADP	_	_	11	mod	_	AlignBegin=72986.9398431|AlignEnd=73316.5615402|Gloss=-prol|Translit=-wna
 11	тарпы	тарпа-	VERB	_	_	0	root	_	AlignBegin=73316.5615402|AlignEnd=73974.5657552|Gloss=go.out|LTranslit=tarpa-|Translit=tarpi
 12	-вʼ	_	PRON	_	Number=Sing|Person=1	11	subj	_	AlignBegin=73316.5615402|AlignEnd=73974.5657552|Gloss=-1sg.refl|Translit=-wʔ
 13	<b_p>	<b_p>	PUNCT	_	_	11	punct	_	AlignBegin=73974.5657552|AlignEnd=74190.6746981|Gloss=SIL|LTranslit=<b_p>|Translit=<b_p>
@@ -383,25 +383,26 @@
 # doc_title = MapTask_001
 # sent_id = yrk_s_MapTask_001_21
 # sound_url = https://grew.fr/download/audio/nar_RouDes_001_26_04_2017_yrk-tun.mp3
-# text = танцяʼ серʼ хаˮмы -вʼ <s_p> тамна тяхаʼ ядал-ъя -вʼ <b_p> сятаняюʼ сюрте -в <b_p>
+# text = танцяʼ серʼ хаˮмы -вʼ <s_p> тамна тяхаʼ ядал -ъя -вʼ <b_p> сятаняюʼ сюрте -в <b_p>
 # p_text = танцяʼ серʼ хаˮмывʼ <s_p> тамна тяхаʼ ядалъявʼ <b_p> сятаняюʼ сюртев <b_p>
 # translit = tanćaʔ śerʔ xaʡmiwʔ <s_p> tamna ťaxaʔ jadal"jawʔ <b_p> śatańajuʔ śurťew <b_p>
 # text_ru = Я спустился по лестнице, стал идти дальше, повернул налево.
 # text_en = I went down the stairs, started walking and turned left.
 1	танцяʼ	танциеˮ	NOUN	_	_	2	comp:obj	_	AlignBegin=74190.6746981|AlignEnd=74593.3610876|Gloss=stairs|LTranslit=tanćieʡ|Translit=tanćaʔ
-2	серʼ	серʼ	ADP	_	_	3	comp:obl	_	AlignBegin=74593.3610876|AlignEnd=74909.5454341|Gloss=at.the.time.of|LTranslit=śerʔ|Translit=śerʔ
+2	серʼ	серʼ	ADP	_	_	3	mod	_	AlignBegin=74593.3610876|AlignEnd=74909.5454341|Gloss=at.the.time.of|LTranslit=śerʔ|Translit=śerʔ
 3	хаˮмы	хаˮма-	VERB	_	_	0	root	_	AlignBegin=74909.5454341|AlignEnd=75539.0428681|Gloss=go.down|LTranslit=xaʡma-|Translit=xaʡmi
 4	-вʼ	_	PRON	_	Number=Sing|Person=1	3	subj	_	AlignBegin=74909.5454341|AlignEnd=75539.0428681|Gloss=-1sg.refl|Translit=-wʔ
 5	<s_p>	<s_p>	PUNCT	_	_	3	punct	_	AlignBegin=75539.0428681|AlignEnd=76514.9480759|Gloss=SIL|LTranslit=<s_p>|Translit=<s_p>
 6	тамна	тамна	ADV	_	_	7	mod	_	AlignBegin=76514.9480759|AlignEnd=76730.496334|Gloss=even|LTranslit=tamna|Translit=tamna
 7	тяхаʼ	тяхаˮ	ADV	_	_	8	mod	_	AlignBegin=76730.496334|AlignEnd=76860.0911208|Gloss=further|LTranslit=ťaxaʡ|Translit=ťaxaʔ
-8	ядал-ъя	ядал-	VERB	_	_	3	parataxis	_	AlignBegin=76860.0911208|AlignEnd=77465.0598865|Gloss=go.forth-co.refl|LTranslit=jadal-|Translit=jadal-"ja
-9	-вʼ	_	PRON	_	Number=Sing|Person=1	8	subj	_	AlignBegin=76860.0911208|AlignEnd=77465.0598865|Gloss=-1sg.refl|Translit=-wʔ
-10	<b_p>	<b_p>	PUNCT	_	_	8	punct	_	AlignBegin=77465.0598865|AlignEnd=77603.7923302|Gloss=SIL|LTranslit=<b_p>|Translit=<b_p>
-11	сятаняюʼ	сятаняюʼ	ADV	_	_	12	mod	_	AlignBegin=77603.7923302|AlignEnd=78351.9468402|Gloss=to.the.left.pol|LTranslit=śatańajuʔ|Translit=śatańajuʔ
-12	сюрте	сюрте-	VERB	_	_	3	parataxis	_	AlignBegin=78351.9468402|AlignEnd=79174.4365557|Gloss=go.around|LTranslit=śurťe-|Translit=śurťe
-13	-в	_	PRON	_	Number=Sing|Number[obj]=Sing|Person=1	12	subj:obj	_	AlignBegin=78351.9468402|AlignEnd=79174.4365557|Gloss=-1sg.sg|Translit=-w
-14	<b_p>	<b_p>	PUNCT	_	_	3	punct	_	AlignBegin=79174.4365557|AlignEnd=79523.7980109|Gloss=SIL|LTranslit=<b_p>|Translit=<b_p>
+8	ядал	ядал	VERB	_	_	9	comp:aux	_	AlignBegin=76860.0911208|AlignEnd=77465.0598865|Gloss=go.forth-co.refl|LTranslit=jadal-|Translit=jadal-"ja
+9	-ъя	-ъя	VERB	_	_	3	parataxis	_	AlignBegin=76860.0911208|AlignEnd=77465.0598865|Gloss=go.forth-co.refl|LTranslit=jadal-|Translit=jadal-"ja
+10	-вʼ	_	PRON	_	Number=Sing|Person=1	9	subj	_	AlignBegin=76860.0911208|AlignEnd=77465.0598865|Gloss=-1sg.refl|Translit=-wʔ
+11	<b_p>	<b_p>	PUNCT	_	_	3	punct	_	AlignBegin=77465.0598865|AlignEnd=77603.7923302|Gloss=SIL|LTranslit=<b_p>|Translit=<b_p>
+12	сятаняюʼ	сятаняюʼ	ADV	_	_	13	mod	_	AlignBegin=77603.7923302|AlignEnd=78351.9468402|Gloss=to.the.left.pol|LTranslit=śatańajuʔ|Translit=śatańajuʔ
+13	сюрте	сюрте-	VERB	_	_	3	parataxis	_	AlignBegin=78351.9468402|AlignEnd=79174.4365557|Gloss=go.around|LTranslit=śurťe-|Translit=śurťe
+14	-в	_	PRON	_	Number=Sing|Number[obj]=Sing|Person=1	13	subj:obj	_	AlignBegin=78351.9468402|AlignEnd=79174.4365557|Gloss=-1sg.sg|Translit=-w
+15	<b_p>	<b_p>	PUNCT	_	_	3	punct	_	AlignBegin=79174.4365557|AlignEnd=79523.7980109|Gloss=SIL|LTranslit=<b_p>|Translit=<b_p>
 
 # doc_title = MapTask_001
 # sent_id = yrk_s_MapTask_001_22
@@ -429,13 +430,13 @@
 # translit = exærana ŋańi ŋopoj maŕadmʔ manæʡŋadmʔ <s_p>
 # text_ru = Увидел еще один незнакомый забор.
 # text_en = I saw another unfamiliar fence.
-1	ехэра	ехэра-	VERB	_	_	2	comp:obj	_	AlignBegin=83119.6188647|AlignEnd=83892.8338419|Gloss=not.know|LTranslit=exæra-|Translit=exæra
-2	-на	_	SCONJ	_	_	5	comp:obj	_	AlignBegin=83119.6188647|AlignEnd=83892.8338419|DerPos=ADJ|Gloss=-ptcp.cont|Translit=-na
+1	ехэра	ехэра-	VERB	_	_	2	comp:aux	_	AlignBegin=83119.6188647|AlignEnd=83892.8338419|Gloss=not.know|LTranslit=exæra-|Translit=exæra
+2	-на	_	ADJ	_	_	5	mod	_	AlignBegin=83119.6188647|AlignEnd=83892.8338419|DerPos=ADJ|Gloss=-ptcp.cont|Translit=-na
 3	ӈани	ӈаниʼ	DET	_	_	5	det	_	AlignBegin=83892.8338419|AlignEnd=84156.7517054|Gloss=other|LTranslit=ŋańiʔ|Translit=ŋańi
 4	ӈопой	ӈопой	NUM	_	_	5	mod	_	AlignBegin=84156.7517054|AlignEnd=84462.4783394|Gloss=one|LTranslit=ŋopoj|Translit=ŋopoj
 5	маря	марˮ	NOUN	_	_	7	comp:obj	_	AlignBegin=84462.4783394|AlignEnd=85298.6537487|Gloss=fence|LTranslit=marʡ|Translit=maŕa
 6	-д	_	DET	_	_	5	det	_	AlignBegin=84462.4783394|AlignEnd=85298.6537487|Gloss=-?predest?|Translit=-d
-7	-мʼ	_	ADP	_	_	8	comp:obj	_	AlignBegin=84462.4783394|AlignEnd=85298.6537487|Gloss=-acc|Translit=-mʔ
+7	-мʼ	_	ADP	_	_	8	mod	_	AlignBegin=84462.4783394|AlignEnd=85298.6537487|Gloss=-acc|Translit=-mʔ
 8	манэˮ-ӈа	манэˮ-	VERB	_	_	0	root	_	AlignBegin=85298.6537487|AlignEnd=85803.731728|Gloss=see-co|LTranslit=manæʡ-|Translit=manæʡ-ŋa
 9	-дмʼ	_	PRON	_	Number=Sing|Person=1	8	subj	_	AlignBegin=85298.6537487|AlignEnd=85803.731728|Gloss=-1sg|Translit=-dmʔ
 10	<s_p>	<s_p>	PUNCT	_	_	8	punct	_	AlignBegin=85803.731728|AlignEnd=86338.7574292|Gloss=SIL|LTranslit=<s_p>|Translit=<s_p>
@@ -450,7 +451,7 @@
 # text_en = Two deer appeared to be behind the fence.
 1	маря	марˮ	NOUN	_	_	2	comp:obj	_	AlignBegin=86338.7574292|AlignEnd=86736.2373378|Gloss=fence|LTranslit=marʡ|Translit=maŕa
 2	-дʼ	_	ADP	_	Number=Sing|Person=2	3	comp:obj	_	AlignBegin=86338.7574292|AlignEnd=86736.2373378|Gloss=-poss.gen.2sg|Translit=-dʔ
-3	тяхана	тяхана	ADP	_	_	8	comp:obl	_	AlignBegin=86736.2373378|AlignEnd=87183.7502707|Gloss=behind.loc|LTranslit=ťaxana|Translit=ťaxana
+3	тяхана	тяхана	ADP	_	_	8	mod	_	AlignBegin=86736.2373378|AlignEnd=87183.7502707|Gloss=behind.loc|LTranslit=ťaxana|Translit=ťaxana
 4	<p>	<p>	X	_	_	8	discourse	_	AlignBegin=87183.7502707|AlignEnd=87492.4775472|Gloss=X|LTranslit=<p>|Translit=<p>
 5	тэ	ты	NOUN	_	_	7	subj	_	AlignBegin=87492.4775472|AlignEnd=87855.0196701|Gloss=reindeer|LTranslit=ti|Translit=tæ
 6	-хэʼ	_	NUM	_	_	5	det	_	AlignBegin=87492.4775472|AlignEnd=87855.0196701|Gloss=-du|Translit=-xæʔ
