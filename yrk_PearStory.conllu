@@ -1061,7 +1061,7 @@
 7	хэву	хэв	NOUN	_	_	8	comp:obj	_	AlignBegin=260312.572831|AlignEnd=261026.53823|Gloss=side
 8	-вна	X	ADP	_	_	20	mod	_	AlignBegin=260312.572831|AlignEnd=261026.53823|Gloss=-prol
 9	-ндоʼ	X	DET	_	_	8	det	_	AlignBegin=260312.572831|AlignEnd=261026.53823|Gloss=-poss.3pl
-10	<p>	<p>	PUNCT	_	_	20	discourse	_	AlignBegin=261026.53823|AlignEnd=261447.951953|Gloss=SIL
+10	<p>	<p>	PUNCT	_	_	20	punct	_	AlignBegin=261026.53823|AlignEnd=261447.951953|Gloss=SIL
 11	ня	ня	NOUN	_	_	12	comp:obj	_	AlignBegin=261447.951953|AlignEnd=262050.469095|Gloss=friend
 12	-ндоʼ	X	ADP	_	_	18	mod:poss	_	AlignBegin=261447.951953|AlignEnd=262050.469095|Gloss=-poss.gen.3pl
 13	<p>	<p>	INTJ	_	_	12	discourse	_	AlignBegin=262050.469095|AlignEnd=262499.744883|Gloss=X
@@ -1116,7 +1116,7 @@
 # text_p = нябир: пирхата ӈэвынёˮ юрˮявэвнёˮ <p>
 # text_ru = Другой: Действительно, я её забыл.
 # text_en = The other one: I really did forget it.
-1	няби	няби	DET	_	_	_	_	_	AlignBegin=273499.020669|AlignEnd=274039.649211|Gloss=other
+1	няби	няби	DET	_	_	0	root	_	AlignBegin=273499.020669|AlignEnd=274039.649211|Gloss=other
 2	-р	X	DET	_	_	1	det:poss	_	AlignBegin=273499.020669|AlignEnd=274039.649211|Gloss=-poss.2sg
 3	:	X	PUNCT	_	_	1	punct	_	AlignBegin=273499.020669|AlignEnd=274039.649211|Gloss=SIL
 4	пирхата	пирхата	ADV	_	_	5	mod	_	AlignBegin=274039.649211|AlignEnd=274417.847581|Gloss=possibly
@@ -1158,7 +1158,7 @@
 22	хэвняʼ	хэвняʼ	ADV	_	_	25	mod	_	AlignBegin=280387.6573|AlignEnd=280969.203147|Gloss=away
 23	мантэ	мантэ	VERB	_	_	24	comp:aux	_	AlignBegin=280969.203147|AlignEnd=282332.218292|Gloss=fall
 24	-рхавыˮ	X	AUX	_	_	25	comp:aux	_	AlignBegin=280969.203147|AlignEnd=282332.218292|Gloss=rep
-25	-нёʼ	X	AUX	_	_	_	_	_	AlignBegin=280969.203147|AlignEnd=282332.218292|Gloss=Excl
+25	-нёʼ	X	AUX	_	_	0	root	_	AlignBegin=280969.203147|AlignEnd=282332.218292|Gloss=Excl
 26	<p>	<p>	PUNCT	_	_	25	punct	_	AlignBegin=282332.218292|AlignEnd=283554.392903|Gloss=SIL
 
 # doc_title = PearStory
