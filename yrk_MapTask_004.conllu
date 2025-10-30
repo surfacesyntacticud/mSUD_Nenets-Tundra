@@ -25,7 +25,7 @@
 3	хой	хой	NOUN	_	_	4	comp:obj	_	AlignBegin=1968.7311638|AlignEnd=2333.14245176|Gloss=hill|LTranslit=xoj|Translit=xoj
 4	нид	нид	ADP	_	_	7	mod	_	AlignBegin=2333.14245176|AlignEnd=2598.77558841|Gloss=at.abl|LTranslit=ńid|Translit=ńid
 5	нерняʼ	нерняʼ	ADV	_	_	7	mod	_	AlignBegin=2598.77558841|AlignEnd=3140.72058076|Gloss=in.front.of.dat|LTranslit=ńerńaʔ|Translit=ńerńaʔ
-6	сыр	сыр	VERB	_	_	_	_	_	AlignBegin=3140.72058076|AlignEnd=3658.63845522|Gloss=look|LTranslit=sir|Translit=sir
+6	сыр	сыр	VERB	_	_	7	comp:aux	_	AlignBegin=3140.72058076|AlignEnd=3658.63845522|Gloss=look|LTranslit=sir|Translit=sir
 7	ӈа	ӈа	AUX	_	_	0	root	_	AlignBegin=3140.72058076|AlignEnd=3658.63845522|Gloss=-co|LTranslit=ŋa-|Translit=ŋa-
 8	-ваˮ	X	PRON	_	Number=Plur|Person=1	7	subj	_	AlignBegin=3140.72058076|AlignEnd=3658.63845522|Gloss=-1pl|Translit=-waʡ
 9	<p>	<p>	PUNCT	_	_	7	punct	_	AlignBegin=3658.63845522|AlignEnd=4233.95444464|Gloss=SIL|LTranslit=<p>|Translit=<p>
