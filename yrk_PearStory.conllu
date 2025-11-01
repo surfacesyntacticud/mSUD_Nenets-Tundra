@@ -3,6 +3,8 @@
 # text = <p> ӈобӈгуна я -ʼ ханяхавана <n> <p> груши -ʼ пя -хад хасава <p> груша маˮламба -вы <p>
 # translit = <p> ŋobŋguna ja -ʔ xańaxawana <n> <p> gruši -ʔ ṕa -xad xasawa <p> gruša maʡlamba -wi <p>
 # text_p = <p> ӈобӈгуна яʼ ханяхавана <n> <p> грушиʼ пяхад хасава <p> груша маˮламбавы <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Однажды, где-то в тех краях, мужчина собирал груши с грушевого дерева.
 # text_en = Once, somewhere in the land, a man was gathering pears from a pear tree.
 1	<p>	<p>	INTJ	_	_	2	discourse	_	AlignBegin=0|AlignEnd=411.079249746|Gloss=X|LTranslit=<p>|Translit=<p>
@@ -28,6 +30,8 @@
 # text = груша -ˮ хуриˮ ?таремʼ? падяраха -каков <p>
 # translit = gruša -ʡ xuŕiʡ ?taŕemʔ? paďaraxa -kakow <p>
 # text_p = грушаˮ хуриˮ ?таремʼ? падярахакаков <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Груши были очень зелёные.
 # text_en = The pears were very green.
 1	груша	груша	NOUN	_	_	6	subj	_	AlignBegin=8266.00999235|AlignEnd=8684.63741366|Gloss=pear|LTranslit=gruša|Translit=gruša
@@ -43,6 +47,8 @@
 # translit = ŋopoj ŋoďa -mʔ ńanda pud <p> xasawa <p> śepa ḿuʔ maʡlamb́i -da <p>
 # text_p = ӈопой ӈодямʼ нянда пуд <p> хасава <p> сепа мюʼ маˮламбида <p>
 # doc_title = PearStory
+# media = spoken
+# language_variety = Tundra
 # text_ru = Мужчина кладёт груши одну за другой в карман.
 # text_en = The man slips the fruit one by one into his pocket.
 1	ӈопой	ӈопой	NUM	_	_	2	mod	_	AlignBegin=11562.1010726|AlignEnd=12337.0289147|Gloss=one|LTranslit=ŋopoj|Translit=ŋopoj
@@ -64,6 +70,8 @@
 # text = тэри ныдпи -да <p>
 # translit = tæŕi nidṕi -da <p>
 # text_p = тэри ныдпида <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Просто срывает их.
 # text_en = He is just plucking them.
 1	тэри	тэри	ADV	_	_	2	mod	_	AlignBegin=17496.3860358|AlignEnd=17754.3502103|Gloss=just|LTranslit=tæŕi|Translit=tæŕi
@@ -76,6 +84,8 @@
 # text = ӈопой груша я -нʼ мантэ -ей -ˮ <p>
 # translit = ŋopoj gruša ja -nʔ mantæ -ej -ʡ <p>
 # text_p = ӈопой груша янʼ мантэейˮ <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Одна груша упала на землю.
 # text_en = One pear fell to the ground.
 1	ӈопой	ӈопой	NUM	_	_	2	mod	_	AlignBegin=18783.1928194|AlignEnd=19366.8371953|Gloss=one|LTranslit=ŋopoj|Translit=ŋopoj
@@ -92,6 +102,8 @@
 # text = хасава танця -нда серʼ <n> <p> тасиˮ хаˮмы -ˮ <p>
 # translit = xasawa tanća -nda śerʔ <n> <p> taśiʡ xaʡmi -ʡ <p>
 # text_p = хасава танцянда серʼ<n> <p> тасиˮ хаˮмыˮ <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Мужчина спускается по лестнице.
 # text_en = The man climbs down his ladder.
 1	хасава	хасава	NOUN	_	_	8	subj	_	AlignBegin=21015.8854745|AlignEnd=21442.4294014|Gloss=man|LTranslit=xasawa|Translit=xasawa
@@ -110,6 +122,8 @@
 # text = лэмбара -ха -нда ӈэ -да <p> тохоця -нда мюд тохоця пада -нда мюд <p> груши <p> паӈгалмы хыдя -ʼ мюʼ пыдабтамба пяя -да <p>
 # translit = læmbara -xa -nda ŋæ -da <p> toxoća -nda ḿud toxoća pada -nda ḿud <p> gruši <p> paŋgalmi xiďa -ʔ ḿuʔ pidabtamba ṕaja -da <p>
 # text_p = лэмбара -ха -нда ӈэ -да <p> тохоця -нда мюд тохоця пада -нда мюд <p> груши <p> паӈгалмы хыдя -ʼ мюʼ пыдабтамба пяя -да <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Из ткани, что лежала на его груди, из передника, он стал высыпать груши в плетёную корзину.
 # text_en = From the cloth upon his chest, from his apron, he began to pour the pears into a woven basket.
 1	лэмбара	лэмбара	NOUN	_	_	2	comp:obj	_	AlignBegin=24916.0632282|AlignEnd=25618.7693746|Gloss=chest|LTranslit=læmbara|Translit=læmbara
@@ -142,6 +156,8 @@
 # text = вэрдамби -до -в <p> вэрдамби -до -в <p>
 # translit = wærdamb́i -do -w <p> wærdamb́i -do -w <p>
 # text_p = вэрдамбидов <p> вэрдамбидов <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Вынимает их, вынимает их.
 # text_en = He just pulls them, just pulls them.
 1	вэрдамби	вэрдамби	VERB	_	_	3	comp:aux	_	AlignBegin=33366.518752|AlignEnd=34564.2612254|Gloss=pull|LTranslit=wærdamb́i|Translit=wærdamb́i
@@ -158,6 +174,8 @@
 # text = тикы падда тарсиʼ ӈарка ӈэ -ванон -да <p>
 # translit = ťiki padda tarśiʔ ŋarka ŋæ -wanon -da <p>
 # text_p = тикы падда тарсиʼ ӈарка ӈэванонда <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Этот мешок такой огромный.
 # text_en = That bag is so big.
 1	тикы	тикы	PRON	_	PronType=Dem	2	mod	_	AlignBegin=36757.2862218|AlignEnd=36965.9788721|Gloss=that|LTranslit=ťiki|Translit=ťiki
@@ -174,6 +192,8 @@
 # translit = gruša -ʡ <p> <f>susana -wa -ʡ <er>susana -wa -ʡ <f>toʡolxa susa -wa -ʡ toʡolxa ŋobʔ ńi ŋa -ʡ <p>
 # text_p = груша -ˮ <p> <f>сусана -ва -ˮ <er>сусана -ва -ˮ <f>тоˮолха суса -ва -ˮ тоˮолха ӈобʼ ни ӈа -ˮ <p>
 # doc_title = PearStory
+# media = spoken
+# language_variety = Tundra
 # text_ru = Будто груши никогда не кончаются.
 # text_en = It’s as if the pears would never run out.
 1	груша	груша	NOUN	_	_	16	subj	_	AlignBegin=39371.9095957|AlignEnd=40059.7208966|Gloss=pear|LTranslit=gruša|Translit=gruša
@@ -201,6 +221,8 @@
 # text = хасава?ва? пинякуˮ салкая тяхакуˮ вэнамъ -ей -ˮ <p>
 # translit = xasawa?wa? ṕińakuʡ salkaja ťaxakuʡ wænam" -ej -ʡ <p>
 # text_p = хасава?ва? пинякуˮ салкая тяхакуˮ вэнамъейˮ <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Мужчина слегка повернулся и отошёл в сторону.
 # text_en = The man, turning slightly, stepped aside.
 1	хасава?ва?	хасава	NOUN	_	_	3	subj	_	AlignBegin=45846.7465109|AlignEnd=46658.9766515|Gloss=man|LTranslit=xasawa|Translit=xasawa?wa?
@@ -217,6 +239,8 @@
 # text = ӈопой груша -мʼ <p> няанда нэкал -ӈа -да <p>
 # translit = ŋopoj gruša -mʔ <p> ńaanda nækal -ŋa -da <p>
 # text_p = ӈопой груша -мʼ <p> няанда нэкал -ӈа -да <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Он поднял одну грушу.
 # text_en = He picked up a pear.
 1	ӈопой	ӈопой	NUM	_	_	2	mod	_	AlignBegin=49973.6217607|AlignEnd=50479.074636|Gloss=one|LTranslit=ŋopoj|Translit=ŋopoj
@@ -234,6 +258,8 @@
 # text = ика -нда тяхад няръяна ӈокся -м ик -ʼ пэбт -ˮма ӈокся -м хаˮавра <p>
 # translit = ika -nda ťaxad ńar"jana ŋokśa -m ik -ʔ pæbt -ʡma ŋokśa -m xaʡawra <p>
 # text_p = иканда тяхад няръяна ӈоксям икʼ пэбтˮма ӈоксям хаˮавра <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Он снял с шеи красный платок.
 # text_en = He took off the red scarf from around his neck.
 1	ика	ик	NOUN	_	_	2	comp:obj	_	AlignBegin=52700.9490525|AlignEnd=53162.6722407|Gloss=neck|LTranslit=ik|Translit=ika
@@ -256,6 +282,8 @@
 # text = Груша -мʼ тэˮ -ӈа -да <p> хыдя -ʼ мюʼ пуняˮ <p> мэ -да <p>
 # translit = Gruša -mʔ tæʡ -ŋa -da <p> xiďa -ʔ ḿuʔ puńaʡ <p> mæ -da <p>
 # text_p = Грушамʼ тэˮӈада, хыдяʼ мюʼ пуняˮ мэда<p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Вытер грушу и положил её обратно в корзину.
 # text_en = He wiped the pear and put it back in the basket.
 1	Груша	груша	NOUN	_	_	2	comp:obj	_	AlignBegin=56795.715883|AlignEnd=57335.9482855|Gloss=pear|LTranslit=gruša|Translit=Gruša
@@ -278,6 +306,8 @@
 # text = тохоця -м -да ика -нда тяхаʼ сяра -да <p>
 # translit = toxoća -m -da ika -nda ťaxaʔ śara -da <p>
 # text_p = тохоцямда иканда тяхаʼ сярада <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Он снова повязал свой платок.
 # text_en = He tied his scarf back on.
 1	тохоця	тохоця	NOUN	_	_	2	comp:obj	_	AlignBegin=63243.6463815|AlignEnd=63737.7950401|Gloss=cloth|LTranslit=toxoća|Translit=toxoća
@@ -295,6 +325,8 @@
 # text = тяхад <p> ӈани ӈопой хасава <p> хорова -мʼ минре ӈадимя <p>
 # translit = ťaxad <p> ŋańi ŋopoj xasawa <p> xorowa -mʔ ḿinŕe ŋaďiḿa <p>
 # text_p = тяхад <p> ӈани ӈопой хасава <p> хорова- мʼ минре ӈадимя <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = С той стороны появился ещё один мужчина, ведя с собой корову.
 # text_en = From the other side came another man, leading a cow.
 1	тяхад	тяхад	ADP	_	_	10	mod	_	AlignBegin=66502.0111489|AlignEnd=67151.1324307|Gloss=behind.abl|LTranslit=ťaxad|Translit=ťaxad
@@ -314,6 +346,8 @@
 # text = хасава -нд тикы <p> ӈоди маˮламба -да -нд сидя хыдя -да терсавэй -хаʼ ӈоб хыдя -да терси <p>
 # translit = xasawa -nd ťiki <p> ŋoďi maʡlamba -da -nd śiďa xiďa -da ťersawæj -xaʔ ŋob xiďa -da ťerśi <p>
 # text_p = хасаванд тикы <p> ӈоди маˮламбаднд сидя хыдяда терсавэйхаʼ ӈоб хыдяда терси <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = У мужчины, собирающего плоды, две корзины полные и одна пустая.
 # text_en = A man gathering fruit has two baskets full, with one left empty.
 1	хасава	хасава	NOUN	_	_	2	comp:obj	_	AlignBegin=72889.2542445|AlignEnd=73498.7098665|Gloss=man|LTranslit=xasawa|Translit=xasawa
@@ -340,6 +374,8 @@
 # text = нябтинд манэ -ць тика -р хорова ни -вы ӈа -ˮ <p> тика -р хуˮхобаˮяˮ ӈэ -вы коза <p>
 # translit = ńabťind manæ -ć ťika -r xorowa ńi -wi ŋa -ʡ <p> ťika -r xuʡxobaʡjaʡ ŋæ -wi koza <p>
 # text_p = нябтинд манэ -ць тика -р хорова ни -вы ӈа -ˮ <p> тика -р хуˮхобаˮяˮ ӈэ -вы коза <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Приглядевшись, оказалось, что это не корова, а коза.
 # text_en = If you look closely, it is not a cow, but a goat.
 1	нябтинд	нябтинд	ADV	_	_	3	mod	_	AlignBegin=79955.7787924|AlignEnd=80497.1930117|Gloss=close|LTranslit=ńabťind|Translit=ńabťind
@@ -366,6 +402,8 @@
 # text = коза -ʼ ика -нда тяхана?мэ? сеӈга тайна <p>
 # translit = koza -ʔ ika -nda ťaxana?mæ? śeŋga tajna <p>
 # text_p = козаʼ иканда тяхана?мэ? сеӈга тайна <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = На шее козы звенел маленький колокольчик.
 # text_en = The goat had a bell around its neck.
 1	коза	коза	NOUN	_	_	2	comp:obj	_	AlignBegin=85583.2311957|AlignEnd=85975.8787276|Gloss=goat|LTranslit=koza|Translit=koza
@@ -382,6 +420,8 @@
 # text = хасава <p> коза -мʼ минре -на <p> ня -нда хэву -вна ӈобʼ тяха хая <p>
 # translit = xasawa <p> koza -mʔ ḿinŕe -na <p> ńa -nda xæwu -wna ŋobʔ ťaxa xaja <p>
 # text_p = хасава <p> коза -мʼ минре -на <p> ня -нда хэву -вна ӈобʼ тяха хая <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Мужчина, ведущий козу, прошёл мимо своего товарища.
 # text_en = The man, leading the goat, walked past his companion.
 1	хасава	хасава	NOUN	_	_	14	subj	_	AlignBegin=89340.7271168|AlignEnd=90203.4425935|Gloss=man|LTranslit=xasawa|Translit=xasawa
@@ -405,6 +445,8 @@
 # text = груши маˮламба -да хасава <p> панˮя -м -да <er>пан хыдяˮя -м -да тамна <p> <er>тамна тяхаˮ тердемби -да <p>
 # translit = gruši maʡlamba -da xasawa <p> panʡja -m -da <er>pan xiďaʡja -m -da tamna <p> <er>tamna ťaxaʡ ťerďemb́i -da <p>
 # text_p = груши маˮламба -да хасава <p> панˮя -м -да <er>пан хыдяˮя -м -да тамна <p> <er>тамна тяхаˮ тердемби -да <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Мужчина, собирающий груши, продолжает наполнять свой подол; большой обручатый плетёный кош.
 # text_en = The man gathering pears keeps filling his pothol; his large-rimmed woven basket.
 1	груши	груша	NOUN	_	_	2	comp:obj	_	AlignBegin=96823.4659996|AlignEnd=97083.9011966|Gloss=pear.pl.acc|LTranslit=gruša|Translit=gruši
@@ -432,6 +474,8 @@
 # text = ӈэва -нда ниня сэрˮ саваˮя -мʼ мэˮ -ӈа <n> <p>
 # translit = ŋæwa -nda ńińa særʡ sawaʡja -mʔ mæʡ -ŋa <n> <p>
 # text_p = ӈэва -нда ниня сэрˮ саваˮя -мʼ мэˮ -ӈа <n> <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = На его голове была белая шляпа.
 # text_en = On his head, he wore a white hat.
 1	ӈэва	ӈэва	NOUN	_	_	2	comp:obj	_	AlignBegin=103170.891831|AlignEnd=103570.028408|Gloss=head|LTranslit=ŋæwa|Translit=ŋæwa
@@ -450,6 +494,8 @@
 # translit = ťaxad taŕemʔ sir -apʔ ŋamgæ <p> xarasa -d xa -da <f>ŋaćekæko xasawa ŋaćekæko <p> ŋańi sab́eta -na <n> <p> ?ëś? pær -xana <n> taʡaľ pær -ŋa -da <p>
 # doc_title = PearStory
 # text_p = тяхад таремʼ сыр -апʼ ӈамгэ <p> хараса -д ха -да <f>ӈацекэко хасава ӈацекэко <p> ӈани сабета -на <n> <p> ?ёсь? пэр -хана <n> таˮаль пэр -ӈа -да <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Если присмотреться, издалека идёт ребёнок, мальчишка, тоже в шляпе.
 # text_en = If you look closely, a child is coming from a distance, a boy, also wearing a hat.
 1	тяхад	тяхад	ADP	_	_	4	mod	_	AlignBegin=107643.186129|AlignEnd=108032.851637|Gloss=behind.abl|LTranslit=ťaxad|Translit=ťaxad
@@ -486,6 +532,8 @@
 # text = вэба -ˮ тяхад <p> ӈадибер -ӈа <p>
 # translit = wæba -ʡ ťaxad <p> ŋaďib́er -ŋa <p>
 # text_p = вэба -ˮ тяхад <p> ӈадибер -ӈа <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Он возник из-за листвы.
 # text_en = He appears from behind the foliage.
 1	вэба	вэба	NOUN	_	_	2	comp:obj	_	AlignBegin=118127.678554|AlignEnd=118482.202693|Gloss=foliage|LTranslit=wæba|Translit=wæba
@@ -501,6 +549,8 @@
 # text = ӈэдалё -ва -нда серʼ <p> хахая то <n> <p>
 # translit = ŋædaľo -wa -nda śerʔ <p> xaxaja to <n> <p>
 # text_p = ӈэдалёванда серʼ <p> хахая то <n> <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Пока он шёл, подъехал совсем близко.
 # text_en = While he was walking, he came closer.
 1	ӈэдалё	ӈэдалё	VERB	_	_	2	comp:aux	_	AlignBegin=122593.363106|AlignEnd=123270.118366|Gloss=move|LTranslit=ŋædaľo|Translit=ŋædaľo
@@ -518,6 +568,8 @@
 # text = хасава -н хэва -нʼ <p> нулта -да <p>
 # translit = xasawa -n xæwa -nʔ <p> nulta -da <p>
 # text_p = хасава -н хэва -нʼ <p> нулта -да <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Он остановился рядом с мужчиной.
 # text_en = He stopped by the man.
 1	хасава	хасава	NOUN	_	_	2	comp:obj	_	AlignBegin=126380.789572|AlignEnd=126851.231803|Gloss=man|LTranslit=xasawa|Translit=xasawa
@@ -534,6 +586,8 @@
 # text = велосипеда -нда нид <p> хаˮмы -ˮ <n> <p>
 # translit = welośiṕeda -nda ńid <p> xaʡmi -ʡ <n> <p>
 # text_p = велосипеданда нид <p> хаˮмыˮ <n> <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Он спустился с велосипеда.
 # text_en = He got off his bike.
 1	велосипеда	велосипед	NOUN	_	_	2	comp:obj	_	AlignBegin=129280.033299|AlignEnd=129991.966069|Gloss=bicycle|LTranslit=welośiṕed|Translit=welośiṕeda
@@ -550,6 +604,8 @@
 # text = я -нʼ хавда -да <p> велосипедако -м -да <p>
 # translit = ja -nʔ xawda -da <p> welośiṕedako -m -da <p>
 # text_p = янʼ хавдада <p> велосипедакомда <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Он повалил велосипед на землю.
 # text_en = He dropped his bike on the ground.
 1	я	я	NOUN	_	_	2	comp:obj	_	AlignBegin=134652.342434|AlignEnd=135113.76382|Gloss=land|LTranslit=ja|Translit=ja
@@ -567,6 +623,8 @@
 # text = Груши -ʼ хыдя -ʼ мюд? <er>мюд ӈобʼ груша -мʼ няˮма <p>
 # translit = Gruši -ʔ xiďa -ʔ ḿud? <er>ḿud ŋobʔ gruša -mʔ ńaʡma <p>
 # text_p = Грушиʼ хыдяʼ мюд? <er>мюд ӈобʼ грушамʼ няˮма <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Он достал одну грушу из корзины с грушами.
 # text_en = He picked a pear from the basket of pears.
 1	Груши	груша	NOUN	_	_	2	comp:obj	_	AlignBegin=142068.314447|AlignEnd=142611.951522|Gloss=pear.pl|LTranslit=gruša|Translit=Gruši
@@ -586,6 +644,8 @@
 # text = пуняʼ мэ -да <p>
 # translit = puńaʔ mæ -da <p>
 # text_p = пуняʼ мэда <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Положил её обратно.
 # text_en = He put it back.
 1	пуняʼ	пуняʼ	ADV	_	_	2	mod	_	AlignBegin=145869.205594|AlignEnd=146269.216888|Gloss=back|LTranslit=puńaʔ|Translit=puńaʔ
@@ -598,6 +658,8 @@
 # text = тад тикахад груша -ˮ хыдя -мʼ <p> велосипеда -нда някун тэвра -да <p>
 # translit = tad ťikaxad gruša -ʡ xiďa -mʔ <p> welośiṕeda -nda ńakun tæwra -da <p>
 # text_p = тад тикахад грушаˮ хыдямʼ <p> велосипеданда някун тэврада <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Затем он подтянул корзину с грушами ближе к своему велосипеду.
 # text_en = Then he pulled the basket of pears closer to his bicycle.
 1	тад	тад	ADV	_	_	11	mod	_	AlignBegin=147701.393926|AlignEnd=147908.545061|Gloss=afterwards|LTranslit=tad|Translit=tad
@@ -619,6 +681,8 @@
 # text = велосипедаˮя -м -да нулабта -да <p>
 # translit = welośiṕedaʡja -m -da nulabta -da <p>
 # text_p = велосипедаˮямда нулабтада <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Он поставил велосипед.
 # text_en = He set his bicycle upright.
 1	велосипедаˮя	велосипед	NOUN	_	_	2	comp:obj	_	AlignBegin=153113.437391|AlignEnd=154011.327412|Gloss=bicycle|LTranslit=welośiṕed|Translit=welośiṕedaʡja
@@ -633,6 +697,8 @@
 # text = савамбоковна <f>тивы тидхалемби -да <p>
 # translit = sawambokowna <f>ťiwi ťidxaľemb́i -da <p>
 # text_p = савамбоковна <f>тивы тидхалембида <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Он осторожно поправляет его.
 # text_en = He adjusts it carefully.
 1	савамбоковна	савамбовна	ADV	_	_	3	mod	_	AlignBegin=156787.692714|AlignEnd=157493.148383|Gloss=carefully|LTranslit=sawambowna|Translit=sawambokowna
@@ -646,6 +712,8 @@
 # text = ӈэ -м -да велосипед?мэ? нярхал -да еся -ʼ няби -ʼ няюʼ мо -да <p>
 # translit = ŋæ -m -da welośiṕed?mæ? ńarxal -da eśa -ʔ ńab́i -ʔ ńajuʔ mo -da <p>
 # text_p = ӈэмда велосипед?мэ? нярхалда есяʼ нябиʼ няюʼ мода <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Он перекинул ногу через раму велосипеда на другую сторону.
 # text_en = He swung his leg over the bicycle frame to the other side.
 1	ӈэ	ӈэ	NOUN	_	_	2	comp:obj	_	AlignBegin=159099.99663|AlignEnd=159402.915289|Gloss=leg|LTranslit=ŋæ|Translit=ŋæ
@@ -668,6 +736,8 @@
 # text = тадтикахад <p> яблокта хыдя -мʼ <p> велосипеда -нда <p> няˮморця -нда неряна хэва -нʼ ӈабта -да <p>
 # translit = tadťikaxad <p> jablokta xiďa -mʔ <p> welośiṕeda -nda <p> ńaʡmorća -nda ńeŕana xæwa -nʔ ŋabta -da <p>
 # text_p = тадтикахад <p> яблокта хыдямʼ <p> велосипеданда <p> няˮморцянда неряна хэванʼ ӈабтада <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Затем он поставил перед рулём велосипеда свою корзину яблок (груш).
 # text_en = Then he placed his basket of apples (pears) in front of the bicycle’s handlebar.
 1	тадтикахад	тадтикахад	ADV	_	_	15	mod	_	AlignBegin=163094.0259|AlignEnd=163875.796885|Gloss=afterwards|LTranslit=tadťikaxad|Translit=tadťikaxad
@@ -693,6 +763,8 @@
 # text = тад тикахавад <f>хасава <f>ӈэда<un> хасава ӈацекы ӈэдалэ -й -ˮ <p>
 # translit = tad ťikaxawad <f>xasawa <f>ŋæda<un> xasawa ŋaćeki ŋædalæ -j -ʡ <p>
 # text_p = тад тикахавад <f>хасава <f>ӈэда<un> хасава ӈацекы ӈэдалэ -й -ˮ <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = После этого мужчина с мальчиком уехали.
 # text_en = Then the man and the boy left.
 1	тад	тад	ADV	_	_	8	mod	_	AlignBegin=170499.513543|AlignEnd=170715.706299|Gloss=afterwards|LTranslit=tad|Translit=tad
@@ -711,6 +783,8 @@
 # text = ӈоди маˮламба -да -р танця -ʼ ниня ну -сь тамна тяхаˮ ӈоди маˮламби <p>
 # translit = ŋoďi maʡlamba -da -r tanća -ʔ ńińa nu -ś tamna ťaxaʡ ŋoďi maʡlamb́i <p>
 # text_p = ӈоди маˮламба -да -р танця -ʼ ниня ну -сь тамна тяхаˮ ӈоди маˮламби <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Собирающий плоды, стоя на лестнице, продолжает собирать.
 # text_en = The fruit picker, standing on the ladder, continues to pick fruit.
 1	ӈоди	ӈодя	NOUN	_	_	2	comp:obj	_	AlignBegin=174679.219176|AlignEnd=174965.836592|Gloss=berry.pl.acc|LTranslit=ŋoďa|Translit=ŋoďi
@@ -733,6 +807,8 @@
 # text = хасава ӈацекы ӈэдалы сятаняʼ маханяʼ сятаняʼ маханяʼ <p>
 # translit = xasawa ŋaćeki ŋædali śatańaʔ maxańaʔ śatańaʔ maxańaʔ <p>
 # text_p = хасава ӈацекы ӈэдалы сятаняʼ маханяʼ сятаняʼ маханяʼ <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Мальчик едет то влево, то вправо, то влево, то вправо.
 # text_en = The boy rides, swaying left and right, left and right.
 1	хасава	хасава	NOUN	_	_	2	mod	_	AlignBegin=178135.59453|AlignEnd=178467.319536|Gloss=man|LTranslit=xasawa|Translit=xasawa
@@ -749,6 +825,8 @@
 # text = ханяӈыˮ груши -да я -нʼ мантыр -такы -ˮ <p>
 # translit = xańaŋiʡ gruši -da ja -nʔ mantir -taki -ʡ <p>
 # text_p = ханяӈыˮ грушида янʼ мантыртакыˮ <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Наверное, некоторые груши падают.
 # text_en = Perhaps some of the pears are falling.
 1	ханяӈыˮ	ханяӈыˮ	DET	_	_	2	det	_	AlignBegin=182212.69459|AlignEnd=182628.434561|Gloss=which|LTranslit=xańaŋiʡ|Translit=xańaŋiʡ
@@ -766,6 +844,8 @@
 # text = таремʼ мин -дя -ха -нда нера -нда няʼ не ӈацекы -мʼ манэˮ -ӈа <p>
 # translit = taŕemʔ ḿin -ďa -xa -nda ńera -nda ńaʔ ńe ŋaćeki -mʔ manæʡ -ŋa <p>
 # text_p = таремʼ мин -дя -ха -нда нера -нда няʼ не ӈацекы -мʼ манэˮ -ӈа <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Пока он ехал, он увидел впереди себя девочку.
 # text_en = While he was riding, he saw a girl ahead of him.
 1	таремʼ	таремʼ	ADV	_	_	2	mod	_	AlignBegin=185396.151209|AlignEnd=185690.172247|Gloss=this.way|LTranslit=taŕemʔ|Translit=taŕemʔ
@@ -788,6 +868,8 @@
 # text = не ӈацекэкоʼ?мэ? сидя паӈгаляр -та <p>
 # translit = ńe ŋaćekækoʔ?mæ? śiďa paŋgaľar -ta <p>
 # text_p = не ӈацекэкоʼ?мэ? сидя паӈгалярта <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = У девочки две косы.
 # text_en = The girl has two braids.
 1	не	не	NOUN	_	_	2	mod	_	AlignBegin=188531.151451|AlignEnd=188774.849046|Gloss=woman|LTranslit=ńe|Translit=ńe
@@ -802,6 +884,8 @@
 # text = сидя парисеˮэ паӈгаляр -кава -да -ӈэ <p> париде -ри -ӈа -хаʼ <p>
 # translit = śiďa paŕiśeʡæ paŋgaľar -kawa -da -ŋæ <p> paŕiďe -ŕi -ŋa -xaʔ <p>
 # text_p = сидя парисеˮэ паӈгаляркавадаӈэ <p> паридериӈахаʼ <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Её две косы были очень чёрные.
 # text_en = Her two braids were very black indeed.
 1	сидя	сидя	NUM	_	_	3	mod	_	AlignBegin=191102.609689|AlignEnd=191367.715038|Gloss=two|LTranslit=śiďa|Translit=śiďa
@@ -822,6 +906,8 @@
 # text = таремʼ мэ -на -ха -нда ӈобтʼ теб -ӈа -хаʼ <p>
 # translit = taŕemʔ mæ -na -xa -nda ŋobtʔ ťeb -ŋa -xaʔ <p>
 # text_p = таремʼ мэ -на -ха -нда ӈобтʼ теб -ӈа -хаʼ <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = И вот они столкнулись.
 # text_en = And so they crashed into each other.
 1	таремʼ	таремʼ	ADV	_	_	2	mod	_	AlignBegin=195540.020253|AlignEnd=195785.238685|Gloss=this.way|LTranslit=taŕemʔ|Translit=taŕemʔ
@@ -840,6 +926,8 @@
 # text = хасава ӈацекэ -р?мэ? <p> мане пэˮя -нʼ табкая -ма -ха <p> велосипеда -м' <iw>хава <p>
 # translit = xasawa ŋaćekæ -r?mæ? <p> mańe pæʡja -nʔ tabkaja -ma -xa <p> welośiṕeda -m' <iw>xawa <p>
 # text_p = хасава ӈацекэр?мэ? <p> мане пэˮянʼ табкаямаха <p> велосипедам' <iw>хава <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Велосипед мальчика упал, столкнувшись с камнем.
 # text_en = The boy’s bike hit a stone and fell over.
 1	хасава	хасава	NOUN	_	_	2	mod	_	AlignBegin=198206.326009|AlignEnd=198598.281545|Gloss=man|LTranslit=xasawa|Translit=xasawa
@@ -863,6 +951,8 @@
 # text = моˮнэ -й -ʼ хасава ӈацекы <p>
 # translit = moʡnæ -j -ʔ xasawa ŋaćeki <p>
 # text_p = моˮнэйʼ хасава ӈацекы <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Мальчик упал.
 # text_en = The boy fell down.
 1	моˮнэ	моˮна	VERB	_	_	2	comp:aux	_	AlignBegin=205423.666659|AlignEnd=205887.346094|Gloss=fall|LTranslit=moʡna|Translit=moʡnæ
@@ -877,6 +967,8 @@
 # text = я -ʼ хавул -ма -да груши -да -м' <p> я -вна тэри <p> тахара -ˮ <p>
 # translit = ja -ʔ xawul -ma -da gruši -da -m' <p> ja -wna tæŕi <p> taxara -ʡ <p>
 # text_p = я -ʼ хавул -ма -да груши -да -м' <p> я -вна тэри <p> тахара -ˮ <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Его груши рассыпались по земле.
 # text_en = His pears were scattered on the ground.
 1	я	я	NOUN	_	_	2	comp:obj	_	AlignBegin=207443.113083|AlignEnd=207694.929725|Gloss=land|LTranslit=ja|Translit=ja
@@ -901,6 +993,8 @@
 # text = хасава ӈацекэко?мэ? <p> <f>тобака -нда <f>тохо' тохо' тобака -нда ханерако -мʼ тасикун мэ -да <p> ӈэ -м -да е -денакы <p>
 # translit = xasawa ŋaćekæko?mæ? <p> <f>tobaka -nda <f>toxo' toxo' tobaka -nda xańerako -mʔ taśikun mæ -da <p> ŋæ -m -da e -ďenaki <p>
 # text_p = хасава ӈацекэко?мэ? <p> <f>тобака -нда <f>тохо' тохо' тобака -нда ханерако -мʼ тасикун мэ -да <p> ӈэ -м -да е -денакы <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Мальчик слегка спустил свои высокие носки, наверное, у него болела нога.
 # text_en = The boy tugged his high socks down a little; his leg was probably hurting.
 1	хасава	хасава	NOUN	_	_	2	mod	_	AlignBegin=212670.353086|AlignEnd=212952.577385|Gloss=man|LTranslit=xasawa|Translit=xasawa
@@ -930,6 +1024,8 @@
 # text = хэв -хана -нда няхар хасава ӈацекы мэ -вы -ˮ <p>
 # translit = xæw -xana -nda ńaxar xasawa ŋaćeki mæ -wi -ʡ <p>
 # text_p = хэвхананда няхар хасава ӈацекы мэвыˮ <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Рядом с ним оказались три мальчика.
 # text_en = Next to him were three boys.
 1	хэв	хэв	NOUN	_	_	2	comp:obj	_	AlignBegin=219430.946922|AlignEnd=219901.716931|Gloss=side|LTranslit=xæw|Translit=xæw
@@ -948,6 +1044,8 @@
 # text = <d> тасехэй имбытадота -на сюнраха имбытадота -на няръяна имбытадота -на хасава ӈацекы <p>
 # translit = <d> taśexæj imbitadota -na śunraxa imbitadota -na ńar"jana imbitadota -na xasawa ŋaćeki <p>
 # text_p = <d> тасехэй имбытадотана сюнраха имбытадотана няръяна имбытадотана хасава ӈацекы <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Один в жёлтой рубашке, один в синей и один в красной.
 # text_en = One wore a yellow shirt, one a blue, and one a red.
 1	<d>	<d>	INTJ	_	_	2	discourse	_	AlignBegin=222840.457626|AlignEnd=224516.201632|Gloss=X|LTranslit=<d>|Translit=<d>
@@ -969,6 +1067,8 @@
 # text = ня -м -доʼ груша маˮламба нядаба пя -доʼ <p>
 # translit = ńa -m -doʔ gruša maʡlamba ńadaba ṕa -doʔ <p>
 # text_p = нямдоʼ груша маˮламба нядаба пядоʼ <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Они начали помогать товарищу собирать груши.
 # text_en = They began helping their friend pick pears.
 1	ня	ня	NOUN	_	_	2	comp:obj	_	AlignBegin=229536.132321|AlignEnd=230190.213911|Gloss=friend|LTranslit=ńa|Translit=ńa
@@ -986,6 +1086,8 @@
 # text = груши хыдя -ʼ мюʼ моёˮя -доʼ <p>
 # translit = gruši xiďa -ʔ ḿuʔ moëʡja -doʔ <p>
 # text_p = груши хыдя -ʼ мюʼ моёˮя -доʼ <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Они закидали груши в корзину.
 # text_en = They threw the pears into the basket.
 1	груши	груша	NOUN	_	_	5	comp:obj	_	AlignBegin=232528.27234|AlignEnd=232924.918424|Gloss=pear.pl.acc|LTranslit=gruša|Translit=gruši
@@ -1001,6 +1103,8 @@
 # text = ӈобкана маˮлэ -й -доʼ <p>
 # translit = ŋobkana maʡlæ -j -doʔ <p>
 # text_p = ӈобкана маˮлэйдоʼ <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Собрали их все вместе.
 # text_en = They gathered them all together.
 1	ӈобкана	ӈобкана	ADV	_	_	3	mod	_	AlignBegin=235371.935722|AlignEnd=235741.960911|Gloss=together|LTranslit=ŋobkana|Translit=ŋobkana
@@ -1014,6 +1118,8 @@
 # text = ӈобʼ хасава ӈацекэко?мэ? сянакубц -мʼ мэˮ -ӈо -в <p>
 # translit = ŋobʔ xasawa ŋaćekæko?mæ? śanakubc -mʔ mæʡ -ŋo -w <p>
 # text_p = ӈобʼ хасава ӈацекэко?мэ? сянакубцмʼ мэˮӈов <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Один из мальчиков играет в игру.
 # text_en = One of the boys is playing a game.
 1	ӈобʼ	ӈобʼ	NUM	_	_	3	mod	_	AlignBegin=237734.941597|AlignEnd=238008.750666|Gloss=once,and|LTranslit=ŋobʔ|Translit=ŋobʔ
@@ -1031,6 +1137,8 @@
 # text = няби -ˮ ни -да?мэ? <p> ня -м -доʼ нядаба <p> <d> паӈгалмы <p> <pr>паӈгалм груша -ˮ хыдя -мʼ <p> велосипед -ʼ ниʼ ӈаюба -доʼ <p>
 # translit = ńab́i -ʡ ńi -da?mæ? <p> ńa -m -doʔ ńadaba <p> <d> paŋgalmi <p> <pr>paŋgalm gruša -ʡ xiďa -mʔ <p> welośiṕed -ʔ ńiʔ ŋajuba -doʔ <p>
 # text_p = няби -ˮ ни -да?мэ? <p> ня -м -доʼ нядаба <p> <d> паӈгалмы <p> <pr>паӈгалм груша -ˮ хыдя -мʼ <p> велосипед -ʼ ниʼ ӈаюба -доʼ <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Другие его товарищи, помогая товарищу, аккуратно поставили плетёную корзину с грушами на велосипед.
 # text_en = The other boys, helping their companion, carefully set a woven basket of pears on the bicycle.
 1	няби	няби	DET	_	_	3	mod	_	AlignBegin=240941.556773|AlignEnd=241326.089934|Gloss=other|LTranslit=ńab́i|Translit=ńab́i
@@ -1064,6 +1172,8 @@
 # text = мане пэˮя -мʼ хэвняʼ моˮма -ˮ <p>
 # translit = mańe pæʡja -mʔ xæwńaʔ moʡma -ʡ <p>
 # text_p = мане пэˮямʼ хэвняʼ моˮмаˮ <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = И они откинули камень в сторону.
 # text_en = And they threw the stone aside.
 1	мане	X	INTJ	_	_	2	discourse	_	AlignBegin=251041.020004|AlignEnd=251265.3446|Gloss=X|LTranslit=X|Translit=mańe
@@ -1079,6 +1189,8 @@
 # text = харто и -ндоʼ серʼ хасава ӈацекы -ˮ ӈани ялъяд -ˮ <p> ня -доʼ няби -ʼ няюʼ ӈэдалэ -й -ˮ <p>
 # translit = xarto i -ndoʔ śerʔ xasawa ŋaćeki -ʡ ŋańi jal"jad -ʡ <p> ńa -doʔ ńab́i -ʔ ńajuʔ ŋædalæ -j -ʡ <p>
 # text_p = харто и -ндоʼ серʼ хасава ӈацекы -ˮ ӈани ялъяд -ˮ <p> ня -доʼ няби -ʼ няюʼ ӈэдалэ -й -ˮ <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Мальчики пошли дальше по своим делам, а их товарищ поехал в другом направлении.
 # text_en = The boys went on with their business, and their companion went in another direction.
 1	харто	харта	PRON	_	_	3	mod	_	AlignBegin=253057.880372|AlignEnd=253329.610226|Gloss=refl.3sg|LTranslit=xarta|Translit=xarto
@@ -1107,6 +1219,8 @@
 # text = таремʼ яд -на -ха -ндоʼ иня_няӈыʼ хэву -вна -ндоʼ <p> ня -ндоʼ <p> ха"маэ -м мантэ -вы сава -мʼ хо -ˮ <p>
 # translit = taŕemʔ jad -na -xa -ndoʔ ińa_ńaŋiʔ xæwu -wna -ndoʔ <p> ńa -ndoʔ <p> xa"maæ -m mantæ -wi sawa -mʔ xo -ʡ <p>
 # text_p = таремʼ яд -на -ха -ндоʼ иня_няӈыʼ хэву -вна -ндоʼ <p> ня -ндоʼ <p> ха"маэ -м мантэ -вы сава -мʼ хо -ˮ <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Когда они повернули налево, они нашли упавшую шляпу своего товарища.
 # text_en = Turning left, they saw their companion’s hat lying on the ground.
 1	таремʼ	таремʼ	ADV	_	_	2	mod	_	AlignBegin=258969.302969|AlignEnd=259274.710934|Gloss=this.way|LTranslit=taŕemʔ|Translit=taŕemʔ
@@ -1137,6 +1251,8 @@
 # text = сюнраха имбытадота -на хасава ӈацекы ня -нда сава -мʼ няˮма -да ня -ха -нда тёре -накы -ˮ <p> хасаво -в <p> сава -м -д юр -вэн -эй <p>
 # translit = śunraxa imbitadota -na xasawa ŋaćeki ńa -nda sawa -mʔ ńaʡma -da ńa -xa -nda ťoŕe -naki -ʡ <p> xasawo -w <p> sawa -m -d jur -wæn -æj <p>
 # text_p = сюнраха имбытадотана хасава ӈацекы нянда сава- мʼ няˮмада няханда тёренакыˮ <p> хасавов <p> савамд юрвэнэй <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Мальчик в синей рубашке поднял шляпу своего товарища и, наверное, крикнул ему: Мужчина, вы забыли шляпу!
 # text_en = The boy in the blue shirt picked up his companion’s hat and probably shouted to him: Man, you forgot your hat!
 1	сюнраха	сюнраха	ADJ	_	_	2	mod	_	AlignBegin=265426.612893|AlignEnd=265869.122575|Gloss=blue|LTranslit=śunraxa|Translit=śunraxa
@@ -1173,6 +1289,8 @@
 # text = няби -р : пирхата ӈэ -вы -нёˮ юрˮя -вэв -нёˮ <p>
 # translit = ńab́i -r : ṕirxata ŋæ -wi -ńoʡ jurʡja -wæw -ńoʡ <p>
 # text_p = нябир: пирхата ӈэвынёˮ юрˮявэвнёˮ <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Другой: Действительно, я её забыл.
 # text_en = The other one: I really did forget it.
 1	няби	няби	DET	_	_	0	root	_	AlignBegin=273499.020669|AlignEnd=274039.649211|Gloss=other|LTranslit=ńab́i|Translit=ńab́i
@@ -1192,6 +1310,8 @@
 # text = сава -ми нерʼ не ӈацекы -мʼ <p> манэˮ -ма -ни серʼ ӈэва -ни нид <p> ӈобтʼ теб -ва -ниʼ серʼ хэ<un> хэвняʼ мантэ -рхавыˮ -нёʼ <p>
 # translit = sawa -ḿi ńerʔ ńe ŋaćeki -mʔ <p> manæʡ -ma -ńi śerʔ ŋæwa -ńi ńid <p> ŋobtʔ ťeb -wa -ńiʔ śerʔ xæ<un> xæwńaʔ mantæ -rxawiʡ -ńoʔ <p>
 # text_p = савами нерʼ не ӈацекымʼ <p> манэˮмани серʼ ӈэвани нид <p> ӈобтʼ тебваниʼ серʼ хэ<un> хэвняʼ мантэрхавыˮнёʼ <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Кажется, моя шляпа упала в сторону, когда я заметил девочку, и мы столкнулись с ней.
 # text_en = My hat must have fallen to the side when I saw the girl and we ran into her.
 1	сава	сава	NOUN	_	_	25	subj	_	AlignBegin=275924.368231|AlignEnd=276329.778394|Gloss=hat|LTranslit=sawa|Translit=sawa
@@ -1226,6 +1346,8 @@
 # text = ненаˮ сава -нёˮ савакоця -ми та -ра -нёˮ <p>
 # translit = ńenaʡ sawa -ńoʡ sawakoća -ḿi ta -ra -ńoʡ <p>
 # text_p = ненаˮ сава -нёˮ савакоця -ми та -ра -нёˮ <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Так хорошо с твоей стороны, что ты вернул мне шляпу.
 # text_en = How kind of you to give me back my hat.
 1	ненаˮ	ненаˮ	ADV	_	_	2	mod	_	AlignBegin=283554.392903|AlignEnd=283885.342518|Gloss=very|LTranslit=ńenaʡ|Translit=ńenaʡ
@@ -1243,6 +1365,8 @@
 # text = ти сава -ми <er>сава -ми таˮ -ванд <p> еˮэйӈэ <p> тюку груша -да -р хана -ˮ <p>
 # translit = ťi sawa -ḿi <er>sawa -ḿi taʡ -wand <p> eʡæjŋæ <p> ťuku gruša -da -r xana -ʡ <p>
 # text_p = ти сава -ми <er>сава -ми таˮ -ванд <p> еˮэйӈэ <p> тюку груша -да -р хана -ˮ <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Возьми немного груш взамен моей шляпы.
 # text_en = Take some pears in exchange for my hat.
 1	ти	ти	ADV	_	_	16	mod	_	AlignBegin=285873.871699|AlignEnd=286160.682522|Gloss=here|LTranslit=ťi|Translit=ťi
@@ -1268,6 +1392,8 @@
 # text = хасава ӈацекы сюрамба ня -хаю -та няна хая <p>
 # translit = xasawa ŋaćeki śuramba ńa -xaju -ta ńana xaja <p>
 # text_p = хасава ӈацекы сюрамба няхаюта няна хая <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Мальчик побежал к своим двум товарищам.
 # text_en = The boy ran to his two friends.
 1	хасава	хасава	NOUN	_	_	2	mod	_	AlignBegin=292962.965883|AlignEnd=293365.745206|Gloss=man|LTranslit=xasawa|Translit=xasawa
@@ -1285,6 +1411,8 @@
 # text = ня -хаю -та няʼ тодоʼ ӈопой?мэ? груша миˮ -ӈа -ˮ <p>
 # translit = ńa -xaju -ta ńaʔ todoʔ ŋopoj?mæ? gruša ḿiʡ -ŋa -ʡ <p>
 # text_p = няхаюта няʼ тодоʼ ӈопой?мэ? груша миˮӈаˮ <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Он раздал каждому из своих товарищей по одной груше.
 # text_en = He gave each of them a pear.
 1	ня	ня	NOUN	_	_	3	comp:obj	_	AlignBegin=296559.197746|AlignEnd=297146.917804|Gloss=friend|LTranslit=ńa|Translit=ńa
@@ -1304,6 +1432,8 @@
 # text = тикы тика -ндоʼ?мэ? тамна тяхаʼ ялъя -дˮ <p>
 # translit = ťiki ťika -ndoʔ?mæ? tamna ťaxaʔ jal"ja -dʡ <p>
 # text_p = тикы тикандоʼ?мэ? тамна тяхаʼ ялъядˮ <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Так они пошли дальше.
 # text_en = And so they continued on their way.
 1	тикы	тикы	PRON	_	PronType=Dem	2	mod	_	AlignBegin=300730.100862|AlignEnd=301101.015981|Gloss=that|LTranslit=ťiki|Translit=ťiki
@@ -1320,6 +1450,8 @@
 # text = сюнраха имбытадота -на хасава ӈацекэ -р?мэ? <p> груша -м -да?мэ? <p> имбыта -ка -нда тэˮ -ӈа -да тика сякал -ӈа -да <p>
 # translit = śunraxa imbitadota -na xasawa ŋaćekæ -r?mæ? <p> gruša -m -da?mæ? <p> imbita -ka -nda tæʡ -ŋa -da ťika śakal -ŋa -da <p>
 # text_p = сюнраха имбытадотана хасава ӈацекэр?мэ? <p> грушамда?мэ? <p> имбытаканда тэˮӈада тика сякалӈада <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Мальчик в синей рубашке вытер грушу о свою одежду и укусил её.
 # text_en = The boy in the blue shirt wiped the pear on his clothes and took a bite.
 1	сюнраха	сюнраха	ADJ	_	_	2	mod	_	AlignBegin=303698.148325|AlignEnd=304057.514508|Gloss=blue|LTranslit=śunraxa|Translit=śunraxa
@@ -1350,6 +1482,8 @@
 # text = сянакубцкоця -м -да вэрда тамна тяхаˮ ялъя -дˮ <p>
 # translit = śanakubckoća -m -da wærda tamna ťaxaʡ jal"ja -dʡ <p>
 # text_p = сянакубцкоцямда вэрда тамна тяхаˮ ялъядˮ <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Он достал свою игру, и они продолжили путь.
 # text_en = He took out his game, and they continued on their way.
 1	сянакубцкоця	сянакобц	NOUN	_	_	2	comp:obj	_	AlignBegin=310486.475674|AlignEnd=311363.262239|Gloss=game|LTranslit=śanakobc|Translit=śanakubckoća
@@ -1367,6 +1501,8 @@
 # text = ӈоди маˮламба -да?мэ? <p> груши хаˮаврамба -да <p> хасава -р <p> танця -ӈгадан -да ӈаниʼ тасиʼ хаˮмы -ˮ <p>
 # translit = ŋoďi maʡlamba -da?mæ? <p> gruši xaʡawramba -da <p> xasawa -r <p> tanća -ŋgadan -da ŋańiʔ taśiʔ xaʡmi -ʡ <p>
 # text_p = ӈоди маˮламба -да?мэ? <p> груши хаˮаврамба -да <p> хасава -р <p> танця -ӈгадан -да ӈаниʼ тасиʼ хаˮмы -ˮ <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Мужчина, собирающий плоды и срывающий груши, снова спустился по лестнице.
 # text_en = The man, gathering pears, went down the steps once more, breaking the fruit as he went.
 1	ӈоди	ӈодя	NOUN	_	_	3	comp:obj	_	AlignBegin=313893.963403|AlignEnd=314217.787896|Gloss=berry.pl.acc|LTranslit=ŋoďa|Translit=ŋoďi
@@ -1394,6 +1530,8 @@
 # text = Ӈоб?мэ? груши -та хыдя -ʼ мюʼ сыр -ӈа <p>
 # translit = Ŋob?mæ? gruši -ta xiďa -ʔ ḿuʔ sir -ŋa <p>
 # text_p = ӈоб?мэ? грушита хыдяʼ мюʼ сырӈа <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Он заглянул в одну из своих корзин с грушами.
 # text_en = He looked in one of his pear baskets.
 1	Ӈоб?мэ?	ӈобʼ	NUM	_	_	4	mod	_	AlignBegin=321487.143192|AlignEnd=322696.981539|Gloss=one|LTranslit=ŋobʔ|Translit=Ŋob?mæ?
@@ -1411,6 +1549,8 @@
 # text = груши -та хыдя терси <p>
 # translit = gruši -ta xiďa ťerśi <p>
 # text_p = грушита хыдя терси <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Его корзина с грушами пустая.
 # text_en = One of his pear baskets was empty.
 1	груши	груша	NOUN	_	_	2	comp:obj	_	AlignBegin=324587.697236|AlignEnd=325191.366611|Gloss=pear.pl|LTranslit=gruša|Translit=gruši
@@ -1424,6 +1564,8 @@
 # text = ма -ˮ -ни -в : ӈамгэ няхарˮ <p> груши -ˮ хыдя ӈэ -сь тара -нарха -сиʼ ӈопой сидя няхаромдэй -ми яӈгу <p>
 # translit = ma -ʡ -ńi -w : ŋamgæ ńaxarʡ <p> gruši -ʡ xiďa ŋæ -ś tara -narxa -śiʔ ŋopoj śiďa ńaxaromdæj -ḿi jaŋgu <p>
 # text_p = маˮнив ӈамгэ няхарˮ <p> грушиˮ хыдя ӈэсь таранархасиʼ ӈопой сидя няхаромдэйми яӈгу <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Он говорит: Что это? У меня должно было быть три корзины. Один, два… а моей третьей нет.
 # text_en = He says: What’s this? I should have had three baskets; one, two, and my third is gone
 1	ма	ма	VERB	_	_	2	comp:aux	_	AlignBegin=327013.877956|AlignEnd=327398.481087|Gloss=say|LTranslit=ma|Translit=ma
@@ -1454,6 +1596,8 @@
 # text = Хэву -вна -нда няхар хасава ӈацекэко -ˮ нерцюй -да <p> тодо груши -на хэ -вы <p>
 # translit = Xæwu -wna -nda ńaxar xasawa ŋaćekæko -ʡ ńerćuj -da <p> todo gruši -na xæ -wi <p>
 # text_p = хэвувнанда няхар хасава ӈацекэкоˮ нерцюйда <p> тодо грушина хэвы <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Рядом с грушами прошли те три мальчика.
 # text_en = The three boys walked alongside the pears.
 1	Хэву	хэв	NOUN	_	_	2	comp:obj	_	AlignBegin=332999.720952|AlignEnd=333601.483441|Gloss=side|LTranslit=xæw|Translit=Xæwu
@@ -1478,6 +1622,8 @@
 # text = хасава ибедор -ӈа <p> сава -м -да тюˮукуʼ пэр -ӈа <p>
 # translit = xasawa ib́edor -ŋa <p> sawa -m -da ťuʡukuʔ pær -ŋa <p>
 # text_p = хасава ибедорӈа <p> савамда тюˮукуʼ пэрӈа <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Он приподнял шляпу и задумался.
 # text_en = He lifts his hat and thinks.
 1	хасава	хасава	NOUN	_	_	3	subj	_	AlignBegin=337367.047861|AlignEnd=337752.338391|Gloss=man|LTranslit=xasawa|Translit=xasawa
@@ -1497,6 +1643,8 @@
 # text = хасава ӈацекэ -ра <p> и -тоʼ серʼ ханзерʼ яд -са -ˮ <p> <un>?хан? таремʼ яда -ˮ <p>
 # translit = xasawa ŋaćekæ -ra <p> i -toʔ śerʔ xanźerʔ jad -sa -ʡ <p> <un>?xan? taŕemʔ jada -ʡ <p>
 # text_p = хасава ӈацекэ -ра <p> и -тоʼ серʼ ханзерʼ яд -са -ˮ <p> <un>?хан? таремʼ яда -ˮ <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = А мальчик, пока они шли по своим делам, продолжал идти за ними.
 # text_en = And the boy, as they went about their business, went on too.
 1	хасава	хасава	NOUN	_	_	2	mod	_	AlignBegin=341381.370627|AlignEnd=341768.921923|Gloss=man|LTranslit=xasawa|Translit=xasawa
@@ -1522,6 +1670,8 @@
 # text = тикы яля -да хури -ӈэ <er>хури -ӈэ хаерако -сь <p> хуриʼ савамбойкако -сь <p> хури -ӈэ хэˮнёкако -сь <p>
 # translit = ťiki jaľa -da xuŕi -ŋæ <er>xuŕi -ŋæ xaerako -ś <p> xuŕiʔ sawambojkako -ś <p> xuŕi -ŋæ xæʡńokako -ś <p>
 # text_p = тикы яля -да хури -ӈэ <er>хури -ӈэ хаерако -сь <p> хуриʼ савамбойкако -сь <p> хури -ӈэ хэˮнёкако -сь <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = Этот день был солнечным, тёплым и безветренным.
 # text_en = The day was sunny, very pleasant, and calm.
 1	тикы	тикы	PRON	_	PronType=Dem	2	mod	_	AlignBegin=345639.879731|AlignEnd=345911.107779|Gloss=that|LTranslit=ťiki|Translit=ťiki
@@ -1549,6 +1699,8 @@
 # text = та валака -да <p>
 # translit = ta walaka -da <p>
 # text_p = та валакада <p>
+# media = spoken
+# language_variety = Tundra
 # text_ru = конец
 # text_en = The end.
 1	та	та	PRON	_	PronType=Dem	2	subj	_	AlignBegin=352673.037541|AlignEnd=352958.799848|Gloss=this|LTranslit=ta|Translit=ta
@@ -1561,6 +1713,8 @@
 # text = конец
 # translit = końec
 # text_p = конец
+# media = spoken
+# language_variety = Tundra
 # text_ru = конец
 # text_en = The end.
 1	конец	конец	NOUN	_	_	0	root	_	AlignBegin=354163.544352|AlignEnd=354975.600907|Gloss=end|LTranslit=końec|Translit=końec
