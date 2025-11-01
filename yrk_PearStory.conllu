@@ -466,7 +466,7 @@
 12	хасава	хасава	NOUN	_	_	13	mod	_	AlignBegin=110972.018821|AlignEnd=111411.744272|Gloss=man|LTranslit=xasawa|Translit=xasawa
 13	ӈацекэко	ӈацекы	NOUN	_	_	26	subj	_	AlignBegin=111411.744272|AlignEnd=112035.169648|Gloss=child|LTranslit=ŋaćeki|Translit=ŋaćekæko
 14	<p>	<p>	INTJ	_	_	13	discourse	_	AlignBegin=112035.169648|AlignEnd=113054.694099|Gloss=X|LTranslit=<p>|Translit=<p>
-15	ӈани	ӈаниʼ	CONJ	_	_	16	mod	_	AlignBegin=113054.694099|AlignEnd=113320.212686|Gloss=again|LTranslit=ŋańiʔ|Translit=ŋańi
+15	ӈани	ӈаниʼ	ADV	_	_	16	mod	_	AlignBegin=113054.694099|AlignEnd=113320.212686|Gloss=again|LTranslit=ŋańiʔ|Translit=ŋańi
 16	сабета	сабита	VERB	_	_	17	comp:aux	_	AlignBegin=113320.212686|AlignEnd=114029.292523|Gloss=wear.a.hat|LTranslit=sab́ita|Translit=sab́eta
 17	-на	X	AUX	_	_	13	mod	_	AlignBegin=113320.212686|AlignEnd=114029.292523|Gloss=-ptcp.cont|LTranslit=X|Translit=-na
 18	<n>	<n>	INTJ	_	_	17	discourse	_	AlignBegin=114029.292523|AlignEnd=114928.940682|Gloss=X|LTranslit=<n>|Translit=<n>
