@@ -1,5 +1,5 @@
 # doc_title = PearStory
-# sent_id = 1
+# sent_id = yrk_PearStory_1
 # text = <p> ӈобӈгуна я -ʼ ханяхавана <n> <p> груши -ʼ пя -хад хасава <p> груша маˮламба -вы <p>
 # translit = <p> ŋobŋguna ja -ʔ xańaxawana <n> <p> gruši -ʔ ṕa -xad xasawa <p> gruša maʡlamba -wi <p>
 # text_p = <p> ӈобӈгуна яʼ ханяхавана <n> <p> грушиʼ пяхад хасава <p> груша маˮламбавы <p>
@@ -24,7 +24,7 @@
 17	<p>	<p>	PUNCT	_	_	16	punct	_	AlignBegin=8025.26922579|AlignEnd=8266.00999235|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
 # doc_title = PearStory
-# sent_id = 2
+# sent_id = yrk_PearStory_2
 # text = груша -ˮ хуриˮ ?таремʼ? падяраха -каков <p>
 # translit = gruša -ʡ xuŕiʡ ?taŕemʔ? paďaraxa -kakow <p>
 # text_p = грушаˮ хуриˮ ?таремʼ? падярахакаков <p>
@@ -38,7 +38,7 @@
 6	-каков	-каков	AUX	_	_	0	root	_	AlignBegin=9471.81631809|AlignEnd=10503.1657482|Gloss=Focus|LTranslit=-kakow|Translit=-kakow
 7	<p>	<p>	PUNCT	_	_	6	punct	_	AlignBegin=10503.1657482|AlignEnd=11562.1010726|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
-# sent_id = 3
+# sent_id = yrk_PearStory_3
 # text = ӈопой ӈодя -мʼ нянда пуд <p> хасава <p> сепа мюʼ маˮламби -да <p>
 # translit = ŋopoj ŋoďa -mʔ ńanda pud <p> xasawa <p> śepa ḿuʔ maʡlamb́i -da <p>
 # text_p = ӈопой ӈодямʼ нянда пуд <p> хасава <p> сепа мюʼ маˮламбида <p>
@@ -60,7 +60,7 @@
 13	<p>	<p>	PUNCT	_	_	11	punct	_	AlignBegin=16744.8753558|AlignEnd=17496.3860358|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
 # doc_title = PearStory
-# sent_id = 4
+# sent_id = yrk_PearStory_4
 # text = тэри ныдпи -да <p>
 # translit = tæŕi nidṕi -da <p>
 # text_p = тэри ныдпида <p>
@@ -72,7 +72,7 @@
 4	<p>	<p>	PUNCT	_	_	2	punct	_	AlignBegin=18320.3613707|AlignEnd=18783.1928194|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
 # doc_title = PearStory
-# sent_id = 5
+# sent_id = yrk_PearStory_5
 # text = ӈопой груша я -нʼ мантэ -ей -ˮ <p>
 # translit = ŋopoj gruša ja -nʔ mantæ -ej -ʡ <p>
 # text_p = ӈопой груша янʼ мантэейˮ <p>
@@ -88,7 +88,7 @@
 8	<p>	<p>	PUNCT	_	_	6	punct	_	AlignBegin=20686.0758187|AlignEnd=21015.8854745|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
 # doc_title = PearStory
-# sent_id = 6
+# sent_id = yrk_PearStory_6
 # text = хасава танця -нда серʼ <n> <p> тасиˮ хаˮмы -ˮ <p>
 # translit = xasawa tanća -nda śerʔ <n> <p> taśiʡ xaʡmi -ʡ <p>
 # text_p = хасава танцянда серʼ<n> <p> тасиˮ хаˮмыˮ <p>
@@ -106,7 +106,7 @@
 10	<p>	<p>	PUNCT	_	_	8	punct	_	AlignBegin=23742.8897186|AlignEnd=24916.0632282|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
 # doc_title = PearStory
-# sent_id = 7
+# sent_id = yrk_PearStory_7
 # text = лэмбара -ха -нда ӈэ -да <p> тохоця -нда мюд тохоця пада -нда мюд <p> груши <p> паӈгалмы хыдя -ʼ мюʼ пыдабтамба пяя -да <p>
 # translit = læmbara -xa -nda ŋæ -da <p> toxoća -nda ḿud toxoća pada -nda ḿud <p> gruši <p> paŋgalmi xiďa -ʔ ḿuʔ pidabtamba ṕaja -da <p>
 # text_p = лэмбара -ха -нда ӈэ -да <p> тохоця -нда мюд тохоця пада -нда мюд <p> груши <p> паӈгалмы хыдя -ʼ мюʼ пыдабтамба пяя -да <p>
@@ -138,7 +138,7 @@
 24	<p>	<p>	PUNCT	_	_	22	punct	_	AlignBegin=32642.7596263|AlignEnd=33366.518752|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
 # doc_title = PearStory
-# sent_id = 8
+# sent_id = yrk_PearStory_8
 # text = вэрдамби -до -в <p> вэрдамби -до -в <p>
 # translit = wærdamb́i -do -w <p> wærdamb́i -do -w <p>
 # text_p = вэрдамбидов <p> вэрдамбидов <p>
@@ -154,7 +154,7 @@
 8	<p>	<p>	PUNCT	_	_	3	punct	_	AlignBegin=36298.5109295|AlignEnd=36757.2862218|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
 # doc_title = PearStory
-# sent_id = 9
+# sent_id = yrk_PearStory_9
 # text = тикы падда тарсиʼ ӈарка ӈэ -ванон -да <p>
 # translit = ťiki padda tarśiʔ ŋarka ŋæ -wanon -da <p>
 # text_p = тикы падда тарсиʼ ӈарка ӈэванонда <p>
@@ -169,7 +169,7 @@
 7	-да	X	DET	_	_	6	subj	_	AlignBegin=38006.7713401|AlignEnd=38679.5891537|Gloss=-poss.3sg|LTranslit=X|Translit=-da
 8	<p>	<p>	PUNCT	_	_	6	punct	_	AlignBegin=38679.5891537|AlignEnd=39371.9095957|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
-# sent_id = 10
+# sent_id = yrk_PearStory_10
 # text = груша -ˮ <p> <f>сусана -ва -ˮ <er>сусана -ва -ˮ <f>тоˮолха суса -ва -ˮ тоˮолха ӈобʼ ни ӈа -ˮ <p>
 # translit = gruša -ʡ <p> <f>susana -wa -ʡ <er>susana -wa -ʡ <f>toʡolxa susa -wa -ʡ toʡolxa ŋobʔ ńi ŋa -ʡ <p>
 # text_p = груша -ˮ <p> <f>сусана -ва -ˮ <er>сусана -ва -ˮ <f>тоˮолха суса -ва -ˮ тоˮолха ӈобʼ ни ӈа -ˮ <p>
@@ -197,7 +197,7 @@
 19	<p>	<p>	PUNCT	_	_	16	punct	_	AlignBegin=44349.6681454|AlignEnd=45846.7465109|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
 # doc_title = PearStory
-# sent_id = 11
+# sent_id = yrk_PearStory_11
 # text = хасава?ва? пинякуˮ салкая тяхакуˮ вэнамъ -ей -ˮ <p>
 # translit = xasawa?wa? ṕińakuʡ salkaja ťaxakuʡ wænam" -ej -ʡ <p>
 # text_p = хасава?ва? пинякуˮ салкая тяхакуˮ вэнамъейˮ <p>
@@ -213,7 +213,7 @@
 8	<p>	<p>	PUNCT	_	_	3	punct	_	AlignBegin=49086.619365|AlignEnd=49973.6217607|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
 # doc_title = PearStory
-# sent_id = 12
+# sent_id = yrk_PearStory_12
 # text = ӈопой груша -мʼ <p> няанда нэкал -ӈа -да <p>
 # translit = ŋopoj gruša -mʔ <p> ńaanda nækal -ŋa -da <p>
 # text_p = ӈопой груша -мʼ <p> няанда нэкал -ӈа -да <p>
@@ -230,7 +230,7 @@
 9	<p>	<p>	PUNCT	_	_	7	punct	_	AlignBegin=52412.8030283|AlignEnd=52700.9490525|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
 # doc_title = PearStory
-# sent_id = 13
+# sent_id = yrk_PearStory_13
 # text = ика -нда тяхад няръяна ӈокся -м ик -ʼ пэбт -ˮма ӈокся -м хаˮавра <p>
 # translit = ika -nda ťaxad ńar"jana ŋokśa -m ik -ʔ pæbt -ʡma ŋokśa -m xaʡawra <p>
 # text_p = иканда тяхад няръяна ӈоксям икʼ пэбтˮма ӈоксям хаˮавра <p>
@@ -252,7 +252,7 @@
 14	<p>	<p>	PUNCT	_	_	13	punct	_	AlignBegin=56078.8108057|AlignEnd=56795.715883|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
 # doc_title = PearStory
-# sent_id = 14
+# sent_id = yrk_PearStory_14
 # text = Груша -мʼ тэˮ -ӈа -да <p> хыдя -ʼ мюʼ пуняˮ <p> мэ -да <p>
 # translit = Gruša -mʔ tæʡ -ŋa -da <p> xiďa -ʔ ḿuʔ puńaʡ <p> mæ -da <p>
 # text_p = Грушамʼ тэˮӈада, хыдяʼ мюʼ пуняˮ мэда<p>
@@ -274,7 +274,7 @@
 14	<p>	<p>	PUNCT	_	_	4	punct	_	AlignBegin=62330.9584982|AlignEnd=63243.6463815|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
 # doc_title = PearStory
-# sent_id = 15
+# sent_id = yrk_PearStory_15
 # text = тохоця -м -да ика -нда тяхаʼ сяра -да <p>
 # translit = toxoća -m -da ika -nda ťaxaʔ śara -da <p>
 # text_p = тохоцямда иканда тяхаʼ сярада <p>
@@ -291,7 +291,7 @@
 9	<p>	<p>	PUNCT	_	_	7	punct	_	AlignBegin=64882.1798887|AlignEnd=66502.0111489|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
 # doc_title = PearStory
-# sent_id = 16
+# sent_id = yrk_PearStory_16
 # text = тяхад <p> ӈани ӈопой хасава <p> хорова -мʼ минре ӈадимя <p>
 # translit = ťaxad <p> ŋańi ŋopoj xasawa <p> xorowa -mʔ ḿinŕe ŋaďiḿa <p>
 # text_p = тяхад <p> ӈани ӈопой хасава <p> хорова- мʼ минре ӈадимя <p>
@@ -310,7 +310,7 @@
 11	<p>	<p>	PUNCT	_	_	10	punct	_	AlignBegin=72077.3856905|AlignEnd=72889.2542445|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
 # doc_title = PearStory
-# sent_id = 17
+# sent_id = yrk_PearStory_17
 # text = хасава -нд тикы <p> ӈоди маˮламба -да -нд сидя хыдя -да терсавэй -хаʼ ӈоб хыдя -да терси <p>
 # translit = xasawa -nd ťiki <p> ŋoďi maʡlamba -da -nd śiďa xiďa -da ťersawæj -xaʔ ŋob xiďa -da ťerśi <p>
 # text_p = хасаванд тикы <p> ӈоди маˮламбаднд сидя хыдяда терсавэйхаʼ ӈоб хыдяда терси <p>
@@ -336,7 +336,7 @@
 18	<p>	<p>	PUNCT	_	_	12	punct	_	AlignBegin=78822.1258156|AlignEnd=79955.7787924|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
 # doc_title = PearStory
-# sent_id = 18
+# sent_id = yrk_PearStory_18
 # text = нябтинд манэ -ць тика -р хорова ни -вы ӈа -ˮ <p> тика -р хуˮхобаˮяˮ ӈэ -вы коза <p>
 # translit = ńabťind manæ -ć ťika -r xorowa ńi -wi ŋa -ʡ <p> ťika -r xuʡxobaʡjaʡ ŋæ -wi koza <p>
 # text_p = нябтинд манэ -ць тика -р хорова ни -вы ӈа -ˮ <p> тика -р хуˮхобаˮяˮ ӈэ -вы коза <p>
@@ -362,7 +362,7 @@
 18	<p>	<p>	PUNCT	_	_	8	punct	_	AlignBegin=84854.5950922|AlignEnd=85583.2311957|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
 # doc_title = PearStory
-# sent_id = 19
+# sent_id = yrk_PearStory_19
 # text = коза -ʼ ика -нда тяхана?мэ? сеӈга тайна <p>
 # translit = koza -ʔ ika -nda ťaxana?mæ? śeŋga tajna <p>
 # text_p = козаʼ иканда тяхана?мэ? сеӈга тайна <p>
@@ -378,7 +378,7 @@
 8	<p>	<p>	PUNCT	_	_	7	punct	_	AlignBegin=88313.5345412|AlignEnd=89340.7271168|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
 # doc_title = PearStory
-# sent_id = 20
+# sent_id = yrk_PearStory_20
 # text = хасава <p> коза -мʼ минре -на <p> ня -нда хэву -вна ӈобʼ тяха хая <p>
 # translit = xasawa <p> koza -mʔ ḿinŕe -na <p> ńa -nda xæwu -wna ŋobʔ ťaxa xaja <p>
 # text_p = хасава <p> коза -мʼ минре -на <p> ня -нда хэву -вна ӈобʼ тяха хая <p>
@@ -401,7 +401,7 @@
 15	<p>	<p>	PUNCT	_	_	14	punct	_	AlignBegin=95293.7979767|AlignEnd=96823.4659996|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
 # doc_title = PearStory
-# sent_id = 21
+# sent_id = yrk_PearStory_21
 # text = груши маˮламба -да хасава <p> панˮя -м -да <er>пан хыдяˮя -м -да тамна <p> <er>тамна тяхаˮ тердемби -да <p>
 # translit = gruši maʡlamba -da xasawa <p> panʡja -m -da <er>pan xiďaʡja -m -da tamna <p> <er>tamna ťaxaʡ ťerďemb́i -da <p>
 # text_p = груши маˮламба -да хасава <p> панˮя -м -да <er>пан хыдяˮя -м -да тамна <p> <er>тамна тяхаˮ тердемби -да <p>
@@ -428,7 +428,7 @@
 19	<p>	<p>	PUNCT	_	_	17	punct	_	AlignBegin=102481.227033|AlignEnd=103170.891831|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
 # doc_title = PearStory
-# sent_id = 22
+# sent_id = yrk_PearStory_22
 # text = ӈэва -нда ниня сэрˮ саваˮя -мʼ мэˮ -ӈа <n> <p>
 # translit = ŋæwa -nda ńińa særʡ sawaʡja -mʔ mæʡ -ŋa <n> <p>
 # text_p = ӈэва -нда ниня сэрˮ саваˮя -мʼ мэˮ -ӈа <n> <p>
@@ -445,7 +445,7 @@
 9	<n>	<n>	INTJ	_	_	8	discourse	_	AlignBegin=105281.360933|AlignEnd=107643.186129|Gloss=X|LTranslit=<n>|Translit=<n>
 10	<p>	<p>	PUNCT	_	_	8	punct	_	AlignBegin=105281.360933|AlignEnd=107643.186129|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
-# sent_id = 23
+# sent_id = yrk_PearStory_23
 # text = тяхад таремʼ сыр -апʼ ӈамгэ <p> хараса -д ха -да <f>ӈацекэко хасава ӈацекэко <p> ӈани сабета -на <n> <p> ?ёсь? пэр -хана <n> таˮаль пэр -ӈа -да <p>
 # translit = ťaxad taŕemʔ sir -apʔ ŋamgæ <p> xarasa -d xa -da <f>ŋaćekæko xasawa ŋaćekæko <p> ŋańi sab́eta -na <n> <p> ?ëś? pær -xana <n> taʡaľ pær -ŋa -da <p>
 # doc_title = PearStory
@@ -482,7 +482,7 @@
 28	<p>	<p>	PUNCT	_	_	26	punct	_	AlignBegin=117417.647679|AlignEnd=118127.678554|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
 # doc_title = PearStory
-# sent_id = 24
+# sent_id = yrk_PearStory_24
 # text = вэба -ˮ тяхад <p> ӈадибер -ӈа <p>
 # translit = wæba -ʡ ťaxad <p> ŋaďib́er -ŋa <p>
 # text_p = вэба -ˮ тяхад <p> ӈадибер -ӈа <p>
@@ -497,7 +497,7 @@
 7	<p>	<p>	PUNCT	_	_	6	punct	_	AlignBegin=120400.06787|AlignEnd=122593.363106|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
 # doc_title = PearStory
-# sent_id = 25
+# sent_id = yrk_PearStory_25
 # text = ӈэдалё -ва -нда серʼ <p> хахая то <n> <p>
 # translit = ŋædaľo -wa -nda śerʔ <p> xaxaja to <n> <p>
 # text_p = ӈэдалёванда серʼ <p> хахая то <n> <p>
@@ -514,7 +514,7 @@
 9	<p>	<p>	PUNCT	_	_	7	punct	_	AlignBegin=125358.273586|AlignEnd=126380.789572|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
 # doc_title = PearStory
-# sent_id = 26
+# sent_id = yrk_PearStory_26
 # text = хасава -н хэва -нʼ <p> нулта -да <p>
 # translit = xasawa -n xæwa -nʔ <p> nulta -da <p>
 # text_p = хасава -н хэва -нʼ <p> нулта -да <p>
@@ -530,7 +530,7 @@
 8	<p>	<p>	PUNCT	_	_	6	punct	_	Gloss=SIL|LTranslit=<p>|Translit=<p>
 
 # doc_title = PearStory
-# sent_id = 27
+# sent_id = yrk_PearStory_27
 # text = велосипеда -нда нид <p> хаˮмы -ˮ <n> <p>
 # translit = welośiṕeda -nda ńid <p> xaʡmi -ʡ <n> <p>
 # text_p = велосипеданда нид <p> хаˮмыˮ <n> <p>
@@ -546,7 +546,7 @@
 8	<p>	<p>	PUNCT	_	_	5	punct	_	AlignBegin=131159.417412|AlignEnd=134652.342434|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
 # doc_title = PearStory
-# sent_id = 28
+# sent_id = yrk_PearStory_28
 # text = я -нʼ хавда -да <p> велосипедако -м -да <p>
 # translit = ja -nʔ xawda -da <p> welośiṕedako -m -da <p>
 # text_p = янʼ хавдада <p> велосипедакомда <p>
@@ -563,7 +563,7 @@
 9	<p>	<p>	PUNCT	_	_	3	punct	_	AlignBegin=137611.61299|AlignEnd=142068.314447|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
 # doc_title = PearStory
-# sent_id = 29
+# sent_id = yrk_PearStory_29
 # text = Груши -ʼ хыдя -ʼ мюд? <er>мюд ӈобʼ груша -мʼ няˮма <p>
 # translit = Gruši -ʔ xiďa -ʔ ḿud? <er>ḿud ŋobʔ gruša -mʔ ńaʡma <p>
 # text_p = Грушиʼ хыдяʼ мюд? <er>мюд ӈобʼ грушамʼ няˮма <p>
@@ -582,7 +582,7 @@
 11	<p>	<p>	PUNCT	_	_	10	punct	_	AlignBegin=145291.305678|AlignEnd=145869.205594|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
 # doc_title = PearStory
-# sent_id = 30
+# sent_id = yrk_PearStory_30
 # text = пуняʼ мэ -да <p>
 # translit = puńaʔ mæ -da <p>
 # text_p = пуняʼ мэда <p>
@@ -594,7 +594,7 @@
 4	<p>	<p>	PUNCT	_	_	2	punct	_	AlignBegin=146792.018108|AlignEnd=147701.393926|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
 # doc_title = PearStory
-# sent_id = 31
+# sent_id = yrk_PearStory_31
 # text = тад тикахад груша -ˮ хыдя -мʼ <p> велосипеда -нда някун тэвра -да <p>
 # translit = tad ťikaxad gruša -ʡ xiďa -mʔ <p> welośiṕeda -nda ńakun tæwra -da <p>
 # text_p = тад тикахад грушаˮ хыдямʼ <p> велосипеданда някун тэврада <p>
@@ -615,7 +615,7 @@
 13	<p>	<p>	PUNCT	_	_	11	punct	_	AlignBegin=152420.00389|AlignEnd=153113.437391|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
 # doc_title = PearStory
-# sent_id = 32
+# sent_id = yrk_PearStory_32
 # text = велосипедаˮя -м -да нулабта -да <p>
 # translit = welośiṕedaʡja -m -da nulabta -da <p>
 # text_p = велосипедаˮямда нулабтада <p>
@@ -629,7 +629,7 @@
 6	<p>	<p>	PUNCT	_	_	4	punct	_	AlignBegin=154944.659378|AlignEnd=156787.692714|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
 # doc_title = PearStory
-# sent_id = 33
+# sent_id = yrk_PearStory_33
 # text = савамбоковна <f>тивы тидхалемби -да <p>
 # translit = sawambokowna <f>ťiwi ťidxaľemb́i -da <p>
 # text_p = савамбоковна <f>тивы тидхалембида <p>
@@ -642,7 +642,7 @@
 5	<p>	<p>	PUNCT	_	_	3	punct	_	AlignBegin=158685.78686|AlignEnd=159099.99663|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
 # doc_title = PearStory
-# sent_id = 34
+# sent_id = yrk_PearStory_34
 # text = ӈэ -м -да велосипед?мэ? нярхал -да еся -ʼ няби -ʼ няюʼ мо -да <p>
 # translit = ŋæ -m -da welośiṕed?mæ? ńarxal -da eśa -ʔ ńab́i -ʔ ńajuʔ mo -da <p>
 # text_p = ӈэмда велосипед?мэ? нярхалда есяʼ нябиʼ няюʼ мода <p>
@@ -664,7 +664,7 @@
 14	<p>	<p>	PUNCT	_	_	12	punct	_	AlignBegin=162413.032527|AlignEnd=163094.0259|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
 # doc_title = PearStory
-# sent_id = 35
+# sent_id = yrk_PearStory_35
 # text = тадтикахад <p> яблокта хыдя -мʼ <p> велосипеда -нда <p> няˮморця -нда неряна хэва -нʼ ӈабта -да <p>
 # translit = tadťikaxad <p> jablokta xiďa -mʔ <p> welośiṕeda -nda <p> ńaʡmorća -nda ńeŕana xæwa -nʔ ŋabta -da <p>
 # text_p = тадтикахад <p> яблокта хыдямʼ <p> велосипеданда <p> няˮморцянда неряна хэванʼ ӈабтада <p>
@@ -689,7 +689,7 @@
 17	<p>	<p>	PUNCT	_	_	15	punct	_	AlignBegin=170079.515658|AlignEnd=170499.513543|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
 # doc_title = PearStory
-# sent_id = 36
+# sent_id = yrk_PearStory_36
 # text = тад тикахавад <f>хасава <f>ӈэда<un> хасава ӈацекы ӈэдалэ -й -ˮ <p>
 # translit = tad ťikaxawad <f>xasawa <f>ŋæda<un> xasawa ŋaćeki ŋædalæ -j -ʡ <p>
 # text_p = тад тикахавад <f>хасава <f>ӈэда<un> хасава ӈацекы ӈэдалэ -й -ˮ <p>
@@ -707,7 +707,7 @@
 10	<p>	<p>	PUNCT	_	_	8	punct	_	AlignBegin=173482.859299|AlignEnd=174679.219176|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
 # doc_title = PearStory
-# sent_id = 37
+# sent_id = yrk_PearStory_37
 # text = ӈоди маˮламба -да -р танця -ʼ ниня ну -сь тамна тяхаˮ ӈоди маˮламби <p>
 # translit = ŋoďi maʡlamba -da -r tanća -ʔ ńińa nu -ś tamna ťaxaʡ ŋoďi maʡlamb́i <p>
 # text_p = ӈоди маˮламба -да -р танця -ʼ ниня ну -сь тамна тяхаˮ ӈоди маˮламби <p>
@@ -729,7 +729,7 @@
 14	<p>	<p>	PUNCT	_	_	13	punct	_	AlignBegin=177463.790348|AlignEnd=178135.59453|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
 # doc_title = PearStory
-# sent_id = 38
+# sent_id = yrk_PearStory_38
 # text = хасава ӈацекы ӈэдалы сятаняʼ маханяʼ сятаняʼ маханяʼ <p>
 # translit = xasawa ŋaćeki ŋædali śatańaʔ maxańaʔ śatańaʔ maxańaʔ <p>
 # text_p = хасава ӈацекы ӈэдалы сятаняʼ маханяʼ сятаняʼ маханяʼ <p>
@@ -745,7 +745,7 @@
 8	<p>	<p>	PUNCT	_	_	3	punct	_	AlignBegin=181609.10256|AlignEnd=182212.69459|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
 # doc_title = PearStory
-# sent_id = 39
+# sent_id = yrk_PearStory_39
 # text = ханяӈыˮ груши -да я -нʼ мантыр -такы -ˮ <p>
 # translit = xańaŋiʡ gruši -da ja -nʔ mantir -taki -ʡ <p>
 # text_p = ханяӈыˮ грушида янʼ мантыртакыˮ <p>
@@ -762,7 +762,7 @@
 9	<p>	<p>	PUNCT	_	_	7	punct	_	AlignBegin=184291.301121|AlignEnd=185396.151209|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
 # doc_title = PearStory
-# sent_id = 40
+# sent_id = yrk_PearStory_40
 # text = таремʼ мин -дя -ха -нда нера -нда няʼ не ӈацекы -мʼ манэˮ -ӈа <p>
 # translit = taŕemʔ ḿin -ďa -xa -nda ńera -nda ńaʔ ńe ŋaćeki -mʔ manæʡ -ŋa <p>
 # text_p = таремʼ мин -дя -ха -нда нера -нда няʼ не ӈацекы -мʼ манэˮ -ӈа <p>
@@ -784,7 +784,7 @@
 14	<p>	<p>	PUNCT	_	_	13	punct	_	AlignBegin=188014.093161|AlignEnd=188531.151451|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
 # doc_title = PearStory
-# sent_id = 41
+# sent_id = yrk_PearStory_41
 # text = не ӈацекэкоʼ?мэ? сидя паӈгаляр -та <p>
 # translit = ńe ŋaćekækoʔ?mæ? śiďa paŋgaľar -ta <p>
 # text_p = не ӈацекэкоʼ?мэ? сидя паӈгалярта <p>
@@ -798,7 +798,7 @@
 6	<p>	<p>	PUNCT	_	_	4	punct	_	AlignBegin=190644.284705|AlignEnd=191102.609689|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
 # doc_title = PearStory
-# sent_id = 42
+# sent_id = yrk_PearStory_42
 # text = сидя парисеˮэ паӈгаляр -кава -да -ӈэ <p> париде -ри -ӈа -хаʼ <p>
 # translit = śiďa paŕiśeʡæ paŋgaľar -kawa -da -ŋæ <p> paŕiďe -ŕi -ŋa -xaʔ <p>
 # text_p = сидя парисеˮэ паӈгаляркавадаӈэ <p> паридериӈахаʼ <p>
@@ -818,7 +818,7 @@
 12	<p>	<p>	PUNCT	_	_	10	punct	_	AlignBegin=194177.54371|AlignEnd=195540.020253|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
 # doc_title = PearStory
-# sent_id = 43
+# sent_id = yrk_PearStory_43
 # text = таремʼ мэ -на -ха -нда ӈобтʼ теб -ӈа -хаʼ <p>
 # translit = taŕemʔ mæ -na -xa -nda ŋobtʔ ťeb -ŋa -xaʔ <p>
 # text_p = таремʼ мэ -на -ха -нда ӈобтʼ теб -ӈа -хаʼ <p>
@@ -836,7 +836,7 @@
 10	<p>	<p>	PUNCT	_	_	8	punct	_	AlignBegin=197503.342133|AlignEnd=198206.326009|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
 # doc_title = PearStory
-# sent_id = 44
+# sent_id = yrk_PearStory_44
 # text = хасава ӈацекэ -р?мэ? <p> мане пэˮя -нʼ табкая -ма -ха <p> велосипеда -м' <iw>хава <p>
 # translit = xasawa ŋaćekæ -r?mæ? <p> mańe pæʡja -nʔ tabkaja -ma -xa <p> welośiṕeda -m' <iw>xawa <p>
 # text_p = хасава ӈацекэр?мэ? <p> мане пэˮянʼ табкаямаха <p> велосипедам' <iw>хава <p>
@@ -859,7 +859,7 @@
 15	<p>	<p>	PUNCT	_	_	14	punct	_	AlignBegin=205115.213417|AlignEnd=205423.666659|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
 # doc_title = PearStory
-# sent_id = 45
+# sent_id = yrk_PearStory_45
 # text = моˮнэ -й -ʼ хасава ӈацекы <p>
 # translit = moʡnæ -j -ʔ xasawa ŋaćeki <p>
 # text_p = моˮнэйʼ хасава ӈацекы <p>
@@ -873,7 +873,7 @@
 6	<p>	<p>	PUNCT	_	_	2	punct	_	AlignBegin=206870.999194|AlignEnd=207443.113083|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
 # doc_title = PearStory
-# sent_id = 46
+# sent_id = yrk_PearStory_46
 # text = я -ʼ хавул -ма -да груши -да -м' <p> я -вна тэри <p> тахара -ˮ <p>
 # translit = ja -ʔ xawul -ma -da gruši -da -m' <p> ja -wna tæŕi <p> taxara -ʡ <p>
 # text_p = я -ʼ хавул -ма -да груши -да -м' <p> я -вна тэри <p> тахара -ˮ <p>
@@ -897,7 +897,7 @@
 16	<p>	<p>	PUNCT	_	_	14	punct	_	AlignBegin=212087.86444|AlignEnd=212670.353086|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
 # doc_title = PearStory
-# sent_id = 47
+# sent_id = yrk_PearStory_47
 # text = хасава ӈацекэко?мэ? <p> <f>тобака -нда <f>тохо' тохо' тобака -нда ханерако -мʼ тасикун мэ -да <p> ӈэ -м -да е -денакы <p>
 # translit = xasawa ŋaćekæko?mæ? <p> <f>tobaka -nda <f>toxo' toxo' tobaka -nda xańerako -mʔ taśikun mæ -da <p> ŋæ -m -da e -ďenaki <p>
 # text_p = хасава ӈацекэко?мэ? <p> <f>тобака -нда <f>тохо' тохо' тобака -нда ханерако -мʼ тасикун мэ -да <p> ӈэ -м -да е -денакы <p>
@@ -926,7 +926,7 @@
 21	<p>	<p>	PUNCT	_	_	13	punct	_	AlignBegin=219007.912821|AlignEnd=219430.946922|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
 # doc_title = PearStory
-# sent_id = 48
+# sent_id = yrk_PearStory_48
 # text = хэв -хана -нда няхар хасава ӈацекы мэ -вы -ˮ <p>
 # translit = xæw -xana -nda ńaxar xasawa ŋaćeki mæ -wi -ʡ <p>
 # text_p = хэвхананда няхар хасава ӈацекы мэвыˮ <p>
@@ -944,7 +944,7 @@
 10	<p>	<p>	PUNCT	_	_	8	punct	_	AlignBegin=221157.989035|AlignEnd=222840.457626|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
 # doc_title = PearStory
-# sent_id = 49
+# sent_id = yrk_PearStory_49
 # text = <d> тасехэй имбытадота -на сюнраха имбытадота -на няръяна имбытадота -на хасава ӈацекы <p>
 # translit = <d> taśexæj imbitadota -na śunraxa imbitadota -na ńar"jana imbitadota -na xasawa ŋaćeki <p>
 # text_p = <d> тасехэй имбытадотана сюнраха имбытадотана няръяна имбытадотана хасава ӈацекы <p>
@@ -965,7 +965,7 @@
 13	<p>	<p>	PUNCT	_	_	12	punct	_	AlignBegin=229107.911016|AlignEnd=229536.132321|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
 # doc_title = PearStory
-# sent_id = 50
+# sent_id = yrk_PearStory_50
 # text = ня -м -доʼ груша маˮламба нядаба пя -доʼ <p>
 # translit = ńa -m -doʔ gruša maʡlamba ńadaba ṕa -doʔ <p>
 # text_p = нямдоʼ груша маˮламба нядаба пядоʼ <p>
@@ -982,7 +982,7 @@
 9	<p>	<p>	PUNCT	_	_	7	punct	_	AlignBegin=232066.596487|AlignEnd=232528.27234|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
 # doc_title = PearStory
-# sent_id = 51
+# sent_id = yrk_PearStory_51
 # text = груши хыдя -ʼ мюʼ моёˮя -доʼ <p>
 # translit = gruši xiďa -ʔ ḿuʔ moëʡja -doʔ <p>
 # text_p = груши хыдя -ʼ мюʼ моёˮя -доʼ <p>
@@ -997,7 +997,7 @@
 7	<p>	<p>	PUNCT	_	_	5	punct	_	AlignBegin=234218.582386|AlignEnd=235371.935722|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
 # doc_title = PearStory
-# sent_id = 52
+# sent_id = yrk_PearStory_52
 # text = ӈобкана маˮлэ -й -доʼ <p>
 # translit = ŋobkana maʡlæ -j -doʔ <p>
 # text_p = ӈобкана маˮлэйдоʼ <p>
@@ -1010,7 +1010,7 @@
 5	<p>	<p>	PUNCT	_	_	3	punct	_	AlignBegin=236425.411109|AlignEnd=237734.941597|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
 # doc_title = PearStory
-# sent_id = 53
+# sent_id = yrk_PearStory_53
 # text = ӈобʼ хасава ӈацекэко?мэ? сянакубц -мʼ мэˮ -ӈо -в <p>
 # translit = ŋobʔ xasawa ŋaćekæko?mæ? śanakubc -mʔ mæʡ -ŋo -w <p>
 # text_p = ӈобʼ хасава ӈацекэко?мэ? сянакубцмʼ мэˮӈов <p>
@@ -1027,7 +1027,7 @@
 9	<p>	<p>	PUNCT	_	_	8	punct	_	AlignBegin=240186.117909|AlignEnd=240941.556773|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
 # doc_title = PearStory
-# sent_id = 54
+# sent_id = yrk_PearStory_54
 # text = няби -ˮ ни -да?мэ? <p> ня -м -доʼ нядаба <p> <d> паӈгалмы <p> <pr>паӈгалм груша -ˮ хыдя -мʼ <p> велосипед -ʼ ниʼ ӈаюба -доʼ <p>
 # translit = ńab́i -ʡ ńi -da?mæ? <p> ńa -m -doʔ ńadaba <p> <d> paŋgalmi <p> <pr>paŋgalm gruša -ʡ xiďa -mʔ <p> welośiṕed -ʔ ńiʔ ŋajuba -doʔ <p>
 # text_p = няби -ˮ ни -да?мэ? <p> ня -м -доʼ нядаба <p> <d> паӈгалмы <p> <pr>паӈгалм груша -ˮ хыдя -мʼ <p> велосипед -ʼ ниʼ ӈаюба -доʼ <p>
@@ -1060,7 +1060,7 @@
 25	<p>	<p>	PUNCT	_	_	23	punct	_	AlignBegin=250833.878638|AlignEnd=251041.020004|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
 # doc_title = PearStory
-# sent_id = 55
+# sent_id = yrk_PearStory_55
 # text = мане пэˮя -мʼ хэвняʼ моˮма -ˮ <p>
 # translit = mańe pæʡja -mʔ xæwńaʔ moʡma -ʡ <p>
 # text_p = мане пэˮямʼ хэвняʼ моˮмаˮ <p>
@@ -1075,7 +1075,7 @@
 7	<p>	<p>	PUNCT	_	_	5	punct	_	AlignBegin=252357.689312|AlignEnd=253057.880372|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
 # doc_title = PearStory
-# sent_id = 56
+# sent_id = yrk_PearStory_56
 # text = харто и -ндоʼ серʼ хасава ӈацекы -ˮ ӈани ялъяд -ˮ <p> ня -доʼ няби -ʼ няюʼ ӈэдалэ -й -ˮ <p>
 # translit = xarto i -ndoʔ śerʔ xasawa ŋaćeki -ʡ ŋańi jal"jad -ʡ <p> ńa -doʔ ńab́i -ʔ ńajuʔ ŋædalæ -j -ʡ <p>
 # text_p = харто и -ндоʼ серʼ хасава ӈацекы -ˮ ӈани ялъяд -ˮ <p> ня -доʼ няби -ʼ няюʼ ӈэдалэ -й -ˮ <p>
@@ -1103,7 +1103,7 @@
 20	<p>	<p>	PUNCT	_	_	9	punct	_	AlignBegin=257467.430564|AlignEnd=258969.302969|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
 # doc_title = PearStory
-# sent_id = 57
+# sent_id = yrk_PearStory_57
 # text = таремʼ яд -на -ха -ндоʼ иня_няӈыʼ хэву -вна -ндоʼ <p> ня -ндоʼ <p> ха"маэ -м мантэ -вы сава -мʼ хо -ˮ <p>
 # translit = taŕemʔ jad -na -xa -ndoʔ ińa_ńaŋiʔ xæwu -wna -ndoʔ <p> ńa -ndoʔ <p> xa"maæ -m mantæ -wi sawa -mʔ xo -ʡ <p>
 # text_p = таремʼ яд -на -ха -ндоʼ иня_няӈыʼ хэву -вна -ндоʼ <p> ня -ндоʼ <p> ха"маэ -м мантэ -вы сава -мʼ хо -ˮ <p>
@@ -1133,7 +1133,7 @@
 22	<p>	<p>	PUNCT	_	_	20	punct	_	AlignBegin=264727.635288|AlignEnd=265426.612893|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
 # doc_title = PearStory
-# sent_id = 58
+# sent_id = yrk_PearStory_58
 # text = сюнраха имбытадота -на хасава ӈацекы ня -нда сава -мʼ няˮма -да ня -ха -нда тёре -накы -ˮ <p> хасаво -в <p> сава -м -д юр -вэн -эй <p>
 # translit = śunraxa imbitadota -na xasawa ŋaćeki ńa -nda sawa -mʔ ńaʡma -da ńa -xa -nda ťoŕe -naki -ʡ <p> xasawo -w <p> sawa -m -d jur -wæn -æj <p>
 # text_p = сюнраха имбытадотана хасава ӈацекы нянда сава- мʼ няˮмада няханда тёренакыˮ <p> хасавов <p> савамд юрвэнэй <p>
@@ -1169,7 +1169,7 @@
 28	<p>	<p>	PUNCT	_	_	10	punct	_	AlignBegin=272058.640937|AlignEnd=273499.020669|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
 # doc_title = PearStory
-# sent_id = 59
+# sent_id = yrk_PearStory_59
 # text = няби -р : пирхата ӈэ -вы -нёˮ юрˮя -вэв -нёˮ <p>
 # translit = ńab́i -r : ṕirxata ŋæ -wi -ńoʡ jurʡja -wæw -ńoʡ <p>
 # text_p = нябир: пирхата ӈэвынёˮ юрˮявэвнёˮ <p>
@@ -1188,7 +1188,7 @@
 11	<p>	<p>	PUNCT	_	_	1	punct	_	AlignBegin=275670.224445|AlignEnd=275924.368231|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
 # doc_title = PearStory
-# sent_id = 60
+# sent_id = yrk_PearStory_60
 # text = сава -ми нерʼ не ӈацекы -мʼ <p> манэˮ -ма -ни серʼ ӈэва -ни нид <p> ӈобтʼ теб -ва -ниʼ серʼ хэ<un> хэвняʼ мантэ -рхавыˮ -нёʼ <p>
 # translit = sawa -ḿi ńerʔ ńe ŋaćeki -mʔ <p> manæʡ -ma -ńi śerʔ ŋæwa -ńi ńid <p> ŋobtʔ ťeb -wa -ńiʔ śerʔ xæ<un> xæwńaʔ mantæ -rxawiʡ -ńoʔ <p>
 # text_p = савами нерʼ не ӈацекымʼ <p> манэˮмани серʼ ӈэвани нид <p> ӈобтʼ тебваниʼ серʼ хэ<un> хэвняʼ мантэрхавыˮнёʼ <p>
@@ -1222,7 +1222,7 @@
 26	<p>	<p>	PUNCT	_	_	25	punct	_	AlignBegin=282332.218292|AlignEnd=283554.392903|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
 # doc_title = PearStory
-# sent_id = 61
+# sent_id = yrk_PearStory_61
 # text = ненаˮ сава -нёˮ савакоця -ми та -ра -нёˮ <p>
 # translit = ńenaʡ sawa -ńoʡ sawakoća -ḿi ta -ra -ńoʡ <p>
 # text_p = ненаˮ сава -нёˮ савакоця -ми та -ра -нёˮ <p>
@@ -1239,7 +1239,7 @@
 9	<p>	<p>	PUNCT	_	_	8	punct	_	AlignBegin=285534.423639|AlignEnd=285873.871699|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
 # doc_title = PearStory
-# sent_id = 62
+# sent_id = yrk_PearStory_62
 # text = ти сава -ми <er>сава -ми таˮ -ванд <p> еˮэйӈэ <p> тюку груша -да -р хана -ˮ <p>
 # translit = ťi sawa -ḿi <er>sawa -ḿi taʡ -wand <p> eʡæjŋæ <p> ťuku gruša -da -r xana -ʡ <p>
 # text_p = ти сава -ми <er>сава -ми таˮ -ванд <p> еˮэйӈэ <p> тюку груша -да -р хана -ˮ <p>
@@ -1264,7 +1264,7 @@
 17	<p>	<p>	PUNCT	_	_	16	punct	_	AlignBegin=291473.118248|AlignEnd=292962.965883|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
 # doc_title = PearStory
-# sent_id = 63
+# sent_id = yrk_PearStory_63
 # text = хасава ӈацекы сюрамба ня -хаю -та няна хая <p>
 # translit = xasawa ŋaćeki śuramba ńa -xaju -ta ńana xaja <p>
 # text_p = хасава ӈацекы сюрамба няхаюта няна хая <p>
@@ -1281,7 +1281,7 @@
 9	<p>	<p>	PUNCT	_	_	8	punct	_	AlignBegin=294970.700757|AlignEnd=296559.197746|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
 # doc_title = PearStory
-# sent_id = 64
+# sent_id = yrk_PearStory_64
 # text = ня -хаю -та няʼ тодоʼ ӈопой?мэ? груша миˮ -ӈа -ˮ <p>
 # translit = ńa -xaju -ta ńaʔ todoʔ ŋopoj?mæ? gruša ḿiʡ -ŋa -ʡ <p>
 # text_p = няхаюта няʼ тодоʼ ӈопой?мэ? груша миˮӈаˮ <p>
@@ -1300,7 +1300,7 @@
 11	<p>	<p>	PUNCT	_	_	9	punct	_	AlignBegin=299008.77498|AlignEnd=300730.100862|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
 # doc_title = PearStory
-# sent_id = 65
+# sent_id = yrk_PearStory_65
 # text = тикы тика -ндоʼ?мэ? тамна тяхаʼ ялъя -дˮ <p>
 # translit = ťiki ťika -ndoʔ?mæ? tamna ťaxaʔ jal"ja -dʡ <p>
 # text_p = тикы тикандоʼ?мэ? тамна тяхаʼ ялъядˮ <p>
@@ -1316,7 +1316,7 @@
 8	<p>	<p>	PUNCT	_	_	6	punct	_	AlignBegin=303012.513552|AlignEnd=303698.148325|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
 # doc_title = PearStory
-# sent_id = 66
+# sent_id = yrk_PearStory_66
 # text = сюнраха имбытадота -на хасава ӈацекэ -р?мэ? <p> груша -м -да?мэ? <p> имбыта -ка -нда тэˮ -ӈа -да тика сякал -ӈа -да <p>
 # translit = śunraxa imbitadota -na xasawa ŋaćekæ -r?mæ? <p> gruša -m -da?mæ? <p> imbita -ka -nda tæʡ -ŋa -da ťika śakal -ŋa -da <p>
 # text_p = сюнраха имбытадотана хасава ӈацекэр?мэ? <p> грушамда?мэ? <p> имбытаканда тэˮӈада тика сякалӈада <p>
@@ -1346,7 +1346,7 @@
 22	<p>	<p>	PUNCT	_	_	16	punct	_	AlignBegin=310147.198937|AlignEnd=310486.475674|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
 # doc_title = PearStory
-# sent_id = 67
+# sent_id = yrk_PearStory_67
 # text = сянакубцкоця -м -да вэрда тамна тяхаˮ ялъя -дˮ <p>
 # translit = śanakubckoća -m -da wærda tamna ťaxaʡ jal"ja -dʡ <p>
 # text_p = сянакубцкоцямда вэрда тамна тяхаˮ ялъядˮ <p>
@@ -1363,7 +1363,7 @@
 9	<p>	<p>	PUNCT	_	_	4	punct	_	AlignBegin=312860.283164|AlignEnd=313893.963403|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
 # doc_title = PearStory
-# sent_id = 68
+# sent_id = yrk_PearStory_68
 # text = ӈоди маˮламба -да?мэ? <p> груши хаˮаврамба -да <p> хасава -р <p> танця -ӈгадан -да ӈаниʼ тасиʼ хаˮмы -ˮ <p>
 # translit = ŋoďi maʡlamba -da?mæ? <p> gruši xaʡawramba -da <p> xasawa -r <p> tanća -ŋgadan -da ŋańiʔ taśiʔ xaʡmi -ʡ <p>
 # text_p = ӈоди маˮламба -да?мэ? <p> груши хаˮаврамба -да <p> хасава -р <p> танця -ӈгадан -да ӈаниʼ тасиʼ хаˮмы -ˮ <p>
@@ -1390,7 +1390,7 @@
 19	<p>	<p>	PUNCT	_	_	17	punct	_	AlignBegin=320177.337041|AlignEnd=321487.143192|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
 # doc_title = PearStory
-# sent_id = 69
+# sent_id = yrk_PearStory_69
 # text = Ӈоб?мэ? груши -та хыдя -ʼ мюʼ сыр -ӈа <p>
 # translit = Ŋob?mæ? gruši -ta xiďa -ʔ ḿuʔ sir -ŋa <p>
 # text_p = ӈоб?мэ? грушита хыдяʼ мюʼ сырӈа <p>
@@ -1407,7 +1407,7 @@
 9	<p>	<p>	PUNCT	_	_	8	punct	_	AlignBegin=324055.973299|AlignEnd=324587.697236|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
 # doc_title = PearStory
-# sent_id = 70
+# sent_id = yrk_PearStory_70
 # text = груши -та хыдя терси <p>
 # translit = gruši -ta xiďa ťerśi <p>
 # text_p = грушита хыдя терси <p>
@@ -1420,7 +1420,7 @@
 5	<p>	<p>	PUNCT	_	_	4	punct	_	AlignBegin=325955.531035|AlignEnd=327013.877956|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
 # doc_title = PearStory
-# sent_id = 71
+# sent_id = yrk_PearStory_71
 # text = ма -ˮ -ни -в : ӈамгэ няхарˮ <p> груши -ˮ хыдя ӈэ -сь тара -нарха -сиʼ ӈопой сидя няхаромдэй -ми яӈгу <p>
 # translit = ma -ʡ -ńi -w : ŋamgæ ńaxarʡ <p> gruši -ʡ xiďa ŋæ -ś tara -narxa -śiʔ ŋopoj śiďa ńaxaromdæj -ḿi jaŋgu <p>
 # text_p = маˮнив ӈамгэ няхарˮ <p> грушиˮ хыдя ӈэсь таранархасиʼ ӈопой сидя няхаромдэйми яӈгу <p>
@@ -1450,7 +1450,7 @@
 22	<p>	<p>	PUNCT	_	_	4	punct	_	AlignBegin=332526.570842|AlignEnd=332999.720952|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
 # doc_title = PearStory
-# sent_id = 72
+# sent_id = yrk_PearStory_72
 # text = Хэву -вна -нда няхар хасава ӈацекэко -ˮ нерцюй -да <p> тодо груши -на хэ -вы <p>
 # translit = Xæwu -wna -nda ńaxar xasawa ŋaćekæko -ʡ ńerćuj -da <p> todo gruši -na xæ -wi <p>
 # text_p = хэвувнанда няхар хасава ӈацекэкоˮ нерцюйда <p> тодо грушина хэвы <p>
@@ -1474,7 +1474,7 @@
 16	<p>	<p>	PUNCT	_	_	15	punct	_	AlignBegin=336921.58713|AlignEnd=337367.047861|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
 # doc_title = PearStory
-# sent_id = 73
+# sent_id = yrk_PearStory_73
 # text = хасава ибедор -ӈа <p> сава -м -да тюˮукуʼ пэр -ӈа <p>
 # translit = xasawa ib́edor -ŋa <p> sawa -m -da ťuʡukuʔ pær -ŋa <p>
 # text_p = хасава ибедорӈа <p> савамда тюˮукуʼ пэрӈа <p>
@@ -1493,7 +1493,7 @@
 11	<p>	<p>	PUNCT	_	_	3	punct	_	AlignBegin=340363.953165|AlignEnd=341381.370627|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
 # doc_title = PearStory
-# sent_id = 74
+# sent_id = yrk_PearStory_74
 # text = хасава ӈацекэ -ра <p> и -тоʼ серʼ ханзерʼ яд -са -ˮ <p> <un>?хан? таремʼ яда -ˮ <p>
 # translit = xasawa ŋaćekæ -ra <p> i -toʔ śerʔ xanźerʔ jad -sa -ʡ <p> <un>?xan? taŕemʔ jada -ʡ <p>
 # text_p = хасава ӈацекэ -ра <p> и -тоʼ серʼ ханзерʼ яд -са -ˮ <p> <un>?хан? таремʼ яда -ˮ <p>
@@ -1518,7 +1518,7 @@
 17	<p>	<p>	PUNCT	_	_	10	punct	_	AlignBegin=345257.795011|AlignEnd=345639.879731|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
 # doc_title = PearStory
-# sent_id = 75
+# sent_id = yrk_PearStory_75
 # text = тикы яля -да хури -ӈэ <er>хури -ӈэ хаерако -сь <p> хуриʼ савамбойкако -сь <p> хури -ӈэ хэˮнёкако -сь <p>
 # translit = ťiki jaľa -da xuŕi -ŋæ <er>xuŕi -ŋæ xaerako -ś <p> xuŕiʔ sawambojkako -ś <p> xuŕi -ŋæ xæʡńokako -ś <p>
 # text_p = тикы яля -да хури -ӈэ <er>хури -ӈэ хаерако -сь <p> хуриʼ савамбойкако -сь <p> хури -ӈэ хэˮнёкако -сь <p>
@@ -1545,7 +1545,7 @@
 19	<p>	<p>	PUNCT	_	_	9	punct	_	AlignBegin=351710.565383|AlignEnd=352673.037541|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
 # doc_title = PearStory
-# sent_id = 76
+# sent_id = yrk_PearStory_76
 # text = та валака -да <p>
 # translit = ta walaka -da <p>
 # text_p = та валакада <p>
@@ -1557,7 +1557,7 @@
 4	<p>	<p>	PUNCT	_	_	2	punct	_	AlignBegin=353424.55805|AlignEnd=354163.544352|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
 # doc_title = PearStory
-# sent_id = 77
+# sent_id = yrk_PearStory_77
 # text = конец
 # translit = końec
 # text_p = конец
