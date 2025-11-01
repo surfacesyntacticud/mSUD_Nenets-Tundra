@@ -1,8 +1,8 @@
 # doc_title = MapTask_003
 # sent_id = yrk_s_MapTask_003_1
 # text = <n> сэв -ˮни ӈадим -бʼ <p> яха -ʼ тарка -ʼ пыя -хана мэ -вэ -дмʼ <p>
+# translit = <n> sæw -ʡńi ŋaďim -bʔ <p> jaxa -ʔ tarka -ʔ pija -xana mæ -wæ -dmʔ <p>
 # p_text = <n> сэвˮни ӈадимбʼ <p> яхаʼ таркаʼ пыяхана мэвэдмʼ <p>
-# translit = <n> sæwʡńi ŋaďimbʔ <p> jaxaʔ tarkaʔ pijaxana mæwædmʔ <p>
 # text_ru = Когда я очнулся, то оказался на мысу, на развилке реки.
 # text_en = When I woke up I was on a headland, at a fork in the river.
 1	<n>	<n>	X	_	_	2	noise	_	AlignBegin=0|AlignEnd=405.588319811|Gloss=NOISE|LTranslit=<n>|Translit=<n>
@@ -25,8 +25,8 @@
 # doc_title = MapTask_003
 # sent_id = yrk_s_MapTask_003_2
 # text = яха -ʼ тарка -ʼ пыя -хад <p> тодоʼ яха -ˮ сыр -ӈа -дмʼ <p> сятаняʼ сыр -ӈа -дмʼ <p> маханяʼ сыр -ӈа -дмʼ <p>
+# translit = jaxa -ʔ tarka -ʔ pija -xad <p> todoʔ jaxa -ʡ sir -ŋa -dmʔ <p> śatańaʔ sir -ŋa -dmʔ <p> maxańaʔ sir -ŋa -dmʔ <p>
 # p_text = яхаʼ таркаʼ пыяхад <p> тодоʼ яхаˮ сырӈадмʼ <p> сятаняʼ сырӈадмʼ <p> маханяʼ сырӈадмʼ <p>
-# translit = jaxaʔ tarkaʔ pijaxad <p> todoʔ jaxaʡ sirŋadmʔ <p> śatańaʔ sirŋadmʔ <p> maxańaʔ sirŋadmʔ <p>
 # text_ru = С мыса на развилке я посмотрел по сторонам: посмотрел влево, посмотрел вправо.
 # text_en = From the headland at the fork I looked around: I looked left, I looked right.
 1	яха	яха	NOUN	_	_	2	comp:obj	_	AlignBegin=7252.97885776|AlignEnd=7524.70119689|Gloss=river|LTranslit=jaxa|Translit=jaxa
@@ -57,8 +57,8 @@
 # doc_title = MapTask_003
 # sent_id = yrk_s_MapTask_003_3
 # text = маханяӈэюмʼ тарка -м -да ӈохолё мада тасла -в <p>
+# translit = maxańaŋæjumʔ tarka -m -da ŋoxoľo mada tasla -w <p>
 # p_text = маханяӈэюмʼ таркамда ӈохолё мада таслав <p>
-# translit = maxańaŋæjumʔ tarkamda ŋoxoľo mada taslaw <p>
 # text_ru = Правый его рукав я решил перейти вплавь.
 # text_en = I decided to swim across on the right arm of the river.
 1	маханяӈэюмʼ	маханяӈэюмʼ	ADJ	_	_	2	mod	_	AlignBegin=14791.6462448|AlignEnd=15419.8854446|Gloss=to.the.right.adj.pol|LTranslit=maxańaŋæjumʔ|Translit=maxańaŋæjumʔ
@@ -74,8 +74,8 @@
 # doc_title = MapTask_003
 # sent_id = yrk_s_MapTask_003_4
 # text = ӈохолё мада -в <p> яда нэкал -ӈа -в <p>
+# translit = ŋoxoľo mada -w <p> jada nækal -ŋa -w <p>
 # p_text = ӈохолё мадав <p> яда нэкалӈав <p>
-# translit = ŋoxoľo madaw <p> jada nækalŋaw <p>
 # text_ru = Переплыл ее, пошел дальше пешком.
 # text_en = I swam across and continued on foot.
 1	ӈохолё	ӈохолё	VERB	_	VerbForm=Conv	2	mod	_	AlignBegin=19833.0333264|AlignEnd=20264.919017|Gloss=swim.cvb|LTranslit=ŋoxoľo|Translit=ŋoxoľo
@@ -91,8 +91,8 @@
 # doc_title = MapTask_003
 # sent_id = yrk_s_MapTask_003_5
 # text = яда -дмʼ яда -дмʼ яда -дмʼ <p>
+# translit = jada -dmʔ jada -dmʔ jada -dmʔ <p>
 # p_text = яда<a>дмʼ яда<a>дмʼ ядадмʼ <p>
-# translit = jada<a>dmʔ jada<a>dmʔ jadadmʔ <p>
 # text_ru = Иду, иду, иду.
 # text_en = I'm walking, I'm walking, I'm walking.
 1	яда	яда-	VERB	_	_	0	root	_	AlignBegin=23079.4959388|AlignEnd=23693.8758448|Gloss=walk|LTranslit=jada-|Translit=jada
@@ -106,8 +106,8 @@
 # doc_title = MapTask_003
 # sent_id = yrk_s_MapTask_003_6
 # text = ӈобʼ яда -дмʼ ӈобʼ яда -дмʼ
+# translit = ŋobʔ jada -dmʔ ŋobʔ jada -dmʔ
 # p_text = ӈобʼ ядадмʼ ӈобʼ ядадмʼ
-# translit = ŋobʔ jadadmʔ ŋobʔ jadadmʔ
 # text_ru = Все иду, все иду.
 # text_en = I'm still going, I'm still going.
 1	ӈобʼ	ӈобʼ	ADV	_	_	2	mod	_	AlignBegin=26830.9094254|AlignEnd=27151.3735813|Gloss=once,and|LTranslit=ŋobʔ|Translit=ŋobʔ
@@ -120,8 +120,8 @@
 # doc_title = MapTask_003
 # sent_id = yrk_s_MapTask_003_7
 # text = нер -ни няна <p> пирця махалэй -та -на харад -мʼ манэˮ -ӈа -дмʼ <p>
+# translit = ńer -ńi ńana <p> ṕirća maxalæj -ta -na xarad -mʔ manæʡ -ŋa -dmʔ <p>
 # p_text = нерни няна <p> пирця махалэйтана харадмʼ манэˮӈадмʼ <p>
-# translit = ńerńi ńana <p> ṕirća maxalæjtana xaradmʔ manæʡŋadmʔ <p>
 # text_ru = Впереди себя я увидел высокую башню с крышей.
 # text_en = I saw a tall tower with a roof in front of me.
 1	нер	нер-	ADP	_	_	2	comp:obj	_	AlignBegin=28079.0309466|AlignEnd=28575.0894168|Gloss=in.front.of|LTranslit=ńer-|Translit=ńer
@@ -142,8 +142,8 @@
 # doc_title = MapTask_003
 # sent_id = yrk_s_MapTask_003_8
 # text = маханяӈы хэву -вна -нда хая -маʼ <n> яду -вна -нда <d> харда -нда пя яду -вна тюˮуʼ танэ -й -вˮ <p>
+# translit = maxańaŋi xæwu -wna -nda xaja -maʔ <n> jadu -wna -nda <d> xarda -nda ṕa jadu -wna ťuʡuʔ tanæ -j -wʡ <p>
 # p_text = маханяӈы хэвувнанда хаямаʼ <n> ядувнанда xxx харданда пя ядувна тюˮуʼ танэйвˮ <p>
-# translit = maxańaŋi xæwuwnanda xajamaʔ <n> jaduwnanda xxx xardanda ṕa jaduwna ťuʡuʔ tanæjwʡ <p>
 # text_ru = Пошел справа от нее, по ее стене я поднялся вверх.
 # text_en = I went to it from the right and climbed up its wall.
 1	маханяӈы	маханяӈы	ADJ	_	_	2	mod	_	AlignBegin=31924.6628096|AlignEnd=32322.7173911|Gloss=from.the.right.adj|LTranslit=maxańaŋi|Translit=maxańaŋi
@@ -163,7 +163,7 @@
 15	яду	яд	NOUN	_	_	16	comp:obj	_	AlignBegin=36627.5451576|AlignEnd=36986.7770471|Gloss=wall|LTranslit=jad|Translit=jadu
 16	-вна	_	ADP	_	_	19	mod	_	AlignBegin=36627.5451576|AlignEnd=36986.7770471|Gloss=-prol|Translit=-wna
 17	тюˮуʼ	тюˮуʼ	ADV	_	_	19	mod	_	AlignBegin=36986.7770471|AlignEnd=37126.2435454|Gloss=upwards|LTranslit=ťuʡuʔ|Translit=ťuʡuʔ
-18	танэ	танэ	VERB	_	_	19	comp:aux	_	AlignBegin=37126.2435454|AlignEnd=37499.2107719|Gloss=go.up|LTranslit=tana|Translit=tanæ
+18	танэ	танэ	VERB	_	_	19	comp:aux	_	AlignBegin=37126.2435454|AlignEnd=37499.2107719|Gloss=go.up|LTranslit=tanæ|Translit=tanæ
 19	-й	-й	AUX	_	_	0	root	_	AlignBegin=37126.2435454|AlignEnd=37499.2107719|Gloss=-co.refl|LTranslit=-j|Translit=-j
 20	-вˮ	_	PRON	_	Number=Sing|Person=1	19	subj	_	AlignBegin=37126.2435454|AlignEnd=37499.2107719|Gloss=-1sg.refl|Translit=-wʡ
 21	<p>	<p>	PUNCT	_	_	19	punct	_	AlignBegin=37499.2107719|AlignEnd=37870.0648696|Gloss=SIL|LTranslit=<p>|Translit=<p>
@@ -171,14 +171,14 @@
 # doc_title = MapTask_003
 # sent_id = yrk_s_MapTask_003_9
 # text = махалэя -нда ниʼ танэ -й -вˮ <p>
+# translit = maxalæja -nda ńiʔ tanæ -j -wʡ <p>
 # p_text = махалэянда ниʼ танэйвˮ <p>
-# translit = maxalæjanda ńiʔ tanæjwʡ <p>
 # text_ru = Поднялся на его крышу.
 # text_en = I climbed up to its roof.
 1	махалэя	махалы	NOUN	_	_	2	comp:obj	_	AlignBegin=37870.0648696|AlignEnd=38391.7573482|Gloss=roof|LTranslit=maxali|Translit=maxalæja
 2	-нда	_	ADP	_	Number=Sing|Person=3	3	comp:obj	_	AlignBegin=37870.0648696|AlignEnd=38391.7573482|Gloss=-poss.gen.3sg|Translit=-nda
 3	ниʼ	ниʼ	ADP	_	_	5	mod	_	AlignBegin=38391.7573482|AlignEnd=38519.6084623|Gloss=at.dat|LTranslit=ńiʔ|Translit=ńiʔ
-4	танэ	танэ	VERB	_	_	5	comp:aux	_	AlignBegin=38519.6084623|AlignEnd=38954.0999246|Gloss=go.up|LTranslit=tana|Translit=tanæ
+4	танэ	танэ	VERB	_	_	5	comp:aux	_	AlignBegin=38519.6084623|AlignEnd=38954.0999246|Gloss=go.up|LTranslit=tanæ|Translit=tanæ
 5	-й	-й	AUX	_	_	0	root	_	AlignBegin=38519.6084623|AlignEnd=38954.0999246|Gloss=-co.refl|LTranslit=-j|Translit=-j
 6	-вˮ	_	PRON	_	Number=Sing|Person=1	5	subj	_	AlignBegin=38519.6084623|AlignEnd=38954.0999246|Gloss=-1sg.refl|Translit=-wʡ
 7	<p>	<p>	PUNCT	_	_	5	punct	_	AlignBegin=38954.0999246|AlignEnd=39723.278794|Gloss=SIL|LTranslit=<p>|Translit=<p>
@@ -186,8 +186,8 @@
 # doc_title = MapTask_003
 # sent_id = yrk_s_MapTask_003_10
 # text = махалэя -нда нид <p> яˮамна сыр -ӈа -дмʼ <p>
+# translit = maxalæja -nda ńid <p> jaʡamna sir -ŋa -dmʔ <p>
 # p_text = махалэянда нид <p> яˮамна сырӈадмʼ <p>
-# translit = maxalæjanda ńid <p> jaʡamna sirŋadmʔ <p>
 # text_ru = С ее крыши я посмотрел по сторонам.
 # text_en = I looked around from its roof.
 1	махалэя	махалы	NOUN	_	_	2	comp:obj	_	AlignBegin=39723.278794|AlignEnd=40354.6904688|Gloss=roof|LTranslit=maxali|Translit=maxalæja
@@ -203,8 +203,8 @@
 # doc_title = MapTask_003
 # sent_id = yrk_s_MapTask_003_11
 # text = тадтикахад <p> тасиʼ хаˮмы -вˮ <p>
+# translit = tadťikaxad <p> taśiʔ xaʡmi -wʡ <p>
 # p_text = тадтикахад <p> тасиʼ хаˮмывˮ <p>
-# translit = tadťikaxad <p> taśiʔ xaʡmiwʡ <p>
 # text_ru = Затем я спустился.
 # text_en = Then I went down.
 1	тадтикахад	тадтикахад	ADV	_	_	4	mod	_	AlignBegin=44528.3289662|AlignEnd=45176.2415286|Gloss=afterwards|LTranslit=tadťikaxad|Translit=tadťikaxad
@@ -217,8 +217,8 @@
 # doc_title = MapTask_003
 # sent_id = yrk_s_MapTask_003_12
 # text = тасиʼ хаˮам -ˮма -хада -ни <p> нэкал -ӈа -в тамна тяха нэкал -ӈа -в <p>
+# translit = taśiʔ xaʡam -ʡma -xada -ńi <p> nækal -ŋa -w tamna ťaxa nækal -ŋa -w <p>
 # p_text = тасиʼ хаˮамˮмахадани <p> нэкалӈав тамна тяха нэкалӈав <p>
-# translit = taśiʔ xaʡamʡmaxadańi <p> nækalŋaw tamna ťaxa nækalŋaw <p>
 # text_ru = И после того как спустился, направился дальше.
 # text_en = After I came down, I went forward.
 1	тасиʼ	тасиʼ	ADV	_	_	2	mod	_	AlignBegin=46850.3764426|AlignEnd=47088.9910463|Gloss=downward.dat|LTranslit=taśiʔ|Translit=taśiʔ
@@ -240,8 +240,8 @@
 # doc_title = MapTask_003
 # sent_id = yrk_s_MapTask_003_13
 # text = ӈохолыр -ць <p> яха -мʼ <p> пул -ʼ ӈыламна мада -в <p>
+# translit = ŋoxolir -ć <p> jaxa -mʔ <p> pul -ʔ ŋilamna mada -w <p>
 # p_text = ӈохолырць <p> яхамʼ <p> пулʼ ӈыламна мадав <p>
-# translit = ŋoxolirć <p> jaxamʔ <p> pulʔ ŋilamna madaw <p>
 # text_ru = Вправь, я переплыл реку под мостом.
 # text_en = I crossed the river by swimming under the bridge.
 1	ӈохолыр	ӈохолыр	VERB	_	_	2	comp:obj	_	AlignBegin=50875.8382132|AlignEnd=51829.4716627|Gloss=swim|LTranslit=ŋoxolir|Translit=ŋoxolir
@@ -260,8 +260,8 @@
 # doc_title = MapTask_003
 # sent_id = yrk_s_MapTask_003_14
 # text = таханяюʼ тэвы -вʼ <p>
+# translit = taxańajuʔ tæwi -wʔ <p>
 # p_text = таханяюʼ тэвывʼ <b_ p>
-# translit = taxańajuʔ tæwiwʔ <b_ p>
 # text_ru = Мы дошли там.
 # text_en = I got there.
 1	таханяюʼ	таханяюʼ	ADV	_	_	2	mod	_	AlignBegin=54423.4275794|AlignEnd=54911.2009064|Gloss=there.pol|LTranslit=taxańajuʔ|Translit=taxańajuʔ
@@ -272,8 +272,8 @@
 # doc_title = MapTask_003
 # sent_id = yrk_s_MapTask_003_15
 # text = таремʼ пэр -ӈа -ва <p> яха -ʼ вару -вна <p> яха -ʼ лаӈг -ʼ сятаняю -мна ӈобʼ яда нэкал -ӈа -в <p>
+# translit = taŕemʔ pær -ŋa -wa <p> jaxa -ʔ waru -wna <p> jaxa -ʔ laŋg -ʔ śatańaju -mna ŋobʔ jada nækal -ŋa -w <p>
 # p_text = таремʼ пэрӈава <p> яхаʼ варувна <p> яхаʼ лаӈгʼ сятаняюмна ӈобʼ яда нэкалӈав <p>
-# translit = taŕemʔ pærŋawa <p> jaxaʔ waruwna <p> jaxaʔ laŋgʔ śatańajumna ŋobʔ jada nækalŋaw <p>
 # text_ru = Так направляюсь, что иду по берегу реки левее берега реки пешком.
 # text_en = I'm moving in a direction where I'm going so that I'm walking along the riverbank to the left of the riverbank.
 1	таремʼ	таремʼ	ADV	_	_	2	mod	_	AlignBegin=56781.9280695|AlignEnd=57060.5585621|Gloss=this.way|LTranslit=taŕemʔ|Translit=taŕemʔ
@@ -302,8 +302,8 @@
 # doc_title = MapTask_003
 # sent_id = yrk_s_MapTask_003_16
 # text = таняна <p> ӈано <p> яӈго -вы <p> ӈано яха -ʼ тяханяна ӈэ -вы <p>
+# translit = tańana <p> ŋano <p> jaŋgo -wi <p> ŋano jaxa -ʔ ťaxańana ŋæ -wi <p>
 # p_text = таняна <p> ӈано <p> яӈговы <p> ӈано яхаʼ тяханяна ӈэвы <p>
-# translit = tańana <p> ŋano <p> jaŋgowi <p> ŋano jaxaʔ ťaxańana ŋæwi <p>
 # text_ru = Там не оказалось лодки, лодка оказалась на другом берегу реки.
 # text_en = There was no boat; the boat was on the other side of the river.
 1	таняна	таняна	ADV	_	_	6	mod	_	AlignBegin=63077.3578044|AlignEnd=63584.8899994|Gloss=there|LTranslit=tańana|Translit=tańana
@@ -324,8 +324,8 @@
 # doc_title = MapTask_003
 # sent_id = yrk_s_MapTask_003_17
 # text = яха -мʼ <p> ӈохолыр -ць <p> ӈано -ʼ няюʼ мада -в <p>
+# translit = jaxa -mʔ <p> ŋoxolir -ć <p> ŋano -ʔ ńajuʔ mada -w <p>
 # p_text = яхамʼ <p> ӈохолырць <p> ӈаноʼ няюʼ мадав <p>
-# translit = jaxamʔ <p> ŋoxolirć <p> ŋanoʔ ńajuʔ madaw <p>
 # text_ru = Реку я переплыл в сторону лодки.
 # text_en = I swam across the river to the side of the boat.
 1	яха	яха	NOUN	_	_	2	comp:obj	_	AlignBegin=67942.4445949|AlignEnd=68469.3078828|Gloss=river|LTranslit=jaxa|Translit=jaxa
@@ -344,8 +344,8 @@
 # doc_title = MapTask_003
 # sent_id = yrk_s_MapTask_003_18
 # text = ӈано -мʼ манэˮ -ӈа -ва ӈано -ход тамна тяха ядалъ -я -вʼ <p>
+# translit = ŋano -mʔ manæʡ -ŋa -wa ŋano -xod tamna ťaxa jadal" -ja -wʔ <p>
 # p_text = ӈаномʼ манэˮӈава ӈаноход тамна тяха ядалъявʼ <s_ p>
-# translit = ŋanomʔ manæʡŋawa ŋanoxod tamna ťaxa jadal"jawʔ <s_ p>
 # text_ru = Я посмотрел лодку и от лодки пошел пешком дальше.
 # text_en = I looked at the boat and then I walked away from the boat.
 1	ӈано	ӈано	NOUN	_	_	2	comp:obj	_	AlignBegin=73907.0151304|AlignEnd=74283.6347667|Gloss=boat|LTranslit=ŋano|Translit=ŋano
