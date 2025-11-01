@@ -234,7 +234,7 @@
 9	пэбт	пэбта	VERB	_	_	10	comp:aux	_	AlignBegin=54672.7725019|AlignEnd=54917.4507221|Gloss=cover
 10	-ˮма	X	AUX	_	_	11	mod	_	AlignBegin=54672.7725019|AlignEnd=54917.4507221|Gloss=-ipfv.an
 11	ӈокся	ӈокся	NOUN	_	_	12	comp:obj	_	AlignBegin=54917.4507221|AlignEnd=55581.6554343|Gloss=scarf
-12	-м	X	ADP	_	_	13	comp:obj	_	AlignBegin=54917.4507221|AlignEnd=55581.6554343|Gloss=-acc
+12	-м	X	ADP	_	_	6	parataxis	_	AlignBegin=54917.4507221|AlignEnd=55581.6554343|Gloss=-acc
 13	хаˮавра	хаˮавра	VERB	_	_	0	root	_	AlignBegin=55581.6554343|AlignEnd=56078.8108057|Gloss=take.off.3sg
 14	<p>	<p>	PUNCT	_	_	13	punct	_	AlignBegin=56078.8108057|AlignEnd=56795.715883|Gloss=SIL
 
@@ -401,7 +401,7 @@
 13	тамна	тамна	ADV	_	_	16	mod	_	AlignBegin=100258.124313|AlignEnd=101099.967313|Gloss=even
 14	<p>	<p>	INTJ	_	_	13	discourse	_	AlignBegin=101099.967313|AlignEnd=101386.412594|Gloss=X
 15	<er>тамна	тамна	ADV	_	_	13	reparandum	_	AlignBegin=101386.412594|AlignEnd=101576.249993|Gloss=even
-16	тяхаˮ	тяхаˮ	ADV	_	_	_	_	_	AlignBegin=101576.249993|AlignEnd=101741.791577|Gloss=further
+16	тяхаˮ	тяхаˮ	ADV	_	_	17	mod	_	AlignBegin=101576.249993|AlignEnd=101741.791577|Gloss=further
 17	тердемби	тердемба	VERB	_	_	0	root	_	AlignBegin=101741.791577|AlignEnd=102481.227033|Gloss=fill
 18	-да	X	PRON	_	_	17	subj	_	AlignBegin=101741.791577|AlignEnd=102481.227033|Gloss=-3sg.sg
 19	<p>	<p>	PUNCT	_	_	17	punct	_	AlignBegin=102481.227033|AlignEnd=103170.891831|Gloss=SIL
@@ -443,7 +443,7 @@
 12	хасава	хасава	NOUN	_	_	13	mod	_	AlignBegin=110972.018821|AlignEnd=111411.744272|Gloss=man
 13	ӈацекэко	ӈацекы	NOUN	_	_	26	subj	_	AlignBegin=111411.744272|AlignEnd=112035.169648|Gloss=child
 14	<p>	<p>	INTJ	_	_	13	discourse	_	AlignBegin=112035.169648|AlignEnd=113054.694099|Gloss=X
-15	ӈани	ӈаниʼ	CNJ	_	_	16	mod	_	AlignBegin=113054.694099|AlignEnd=113320.212686|Gloss=again
+15	ӈани	ӈаниʼ	CONJ	_	_	16	mod	_	AlignBegin=113054.694099|AlignEnd=113320.212686|Gloss=again
 16	сабета	сабита	VERB	_	_	17	comp:aux	_	AlignBegin=113320.212686|AlignEnd=114029.292523|Gloss=wear.a.hat
 17	-на	X	AUX	_	_	13	mod	_	AlignBegin=113320.212686|AlignEnd=114029.292523|Gloss=-ptcp.cont
 18	<n>	<n>	INTJ	_	_	17	discourse	_	AlignBegin=114029.292523|AlignEnd=114928.940682|Gloss=X
@@ -1370,7 +1370,7 @@
 13	-сь	X	AUX	_	_	14	comp:aux	_	AlignBegin=329114.484712|AlignEnd=329338.838455|Gloss=-cvb
 14	тара	тара	AUX	_	_	15	comp:aux	_	AlignBegin=329338.838455|AlignEnd=330146.204224|Gloss=need
 15	-нарха	X	AUX	_	_	16	comp:aux	_	AlignBegin=329338.838455|AlignEnd=330146.204224|Gloss=-impf.aprx.3sg
-16	-сиʼ	X	AUX	_	_	_	_	_	AlignBegin=329338.838455|AlignEnd=330146.204224|Gloss=-pst
+16	-сиʼ	X	AUX	_	_	6	parataxis	_	AlignBegin=329338.838455|AlignEnd=330146.204224|Gloss=-pst
 17	ӈопой	ӈопой	NUM	_	_	16	parataxis	_	AlignBegin=330146.204224|AlignEnd=330805.140159|Gloss=one
 18	сидя	сидя	NUM	_	_	16	parataxis	_	AlignBegin=330805.140159|AlignEnd=331373.819597|Gloss=two
 19	няхаромдэй	няхаромдэй	NUM	_	_	21	subj	_	AlignBegin=331373.819597|AlignEnd=332138.297526|Gloss=third
