@@ -53,7 +53,7 @@
 # text_en = The man slips the fruit one by one into his pocket.
 1	ӈопой	ӈопой	NUM	_	_	2	mod	_	AlignBegin=11562.1010726|AlignEnd=12337.0289147|Gloss=one|LTranslit=ŋopoj|Translit=ŋopoj
 2	ӈодя	ӈодя	NOUN	_	_	3	comp:obj	_	AlignBegin=12337.0289147|AlignEnd=12998.2058809|Gloss=berry|LTranslit=ŋoďa|Translit=ŋoďa
-3	-мʼ	X	ADP	_	_	11	comp:obj	_	AlignBegin=12337.0289147|AlignEnd=12998.2058809|Gloss=-acc|LTranslit=X|Translit=-mʔ
+3	-мʼ	X	ADP	_	_	11	comp:obj	_	AlignBegin=12337.0289147|AlignEnd=12998.2058809|Gloss=-acc|ISRole=Top|LTranslit=X|Translit=-mʔ
 4	нянда	нянда	PRON	_	_	5	comp:obj	_	AlignBegin=12998.2058809|AlignEnd=13773.1337229|Gloss=3sg.dat|LTranslit=ńanda|Translit=ńanda
 5	пуд	пуд	ADP	_	_	11	mod	_	AlignBegin=12998.2058809|AlignEnd=13773.1337229|Gloss=after.abl|LTranslit=pud|Translit=pud
 6	<p>	<p>	INTJ	_	_	5	discourse	_	AlignBegin=13773.1337229|AlignEnd=14256.5749455|Gloss=X|LTranslit=<p>|Translit=<p>
@@ -62,7 +62,7 @@
 9	сепа	сеп	NOUN	_	_	10	comp:obj	_	AlignBegin=15394.0837045|AlignEnd=16048.151241|Gloss=pocket|LTranslit=śep|Translit=śepa
 10	мюʼ	мюʼ	ADP	_	_	11	mod	_	AlignBegin=15394.0837045|AlignEnd=16048.151241|Gloss=in.dat|LTranslit=ḿuʔ|Translit=ḿuʔ
 11	маˮламби	маˮламба	VERB	_	_	0	root	_	AlignBegin=16048.151241|AlignEnd=16744.8753558|Gloss=pick|LTranslit=maʡlamba|Translit=maʡlamb́i
-12	-да	X	PRON	_	_	11	subj	_	AlignBegin=16048.151241|AlignEnd=16744.8753558|Gloss=-3sg.sg|LTranslit=X|Translit=-da
+12	-да	X	PRON	_	_	11	subj	_	AlignBegin=16048.151241|AlignEnd=16744.8753558|Gloss=-3sg.sg|ISMarker[Top]=Agr|LTranslit=X|Translit=-da
 13	<p>	<p>	PUNCT	_	_	11	punct	_	AlignBegin=16744.8753558|AlignEnd=17496.3860358|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
 # doc_title = PearStory
