@@ -20,7 +20,7 @@
 11	-хад	X	ADP	_	_	16	mod	_	AlignBegin=4824.91175734|AlignEnd=5451.85232308|Gloss=-abl|LTranslit=X|Translit=-xad
 12	хасава	хасава	NOUN	_	_	16	subj	_	AlignBegin=5451.85232308|AlignEnd=6317.62739006|Gloss=man|LTranslit=xasawa|Translit=xasawa
 13	<p>	<p>	INTJ	_	_	12	discourse	_	AlignBegin=6317.62739006|AlignEnd=6859.98073661|Gloss=X|LTranslit=<p>|Translit=<p>
-14	груша	груша	NOUN	_	_	16	comp:obj	_	AlignBegin=6859.98073661|AlignEnd=7143.59670683|Gloss=pear|LTranslit=gruša|Translit=gruša
+14	груша	груша	NOUN	_	_	15	comp:obj	_	AlignBegin=6859.98073661|AlignEnd=7143.59670683|Gloss=pear|LTranslit=gruša|Translit=gruša
 15	маˮламба	маˮламба	VERB	_	_	16	comp:aux	_	AlignBegin=7143.59670683|AlignEnd=8025.26922579|Gloss=pick|LTranslit=maʡlamba|Translit=maʡlamba
 16	-вы	X	AUX	_	_	0	root	_	AlignBegin=7143.59670683|AlignEnd=8025.26922579|Gloss=-infr.3sg|LTranslit=X|Translit=-wi
 17	<p>	<p>	PUNCT	_	_	16	punct	_	AlignBegin=8025.26922579|AlignEnd=8266.00999235|Gloss=SIL|LTranslit=<p>|Translit=<p>
@@ -36,8 +36,8 @@
 # text_en = The pears were very green.
 1	груша	груша	NOUN	_	_	6	subj	_	AlignBegin=8266.00999235|AlignEnd=8684.63741366|Gloss=pear|LTranslit=gruša|Translit=gruša
 2	-ˮ	X	DET	_	_	1	det	_	AlignBegin=8266.00999235|AlignEnd=8684.63741366|Gloss=-pl|LTranslit=X|Translit=-ʡ
-3	хуриˮ	хуриʼ	ADV	_	_	6	mod	_	AlignBegin=8684.63741366|AlignEnd=8985.58469443|Gloss=very|LTranslit=xuŕiʔ|Translit=xuŕiʡ
-4	?таремʼ?	таремʼ	ADV	_	_	6	mod	_	AlignBegin=8985.58469443|AlignEnd=9471.81631809|Gloss=this.way|LTranslit=taŕemʔ|Translit=?taŕemʔ?
+3	хуриˮ	хуриʼ	ADV	_	_	5	mod	_	AlignBegin=8684.63741366|AlignEnd=8985.58469443|Gloss=very|LTranslit=xuŕiʔ|Translit=xuŕiʡ
+4	?таремʼ?	таремʼ	ADV	_	_	5	mod	_	AlignBegin=8985.58469443|AlignEnd=9471.81631809|Gloss=this.way|LTranslit=taŕemʔ|Translit=?taŕemʔ?
 5	падяраха	падяраха	ADJ	_	_	6	comp:aux	_	AlignBegin=9471.81631809|AlignEnd=10503.1657482|Gloss=green.3sg|LTranslit=paďaraxa|Translit=paďaraxa
 6	-каков	-каков	AUX	_	_	0	root	_	AlignBegin=9471.81631809|AlignEnd=10503.1657482|Gloss=Focus|LTranslit=-kakow|Translit=-kakow
 7	<p>	<p>	PUNCT	_	_	6	punct	_	AlignBegin=10503.1657482|AlignEnd=11562.1010726|Gloss=SIL|LTranslit=<p>|Translit=<p>
@@ -179,13 +179,13 @@
 # text_ru = Этот мешок такой огромный.
 # text_en = That bag is so big.
 1	тикы	тикы	PRON	_	PronType=Dem	2	mod	_	AlignBegin=36757.2862218|AlignEnd=36965.9788721|Gloss=that|LTranslit=ťiki|Translit=ťiki
-2	падда	пад	NOUN	_	_	6	subj	_	AlignBegin=36965.9788721|AlignEnd=37400.2047336|Gloss=bag|LTranslit=pad|Translit=padda
+2	падда	пад	NOUN	_	_	5	subj	_	AlignBegin=36965.9788721|AlignEnd=37400.2047336|Gloss=bag|LTranslit=pad|Translit=padda
 3	тарсиʼ	тарсиʼ	ADV	_	_	4	mod	_	AlignBegin=37400.2047336|AlignEnd=37721.097508|Gloss=very|LTranslit=tarśiʔ|Translit=tarśiʔ
-4	ӈарка	ӈарка	ADJ	_	_	6	comp	_	AlignBegin=37721.097508|AlignEnd=38006.7713401|Gloss=big|LTranslit=ŋarka|Translit=ŋarka
-5	ӈэ	ӈа	VERB	_	_	6	comp:aux	_	AlignBegin=38006.7713401|AlignEnd=38679.5891537|Gloss=be|LTranslit=ŋa|Translit=ŋæ
-6	-ванон	X	AUX	_	_	0	root	_	AlignBegin=38006.7713401|AlignEnd=38679.5891537|Gloss=-aud|LTranslit=X|Translit=-wanon
-7	-да	X	DET	_	_	6	subj	_	AlignBegin=38006.7713401|AlignEnd=38679.5891537|Gloss=-poss.3sg|LTranslit=X|Translit=-da
-8	<p>	<p>	PUNCT	_	_	6	punct	_	AlignBegin=38679.5891537|AlignEnd=39371.9095957|Gloss=SIL|LTranslit=<p>|Translit=<p>
+4	ӈарка	ӈарка	ADJ	_	_	5	comp:pred	_	AlignBegin=37721.097508|AlignEnd=38006.7713401|Gloss=big|LTranslit=ŋarka|Translit=ŋarka
+5	ӈэ	ӈа	AUX	_	_	6	comp:aux	_	AlignBegin=38006.7713401|AlignEnd=38679.5891537|Gloss=be|LTranslit=ŋa|Translit=ŋæ
+6	-ванон	X	AUX	_	_	7	comp:aux	_	AlignBegin=38006.7713401|AlignEnd=38679.5891537|Gloss=-aud|LTranslit=X|Translit=-wanon
+7	-да	X	AUX	_	_	0	root	_	AlignBegin=38006.7713401|AlignEnd=38679.5891537|Gloss=ptcp|LTranslit=X|Translit=-da
+8	<p>	<p>	PUNCT	_	_	7	punct	_	AlignBegin=38679.5891537|AlignEnd=39371.9095957|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
 # sent_id = yrk_PearStory_10
 # text = груша -ˮ <p> <f>сусана -ва -ˮ <er>сусана -ва -ˮ <f>тоˮолха суса -ва -ˮ тоˮолха ӈобʼ ни ӈа -ˮ <p>
@@ -201,19 +201,19 @@
 3	<p>	<p>	INTJ	_	_	1	discourse	_	AlignBegin=40059.7208966|AlignEnd=41009.5479267|Gloss=X|LTranslit=<p>|Translit=<p>
 4	<f>сусана	сусана	VERB	_	_	5	comp:aux	_	AlignBegin=41009.5479267|AlignEnd=41759.5555017|Gloss=end|LTranslit=susana|Translit=<f>susana
 5	-ва	X	AUX	_	_	6	comp:obj	_	AlignBegin=41009.5479267|AlignEnd=41759.5555017|Gloss=-ptcp.prf|LTranslit=X|Translit=-wa
-6	-ˮ	X	ADP	_	_	10	comp	_	AlignBegin=41009.5479267|AlignEnd=41759.5555017|Gloss=-gen|LTranslit=X|Translit=-ʡ
+6	-ˮ	X	ADP	_	_	10	mod	_	AlignBegin=41009.5479267|AlignEnd=41759.5555017|Gloss=-gen|LTranslit=X|Translit=-ʡ
 7	<er>сусана	сусана	VERB	_	_	8	comp:aux	_	AlignBegin=41759.5555017|AlignEnd=42304.3898367|Gloss=end|LTranslit=susana|Translit=<er>susana
 8	-ва	X	AUX	_	_	9	comp:obj	_	AlignBegin=41759.5555017|AlignEnd=42304.3898367|Gloss=-ptcp.prf|LTranslit=X|Translit=-wa
 9	-ˮ	X	ADP	_	_	6	reparandum	_	AlignBegin=41759.5555017|AlignEnd=42304.3898367|Gloss=-gen|LTranslit=X|Translit=-ʡ
 10	<f>тоˮолха	тоˮолха	ADJ	_	_	14	reparandum	_	AlignBegin=42304.3898367|AlignEnd=42736.2962863|Gloss=similar|LTranslit=toʡolxa|Translit=<f>toʡolxa
 11	суса	суса	VERB	_	_	12	comp:aux	_	AlignBegin=42736.2962863|AlignEnd=43196.2130319|Gloss=run.out|LTranslit=susa|Translit=susa
 12	-ва	X	AUX	_	_	13	comp:obj	_	AlignBegin=42736.2962863|AlignEnd=43196.2130319|Gloss=-ptcp.prf|LTranslit=X|Translit=-wa
-13	-ˮ	X	ADP	_	_	14	comp	_	AlignBegin=42736.2962863|AlignEnd=43196.2130319|Gloss=-gen|LTranslit=X|Translit=-ʡ
+13	-ˮ	X	ADP	_	_	14	mod	_	AlignBegin=42736.2962863|AlignEnd=43196.2130319|Gloss=-gen|LTranslit=X|Translit=-ʡ
 14	тоˮолха	тоˮолха	ADJ	_	_	16	mod	_	AlignBegin=43196.2130319|AlignEnd=43452.9541497|Gloss=similar|LTranslit=toʡolxa|Translit=toʡolxa
 15	ӈобʼ	ӈобʼ	ADV	_	_	16	mod	_	AlignBegin=43452.9541497|AlignEnd=43694.1330264|Gloss=once|LTranslit=ŋobʔ|Translit=ŋobʔ
 16	ни	ни	AUX	_	_	0	root	_	AlignBegin=43694.1330264|AlignEnd=44349.6681454|Gloss=NEG|LTranslit=ńi|Translit=ńi
-17	ӈа	ӈа	VERB	_	_	18	comp	_	AlignBegin=43694.1330264|AlignEnd=44349.6681454|Gloss=BE|LTranslit=ŋa|Translit=ŋa
-18	-ˮ	X	X	_	_	16	comp:aux	_	AlignBegin=43694.1330264|AlignEnd=44349.6681454|Gloss=-conneg|LTranslit=X|Translit=-ʡ
+17	ӈа	ӈа	VERB	_	_	18	comp:aux	_	AlignBegin=43694.1330264|AlignEnd=44349.6681454|Gloss=BE|LTranslit=ŋa|Translit=ŋa
+18	-ˮ	X	AUX	_	_	16	comp:aux	_	AlignBegin=43694.1330264|AlignEnd=44349.6681454|Gloss=-conneg|LTranslit=X|Translit=-ʡ
 19	<p>	<p>	PUNCT	_	_	16	punct	_	AlignBegin=44349.6681454|AlignEnd=45846.7465109|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
 # doc_title = PearStory
@@ -247,7 +247,7 @@
 2	груша	груша	NOUN	_	_	3	comp:obj	_	AlignBegin=50479.074636|AlignEnd=50992.4799714|Gloss=pear|LTranslit=gruša|Translit=gruša
 3	-мʼ	X	ADP	_	_	7	comp:obj	_	AlignBegin=50479.074636|AlignEnd=50992.4799714|Gloss=-acc|LTranslit=X|Translit=-mʔ
 4	<p>	<p>	INTJ	_	_	3	discourse	_	AlignBegin=50992.4799714|AlignEnd=51279.6822957|Gloss=X|LTranslit=<p>|Translit=<p>
-5	няанда	нянда	PRON	_	_	7	mod	_	AlignBegin=51279.6822957|AlignEnd=51806.7850722|Gloss=3sg.dat|LTranslit=ńanda|Translit=ńaanda
+5	няанда	нянда	PRON	_	_	6	mod	_	AlignBegin=51279.6822957|AlignEnd=51806.7850722|Gloss=3sg.dat|LTranslit=ńanda|Translit=ńaanda
 6	нэкал	нэкал	VERB	_	_	7	comp:aux	_	AlignBegin=51806.7850722|AlignEnd=52412.8030283|Gloss=grab|LTranslit=nækal|Translit=nækal
 7	-ӈа	X	AUX	_	_	0	root	_	AlignBegin=51806.7850722|AlignEnd=52412.8030283|Gloss=X|LTranslit=X|Translit=-ŋa
 8	-да	X	PRON	_	_	7	subj	_	AlignBegin=51806.7850722|AlignEnd=52412.8030283|Gloss=-3sg.sg|LTranslit=X|Translit=-da
@@ -269,7 +269,7 @@
 5	ӈокся	ӈокся	NOUN	_	_	6	comp:obj	_	AlignBegin=53852.3647218|AlignEnd=54389.8799291|Gloss=scarf|LTranslit=ŋokśa|Translit=ŋokśa
 6	-м	X	ADP	_	_	13	comp:obj	_	AlignBegin=53852.3647218|AlignEnd=54389.8799291|Gloss=-acc|LTranslit=X|Translit=-m
 7	ик	ик	NOUN	_	_	8	comp:obj	_	AlignBegin=54389.8799291|AlignEnd=54672.7725019|Gloss=neck|LTranslit=ik|Translit=ik
-8	-ʼ	X	ADP	_	_	9	mod:poss	_	AlignBegin=54389.8799291|AlignEnd=54672.7725019|Gloss=-gen|LTranslit=X|Translit=-ʔ
+8	-ʼ	X	ADV	_	_	9	mod	_	AlignBegin=54389.8799291|AlignEnd=54672.7725019|Gloss=-gen|LTranslit=X|Translit=-ʔ
 9	пэбт	пэбта	VERB	_	_	10	comp:aux	_	AlignBegin=54672.7725019|AlignEnd=54917.4507221|Gloss=cover|LTranslit=pæbta|Translit=pæbt
 10	-ˮма	X	AUX	_	_	11	mod	_	AlignBegin=54672.7725019|AlignEnd=54917.4507221|Gloss=-ipfv.an|LTranslit=X|Translit=-ʡma
 11	ӈокся	ӈокся	NOUN	_	_	12	comp:obj	_	AlignBegin=54917.4507221|AlignEnd=55581.6554343|Gloss=scarf|LTranslit=ŋokśa|Translit=ŋokśa
@@ -337,7 +337,7 @@
 6	<p>	<p>	INTJ	_	_	5	discourse	_	AlignBegin=69855.06753|AlignEnd=70408.3134213|Gloss=X|LTranslit=<p>|Translit=<p>
 7	хорова	хорова	NOUN	_	_	8	comp:obj	_	AlignBegin=70408.3134213|AlignEnd=70903.6611505|Gloss=cow|LTranslit=xorowa|Translit=xorowa
 8	-мʼ	X	ADP	_	_	9	comp:obj	_	AlignBegin=70408.3134213|AlignEnd=70903.6611505|Gloss=-acc|LTranslit=X|Translit=-mʔ
-9	минре	минре	ADV	_	_	10	mod	_	AlignBegin=70903.6611505|AlignEnd=71495.2218813|Gloss=lead.cvb|LTranslit=ḿinŕe|Translit=ḿinŕe
+9	минре	минре	VERB	_	_	10	mod	_	AlignBegin=70903.6611505|AlignEnd=71495.2218813|Gloss=lead.cvb|LTranslit=ḿinŕe|Translit=ḿinŕe
 10	ӈадимя	ӈадим	VERB	_	_	0	root	_	AlignBegin=71495.2218813|AlignEnd=72077.3856905|Gloss=appear|LTranslit=ŋaďim|Translit=ŋaďiḿa
 11	<p>	<p>	PUNCT	_	_	10	punct	_	AlignBegin=72077.3856905|AlignEnd=72889.2542445|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
@@ -357,11 +357,11 @@
 5	ӈоди	ӈодя	NOUN	_	_	6	comp:obj	_	AlignBegin=74684.29245|AlignEnd=75024.6283411|Gloss=berry.pl.acc|LTranslit=ŋoďa|Translit=ŋoďi
 6	маˮламба	маˮламба	VERB	_	_	7	comp:aux	_	AlignBegin=75024.6283411|AlignEnd=75938.3960556|Gloss=pick|LTranslit=maʡlamba|Translit=maʡlamba
 7	-да	X	AUX	_	_	8	comp:obj	_	AlignBegin=75024.6283411|AlignEnd=75938.3960556|Gloss=-ptcp.cont|LTranslit=X|Translit=-da
-8	-нд	X	ADP	_	_	10	mod	_	AlignBegin=75024.6283411|AlignEnd=75938.3960556|Gloss=-poss.gen.2sg|LTranslit=X|Translit=-nd
+8	-нд	X	DET	_	_	10	det	_	AlignBegin=75024.6283411|AlignEnd=75938.3960556|Gloss=-poss.gen.2sg|LTranslit=X|Translit=-nd
 9	сидя	сидя	NUM	_	_	10	mod	_	AlignBegin=75938.3960556|AlignEnd=76519.3932063|Gloss=two|LTranslit=śiďa|Translit=śiďa
 10	хыдя	хыдя	NOUN	_	_	12	subj	_	AlignBegin=76519.3932063|AlignEnd=77038.3588787|Gloss=vessel|LTranslit=xiďa|Translit=xiďa
 11	-да	X	DET	_	_	10	det	_	AlignBegin=76519.3932063|AlignEnd=77038.3588787|Gloss=-poss.3sg|LTranslit=X|Translit=-da
-12	терсавэй	терсавэй	ADJ	_	_	0	root	_	AlignBegin=77038.3588787|AlignEnd=77531.7800192|Gloss=substantial|LTranslit=ťersawæj|Translit=ťersawæj
+12	терсавэй	терсавэй	ADJ	_	_	0	root	_	AlignBegin=77038.3588787|AlignEnd=77531.7800192|Gloss=full|LTranslit=ťersawæj|Translit=ťersawæj
 13	-хаʼ	X	PRON	_	_	12	subj	_	AlignBegin=77038.3588787|AlignEnd=77531.7800192|Gloss=-3du|LTranslit=X|Translit=-xaʔ
 14	ӈоб	ӈобʼ	NUM	_	_	15	mod	_	AlignBegin=77531.7800192|AlignEnd=77744.574738|Gloss=one|LTranslit=ŋobʔ|Translit=ŋob
 15	хыдя	хыдя	NOUN	_	_	17	subj	_	AlignBegin=77744.574738|AlignEnd=78248.746666|Gloss=vessel|LTranslit=xiďa|Translit=xiďa
@@ -389,11 +389,11 @@
 9	ӈа	ӈа	AUX	_	_	10	comp:aux	_	AlignBegin=81799.703014|AlignEnd=82125.2971452|Gloss=be|LTranslit=ŋa|Translit=ŋa
 10	-ˮ	X	AUX	_	_	7	comp:aux	_	AlignBegin=81799.703014|AlignEnd=82125.2971452|Gloss=-conneg|LTranslit=X|Translit=-ʡ
 11	<p>	<p>	PUNCT	_	_	8	punct	_	AlignBegin=82125.2971452|AlignEnd=82664.9123228|Gloss=SIL|LTranslit=<p>|Translit=<p>
-12	тика	тикы	PRON	_	PronType=Dem	16	subj	_	AlignBegin=82664.9123228|AlignEnd=83129.4415029|Gloss=that|LTranslit=ťiki|Translit=ťika
+12	тика	тикы	PRON	_	PronType=Dem	17	subj	_	AlignBegin=82664.9123228|AlignEnd=83129.4415029|Gloss=that|LTranslit=ťiki|Translit=ťika
 13	-р	X	DET	_	_	12	det:poss	_	AlignBegin=82664.9123228|AlignEnd=83129.4415029|Gloss=-poss.2sg|LTranslit=X|Translit=-r
 14	хуˮхобаˮяˮ	хуˮхобаˮяˮ	NOUN	_	_	15	comp:pred	_	AlignBegin=83129.4415029|AlignEnd=83771.6521401|Gloss=big.lamb|LTranslit=xuʡxobaʡjaʡ|Translit=xuʡxobaʡjaʡ
-15	ӈэ	ӈа	VERB	_	_	16	comp:aux	_	AlignBegin=83771.6521401|AlignEnd=84313.9300016|Gloss=be|LTranslit=ŋa|Translit=ŋæ
-16	-вы	X	AUX	_	_	8	parataxis	_	AlignBegin=83771.6521401|AlignEnd=84313.9300016|Gloss=-infr.3sg|LTranslit=X|Translit=-wi
+15	ӈэ	ӈа	AUX	_	_	16	comp:aux	_	AlignBegin=83771.6521401|AlignEnd=84313.9300016|Gloss=be|LTranslit=ŋa|Translit=ŋæ
+16	-вы	X	AUX	_	_	17	mod	_	AlignBegin=83771.6521401|AlignEnd=84313.9300016|Gloss=-ptcp.xxx|LTranslit=X|Translit=-wi
 17	коза	коза	NOUN	_	_	8	parataxis	_	AlignBegin=84313.9300016|AlignEnd=84854.5950922|Gloss=goat|LTranslit=koza|Translit=koza
 18	<p>	<p>	PUNCT	_	_	8	punct	_	AlignBegin=84854.5950922|AlignEnd=85583.2311957|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
@@ -611,10 +611,10 @@
 1	я	я	NOUN	_	_	2	comp:obj	_	AlignBegin=134652.342434|AlignEnd=135113.76382|Gloss=land|LTranslit=ja|Translit=ja
 2	-нʼ	X	ADP	_	_	3	mod	_	AlignBegin=134652.342434|AlignEnd=135113.76382|Gloss=-dat|LTranslit=X|Translit=-nʔ
 3	хавда	хавда	VERB	_	_	0	root	_	AlignBegin=135113.76382|AlignEnd=136231.679047|Gloss=knock.down|LTranslit=xawda|Translit=xawda
-4	-да	X	PRON	_	_	3	subj:obj	_	AlignBegin=135113.76382|AlignEnd=136231.679047|Gloss=-3sg.sg|LTranslit=X|Translit=-da
+4	-да	X	PRON	_	_	3	subj:obj	_	AlignBegin=135113.76382|AlignEnd=136231.679047|Gloss=-3sg.sg|ISMarker[Top]=Agr|LTranslit=X|Translit=-da
 5	<p>	<p>	PUNCT	_	_	3	punct	_	AlignBegin=136231.679047|AlignEnd=136402.367446|Gloss=SIL|LTranslit=<p>|Translit=<p>
 6	велосипедако	велосипедако	NOUN	_	_	7	comp:obj	_	AlignBegin=136402.367446|AlignEnd=137611.61299|Gloss=small.bicycle|LTranslit=welośiṕedako|Translit=welośiṕedako
-7	-м	X	ADP	_	_	3	comp:obj	_	AlignBegin=136402.367446|AlignEnd=137611.61299|Gloss=-acc|LTranslit=X|Translit=-m
+7	-м	X	ADP	_	_	3	comp:obj	_	AlignBegin=136402.367446|AlignEnd=137611.61299|Gloss=-acc|ISRole=Top|LTranslit=X|Translit=-m
 8	-да	X	DET	_	_	7	det	_	AlignBegin=136402.367446|AlignEnd=137611.61299|Gloss=-poss.3sg|LTranslit=X|Translit=-da
 9	<p>	<p>	PUNCT	_	_	3	punct	_	AlignBegin=137611.61299|AlignEnd=142068.314447|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
@@ -724,7 +724,7 @@
 6	-да	X	AUX	_	_	7	mod	_	AlignBegin=160398.794051|AlignEnd=160998.575316|Gloss=-ptcp.cont|LTranslit=X|Translit=-da
 7	еся	еся	NOUN	_	_	8	comp:obj	_	AlignBegin=160998.575316|AlignEnd=161295.208084|Gloss=iron|LTranslit=eśa|Translit=eśa
 8	-ʼ	X	ADP	_	_	12	mod	_	AlignBegin=160998.575316|AlignEnd=161295.208084|Gloss=-gen|LTranslit=X|Translit=-ʔ
-9	няби	няби	DET	_	_	10	mod	_	AlignBegin=161295.208084|AlignEnd=161578.129457|Gloss=other|LTranslit=ńab́i|Translit=ńab́i
+9	няби	няби	DET	_	_	10	comp:obj	_	AlignBegin=161295.208084|AlignEnd=161578.129457|Gloss=other|LTranslit=ńab́i|Translit=ńab́i
 10	-ʼ	X	ADP	_	_	11	comp:obj	_	AlignBegin=161295.208084|AlignEnd=161578.129457|Gloss=-gen|LTranslit=X|Translit=-ʔ
 11	няюʼ	няюʼ	ADP	_	_	12	mod	_	AlignBegin=161578.129457|AlignEnd=161902.744505|Gloss=towards.dat|LTranslit=ńajuʔ|Translit=ńajuʔ
 12	мо	мо	VERB	_	_	0	root	_	AlignBegin=161902.744505|AlignEnd=162413.032527|Gloss=throw|LTranslit=mo|Translit=mo
@@ -751,7 +751,7 @@
 9	<p>	<p>	INTJ	_	_	8	discourse	_	AlignBegin=167034.530985|AlignEnd=167515.778563|Gloss=X|LTranslit=<p>|Translit=<p>
 10	няˮморця	няˮморцʼ	NOUN	_	_	11	comp:obj	_	AlignBegin=167515.778563|AlignEnd=168046.663421|Gloss=handle|LTranslit=ńaʡmorcʔ|Translit=ńaʡmorća
 11	-нда	X	ADP	_	_	12	comp:obj	_	AlignBegin=167515.778563|AlignEnd=168046.663421|Gloss=-poss.gen.3sg|LTranslit=X|Translit=-nda
-12	неряна	нерняна	ADP	_	_	13	mod	_	AlignBegin=168046.663421|AlignEnd=168487.674463|Gloss=in.front.of.loc|LTranslit=ńerńana|Translit=ńeŕana
+12	неряна	нерняна	ADJ	_	_	13	mod	_	AlignBegin=168046.663421|AlignEnd=168487.674463|Gloss=in.front.of.loc|LTranslit=ńerńana|Translit=ńeŕana
 13	хэва	хэв	NOUN	_	_	14	comp:obj	_	AlignBegin=168487.674463|AlignEnd=168977.021207|Gloss=side|LTranslit=xæw|Translit=xæwa
 14	-нʼ	X	ADP	_	_	15	mod	_	AlignBegin=168487.674463|AlignEnd=168977.021207|Gloss=-dat|LTranslit=X|Translit=-nʔ
 15	ӈабта	ӈабта	VERB	_	_	0	root	_	AlignBegin=168977.021207|AlignEnd=170079.515658|Gloss=put|LTranslit=ŋabta|Translit=ŋabta
@@ -921,20 +921,20 @@
 9	-хаʼ	X	PRON	_	_	8	subj	_	AlignBegin=196656.504415|AlignEnd=197503.342133|Gloss=-3du|LTranslit=X|Translit=-xaʔ
 10	<p>	<p>	PUNCT	_	_	8	punct	_	AlignBegin=197503.342133|AlignEnd=198206.326009|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
-# doc_title = PearStory
 # sent_id = yrk_PearStory_44
 # text = хасава ӈацекэ -р?мэ? <p> мане пэˮя -нʼ табкая -ма -ха <p> велосипеда -м' <iw>хава <p>
+# doc_title = PearStory
 # translit = xasawa ŋaćekæ -r?mæ? <p> mańe pæʡja -nʔ tabkaja -ma -xa <p> welośiṕeda -m' <iw>xawa <p>
 # text_p = хасава ӈацекэр?мэ? <p> мане пэˮянʼ табкаямаха <p> велосипедам' <iw>хава <p>
 # media = spoken
 # language_variety = Tundra
 # text_ru = Велосипед мальчика упал, столкнувшись с камнем.
-# text_en = The boy’s bike hit a stone and fell over.
+# text_en = When the boy saw this, his bike hit a stone and fell over.
 1	хасава	хасава	NOUN	_	_	2	mod	_	AlignBegin=198206.326009|AlignEnd=198598.281545|Gloss=man|LTranslit=xasawa|Translit=xasawa
-2	ӈацекэ	ӈацекы	NOUN	_	_	5	mod	_	AlignBegin=198598.281545|AlignEnd=199383.124009|Gloss=child|LTranslit=ŋaćeki|Translit=ŋaćekæ
+2	ӈацекэ	ӈацекы	NOUN	_	_	5	subj	_	AlignBegin=198598.281545|AlignEnd=199383.124009|Gloss=child|LTranslit=ŋaćeki|Translit=ŋaćekæ
 3	-р?мэ?	X	DET	_	_	2	det:poss	_	AlignBegin=198598.281545|AlignEnd=199383.124009|Gloss=-poss.2sg|LTranslit=X|Translit=-r?mæ?
 4	<p>	<p>	INTJ	_	_	3	discourse	_	AlignBegin=199383.124009|AlignEnd=200514.119228|Gloss=X|LTranslit=<p>|Translit=<p>
-5	мане	манэˮ	ADV	_	_	14	mod	_	AlignBegin=200514.119228|AlignEnd=200847.116711|Gloss=see.cvb|LTranslit=manæʡ|Translit=mańe
+5	мане	манэˮ	VERB	_	_	14	mod	_	AlignBegin=200514.119228|AlignEnd=200847.116711|Gloss=see.cvb|LTranslit=manæʡ|Translit=mańe
 6	пэˮя	пэˮя	NOUN	_	_	7	comp:obj	_	AlignBegin=200847.116711|AlignEnd=201462.139141|Gloss=stone|LTranslit=pæʡja|Translit=pæʡja
 7	-нʼ	X	ADP	_	_	8	mod	_	AlignBegin=200847.116711|AlignEnd=201462.139141|Gloss=-dat|LTranslit=X|Translit=-nʔ
 8	табкая	табˮлая	VERB	_	_	9	comp:aux	_	AlignBegin=201462.139141|AlignEnd=202615.90215|Gloss=get.caught.in|LTranslit=tabʡlaja|Translit=tabkaja
@@ -1075,8 +1075,8 @@
 2	-м	X	ADP	_	_	6	comp:obj	_	AlignBegin=229536.132321|AlignEnd=230190.213911|Gloss=-acc|LTranslit=X|Translit=-m
 3	-доʼ	X	DET	_	_	2	det	_	AlignBegin=229536.132321|AlignEnd=230190.213911|Gloss=-poss.3pl|LTranslit=X|Translit=-doʔ
 4	груша	груша	NOUN	_	_	5	comp:obj	_	AlignBegin=230190.213911|AlignEnd=230549.66154|Gloss=pear|LTranslit=gruša|Translit=gruša
-5	маˮламба	маˮламба	ADV	_	_	6	mod	_	AlignBegin=230549.66154|AlignEnd=231179.519311|Gloss=pick.cvb|LTranslit=maʡlamba|Translit=maʡlamba
-6	нядаба	нядаба	ADV	_	_	7	comp:obj	_	AlignBegin=231179.519311|AlignEnd=231710.446543|Gloss=help.cvb|LTranslit=ńadaba|Translit=ńadaba
+5	маˮламба	маˮламба	VERB	_	_	6	comp:obj	_	AlignBegin=230549.66154|AlignEnd=231179.519311|Gloss=pick.cvb|LTranslit=maʡlamba|Translit=maʡlamba
+6	нядаба	нядаба	VERB	_	_	7	comp:obj	_	AlignBegin=231179.519311|AlignEnd=231710.446543|Gloss=help.cvb|LTranslit=ńadaba|Translit=ńadaba
 7	пя	пя	VERB	_	_	0	root	_	AlignBegin=231710.446543|AlignEnd=232066.596487|Gloss=begin|LTranslit=ṕa|Translit=ṕa
 8	-доʼ	X	PRON	_	_	7	subj	_	AlignBegin=231710.446543|AlignEnd=232066.596487|Gloss=-3pl|LTranslit=X|Translit=-doʔ
 9	<p>	<p>	PUNCT	_	_	7	punct	_	AlignBegin=232066.596487|AlignEnd=232528.27234|Gloss=SIL|LTranslit=<p>|Translit=<p>
@@ -1141,7 +1141,7 @@
 # language_variety = Tundra
 # text_ru = Другие его товарищи, помогая товарищу, аккуратно поставили плетёную корзину с грушами на велосипед.
 # text_en = The other boys, helping their companion, carefully set a woven basket of pears on the bicycle.
-1	няби	няби	DET	_	_	3	mod	_	AlignBegin=240941.556773|AlignEnd=241326.089934|Gloss=other|LTranslit=ńab́i|Translit=ńab́i
+1	няби	няби	DET	_	_	3	det	_	AlignBegin=240941.556773|AlignEnd=241326.089934|Gloss=other|LTranslit=ńab́i|Translit=ńab́i
 2	-ˮ	X	DET	_	_	1	det	_	AlignBegin=240941.556773|AlignEnd=241326.089934|Gloss=-pl|LTranslit=X|Translit=-ʡ
 3	ни	ня	NOUN	_	_	23	subj	_	AlignBegin=241326.089934|AlignEnd=242057.989427|Gloss=friend.pl|LTranslit=ńa|Translit=ńi
 4	-да?мэ?	X	DET	_	_	3	det:poss	_	AlignBegin=241326.089934|AlignEnd=242057.989427|Gloss=-poss.3sg|LTranslit=X|Translit=-da?mæ?
@@ -1149,7 +1149,7 @@
 6	ня	ня	NOUN	_	_	7	comp:obj	_	AlignBegin=242423.939174|AlignEnd=242858.936043|Gloss=friend|LTranslit=ńa|Translit=ńa
 7	-м	X	ADP	_	_	9	comp:obj	_	AlignBegin=242423.939174|AlignEnd=242858.936043|Gloss=-acc|LTranslit=X|Translit=-m
 8	-доʼ	X	DET	_	_	7	det	_	AlignBegin=242423.939174|AlignEnd=242858.936043|Gloss=-poss.3sg|LTranslit=X|Translit=-doʔ
-9	нядаба	нядаба	ADV	_	_	23	mod	_	AlignBegin=242858.936043|AlignEnd=243445.83658|Gloss=help.cvb|LTranslit=ńadaba|Translit=ńadaba
+9	нядаба	нядаба	VERB	_	_	23	mod	_	AlignBegin=242858.936043|AlignEnd=243445.83658|Gloss=help.cvb|LTranslit=ńadaba|Translit=ńadaba
 10	<p>	<p>	INTJ	_	_	9	discourse	_	AlignBegin=243445.83658|AlignEnd=244905.637571|Gloss=X|LTranslit=<p>|Translit=<p>
 11	<d>	<d>	INTJ	_	_	9	discourse	_	AlignBegin=244905.637571|AlignEnd=245772.514946|Gloss=X|LTranslit=<d>|Translit=<d>
 12	паӈгалмы	паӈгалмы	ADJ	_	_	17	mod	_	AlignBegin=245772.514946|AlignEnd=246478.528478|Gloss=wicker|LTranslit=paŋgalmi|Translit=paŋgalmi
@@ -1193,7 +1193,7 @@
 # language_variety = Tundra
 # text_ru = Мальчики пошли дальше по своим делам, а их товарищ поехал в другом направлении.
 # text_en = The boys went on with their business, and their companion went in another direction.
-1	харто	харта	PRON	_	_	3	mod	_	AlignBegin=253057.880372|AlignEnd=253329.610226|Gloss=refl.3sg|LTranslit=xarta|Translit=xarto
+1	харто	харта	PRON	_	_	2	mod	_	AlignBegin=253057.880372|AlignEnd=253329.610226|Gloss=refl.3sg|LTranslit=xarta|Translit=xarto
 2	и	и	NOUN	_	_	3	comp:obj	_	AlignBegin=253329.610226|AlignEnd=253531.781022|Gloss=mind|LTranslit=i|Translit=i
 3	-ндоʼ	X	ADP	_	_	4	comp:obj	_	AlignBegin=253329.610226|AlignEnd=253531.781022|Gloss=-poss.gen.3pl|LTranslit=X|Translit=-ndoʔ
 4	серʼ	серʼ	ADP	_	_	9	mod	_	AlignBegin=253531.781022|AlignEnd=253715.803113|Gloss=when|LTranslit=śerʔ|Translit=śerʔ
@@ -1206,7 +1206,7 @@
 11	<p>	<p>	PUNCT	_	_	9	punct	_	AlignBegin=255165.647857|AlignEnd=255720.687659|Gloss=SIL|LTranslit=<p>|Translit=<p>
 12	ня	ня	NOUN	_	_	18	subj	_	AlignBegin=255720.687659|AlignEnd=256205.279585|Gloss=friend|LTranslit=ńa|Translit=ńa
 13	-доʼ	X	DET	_	_	12	det:poss	_	AlignBegin=255720.687659|AlignEnd=256205.279585|Gloss=-poss.3pl|LTranslit=X|Translit=-doʔ
-14	няби	няби	DET	_	_	15	comp:obj	_	AlignBegin=256205.279585|AlignEnd=256456.718518|Gloss=other|LTranslit=ńab́i|Translit=ńab́i
+14	няби	няби	PRON	_	_	15	comp:obj	_	AlignBegin=256205.279585|AlignEnd=256456.718518|Gloss=other|LTranslit=ńab́i|Translit=ńab́i
 15	-ʼ	X	ADP	_	_	16	comp:obj	_	AlignBegin=256205.279585|AlignEnd=256456.718518|Gloss=-gen|LTranslit=X|Translit=-ʔ
 16	няюʼ	няюʼ	ADP	_	_	18	mod	_	AlignBegin=256456.718518|AlignEnd=256744.077298|Gloss=towards.dat|LTranslit=ńajuʔ|Translit=ńajuʔ
 17	ӈэдалэ	ӈэдалё	VERB	_	_	18	comp:aux	_	AlignBegin=256744.077298|AlignEnd=257467.430564|Gloss=move|LTranslit=ŋædaľo|Translit=ŋædalæ
@@ -1263,9 +1263,9 @@
 6	ня	ня	NOUN	_	_	7	comp:obj	_	AlignBegin=267080.084134|AlignEnd=267595.427369|Gloss=friend|LTranslit=ńa|Translit=ńa
 7	-нда	X	ADP	_	_	8	mod:poss	_	AlignBegin=267080.084134|AlignEnd=267595.427369|Gloss=-poss.gen.3sg|LTranslit=X|Translit=-nda
 8	сава	сава	NOUN	_	_	9	comp:obj	_	AlignBegin=267595.427369|AlignEnd=267904.373368|Gloss=hat|LTranslit=sawa|Translit=sawa
-9	-мʼ	X	ADP	_	_	10	comp:obj	_	AlignBegin=267595.427369|AlignEnd=267904.373368|Gloss=-acc|LTranslit=X|Translit=-mʔ
+9	-мʼ	X	ADP	_	_	10	comp:obj	_	AlignBegin=267595.427369|AlignEnd=267904.373368|Gloss=-acc|ISRole=Top|LTranslit=X|Translit=-mʔ
 10	няˮма	няˮма	VERB	_	_	0	root	_	AlignBegin=267904.373368|AlignEnd=268266.732852|Gloss=grab|LTranslit=ńaʡma|Translit=ńaʡma
-11	-да	X	PRON	_	_	10	subj:obj	_	AlignBegin=267904.373368|AlignEnd=268266.732852|Gloss=-3sg.sg|LTranslit=X|Translit=-da
+11	-да	X	PRON	_	_	10	subj:obj	_	AlignBegin=267904.373368|AlignEnd=268266.732852|Gloss=-3sg.sg|ISMarker[Top]=Agr|LTranslit=X|Translit=-da
 12	ня	ня	NOUN	_	_	13	comp:obj	_	AlignBegin=268266.732852|AlignEnd=268582.611669|Gloss=friend|LTranslit=ńa|Translit=ńa
 13	-ха	X	ADP	_	_	16	mod	_	AlignBegin=268266.732852|AlignEnd=268582.611669|Gloss=-dat|LTranslit=X|Translit=-xa
 14	-нда	X	DET	_	_	13	det:poss	_	AlignBegin=268266.732852|AlignEnd=268582.611669|Gloss=-poss.3sg|LTranslit=X|Translit=-nda
@@ -1293,7 +1293,7 @@
 # language_variety = Tundra
 # text_ru = Другой: Действительно, я её забыл.
 # text_en = The other one: I really did forget it.
-1	няби	няби	DET	_	_	0	root	_	AlignBegin=273499.020669|AlignEnd=274039.649211|Gloss=other|LTranslit=ńab́i|Translit=ńab́i
+1	няби	няби	PRON	_	_	0	root	_	AlignBegin=273499.020669|AlignEnd=274039.649211|Gloss=other|LTranslit=ńab́i|Translit=ńab́i
 2	-р	X	DET	_	_	1	det:poss	_	AlignBegin=273499.020669|AlignEnd=274039.649211|Gloss=-poss.2sg|LTranslit=X|Translit=-r
 3	:	:	PUNCT	_	_	1	punct	_	AlignBegin=273499.020669|AlignEnd=274039.649211|Gloss=SIL|LTranslit=X|Translit=:
 4	пирхата	пирхата	ADV	_	_	5	mod	_	AlignBegin=274039.649211|AlignEnd=274417.847581|Gloss=possibly|LTranslit=ṕirxata|Translit=ṕirxata
@@ -1354,9 +1354,9 @@
 2	сава	сава	ADJ	_	_	3	comp:aux	_	AlignBegin=283885.342518|AlignEnd=284211.420271|Gloss=good|LTranslit=sawa|Translit=sawa
 3	-нёˮ	X	AUX	_	_	0	root	_	AlignBegin=283885.342518|AlignEnd=284211.420271|Gloss=Excl|LTranslit=X|Translit=-ńoʡ
 4	савакоця	сава	NOUN	_	_	5	comp:obj	_	AlignBegin=284211.420271|AlignEnd=284834.49878|Gloss=hat|LTranslit=sawa|Translit=sawakoća
-5	-ми	X	ADP	_	_	6	comp:obj	_	AlignBegin=284211.420271|AlignEnd=284834.49878|Gloss=-poss.acc.1sg|LTranslit=X|Translit=-ḿi
+5	-ми	X	ADP	_	_	6	comp:obj	_	AlignBegin=284211.420271|AlignEnd=284834.49878|Gloss=-poss.acc.1sg|ISRole=Top|LTranslit=X|Translit=-ḿi
 6	та	та	VERB	_	_	8	comp:aux	_	AlignBegin=284834.49878|AlignEnd=285534.423639|Gloss=give|LTranslit=ta|Translit=ta
-7	-ра	X	PRON	_	_	8	subj:obj	_	AlignBegin=284834.49878|AlignEnd=285534.423639|Gloss=-2pl.sg|LTranslit=X|Translit=-ra
+7	-ра	X	PRON	_	_	8	subj:obj	_	AlignBegin=284834.49878|AlignEnd=285534.423639|Gloss=-2pl.sg|ISMarker[Top]=Agr|LTranslit=X|Translit=-ra
 8	-нёˮ	X	AUX	_	_	3	parataxis	_	AlignBegin=284834.49878|AlignEnd=285534.423639|Gloss=Excl|LTranslit=X|Translit=-ńoʡ
 9	<p>	<p>	PUNCT	_	_	8	punct	_	AlignBegin=285534.423639|AlignEnd=285873.871699|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
@@ -1379,8 +1379,8 @@
 8	<p>	<p>	INTJ	_	_	7	discourse	_	AlignBegin=287948.775479|AlignEnd=288602.37764|Gloss=X|LTranslit=<p>|Translit=<p>
 9	еˮэйӈэ	еˮэйӈэ	ADP	_	_	16	mod	_	AlignBegin=288602.37764|AlignEnd=289330.483674|Gloss=instead|LTranslit=eʡæjŋæ|Translit=eʡæjŋæ
 10	<p>	<p>	PUNCT	_	_	16	punct	_	AlignBegin=289330.483674|AlignEnd=289780.893453|Gloss=SIL|LTranslit=<p>|Translit=<p>
-11	тюку	тюку	PRON	_	PronType=Dem	12	det	_	AlignBegin=289780.893453|AlignEnd=290250.360637|Gloss=this|LTranslit=ťuku|Translit=ťuku
-12	груша	груша	NOUN	_	_	16	comp:obj	_	AlignBegin=290250.360637|AlignEnd=290858.315139|Gloss=pear|LTranslit=gruša|Translit=gruša
+11	тюку	тюку	DET	_	PronType=Dem	12	det	_	AlignBegin=289780.893453|AlignEnd=290250.360637|Gloss=this|LTranslit=ťuku|Translit=ťuku
+12	груша	груша	NOUN	_	_	15	comp:obj	_	AlignBegin=290250.360637|AlignEnd=290858.315139|Gloss=pear|LTranslit=gruša|Translit=gruša
 13	-да	X	DET	_	_	12	det	_	AlignBegin=290250.360637|AlignEnd=290858.315139|Gloss=-predest|LTranslit=X|Translit=-da
 14	-р	X	DET	_	_	12	det:poss	_	AlignBegin=290250.360637|AlignEnd=290858.315139|Gloss=-poss.3sg|LTranslit=X|Translit=-r
 15	хана	хана	VERB	_	_	16	comp:aux	_	AlignBegin=290858.315139|AlignEnd=291473.118248|Gloss=take|LTranslit=xana|Translit=xana
@@ -1421,7 +1421,7 @@
 4	няʼ	няʼ	ADP	_	_	9	mod	_	AlignBegin=297146.917804|AlignEnd=297419.523885|Gloss=at.dat|LTranslit=ńaʔ|Translit=ńaʔ
 5	тодоʼ	тодоʼ	NOUN	_	_	9	mod	_	AlignBegin=297419.523885|AlignEnd=297677.314418|Gloss=all|LTranslit=todoʔ|Translit=todoʔ
 6	ӈопой?мэ?	ӈопой	NUM	_	_	7	mod	_	AlignBegin=297677.314418|AlignEnd=298206.229477|Gloss=one|LTranslit=ŋopoj|Translit=ŋopoj?mæ?
-7	груша	груша	NOUN	_	_	9	comp:obj	_	AlignBegin=298206.229477|AlignEnd=298610.693934|Gloss=pear|LTranslit=gruša|Translit=gruša
+7	груша	груша	NOUN	_	_	8	comp:obj	_	AlignBegin=298206.229477|AlignEnd=298610.693934|Gloss=pear|LTranslit=gruša|Translit=gruša
 8	миˮ	ми	VERB	_	_	9	comp:aux	_	AlignBegin=298610.693934|AlignEnd=299008.77498|Gloss=give|LTranslit=ḿi|Translit=ḿiʡ
 9	-ӈа	X	AUX	_	_	0	root	_	AlignBegin=298610.693934|AlignEnd=299008.77498|Gloss=-co|LTranslit=X|Translit=-ŋa
 10	-ˮ	X	PRON	_	_	9	subj	_	AlignBegin=298610.693934|AlignEnd=299008.77498|Gloss=-?3sg|LTranslit=X|Translit=-ʡ
@@ -1462,7 +1462,7 @@
 6	-р?мэ?	X	DET	_	_	5	det:poss	_	AlignBegin=304895.316975|AlignEnd=305635.50246|Gloss=-poss.2sg|LTranslit=X|Translit=-r?mæ?
 7	<p>	<p>	INTJ	_	_	6	discourse	_	AlignBegin=305635.50246|AlignEnd=306509.218649|Gloss=X|LTranslit=<p>|Translit=<p>
 8	груша	груша	NOUN	_	_	9	comp:obj	_	AlignBegin=306509.218649|AlignEnd=307503.850918|Gloss=pear|LTranslit=gruša|Translit=gruša
-9	-м	X	ADP	_	_	16	comp:obj	_	AlignBegin=306509.218649|AlignEnd=307503.850918|Gloss=-acc|LTranslit=X|Translit=-m
+9	-м	X	ADP	_	_	16	comp:obj	_	AlignBegin=306509.218649|AlignEnd=307503.850918|Gloss=-acc|ISRole=Top|LTranslit=X|Translit=-m
 10	-да?мэ?	X	DET	_	_	9	det:poss	_	AlignBegin=306509.218649|AlignEnd=307503.850918|Gloss=-poss.3sg|LTranslit=X|Translit=-da?mæ?
 11	<p>	<p>	INTJ	_	_	10	discourse	_	AlignBegin=307503.850918|AlignEnd=308116.232354|Gloss=X|LTranslit=<p>|Translit=<p>
 12	имбыта	имбытˮ	NOUN	_	_	13	comp:obj	_	AlignBegin=308116.232354|AlignEnd=308752.14918|Gloss=shirt|LTranslit=imbitʡ|Translit=imbita
@@ -1470,7 +1470,7 @@
 14	-нда	X	DET	_	_	13	det	_	AlignBegin=308116.232354|AlignEnd=308752.14918|Gloss=-poss.3g|LTranslit=X|Translit=-nda
 15	тэˮ	тэ	VERB	_	_	16	comp:aux	_	AlignBegin=308752.14918|AlignEnd=309105.919866|Gloss=wipe|LTranslit=tæ|Translit=tæʡ
 16	-ӈа	X	AUX	_	_	0	root	_	AlignBegin=308752.14918|AlignEnd=309105.919866|Gloss=-co|LTranslit=X|Translit=-ŋa
-17	-да	X	PRON	_	_	16	subj:obj	_	AlignBegin=308752.14918|AlignEnd=309105.919866|Gloss=-3sg.sg|LTranslit=X|Translit=-da
+17	-да	X	PRON	_	_	16	subj:obj	_	AlignBegin=308752.14918|AlignEnd=309105.919866|Gloss=-3sg.sg|ISMarker[Top]=Agr|LTranslit=X|Translit=-da
 18	тика	тикы	PRON	_	PronType=Dem	20	subj	_	AlignBegin=309105.919866|AlignEnd=309406.870624|Gloss=that|LTranslit=ťiki|Translit=ťika
 19	сякал	сякал	VERB	_	_	20	comp:aux	_	AlignBegin=309406.870624|AlignEnd=310147.198937|Gloss=bite|LTranslit=śakal|Translit=śakal
 20	-ӈа	X	AUX	_	_	16	parataxis	_	AlignBegin=309406.870624|AlignEnd=310147.198937|Gloss=-co|LTranslit=X|Translit=-ŋa
@@ -1505,11 +1505,11 @@
 # language_variety = Tundra
 # text_ru = Мужчина, собирающий плоды и срывающий груши, снова спустился по лестнице.
 # text_en = The man, gathering pears, went down the steps once more, breaking the fruit as he went.
-1	ӈоди	ӈодя	NOUN	_	_	3	comp:obj	_	AlignBegin=313893.963403|AlignEnd=314217.787896|Gloss=berry.pl.acc|LTranslit=ŋoďa|Translit=ŋoďi
+1	ӈоди	ӈодя	NOUN	_	_	2	comp:obj	_	AlignBegin=313893.963403|AlignEnd=314217.787896|Gloss=berry.pl.acc|LTranslit=ŋoďa|Translit=ŋoďi
 2	маˮламба	маˮламба	VERB	_	_	3	comp:aux	_	AlignBegin=314217.787896|AlignEnd=315089.889529|Gloss=pick|LTranslit=maʡlamba|Translit=maʡlamba
 3	-да?мэ?	X	AUX	_	_	9	mod	_	AlignBegin=314217.787896|AlignEnd=315089.889529|Gloss=-ptcp.cont|LTranslit=X|Translit=-da?mæ?
 4	<p>	<p>	INTJ	_	_	3	discourse	_	AlignBegin=315089.889529|AlignEnd=315830.95073|Gloss=X|LTranslit=<p>|Translit=<p>
-5	груши	груша	NOUN	_	_	7	comp:obj	_	AlignBegin=315830.95073|AlignEnd=316188.566284|Gloss=pear.pl.acc|LTranslit=gruša|Translit=gruši
+5	груши	груша	NOUN	_	_	6	comp:obj	_	AlignBegin=315830.95073|AlignEnd=316188.566284|Gloss=pear.pl.acc|LTranslit=gruša|Translit=gruši
 6	хаˮаврамба	хаˮаврамба	VERB	_	_	7	comp:aux	_	AlignBegin=316188.566284|AlignEnd=317050.851477|Gloss=take.off|LTranslit=xaʡawramba|Translit=xaʡawramba
 7	-да	X	AUX	_	_	9	mod	_	AlignBegin=316188.566284|AlignEnd=317050.851477|Gloss=-ptcp.cont|LTranslit=X|Translit=-da
 8	<p>	<p>	INTJ	_	_	7	discourse	_	AlignBegin=317050.851477|AlignEnd=317396.680038|Gloss=X|LTranslit=<p>|Translit=<p>
@@ -1586,7 +1586,7 @@
 16	-сиʼ	X	AUX	_	_	6	parataxis	_	AlignBegin=329338.838455|AlignEnd=330146.204224|Gloss=-pst|LTranslit=X|Translit=-śiʔ
 17	ӈопой	ӈопой	NUM	_	_	16	parataxis	_	AlignBegin=330146.204224|AlignEnd=330805.140159|Gloss=one|LTranslit=ŋopoj|Translit=ŋopoj
 18	сидя	сидя	NUM	_	_	16	parataxis	_	AlignBegin=330805.140159|AlignEnd=331373.819597|Gloss=two|LTranslit=śiďa|Translit=śiďa
-19	няхаромдэй	няхаромдэй	NUM	_	_	21	subj	_	AlignBegin=331373.819597|AlignEnd=332138.297526|Gloss=third|LTranslit=ńaxaromdæj|Translit=ńaxaromdæj
+19	няхаромдэй	няхаромдэй	ADJ	_	_	21	subj	_	AlignBegin=331373.819597|AlignEnd=332138.297526|Gloss=third|LTranslit=ńaxaromdæj|Translit=ńaxaromdæj
 20	-ми	X	DET	_	_	19	det:poss	_	AlignBegin=331373.819597|AlignEnd=332138.297526|Gloss=-poss.1sg|LTranslit=X|Translit=-ḿi
 21	яӈгу	яӈгу	VERB	_	_	16	parataxis	_	AlignBegin=332138.297526|AlignEnd=332526.570842|Gloss=not.exist|LTranslit=jaŋgu|Translit=jaŋgu
 22	<p>	<p>	PUNCT	_	_	4	punct	_	AlignBegin=332526.570842|AlignEnd=332999.720952|Gloss=SIL|LTranslit=<p>|Translit=<p>
